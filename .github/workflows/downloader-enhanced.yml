@@ -1,4 +1,4 @@
-name: enhanced-downloader
+name: youtube-downloader
 
 on:
   workflow_dispatch:
@@ -228,10 +228,10 @@ jobs:
           cd temp_download
           FILE=$(ls -1)
           cd ..
-          mkdir -p downloads
-          zip -s 99m -r "downloads/${FILE}.zip" "temp_download/${FILE}"
+          mkdir -p youtube
+          zip -s 99m -r "youtube/${FILE}.zip" "temp_download/${FILE}"
 
-      - name: Upload to downloads folder
+      - name: Upload to youtube folder
         env:
           BRANCH: ${{ github.ref_name }}
         run: |
@@ -239,14 +239,14 @@ jobs:
           git config user.email "actions@github.com"
           git config http.postBuffer 524288000
 
-          FILES=(downloads/*)
+          FILES=(youtube/*)
           if [ ${#FILES[@]} -eq 0 ]; then
             echo "No files to upload."
             exit 0
           fi
 
           # Add and commit all new files locally
-          git add downloads/
+          git add youtube/
           git commit -m "Add download parts [skip ci]" || echo "Nothing to commit"
 
           RETRIES=5
@@ -267,4 +267,4 @@ jobs:
               fi
             fi
           done
-          echo "All files uploaded to the 'downloads' folder."
+          echo "All files uploaded to the 'youtube' folder."
