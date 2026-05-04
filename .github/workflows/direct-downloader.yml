@@ -15,43 +15,33 @@ jobs:
         with:
           persist-credentials: true
 
-      - name: Install aria2 and 7-Zip
+      - name: Install aria2
         run: |
           sudo apt-get update -qq
-          sudo apt-get install -y -qq aria2 p7zip-full
+          sudo apt-get install -y -qq aria2
 
-      - name: Download File
-        id: download
+      - name: Download File (aria2)
+        id: dl
         run: |
           URL="${{ github.event.inputs.url }}"
           mkdir -p files-downloaded
+          # aria2c is faster and handles redirects better than wget
+          aria2c -x 16 -s 16 -d files-downloaded --console-log-level=warn --summary-interval=10 "$URL"
           
-          # aria2c: -x16 (16 connections), -s16 (16 splits) for max speed
-          # --console-log-level=warn reduces log clutter
-          aria2c -x 16 -s 16 -d files-downloaded --summary-interval=5 --console-log-level=warn "$URL"
-          
-          # Identify the downloaded file
+          # Get the filename and save it for the next steps
           FILENAME=$(ls -1 files-downloaded | head -n1)
           echo "FILENAME=$FILENAME" >> $GITHUB_OUTPUT
-          echo "Downloaded: $FILENAME"
 
-      - name: Split and Archive (7-Zip)
+      - name: Split and Zip (Fixed Headers)
         run: |
-          FILENAME="${{ steps.download.outputs.FILENAME }}"
+          FILENAME="${{ steps.dl.outputs.FILENAME }}"
           mkdir -p downloads
           
-          # We 'cd' into the folder to avoid including 'files-downloaded/' in the zip structure
+          # IMPORTANT: We CD into the folder so the zip header DOES NOT 
+          # include the "files-downloaded/" prefix. This fixes the Header Error.
           cd files-downloaded
-          
-          # 7z options:
-          # a: add to archive
-          # -v99m: split into 99MB parts
-          # -tzip: use standard zip format
-          # -mx0: "Store" mode (no compression, much faster since files like .exe or .zip are already compressed)
-          7z a -v99m -tzip -mx0 "../downloads/${FILENAME}.zip" "$FILENAME"
-          
+          zip -s 99m "../downloads/${FILENAME}.zip" "$FILENAME"
           cd ..
-          echo "Created split volumes in /downloads"
 
       - name: Upload to downloads folder
         env:
@@ -61,14 +51,13 @@ jobs:
           git config user.email "actions@github.com"
           git config http.postBuffer 524288000
 
-          FILES=(downloads/*)
-          if [ ${#FILES[@]} -eq 0 ]; then
+          if [ -z "$(ls -A downloads/)" ]; then
             echo "No files to upload."
             exit 0
           fi
 
           git add downloads/
-          git commit -m "Add download: ${{ steps.download.outputs.FILENAME }} [skip ci]" || echo "Nothing to commit"
+          git commit -m "Add: ${{ steps.dl.outputs.FILENAME }} [skip ci]" || echo "Nothing to commit"
 
           RETRIES=5
           for i in $(seq 1 $RETRIES); do
@@ -79,10 +68,8 @@ jobs:
               break
             else
               if [ $i -lt $RETRIES ]; then
-                echo "Push rejected, retrying in 3 seconds..."
                 sleep 3
               else
-                echo "Push failed after $RETRIES attempts."
                 exit 1
               fi
             fi
