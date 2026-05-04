@@ -8,37 +8,50 @@ on:
         required: true
 
 jobs:
-  download:
+  actions:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           persist-credentials: true
 
+      - name: Install aria2 and 7-Zip
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq aria2 p7zip-full
+
       - name: Download File
+        id: download
         run: |
           URL="${{ github.event.inputs.url }}"
           mkdir -p files-downloaded
-          cd files-downloaded
-          # --content-disposition ensures we get the filename from the server if possible
-          # --trust-server-names uses the filename from the URL/Redirect
-          wget --trust-server-names --content-disposition "$URL"
-          echo "DOWNLOADED_FILE=$(ls -1 | head -n1)" >> $GITHUB_ENV
+          
+          # aria2c: -x16 (16 connections), -s16 (16 splits) for max speed
+          # --console-log-level=warn reduces log clutter
+          aria2c -x 16 -s 16 -d files-downloaded --summary-interval=5 --console-log-level=warn "$URL"
+          
+          # Identify the downloaded file
+          FILENAME=$(ls -1 files-downloaded | head -n1)
+          echo "FILENAME=$FILENAME" >> $GITHUB_OUTPUT
+          echo "Downloaded: $FILENAME"
 
-      - name: Split file & Create ZIP
+      - name: Split and Archive (7-Zip)
         run: |
-          FILE_NAME="${{ env.DOWNLOADED_FILE }}"
+          FILENAME="${{ steps.download.outputs.FILENAME }}"
           mkdir -p downloads
           
-          if [ -z "$FILE_NAME" ]; then
-            echo "No file found to zip."
-            exit 1
-          fi
+          # We 'cd' into the folder to avoid including 'files-downloaded/' in the zip structure
+          cd files-downloaded
           
-          echo "Zipping and splitting: $FILE_NAME"
-          # -s 99m splits the zip into 99MB chunks to stay under GitHub's 100MB limit
-          zip -s 99m -r "downloads/${FILE_NAME}.zip" "files-downloaded/${FILE_NAME}"
+          # 7z options:
+          # a: add to archive
+          # -v99m: split into 99MB parts
+          # -tzip: use standard zip format
+          # -mx0: "Store" mode (no compression, much faster since files like .exe or .zip are already compressed)
+          7z a -v99m -tzip -mx0 "../downloads/${FILENAME}.zip" "$FILENAME"
+          
+          cd ..
+          echo "Created split volumes in /downloads"
 
       - name: Upload to downloads folder
         env:
@@ -48,14 +61,14 @@ jobs:
           git config user.email "actions@github.com"
           git config http.postBuffer 524288000
 
-          # Check if there are files to upload
-          if [ -z "$(ls -A downloads/)" ]; then
+          FILES=(downloads/*)
+          if [ ${#FILES[@]} -eq 0 ]; then
             echo "No files to upload."
             exit 0
           fi
 
           git add downloads/
-          git commit -m "Add downloaded file parts: ${{ env.DOWNLOADED_FILE }} [skip ci]" || echo "Nothing to commit"
+          git commit -m "Add download: ${{ steps.download.outputs.FILENAME }} [skip ci]" || echo "Nothing to commit"
 
           RETRIES=5
           for i in $(seq 1 $RETRIES); do
