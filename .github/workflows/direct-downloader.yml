@@ -19,8 +19,8 @@ jobs:
       - name: Download File
         run: |
           URL="${{ github.event.inputs.url }}"
-          mkdir -p temp_download
-          cd temp_download
+          mkdir -p files-downloaded
+          cd files-downloaded
           # --content-disposition ensures we get the filename from the server if possible
           # --trust-server-names uses the filename from the URL/Redirect
           wget --trust-server-names --content-disposition "$URL"
@@ -38,7 +38,7 @@ jobs:
           
           echo "Zipping and splitting: $FILE_NAME"
           # -s 99m splits the zip into 99MB chunks to stay under GitHub's 100MB limit
-          zip -s 99m -r "downloads/${FILE_NAME}.zip" "temp_download/${FILE_NAME}"
+          zip -s 99m -r "downloads/${FILE_NAME}.zip" "files-downloaded/${FILE_NAME}"
 
       - name: Upload to downloads folder
         env:
