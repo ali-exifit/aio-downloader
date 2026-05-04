@@ -1,0 +1,76 @@
+name: direct-downloader
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: 'Enter the Direct Download URL'
+        required: true
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Download File
+        run: |
+          URL="${{ github.event.inputs.url }}"
+          mkdir -p temp_download
+          cd temp_download
+          # --content-disposition ensures we get the filename from the server if possible
+          # --trust-server-names uses the filename from the URL/Redirect
+          wget --trust-server-names --content-disposition "$URL"
+          echo "DOWNLOADED_FILE=$(ls -1 | head -n1)" >> $GITHUB_ENV
+
+      - name: Split file & Create ZIP
+        run: |
+          FILE_NAME="${{ env.DOWNLOADED_FILE }}"
+          mkdir -p downloads
+          
+          if [ -z "$FILE_NAME" ]; then
+            echo "No file found to zip."
+            exit 1
+          fi
+          
+          echo "Zipping and splitting: $FILE_NAME"
+          # -s 99m splits the zip into 99MB chunks to stay under GitHub's 100MB limit
+          zip -s 99m -r "downloads/${FILE_NAME}.zip" "temp_download/${FILE_NAME}"
+
+      - name: Upload to downloads folder
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git config http.postBuffer 524288000
+
+          # Check if there are files to upload
+          if [ -z "$(ls -A downloads/)" ]; then
+            echo "No files to upload."
+            exit 0
+          fi
+
+          git add downloads/
+          git commit -m "Add downloaded file parts: ${{ env.DOWNLOADED_FILE }} [skip ci]" || echo "Nothing to commit"
+
+          RETRIES=5
+          for i in $(seq 1 $RETRIES); do
+            echo "Push attempt $i..."
+            git pull --rebase --autostash origin "$BRANCH"
+            if git push origin "$BRANCH"; then
+              echo "Push succeeded."
+              break
+            else
+              if [ $i -lt $RETRIES ]; then
+                echo "Push rejected, retrying in 3 seconds..."
+                sleep 3
+              else
+                echo "Push failed after $RETRIES attempts."
+                exit 1
+              fi
+            fi
+          done
