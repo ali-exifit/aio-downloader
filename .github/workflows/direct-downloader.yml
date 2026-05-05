@@ -1,3 +1,4 @@
+---
 name: direct-downloader
 
 on:
@@ -25,25 +26,30 @@ jobs:
         run: |
           URL="${{ github.event.inputs.url }}"
           mkdir -p files-downloaded
-          # aria2c is faster and handles redirects better than wget
           aria2c -x 16 -s 16 -d files-downloaded --console-log-level=warn --summary-interval=10 "$URL"
           
-          # Get the filename and save it for the next steps
+          # Get the filename
           FILENAME=$(ls -1 files-downloaded | head -n1)
           echo "FILENAME=$FILENAME" >> $GITHUB_OUTPUT
 
-      - name: Split and Zip (Fixed Headers)
+      - name: Split and Zip (with direct-content folder inside)
         run: |
           FILENAME="${{ steps.dl.outputs.FILENAME }}"
-          mkdir -p downloads
-          
-          # IMPORTANT: We CD into the folder so the zip header DOES NOT 
-          # include the "files-downloaded/" prefix. This fixes the Header Error.
-          cd files-downloaded
-          zip -s 99m "../downloads/${FILENAME}.zip" "$FILENAME"
+          mkdir -p direct
+
+          # Create the structure: direct-content/FILENAME
+          mkdir -p tmpzip/direct-content
+          cp "files-downloaded/${FILENAME}" "tmpzip/direct-content/"
+
+          # Zip from inside tmpzip so the archive contains the direct-content folder
+          cd tmpzip
+          zip -s 99m "../direct/${FILENAME}.zip" -r "direct-content"
           cd ..
 
-      - name: Upload to downloads folder
+          # Clean up temporary folder
+          rm -rf tmpzip
+
+      - name: Upload to direct folder
         env:
           BRANCH: ${{ github.ref_name }}
         run: |
@@ -51,12 +57,12 @@ jobs:
           git config user.email "actions@github.com"
           git config http.postBuffer 524288000
 
-          if [ -z "$(ls -A downloads/)" ]; then
+          if [ -z "$(ls -A direct/)" ]; then
             echo "No files to upload."
             exit 0
           fi
 
-          git add downloads/
+          git add direct/
           git commit -m "Add: ${{ steps.dl.outputs.FILENAME }} [skip ci]" || echo "Nothing to commit"
 
           RETRIES=5
