@@ -332,11 +332,6 @@ instagram-content/
 - فایل‌های بزرگتر از **۹۹ مگابایت** به‌طور خودکار به آرشیوهای ZIP چندبخشی (`.z01`, `.z02`, ...) تقسیم می‌شوند. برای استخراج به نرم‌افزاری مانند **7-Zip** یا **WinRAR** نیاز دارید.
 - برای دسته‌های بسیار بزرگ اینستاگرام، آن‌ها را به گروه‌های کوچک‌تر تقسیم کنید تا از محدودیت‌های ذخیره‌سازی GitHub فراتر نروید.
 
----
-
-## 📄 License
-
-This project is provided "as is", without express or implied warranty. You are responsible for complying with all applicable laws and platform terms of service when using this tool.
 
 ---
 
