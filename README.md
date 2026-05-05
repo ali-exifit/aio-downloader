@@ -1,4 +1,3 @@
----
 # aio-downloader — All-in-One GitHub Actions Downloader
 **[راهنمای فارسی (Persian)](#راهنمای-فارسی)**
 
