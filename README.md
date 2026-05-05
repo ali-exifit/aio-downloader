@@ -1,3 +1,4 @@
+---
 # aio-downloader — All-in-One GitHub Actions Downloader
 
 **[راهنمای فارسی (Persian)](#راهنمای-فارسی)**
@@ -21,6 +22,8 @@
 ✅ **Cookies are stored securely** as GitHub Secrets – never exposed in logs or code.
 
 ✅ **Batch downloading** – paste up to 10+ Instagram links at once, separated by commas, spaces, or newlines.
+
+✅ **Concurrent runs** – You can trigger multiple workflow runs at the same time (e.g., download a YouTube video, an Instagram batch, and a direct file – all in parallel). Each run is independent and won't interfere with the others.
 
 ---
 
@@ -87,12 +90,14 @@ Click the **"Fork"** button at the top-right of this page.
 3. In the input box, type: `URL` `v/a` `resolution/bitrate` `FPS (optional)`
 
 **Examples:**
-https://www.youtube.com/watch?v=VIDEO_ID v max
-https://www.youtube.com/watch?v=VIDEO_ID v 1080 60
-https://www.youtube.com/watch?v=VIDEO_ID v 4k
-https://www.youtube.com/watch?v=VIDEO_ID a max
-
-text
+1. **Best quality video:**  
+   `https://www.youtube.com/watch?v=VIDEO_ID v max`
+2. **1080p 60fps video:**  
+   `https://www.youtube.com/watch?v=VIDEO_ID v 1080 60`
+3. **4K video:**  
+   `https://www.youtube.com/watch?v=VIDEO_ID v 4k`
+4. **Best quality audio only:**  
+   `https://www.youtube.com/watch?v=VIDEO_ID a max`
 
 - `v` = video, `a` = audio
 - Resolution: `max`, `min`, `1080`, `2k`, `4k`, etc.
@@ -113,7 +118,6 @@ text
 **Example:**
 https://www.instagram.com/p/DX2y7oLDFOb/, https://www.instagram.com/reel/DVRXhn0gjL3/, https://www.instagram.com/p/DX6US4uCNGb/
 
-text
 
 4. Click **"Run workflow"**
 5. When finished, the output ZIP will appear in the **`instagram/`** folder of your repository.
@@ -131,7 +135,6 @@ text
 **Example:**
 https://example.com/path/to/large-file.zip
 
-text
 
 4. Click **"Run workflow"**
 5. The file will be downloaded with 16 parallel connections and uploaded to the **`direct/`** folder of your repository, split into 99 MB parts if needed.
@@ -147,7 +150,6 @@ your-repository/
 ├── direct/
 │ └── filename.zip ← Direct downloads (split into parts if > 99 MB)
 
-text
 
 ### Inside the Instagram ZIP
 
@@ -159,7 +161,6 @@ instagram-content/
 ├── instagram_meme.azaad_...mp4
 └── ...
 
-text
 
 All files are flattened into a single folder for easy browsing. Filenames are prefixed with the uploader's username to avoid collisions.
 
@@ -170,6 +171,32 @@ All files are flattened into a single folder for easy browsing. Filenames are pr
 - **GitHub Free Tier** allows up to **6 hours per job** (public repos get **unlimited minutes**).
 - Files larger than **99 MB** are automatically split into multi-part ZIP archives (`.z01`, `.z02`, ...). You need a tool like **7-Zip** or **WinRAR** to extract them.
 - For very large Instagram batches, consider splitting them into smaller groups to avoid hitting GitHub's storage limits.
+
+---
+
+## 💾 Managing Repository Storage (5 GB Limit)
+
+GitHub repositories have a **5 GB soft limit** (and a hard limit of 100 GB, but it's best to stay under 5 GB for performance). If you download frequently, your `youtube/`, `instagram/`, and `direct/` folders can fill up quickly. To avoid issues, clean out old files regularly.
+
+### How to Delete Files or Folders via GitHub Web Interface
+
+#### Delete a Single File
+1. Navigate to the file inside your repository (e.g., `youtube/some-video.zip`).
+2. Click the **three dots (`...`)** in the top-right corner of the file view.
+3. Select **"Delete file"**.
+4. At the bottom of the page, click **"Commit changes"** (add a commit message if you like) and confirm.
+
+#### Delete an Entire Folder
+1. Go to the folder you want to remove (e.g., `instagram/`).
+2. **Important:** You must delete all files inside the folder first, or use the following trick to delete the whole folder at once:
+   - Open the folder, then click the **three dots (`...`)** next to the folder name (or in the top-right area, depending on GitHub's UI). Wait for the option **"Delete directory"** – this appears when the folder is empty. If you want a faster method:
+3. **Fastest way to delete a whole folder and all its contents:**
+   - Navigate to the root of your repository.
+   - Open the folder you want to delete.
+   - Manually delete each file by following the single file steps above, OR use the **"Go to file"** button and the web editor to remove multiple files at once (but it's still manual).
+   - *Alternative (recommended):* Go to your repository's main page, press the **`.`** (period) key on your keyboard to open GitHub's web-based VS Code editor. In the file explorer on the left, right-click the folder (e.g., `youtube/`) and select **"Delete"**. Then commit the changes via the Source Control panel. This is the quickest method for bulk deletion.
+
+> 💡 **Tip:** Check your repository size regularly in **Settings** → **Repository** → **Repository size**. If it approaches 5 GB, delete older ZIP files or clear out entire folders to stay within limits.
 
 ---
 
@@ -197,8 +224,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
----
-
 <hr style="border-top: 3px solid #333;">
 
 # راهنمای فارسی
@@ -224,6 +249,8 @@ SOFTWARE.
 ✅ **کوکی‌ها به‌صورت امن در GitHub Secrets ذخیره می‌شوند** — هرگز در لاگ‌ها یا کد نمایش داده نمی‌شوند.
 
 ✅ **دانلود دسته‌جمعی** — تا ۱۰+ لینک اینستاگرام را همزمان (با کاما، فاصله یا خط جدید جدا کنید) بچسبانید.
+
+✅ **اجرای هم‌زمان** — می‌توانید چندین گردش‌کار را هم‌زمان اجرا کنید (مثلاً یک ویدیو از یوتیوب، یک دسته از اینستاگرام و یک فایل مستقیم، همه موازی). هر اجرا مستقل است و تداخلی با بقیه ندارد.
 
 ---
 
@@ -290,12 +317,14 @@ SOFTWARE.
 3. در کادر ورودی، تایپ کنید: `لینک` `v/a` `رزولوشن/بیت‌ریت` `FPS (اختیاری)`
 
 **مثال‌ها:**
-https://www.youtube.com/watch?v=VIDEO_ID v max
-https://www.youtube.com/watch?v=VIDEO_ID v 1080 60
-https://www.youtube.com/watch?v=VIDEO_ID v 4k
-https://www.youtube.com/watch?v=VIDEO_ID a max
-
-text
+1. **بهترین کیفیت ویدیو:**  
+   `https://www.youtube.com/watch?v=VIDEO_ID v max`
+2. **ویدیو 1080p با ۶۰ فریم:**  
+   `https://www.youtube.com/watch?v=VIDEO_ID v 1080 60`
+3. **ویدیو 4K:**  
+   `https://www.youtube.com/watch?v=VIDEO_ID v 4k`
+4. **بهترین کیفیت صدا (فقط صدا):**  
+   `https://www.youtube.com/watch?v=VIDEO_ID a max`
 
 - `v` = ویدیو، `a` = صدا
 - رزولوشن: `max`، `min`، `1080`، `2k`، `4k` و غیره.
@@ -316,7 +345,6 @@ text
 **مثال:**
 https://www.instagram.com/p/DX2y7oLDFOb/, https://www.instagram.com/reel/DVRXhn0gjL3/, https://www.instagram.com/p/DX6US4uCNGb/
 
-text
 
 4. روی **"Run workflow"** کلیک کنید.
 5. پس از اتمام، فایل ZIP خروجی در پوشه **`instagram/`** مخزن شما ظاهر می‌شود.
@@ -334,7 +362,6 @@ text
 **مثال:**
 https://example.com/path/to/large-file.zip
 
-text
 
 4. روی **"Run workflow"** کلیک کنید.
 5. فایل با ۱۶ اتصال موازی دانلود و در پوشه **`direct/`** مخزن شما آپلود می‌شود (در صورت نیاز به قطعات ۹۹ مگابایتی تقسیم می‌شود).
@@ -350,7 +377,6 @@ your-repository/
 ├── direct/
 │ └── filename.zip ← دانلودهای مستقیم (در صورت > 99MB به قطعات تقسیم می‌شوند)
 
-text
 
 ### داخل ZIP اینستاگرام
 
@@ -362,7 +388,6 @@ instagram-content/
 ├── instagram_meme.azaad_...mp4
 └── ...
 
-text
 
 تمام فایل‌ها برای مرور آسان در یک پوشه واحد قرار می‌گیرند. نام فایل‌ها با نام کاربری آپلودکننده پیشوندگذاری شده تا از تداخل جلوگیری شود.
 
@@ -373,6 +398,29 @@ text
 - **طرح رایگان GitHub** تا **۶ ساعت برای هر کار (job)** اجازه می‌دهد (مخازن عمومی **دقیقه نامحدود** دارند).
 - فایل‌های بزرگتر از **۹۹ مگابایت** به‌طور خودکار به آرشیوهای ZIP چندبخشی (`.z01`, `.z02`, ...) تقسیم می‌شوند. برای استخراج به نرم‌افزاری مانند **7-Zip** یا **WinRAR** نیاز دارید.
 - برای دسته‌های بسیار بزرگ اینستاگرام، آن‌ها را به گروه‌های کوچک‌تر تقسیم کنید تا از محدودیت‌های ذخیره‌سازی GitHub فراتر نروید.
+
+---
+
+## 💾 مدیریت فضای ذخیره‌سازی مخزن (محدودیت ۵ گیگابایت)
+
+مخازن GitHub دارای **محدودیت نرم ۵ گیگابایت** هستند (حد سخت ۱۰۰ گیگابایت، اما بهتر است زیر ۵ گیگابایت بمانید). اگر زیاد دانلود کنید، پوشه‌های `youtube/`، `instagram/` و `direct/` به سرعت پر می‌شوند. برای جلوگیری از مشکل، فایل‌های قدیمی را به طور منظم پاک کنید.
+
+### نحوه حذف فایل‌ها یا پوشه‌ها از طریق رابط وب GitHub
+
+#### حذف یک فایل
+1. به فایل مورد نظر در مخزن خود بروید (مثلاً `youtube/some-video.zip`).
+2. روی **سه نقطه (`...`)** در بالای صفحه کلیک کنید.
+3. گزینه **"Delete file"** را انتخاب کنید.
+4. در پایین صفحه، روی **"Commit changes"** کلیک کنید (در صورت تمایل یک پیام commit بنویسید) و تأیید کنید.
+
+#### حذف یک پوشه کامل
+1. به پوشه‌ای که می‌خواهید پاک کنید بروید (مثلاً `instagram/`).
+2. **توجه:** باید ابتدا همه فایل‌های داخل پوشه را پاک کنید، یا از روش سریع زیر استفاده کنید:
+   - به ریشه مخزن بروید و کلید **`.`** (نقطه) را روی کیبورد فشار دهید تا ویرایشگر VS Code تحت وب گیت‌هاب باز شود.
+   - در پنل سمت چپ، روی پوشه مورد نظر (مثلاً `youtube/`) راست‌کلیک کرده و **"Delete"** را انتخاب کنید.
+   - سپس تغییرات را از طریق پنل Source Control کامیت کنید. این سریع‌ترین روش برای حذف دسته‌جمعی است.
+
+> 💡 **نکته:** حجم مخزن خود را به طور مرتب در **Settings** → **Repository** → **Repository size** بررسی کنید. اگر به ۵ گیگابایت نزدیک شد، فایل‌های ZIP قدیمی را پاک کنید یا کل پوشه‌ها را خالی کنید.
 
 ---
 
