@@ -1,0 +1,117 @@
+name: instagram-batch-downloader
+
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: 'Enter one or more Instagram URLs (comma separated)'
+        required: true
+        default: 'https://www.instagram.com/reel/DVYzkSFEV_M/,https://www.instagram.com/p/DX6US4uCNGb/'
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Install yt-dlp and dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq python3-pip ffmpeg
+          pip3 install --quiet --upgrade yt-dlp
+
+      - name: Parse URLs and download media
+        id: download
+        run: |
+          # Create a timestamped working directory
+          TIMESTAMP=$(date +%Y%m%d_%H%M%S)
+          WORK_DIR="instagram_batch_${TIMESTAMP}"
+          mkdir -p "$WORK_DIR"
+
+          # Split input URLs by comma
+          IFS=',' read -ra URL_ARRAY <<< "${{ github.event.inputs.urls }}"
+          echo "Found ${#URL_ARRAY[@]} URL(s) to process."
+
+          # Download each URL with yt-dlp
+          for url in "${URL_ARRAY[@]}"; do
+            # Trim whitespace
+            url=$(echo "$url" | xargs)
+            echo "Downloading: $url"
+            # Download media into WORK_DIR
+            # -o template: keep original title + id, safe filename
+            # --no-playlist: only the single item (for posts/reels)
+            # --ignore-errors: skip problematic URLs
+            yt-dlp -o "$WORK_DIR/%(title)s_%(id)s.%(ext)s" \
+                   --no-playlist \
+                   --ignore-errors \
+                   --restrict-filenames \
+                   "$url" || echo "Warning: failed to download $url"
+            # Small delay to avoid rate limiting
+            sleep 2
+          done
+
+          # Count downloaded files
+          FILE_COUNT=$(find "$WORK_DIR" -type f | wc -l)
+          echo "Downloaded $FILE_COUNT file(s) to $WORK_DIR"
+
+          if [ $FILE_COUNT -eq 0 ]; then
+            echo "No files were downloaded. Exiting."
+            exit 1
+          fi
+
+          # Save variables for next step
+          echo "WORK_DIR=$WORK_DIR" >> $GITHUB_OUTPUT
+          echo "FILE_COUNT=$FILE_COUNT" >> $GITHUB_OUTPUT
+
+      - name: Create split zip archive
+        run: |
+          WORK_DIR="${{ steps.download.outputs.WORK_DIR }}"
+          # We will zip the whole WORK_DIR content into a split archive (99MB parts)
+          # The split parts will be placed directly in the "downloads/" folder
+          mkdir -p downloads
+          cd "$WORK_DIR"
+          # Create a split zip without the top-level folder in the archive
+          zip -s 99m "../downloads/instagram_media.zip" -r ./
+          cd ..
+          # Rename the split parts to have a consistent naming scheme (optional)
+          echo "Split zip parts created:"
+          ls -lh downloads/instagram_media.*
+
+      - name: Commit and push to repository
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git config http.postBuffer 524288000
+
+          if [ -z "$(ls -A downloads/)" ]; then
+            echo "No files to upload."
+            exit 0
+          fi
+
+          git add downloads/
+          git commit -m "Add Instagram batch download (${{ steps.download.outputs.FILE_COUNT }} files) [skip ci]" || echo "Nothing to commit"
+
+          RETRIES=5
+          for i in $(seq 1 $RETRIES); do
+            echo "Push attempt $i..."
+            git pull --rebase --autostash origin "$BRANCH"
+            if git push origin "$BRANCH"; then
+              echo "Push succeeded."
+              break
+            else
+              if [ $i -lt $RETRIES ]; then
+                sleep 3
+              else
+                exit 1
+              fi
+            fi
+          done
+
+      - name: Cleanup temporary directory
+        if: always()
+        run: |
+          rm -rf "${{ steps.download.outputs.WORK_DIR }}"
