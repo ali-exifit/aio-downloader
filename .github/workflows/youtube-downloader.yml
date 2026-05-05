@@ -93,7 +93,7 @@ jobs:
           echo "TYPE=$type" >> $GITHUB_OUTPUT
           echo "VAL1=$val1" >> $GITHUB_OUTPUT
           echo "VAL2=$val2" >> $GITHUB_OUTPUT
-          YT_DLP_ARGS="--cookies cookies.txt --js-runtimes deno --remote-components ejs:npm --no-progress"
+          YT_DLP_ARGS="--cookies youtube-cookies.txt --js-runtimes deno --remote-components ejs:npm --no-progress"
           VIDEO_JSON=$(yt-dlp $YT_DLP_ARGS -j "$LINK")
           if [[ "$type" == "v" ]]; then
             COMBINED=$(echo "$VIDEO_JSON" | jq '[.formats[] | select(.vcodec != "none" and .acodec != "none")]')
@@ -199,7 +199,7 @@ jobs:
           else
             DOWNLOAD_ARGS="${{ steps.select_format.outputs.DOWNLOAD_ARGS }}"
             TOTAL_SIZE="${{ steps.select_format.outputs.TOTAL_SIZE }}"
-            YT_DLP_ARGS="--cookies cookies.txt --js-runtimes deno --remote-components ejs:npm --no-progress"
+            YT_DLP_ARGS="--cookies youtube-cookies.txt --js-runtimes deno --remote-components ejs:npm --no-progress"
             mkdir -p videos-downloaded
             download_with_progress "$YT_DLP_ARGS $DOWNLOAD_ARGS" "videos-downloaded/%(title)s.%(ext)s" "$TOTAL_SIZE" "$LINK"
           fi
