@@ -110,25 +110,25 @@ jobs:
             ffmpeg -i "$f" -c copy "$FIXED" -y && mv "$FIXED" "$f" || echo "Remux failed for $f, keeping original."
           done
 
-      # ---------- create flat ZIP (instagram/ folder inside) ----------
+      # ---------- create flat ZIP (instagram-content/ folder inside) ----------
       - name: Create ZIP archive
         id: zip
         run: |
           rm -rf zipcontent
-          mkdir -p zipcontent/instagram
+          mkdir -p zipcontent/instagram-content
 
-          # Flatten: copy each file to instagram/ with a unique name
+          # Flatten: copy each file to instagram-content/ with a unique name
           find instagram_downloads -type f | while read -r f; do
             rel="${f#instagram_downloads/}"
             flat_name="${rel//\//_}"
-            cp "$f" "zipcontent/instagram/${flat_name}"
+            cp "$f" "zipcontent/instagram-content/${flat_name}"
           done
 
           TIMESTAMP=$(date +%Y%m%d_%H%M%S)
           ZIP_NAME="instagram-contents-${TIMESTAMP}.zip"
 
           cd zipcontent
-          zip -s 99m -r "../${ZIP_NAME}" "instagram"
+          zip -s 99m -r "../${ZIP_NAME}" "instagram-content"
           cd ..
 
           mkdir -p instagram
