@@ -28,7 +28,7 @@ jobs:
           fi
         env:
           INSTAGRAM_COOKIES: ${{ secrets.INSTAGRAM_COOKIES }}
-		  
+
       # ---------- extract URLs from input ----------
       - name: Parse input and extract URLs
         id: parse
