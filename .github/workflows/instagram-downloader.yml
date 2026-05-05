@@ -6,15 +6,24 @@ on:
       urls:
         description: 'Enter one or more Instagram URLs (comma separated)'
         required: true
-        default: 'https://www.instagram.com/reel/DVYzkSFEV_M/,https://www.instagram.com/p/DX6US4uCNGb/'
+        default: ''
 
 jobs:
-  actions:
+  download:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           persist-credentials: true
+
+      # Cache pip dependencies to speed up yt-dlp installation
+      - name: Cache pip packages
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
 
       - name: Install yt-dlp and dependencies
         run: |
@@ -25,58 +34,54 @@ jobs:
       - name: Parse URLs and download media
         id: download
         run: |
-          # Create a timestamped working directory
           TIMESTAMP=$(date +%Y%m%d_%H%M%S)
           WORK_DIR="instagram_batch_${TIMESTAMP}"
           mkdir -p "$WORK_DIR"
 
-          # Split input URLs by comma
+          # Create the inner folder that will appear inside the zip
+          INNER_FOLDER="content-downloaded-${TIMESTAMP}"
+          mkdir -p "$WORK_DIR/$INNER_FOLDER"
+
           IFS=',' read -ra URL_ARRAY <<< "${{ github.event.inputs.urls }}"
           echo "Found ${#URL_ARRAY[@]} URL(s) to process."
 
-          # Download each URL with yt-dlp
           for url in "${URL_ARRAY[@]}"; do
-            # Trim whitespace
             url=$(echo "$url" | xargs)
             echo "Downloading: $url"
-            # Download media into WORK_DIR
-            # -o template: keep original title + id, safe filename
-            # --no-playlist: only the single item (for posts/reels)
-            # --ignore-errors: skip problematic URLs
-            yt-dlp -o "$WORK_DIR/%(title)s_%(id)s.%(ext)s" \
+            # Download directly into the inner folder
+            yt-dlp -o "$WORK_DIR/$INNER_FOLDER/%(title)s_%(id)s.%(ext)s" \
                    --no-playlist \
                    --ignore-errors \
                    --restrict-filenames \
                    "$url" || echo "Warning: failed to download $url"
-            # Small delay to avoid rate limiting
             sleep 2
           done
 
-          # Count downloaded files
-          FILE_COUNT=$(find "$WORK_DIR" -type f | wc -l)
-          echo "Downloaded $FILE_COUNT file(s) to $WORK_DIR"
+          FILE_COUNT=$(find "$WORK_DIR/$INNER_FOLDER" -type f | wc -l)
+          echo "Downloaded $FILE_COUNT file(s) to $WORK_DIR/$INNER_FOLDER"
 
           if [ $FILE_COUNT -eq 0 ]; then
             echo "No files were downloaded. Exiting."
             exit 1
           fi
 
-          # Save variables for next step
           echo "WORK_DIR=$WORK_DIR" >> $GITHUB_OUTPUT
+          echo "INNER_FOLDER=$INNER_FOLDER" >> $GITHUB_OUTPUT
           echo "FILE_COUNT=$FILE_COUNT" >> $GITHUB_OUTPUT
 
-      - name: Create split zip archive
+      - name: Create split zip archive (with folder structure)
         run: |
           WORK_DIR="${{ steps.download.outputs.WORK_DIR }}"
-          # We will zip the whole WORK_DIR content into a split archive (99MB parts)
-          # The split parts will be placed directly in the "downloads/" folder
+          INNER_FOLDER="${{ steps.download.outputs.INNER_FOLDER }}"
           mkdir -p instagram
+
           cd "$WORK_DIR"
-          # Create a split zip without the top-level folder in the archive
-          zip -s 99m "../instagram/instagram_media.zip" -r ./
+          # Zip the inner folder so that the archive contains "content-downloaded-<timestamp>/"
+          # The split parts will be placed in ../instagram/
+          zip -s 99m "../instagram/instagram_media.zip" -r "$INNER_FOLDER"
           cd ..
-          # Rename the split parts to have a consistent naming scheme (optional)
-          echo "Split zip parts created:"
+
+          echo "Split zip parts created in instagram/:"
           ls -lh instagram/instagram_media.*
 
       - name: Commit and push to repository
