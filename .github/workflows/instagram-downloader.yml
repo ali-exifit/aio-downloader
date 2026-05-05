@@ -22,9 +22,7 @@ jobs:
         id: parse
         run: |
           INPUT="${{ github.event.inputs.urls }}"
-          # Remove surrounding quotes (if any) and extract all Instagram URLs
           CLEANED=$(echo "$INPUT" | tr -d '"'\')
-          # Match http/https Instagram links, stop at whitespace/comma/semicolon
           URLS=$(echo "$CLEANED" | grep -oP 'https?://(www\.)?instagram\.com/[^\s,;]+' | sort -u)
           if [ -z "$URLS" ]; then
             echo "ERROR: No Instagram URLs found in the input."
@@ -33,15 +31,28 @@ jobs:
           echo "$URLS" > urls.txt
           echo "Found $(wc -l < urls.txt) URL(s) to download."
 
+      # ---------- write cookies from secrets ----------
+      - name: Write cookies from secrets
+        run: |
+          if [ -n "$INSTAGRAM_COOKIES" ]; then
+            echo "$INSTAGRAM_COOKIES" > instagram-cookies.txt
+            echo "Instagram cookies written."
+          else
+            echo "No INSTAGRAM_COOKIES secret found – proceeding without login, may fail for private content."
+          fi
+        env:
+          INSTAGRAM_COOKIES: ${{ secrets.INSTAGRAM_COOKIES }}
+
       # ---------- cache & install tools ----------
       - name: Restore cached tools
         uses: actions/cache@v4
         id: tool-cache
         with:
           path: |
-            ~/.local/bin/yt-dlp      # kept for potential fallback, but not used now
+            ~/.local/bin/yt-dlp
             ~/.deno
-          key: fetch-tools-${{ runner.os }}-v2
+            ~/.cache/pip
+          key: fetch-tools-${{ runner.os }}-v3
 
       - name: Add cached tools to PATH
         run: |
@@ -51,12 +62,10 @@ jobs:
 
       - name: Install tools
         run: |
-          # gallery-dl (primary downloader for Instagram)
-          if ! command -v gallery-dl &> /dev/null; then
-            pip install gallery-dl
-          fi
+          # Python packages: yt-dlp (needed by gallery-dl) and gallery-dl itself
+          pip install yt-dlp gallery-dl
 
-          # yt-dlp (optional, not used for Instagram anymore)
+          # yt-dlp binary (optional, kept for potential fallback)
           if ! command -v yt-dlp &> /dev/null; then
             curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o ~/.local/bin/yt-dlp
             chmod a+rx ~/.local/bin/yt-dlp
@@ -68,25 +77,22 @@ jobs:
             sudo apt-get install -y -qq jq ffmpeg
           fi
 
-          # Deno (optional, kept for consistency)
+          # Deno (optional)
           if ! command -v deno &> /dev/null; then
             curl -fsSL https://deno.land/install.sh | sh -s -- -y
             echo "$HOME/.deno/bin" >> $GITHUB_PATH
           fi
 
-      # ---------- download all Instagram URLs with gallery-dl ----------
+      # ---------- download all Instagram URLs ----------
       - name: Download Instagram content
         run: |
           mkdir -p instagram_downloads
-          COOKIES_FILE="instagram-cookies.txt"
 
-          # Build gallery-dl arguments
           GALLERY_DL_ARGS=""
-          if [ -f "$COOKIES_FILE" ]; then
-            GALLERY_DL_ARGS="$GALLERY_DL_ARGS --cookies $COOKIES_FILE"
+          if [ -f "instagram-cookies.txt" ]; then
+            GALLERY_DL_ARGS="$GALLERY_DL_ARGS --cookies instagram-cookies.txt"
           fi
 
-          # gallery-dl reads URLs from a file; -d sets the download destination
           gallery-dl $GALLERY_DL_ARGS \
                      --input-file urls.txt \
                      -d "instagram_downloads" \
@@ -95,35 +101,36 @@ jobs:
           echo "Downloads finished. Contents:"
           ls -lhR instagram_downloads/
 
-      # ---------- remux videos for compatibility (adjusted for subdirs) ----------
+      # ---------- remux videos (if any) ----------
       - name: Remux videos (if needed)
         run: |
-          # gallery-dl may place video files inside subfolders – use find
           find instagram_downloads -type f \( -iname "*.mp4" -o -iname "*.webm" -o -iname "*.mkv" \) | while read -r f; do
             echo "Processing $f"
             FIXED="${f%/*}/fixed_${f##*/}"
             ffmpeg -i "$f" -c copy "$FIXED" -y && mv "$FIXED" "$f" || echo "Remux failed for $f, keeping original."
           done
 
-      # ---------- create ZIP with internal "instagram/" folder ----------
+      # ---------- create flat ZIP (instagram/ folder inside) ----------
       - name: Create ZIP archive
         id: zip
         run: |
-          # Prepare zip contents with a top-level instagram/ folder
           rm -rf zipcontent
           mkdir -p zipcontent/instagram
-          cp -r instagram_downloads/* zipcontent/instagram/
 
-          # Generate a timestamped zip name
+          # Flatten: copy each file to instagram/ with a unique name
+          find instagram_downloads -type f | while read -r f; do
+            rel="${f#instagram_downloads/}"
+            flat_name="${rel//\//_}"
+            cp "$f" "zipcontent/instagram/${flat_name}"
+          done
+
           TIMESTAMP=$(date +%Y%m%d_%H%M%S)
           ZIP_NAME="instagram-contents-${TIMESTAMP}.zip"
 
           cd zipcontent
-          # Split at 99 MB to stay under GitHub’s file size limit
           zip -s 99m -r "../${ZIP_NAME}" "instagram"
           cd ..
 
-          # Move the resulting zip (and its parts) into the instagram/ folder
           mkdir -p instagram
           mv ${ZIP_NAME}* instagram/
 
