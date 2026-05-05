@@ -1,30 +1,47 @@
+---
 name: instagram-downloader
 
 on:
   workflow_dispatch:
     inputs:
       urls:
-        description: 'Enter one or more Instagram URLs (comma separated)'
+        description: 'Instagram URLs – separate by comma, space, or newline'
         required: true
-        default: 'https://www.instagram.com/reel/DVYzkSFEV_M/,https://www.instagram.com/p/DX6US4uCNGb/'
 
 jobs:
-  download:
+  actions:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
           persist-credentials: true
 
-      # ── Cache yt-dlp and Deno (like youtube-downloader) ─────────────
+      # ---------- extract URLs from input ----------
+      - name: Parse input and extract URLs
+        id: parse
+        run: |
+          INPUT="${{ github.event.inputs.urls }}"
+          # Remove surrounding quotes (if any) and extract all Instagram URLs
+          CLEANED=$(echo "$INPUT" | tr -d '"'\')
+          # Match http/https Instagram links, stop at whitespace/comma/semicolon
+          URLS=$(echo "$CLEANED" | grep -oP 'https?://(www\.)?instagram\.com/[^\s,;]+' | sort -u)
+          if [ -z "$URLS" ]; then
+            echo "ERROR: No Instagram URLs found in the input."
+            exit 1
+          fi
+          echo "$URLS" > urls.txt
+          echo "Found $(wc -l < urls.txt) URL(s) to download."
+
+      # ---------- cache yt‑dlp and Deno (optional) ----------
       - name: Restore cached tools
-        id: tool-cache
         uses: actions/cache@v4
+        id: tool-cache
         with:
           path: |
             ~/.local/bin/yt-dlp
             ~/.deno
-          key: fetch-tools-${{ runner.os }}-v1
+          key: fetch-tools-${{ runner.os }}-v2
 
       - name: Add cached tools to PATH
         run: |
@@ -32,7 +49,7 @@ jobs:
           echo "$HOME/.local/bin" >> $GITHUB_PATH
           echo "$HOME/.deno/bin" >> $GITHUB_PATH
 
-      - name: Install tools (yt-dlp + deno + ffmpeg)
+      - name: Install tools
         run: |
           # yt-dlp
           if ! command -v yt-dlp &> /dev/null; then
@@ -40,71 +57,81 @@ jobs:
             chmod a+rx ~/.local/bin/yt-dlp
           fi
 
-          # jq & ffmpeg (needed for some Instagram formats)
+          # jq & ffmpeg (single apt update)
           if ! command -v jq &> /dev/null || ! command -v ffmpeg &> /dev/null; then
             sudo apt-get update -qq
             sudo apt-get install -y -qq jq ffmpeg
           fi
 
-          # Deno (required by yt-dlp for Instagram extractor)
+          # Deno (not strictly needed for Instagram, but harmless)
           if ! command -v deno &> /dev/null; then
             curl -fsSL https://deno.land/install.sh | sh -s -- -y
             echo "$HOME/.deno/bin" >> $GITHUB_PATH
           fi
 
-      - name: Download Instagram media (batch)
-        id: download
+      # ---------- download all Instagram URLs ----------
+      - name: Download Instagram content
         run: |
-          TIMESTAMP=$(date +%Y%m%d_%H%M%S)
-          WORK_DIR="instagram_batch_${TIMESTAMP}"
-          INNER_FOLDER="content-downloaded-${TIMESTAMP}"
-          mkdir -p "$WORK_DIR/$INNER_FOLDER"
+          mkdir -p instagram_downloads
+          COOKIES_FILE="instagram-cookies.txt"   # place your exported cookies in the repo root
 
-          # Split input URLs by comma
-          IFS=',' read -ra URL_ARRAY <<< "${{ github.event.inputs.urls }}"
-          echo "Found ${#URL_ARRAY[@]} URL(s) to process."
+          while IFS= read -r url; do
+            echo "::group::Downloading $url"
+            # Use cookies if the file exists, otherwise fall back to no cookies
+            if [ -f "$COOKIES_FILE" ]; then
+              yt-dlp --cookies "$COOKIES_FILE" \
+                     --no-progress \
+                     -o "instagram_downloads/%(title)s.%(ext)s" \
+                     "$url"
+            else
+              yt-dlp --no-progress \
+                     -o "instagram_downloads/%(title)s.%(ext)s" \
+                     "$url"
+            fi
+            echo "::endgroup::"
+          done < urls.txt
 
-          # yt-dlp common args (use cookies.txt if you have one, otherwise comment out --cookies)
-          YT_DLP_ARGS="--js-runtimes deno --remote-components ejs:npm --no-progress --ignore-errors"
+          echo "Downloads finished. Contents:"
+          ls -lh instagram_downloads/
 
-          for url in "${URL_ARRAY[@]}"; do
-            url=$(echo "$url" | xargs)
-            echo "Downloading: $url"
-            yt-dlp $YT_DLP_ARGS \
-              -o "$WORK_DIR/$INNER_FOLDER/%(title)s_%(id)s.%(ext)s" \
-              --no-playlist \
-              --restrict-filenames \
-              "$url" || echo "Warning: failed to download $url"
-            sleep 2
+      # ---------- (optional) remux for compatibility ----------
+      - name: Remux videos (if needed)
+        run: |
+          cd instagram_downloads
+          for f in *.mp4 *.webm *.mkv; do
+            [ -f "$f" ] || continue
+            FIXED="fixed_${f}"
+            ffmpeg -i "$f" -c copy "$FIXED" -y && mv "$FIXED" "$f" || echo "Remux failed for $f, keeping original."
           done
-
-          FILE_COUNT=$(find "$WORK_DIR/$INNER_FOLDER" -type f | wc -l)
-          echo "Downloaded $FILE_COUNT file(s) to $WORK_DIR/$INNER_FOLDER"
-
-          if [ $FILE_COUNT -eq 0 ]; then
-            echo "No files were downloaded. Exiting."
-            exit 1
-          fi
-
-          echo "WORK_DIR=$WORK_DIR" >> $GITHUB_OUTPUT
-          echo "INNER_FOLDER=$INNER_FOLDER" >> $GITHUB_OUTPUT
-          echo "FILE_COUNT=$FILE_COUNT" >> $GITHUB_OUTPUT
-
-      - name: Create split zip archive (inside instagram/ folder)
-        run: |
-          WORK_DIR="${{ steps.download.outputs.WORK_DIR }}"
-          INNER_FOLDER="${{ steps.download.outputs.INNER_FOLDER }}"
-          mkdir -p instagram
-
-          cd "$WORK_DIR"
-          # Zip the inner folder so that it appears as "content-downloaded-<timestamp>/" when unzipped
-          zip -s 99m "../instagram/instagram_media.zip" -r "$INNER_FOLDER"
           cd ..
 
-          echo "Split zip parts created in instagram/:"
-          ls -lh instagram/instagram_media.*
+      # ---------- create ZIP with internal "instagram/" folder ----------
+      - name: Create ZIP archive
+        id: zip
+        run: |
+          # Prepare zip contents with a top-level instagram/ folder
+          rm -rf zipcontent
+          mkdir -p zipcontent/instagram
+          cp instagram_downloads/* zipcontent/instagram/
 
-      - name: Commit and push to repository
+          # Generate a timestamped zip name
+          TIMESTAMP=$(date +%Y%m%d_%H%M%S)
+          ZIP_NAME="instagram_batch_${TIMESTAMP}.zip"
+
+          cd zipcontent
+          # Split at 99 MB to stay under GitHub’s file size limit
+          zip -s 99m -r "../${ZIP_NAME}" "instagram"
+          cd ..
+
+          # Move the resulting zip (and its parts) into the instagram/ folder
+          mkdir -p instagram
+          mv ${ZIP_NAME}* instagram/
+
+          echo "Created archive(s):"
+          ls -lh instagram/
+
+      # ---------- upload to repository ----------
+      - name: Upload to 'instagram' folder
         env:
           BRANCH: ${{ github.ref_name }}
         run: |
@@ -112,13 +139,14 @@ jobs:
           git config user.email "actions@github.com"
           git config http.postBuffer 524288000
 
-          if [ -z "$(ls -A instagram/)" ]; then
-            echo "No files to upload."
+          # If nothing was downloaded, exit cleanly
+          if [ ! -d "instagram" ] || [ -z "$(ls -A instagram)" ]; then
+            echo "Nothing to upload."
             exit 0
           fi
 
           git add instagram/
-          git commit -m "Add Instagram batch download (${{ steps.download.outputs.FILE_COUNT }} files) [skip ci]" || echo "Nothing to commit"
+          git commit -m "Add Instagram batch download [skip ci]" || echo "Nothing to commit"
 
           RETRIES=5
           for i in $(seq 1 $RETRIES); do
@@ -129,14 +157,12 @@ jobs:
               break
             else
               if [ $i -lt $RETRIES ]; then
+                echo "Push rejected, retrying in 3 seconds..."
                 sleep 3
               else
+                echo "Push failed after $RETRIES attempts."
                 exit 1
               fi
             fi
           done
-
-      - name: Cleanup temporary directory
-        if: always()
-        run: |
-          rm -rf "${{ steps.download.outputs.WORK_DIR }}"
+          echo "All files uploaded to the 'instagram' folder."
