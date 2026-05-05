@@ -116,7 +116,7 @@ jobs:
 
           # Generate a timestamped zip name
           TIMESTAMP=$(date +%Y%m%d_%H%M%S)
-          ZIP_NAME="instagram_batch_${TIMESTAMP}.zip"
+          ZIP_NAME="instagram-contents-${TIMESTAMP}.zip"
 
           cd zipcontent
           # Split at 99 MB to stay under GitHub’s file size limit
