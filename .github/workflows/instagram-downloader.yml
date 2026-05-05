@@ -73,23 +73,22 @@ jobs:
       - name: Download Instagram content
         run: |
           mkdir -p instagram_downloads
-          COOKIES_FILE="instagram-cookies.txt"   # place your exported cookies in the repo root
+          COOKIES_FILE="instagram-cookies.txt"
 
           while IFS= read -r url; do
             echo "::group::Downloading $url"
-            # Use cookies if the file exists, otherwise fall back to no cookies
             if [ -f "$COOKIES_FILE" ]; then
-          yt-dlp --cookies "$COOKIES_FILE" \
-                 --ignore-no-formats-error \  # <-- Add this flag
-                 --no-progress \
-                 -o "instagram_downloads/%(title)s.%(ext)s" \
-                 "$url"
-          else
-            yt-dlp --ignore-no-formats-error \  # <-- Add this flag
-                   --no-progress \
-                   -o "instagram_downloads/%(title)s.%(ext)s" \
-                   "$url"
-          fi
+              yt-dlp --cookies "$COOKIES_FILE" \
+                     --ignore-no-formats-error \
+                     --no-progress \
+                     -o "instagram_downloads/%(title)s.%(ext)s" \
+                     "$url"
+            else
+              yt-dlp --ignore-no-formats-error \
+                     --no-progress \
+                     -o "instagram_downloads/%(title)s.%(ext)s" \
+                     "$url"
+            fi
             echo "::endgroup::"
           done < urls.txt
 
