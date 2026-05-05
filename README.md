@@ -21,7 +21,7 @@
 
 ✅ **Batch downloading** – paste up to 10+ Instagram links at once, separated by commas, spaces, or newlines.
 
-✅ **Concurrent runs** – You can trigger multiple workflow runs at the same time (e.g., download a YouTube video, an Instagram batch, and a direct file – all in parallel). Each run is independent and won't interfere with the others.
+✅ **Concurrent runs** – You can trigger multiple workflow runs at the same time (e.g., download multiple YouTube video, an Instagram batch, and multiple direct file – all in parallel). Each run is independent and won't interfere with the others.
 
 ---
 
@@ -248,7 +248,7 @@ SOFTWARE.
 
 ✅ **دانلود دسته‌جمعی** — تا ۱۰+ لینک اینستاگرام را همزمان (با کاما، فاصله یا خط جدید جدا کنید) بچسبانید.
 
-✅ **اجرای هم‌زمان** — می‌توانید چندین گردش‌کار را هم‌زمان اجرا کنید (مثلاً یک ویدیو از یوتیوب، یک دسته از اینستاگرام و یک فایل مستقیم، همه موازی). هر اجرا مستقل است و تداخلی با بقیه ندارد.
+✅ **اجرای هم‌زمان** — می‌توانید چندین گردش‌کار را هم‌زمان اجرا کنید (مثلاً چند ویدیو از یوتیوب، یک دسته از اینستاگرام و چند فایل مستقیم، همه موازی). هر اجرا مستقل است و تداخلی با بقیه ندارد.
 
 ---
 
