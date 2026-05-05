@@ -140,6 +140,7 @@ https://example.com/path/to/large-file.zip
 ---
 
 ## 📁 Output Folder Structure
+```plaintext
 your-repository/
 ├── youtube/
 │ └── Video Title.mp4.zip ← YouTube downloads (split into parts if > 99 MB)
@@ -147,18 +148,20 @@ your-repository/
 │ └── instagram-contents-YYYYMMDD_HHMMSS.zip ← All Instagram content bundled together
 ├── direct/
 │ └── filename.zip ← Direct downloads (split into parts if > 99 MB)
+```
 
 
 ### Inside the Instagram ZIP
 
 When you open the Instagram ZIP, you'll see:
+```plaintext
 instagram-content/
 ├── instagram_moruhiko_388851...jpg
 ├── instagram_moruhiko_388851...jpg
 ├── instagram_israelinpersian_...webp
 ├── instagram_meme.azaad_...mp4
 └── ...
-
+```
 
 All files are flattened into a single folder for easy browsing. Filenames are prefixed with the uploader's username to avoid collisions.
 
@@ -341,6 +344,7 @@ SOFTWARE.
 3. در کادر ورودی، لینک‌های اینستاگرام خود را — **با کاما، فاصله یا خط جدید جدا کنید** — بچسبانید.
 
 **مثال:**
+
 https://www.instagram.com/p/DX2y7oLDFOb/, https://www.instagram.com/reel/DVRXhn0gjL3/, https://www.instagram.com/p/DX6US4uCNGb/
 
 
@@ -358,6 +362,7 @@ https://www.instagram.com/p/DX2y7oLDFOb/, https://www.instagram.com/reel/DVRXhn0
 3. هر لینک دانلود مستقیم را بچسبانید (مثلاً `.zip`، `.mp4`، `.apk`، `.pdf` و غیره).
 
 **مثال:**
+
 https://example.com/path/to/large-file.zip
 
 
@@ -367,6 +372,7 @@ https://example.com/path/to/large-file.zip
 ---
 
 ## 📁 ساختار پوشه خروجی
+```plaintext
 your-repository/
 ├── youtube/
 │ └── Video Title.mp4.zip ← دانلودهای یوتیوب (در صورت > 99MB به قطعات تقسیم می‌شوند)
@@ -374,18 +380,19 @@ your-repository/
 │ └── instagram-contents-YYYYMMDD_HHMMSS.zip ← تمام محتوای اینستاگرام در یک ZIP
 ├── direct/
 │ └── filename.zip ← دانلودهای مستقیم (در صورت > 99MB به قطعات تقسیم می‌شوند)
-
+```
 
 ### داخل ZIP اینستاگرام
 
 هنگام باز کردن ZIP اینستاگرام، خواهید دید:
+```plaintext
 instagram-content/
 ├── instagram_moruhiko_388851...jpg
 ├── instagram_moruhiko_388851...jpg
 ├── instagram_israelinpersian_...webp
 ├── instagram_meme.azaad_...mp4
 └── ...
-
+```
 
 تمام فایل‌ها برای مرور آسان در یک پوشه واحد قرار می‌گیرند. نام فایل‌ها با نام کاربری آپلودکننده پیشوندگذاری شده تا از تداخل جلوگیری شود.
 
