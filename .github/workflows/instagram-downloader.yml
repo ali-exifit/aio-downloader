@@ -1,4 +1,4 @@
-name: instagram-batch-downloader
+name: instagram-downloader
 
 on:
   workflow_dispatch:
@@ -9,7 +9,7 @@ on:
         default: 'https://www.instagram.com/reel/DVYzkSFEV_M/,https://www.instagram.com/p/DX6US4uCNGb/'
 
 jobs:
-  download:
+  actions:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -70,14 +70,14 @@ jobs:
           WORK_DIR="${{ steps.download.outputs.WORK_DIR }}"
           # We will zip the whole WORK_DIR content into a split archive (99MB parts)
           # The split parts will be placed directly in the "downloads/" folder
-          mkdir -p downloads
+          mkdir -p instagram
           cd "$WORK_DIR"
           # Create a split zip without the top-level folder in the archive
-          zip -s 99m "../downloads/instagram_media.zip" -r ./
+          zip -s 99m "../instagram/instagram_media.zip" -r ./
           cd ..
           # Rename the split parts to have a consistent naming scheme (optional)
           echo "Split zip parts created:"
-          ls -lh downloads/instagram_media.*
+          ls -lh instagram/instagram_media.*
 
       - name: Commit and push to repository
         env:
@@ -87,12 +87,12 @@ jobs:
           git config user.email "actions@github.com"
           git config http.postBuffer 524288000
 
-          if [ -z "$(ls -A downloads/)" ]; then
+          if [ -z "$(ls -A instagram/)" ]; then
             echo "No files to upload."
             exit 0
           fi
 
-          git add downloads/
+          git add instagram/
           git commit -m "Add Instagram batch download (${{ steps.download.outputs.FILE_COUNT }} files) [skip ci]" || echo "Nothing to commit"
 
           RETRIES=5
