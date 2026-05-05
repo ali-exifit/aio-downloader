@@ -90,7 +90,6 @@ jobs:
           gallery-dl $GALLERY_DL_ARGS \
                      --input-file urls.txt \
                      -d "instagram_downloads" \
-                     --no-download-archive \
                      --verbose
 
           echo "Downloads finished. Contents:"
