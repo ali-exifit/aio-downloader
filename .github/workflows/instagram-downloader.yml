@@ -6,7 +6,7 @@ on:
       urls:
         description: 'Enter one or more Instagram URLs (comma separated)'
         required: true
-        default: ''
+        default: 'https://www.instagram.com/reel/DVYzkSFEV_M/,https://www.instagram.com/p/DX6US4uCNGb/'
 
 jobs:
   download:
@@ -16,44 +16,65 @@ jobs:
         with:
           persist-credentials: true
 
-      # Cache pip dependencies to speed up yt-dlp installation
-      - name: Cache pip packages
-        uses: actions/cache@v3
+      # ── Cache yt-dlp and Deno (like youtube-downloader) ─────────────
+      - name: Restore cached tools
+        id: tool-cache
+        uses: actions/cache@v4
         with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
+          path: |
+            ~/.local/bin/yt-dlp
+            ~/.deno
+          key: fetch-tools-${{ runner.os }}-v1
 
-      - name: Install yt-dlp and dependencies
+      - name: Add cached tools to PATH
         run: |
-          sudo apt-get update -qq
-          sudo apt-get install -y -qq python3-pip ffmpeg
-          pip3 install --quiet --upgrade yt-dlp
+          mkdir -p ~/.local/bin
+          echo "$HOME/.local/bin" >> $GITHUB_PATH
+          echo "$HOME/.deno/bin" >> $GITHUB_PATH
 
-      - name: Parse URLs and download media
+      - name: Install tools (yt-dlp + deno + ffmpeg)
+        run: |
+          # yt-dlp
+          if ! command -v yt-dlp &> /dev/null; then
+            curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o ~/.local/bin/yt-dlp
+            chmod a+rx ~/.local/bin/yt-dlp
+          fi
+
+          # jq & ffmpeg (needed for some Instagram formats)
+          if ! command -v jq &> /dev/null || ! command -v ffmpeg &> /dev/null; then
+            sudo apt-get update -qq
+            sudo apt-get install -y -qq jq ffmpeg
+          fi
+
+          # Deno (required by yt-dlp for Instagram extractor)
+          if ! command -v deno &> /dev/null; then
+            curl -fsSL https://deno.land/install.sh | sh -s -- -y
+            echo "$HOME/.deno/bin" >> $GITHUB_PATH
+          fi
+
+      - name: Download Instagram media (batch)
         id: download
         run: |
           TIMESTAMP=$(date +%Y%m%d_%H%M%S)
           WORK_DIR="instagram_batch_${TIMESTAMP}"
-          mkdir -p "$WORK_DIR"
-
-          # Create the inner folder that will appear inside the zip
           INNER_FOLDER="content-downloaded-${TIMESTAMP}"
           mkdir -p "$WORK_DIR/$INNER_FOLDER"
 
+          # Split input URLs by comma
           IFS=',' read -ra URL_ARRAY <<< "${{ github.event.inputs.urls }}"
           echo "Found ${#URL_ARRAY[@]} URL(s) to process."
+
+          # yt-dlp common args (use cookies.txt if you have one, otherwise comment out --cookies)
+          YT_DLP_ARGS="--js-runtimes deno --remote-components ejs:npm --no-progress --ignore-errors"
 
           for url in "${URL_ARRAY[@]}"; do
             url=$(echo "$url" | xargs)
             echo "Downloading: $url"
-            # Download directly into the inner folder
-            yt-dlp -o "$WORK_DIR/$INNER_FOLDER/%(title)s_%(id)s.%(ext)s" \
-                   --no-playlist \
-                   --ignore-errors \
-                   --restrict-filenames \
-                   "$url" || echo "Warning: failed to download $url"
+            yt-dlp $YT_DLP_ARGS \
+              -o "$WORK_DIR/$INNER_FOLDER/%(title)s_%(id)s.%(ext)s" \
+              --no-playlist \
+              --restrict-filenames \
+              "$url" || echo "Warning: failed to download $url"
             sleep 2
           done
 
@@ -69,15 +90,14 @@ jobs:
           echo "INNER_FOLDER=$INNER_FOLDER" >> $GITHUB_OUTPUT
           echo "FILE_COUNT=$FILE_COUNT" >> $GITHUB_OUTPUT
 
-      - name: Create split zip archive (with folder structure)
+      - name: Create split zip archive (inside instagram/ folder)
         run: |
           WORK_DIR="${{ steps.download.outputs.WORK_DIR }}"
           INNER_FOLDER="${{ steps.download.outputs.INNER_FOLDER }}"
           mkdir -p instagram
 
           cd "$WORK_DIR"
-          # Zip the inner folder so that the archive contains "content-downloaded-<timestamp>/"
-          # The split parts will be placed in ../instagram/
+          # Zip the inner folder so that it appears as "content-downloaded-<timestamp>/" when unzipped
           zip -s 99m "../instagram/instagram_media.zip" -r "$INNER_FOLDER"
           cd ..
 
