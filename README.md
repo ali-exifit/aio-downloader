@@ -1,6 +1,5 @@
 ---
 # aio-downloader — All-in-One GitHub Actions Downloader
-
 **[راهنمای فارسی (Persian)](#راهنمای-فارسی)**
 
 > A collection of **GitHub Actions workflows** that let you download videos, images, and files from **YouTube**, **Instagram**, and **any direct URL** – all from your browser, **without running any software on your own computer**.
