@@ -44,12 +44,15 @@ Click the **"Fork"** button at the top-right of this page.
 2. Under **"Actions permissions"** select **"Allow all actions and reusable workflows"**
 3. Click **Save**
 
-### Step 3: Give GitHub Actions write permission
+### Step 3: Grant Workflow Write Permissions (IMPORTANT!)
 
-1. Go to **Settings** → **Actions** → **General**
-2. Scroll to **"Workflow permissions"**
-3. Select **"Read and write permissions"**
+1. Still under **Settings** → **Actions** → **General**
+2. Scroll down to **"Workflow permissions"**
+3. Select **"Read and write permissions"**  
+   (Workflows need this to commit and push downloaded files back to your repository.)
 4. Click **Save**
+
+> ⚠️ If you skip this step, the workflow will fail when trying to upload the ZIP files.
 
 ---
 
@@ -89,6 +92,7 @@ https://www.youtube.com/watch?v=VIDEO_ID v 1080 60
 https://www.youtube.com/watch?v=VIDEO_ID v 4k
 https://www.youtube.com/watch?v=VIDEO_ID a max
 
+text
 
 - `v` = video, `a` = audio
 - Resolution: `max`, `min`, `1080`, `2k`, `4k`, etc.
@@ -109,6 +113,7 @@ https://www.youtube.com/watch?v=VIDEO_ID a max
 **Example:**
 https://www.instagram.com/p/DX2y7oLDFOb/, https://www.instagram.com/reel/DVRXhn0gjL3/, https://www.instagram.com/p/DX6US4uCNGb/
 
+text
 
 4. Click **"Run workflow"**
 5. When finished, the output ZIP will appear in the **`instagram/`** folder of your repository.
@@ -126,6 +131,7 @@ https://www.instagram.com/p/DX2y7oLDFOb/, https://www.instagram.com/reel/DVRXhn0
 **Example:**
 https://example.com/path/to/large-file.zip
 
+text
 
 4. Click **"Run workflow"**
 5. The file will be downloaded with 16 parallel connections and uploaded to the **`direct/`** folder of your repository, split into 99 MB parts if needed.
@@ -141,6 +147,7 @@ your-repository/
 ├── direct/
 │ └── filename.zip ← Direct downloads (split into parts if > 99 MB)
 
+text
 
 ### Inside the Instagram ZIP
 
@@ -152,6 +159,7 @@ instagram-content/
 ├── instagram_meme.azaad_...mp4
 └── ...
 
+text
 
 All files are flattened into a single folder for easy browsing. Filenames are prefixed with the uploader's username to avoid collisions.
 
@@ -162,6 +170,32 @@ All files are flattened into a single folder for easy browsing. Filenames are pr
 - **GitHub Free Tier** allows up to **6 hours per job** (public repos get **unlimited minutes**).
 - Files larger than **99 MB** are automatically split into multi-part ZIP archives (`.z01`, `.z02`, ...). You need a tool like **7-Zip** or **WinRAR** to extract them.
 - For very large Instagram batches, consider splitting them into smaller groups to avoid hitting GitHub's storage limits.
+
+---
+
+## 📄 License
+
+MIT License
+
+Copyright (c) 2025 ProAlit
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ---
 
@@ -213,12 +247,15 @@ All files are flattened into a single folder for easy browsing. Filenames are pr
 2. در بخش **"Actions permissions"** گزینه **"Allow all actions and reusable workflows"** را انتخاب کنید.
 3. روی **Save** کلیک کنید.
 
-### مرحله ۳: دادن دسترسی نوشتن به GitHub Actions
+### مرحله ۳: دادن دسترسی نوشتن به GitHub Actions (مهم!)
 
-1. به **Settings** → **Actions** → **General** بروید.
+1. همچنان در **Settings** → **Actions** → **General** بمانید.
 2. به بخش **"Workflow permissions"** بروید.
-3. گزینه **"Read and write permissions"** را انتخاب کنید.
+3. گزینه **"Read and write permissions"** را انتخاب کنید.  
+   (گردش‌کارها برای commit کردن و push کردن فایل‌های دانلود شده به این دسترسی نیاز دارند.)
 4. روی **Save** کلیک کنید.
+
+> ⚠️ اگر این مرحله را انجام ندهید، گردش‌کار هنگام تلاش برای آپلود فایل‌های ZIP شکست خواهد خورد.
 
 ---
 
@@ -258,6 +295,7 @@ https://www.youtube.com/watch?v=VIDEO_ID v 1080 60
 https://www.youtube.com/watch?v=VIDEO_ID v 4k
 https://www.youtube.com/watch?v=VIDEO_ID a max
 
+text
 
 - `v` = ویدیو، `a` = صدا
 - رزولوشن: `max`، `min`، `1080`، `2k`، `4k` و غیره.
@@ -278,6 +316,7 @@ https://www.youtube.com/watch?v=VIDEO_ID a max
 **مثال:**
 https://www.instagram.com/p/DX2y7oLDFOb/, https://www.instagram.com/reel/DVRXhn0gjL3/, https://www.instagram.com/p/DX6US4uCNGb/
 
+text
 
 4. روی **"Run workflow"** کلیک کنید.
 5. پس از اتمام، فایل ZIP خروجی در پوشه **`instagram/`** مخزن شما ظاهر می‌شود.
@@ -295,6 +334,7 @@ https://www.instagram.com/p/DX2y7oLDFOb/, https://www.instagram.com/reel/DVRXhn0
 **مثال:**
 https://example.com/path/to/large-file.zip
 
+text
 
 4. روی **"Run workflow"** کلیک کنید.
 5. فایل با ۱۶ اتصال موازی دانلود و در پوشه **`direct/`** مخزن شما آپلود می‌شود (در صورت نیاز به قطعات ۹۹ مگابایتی تقسیم می‌شود).
@@ -310,6 +350,7 @@ your-repository/
 ├── direct/
 │ └── filename.zip ← دانلودهای مستقیم (در صورت > 99MB به قطعات تقسیم می‌شوند)
 
+text
 
 ### داخل ZIP اینستاگرام
 
@@ -321,6 +362,7 @@ instagram-content/
 ├── instagram_meme.azaad_...mp4
 └── ...
 
+text
 
 تمام فایل‌ها برای مرور آسان در یک پوشه واحد قرار می‌گیرند. نام فایل‌ها با نام کاربری آپلودکننده پیشوندگذاری شده تا از تداخل جلوگیری شود.
 
@@ -332,15 +374,28 @@ instagram-content/
 - فایل‌های بزرگتر از **۹۹ مگابایت** به‌طور خودکار به آرشیوهای ZIP چندبخشی (`.z01`, `.z02`, ...) تقسیم می‌شوند. برای استخراج به نرم‌افزاری مانند **7-Zip** یا **WinRAR** نیاز دارید.
 - برای دسته‌های بسیار بزرگ اینستاگرام، آن‌ها را به گروه‌های کوچک‌تر تقسیم کنید تا از محدودیت‌های ذخیره‌سازی GitHub فراتر نروید.
 
+---
+
+## 📄 مجوز (License)
+
+MIT License
+
+کپی‌رایت (c) 2025 ProAlit
+
+بدین‌وسیله به هر شخصی که یک کپی از این نرم‌افزار و فایل‌های مستندات همراه آن («نرم‌افزار») را دریافت می‌کند، به‌طور رایگان و بدون محدودیت اجازه داده می‌شود که از نرم‌افزار استفاده کند، آن را کپی، ویرایش، ادغام، منتشر، توزیع، زیرمجوز دهد و / یا بفروشد، و به افرادی که نرم‌افزار به آن‌ها ارائه می‌شود اجازه انجام آن را بدهد، مشروط بر رعایت شرایط زیر:
+
+اعلان کپی‌رایت فوق و این اعلان مجوز باید در تمام کپی‌ها یا بخش‌های عمده نرم‌افزار گنجانده شود.
+
+نرم‌افزار «همان‌گونه که هست» ارائه می‌شود، بدون هیچ‌گونه ضمانتی، صریح یا ضمنی، شامل اما نه محدود به ضمانت‌های تجاری بودن، تناسب برای یک هدف خاص و عدم نقض حقوق. در هیچ صورت نویسندگان یا دارندگان کپی‌رایت در قبال هرگونه ادعا، خسارت یا مسئولیت دیگری که از استفاده یا در ارتباط با نرم‌افزار ناشی شود، مسئول نخواهند بود.
 
 ---
 
-## ⭐ If you like this project
+## ⭐ اگر این پروژه را دوست دارید
 
-Please **star** ⭐ the repository — it helps others discover it!
+لطفاً به مخزن **ستاره** ⭐ بدهید — این کار به دیگران کمک می‌کند آن را پیدا کنند!
 
 ---
 
-## 🐛 Issues & Contributions
+## 🐛 مشکلات و مشارکت‌ها
 
-Found a bug? Have a suggestion? [Open an issue](https://github.com/ali-exifit/aio-downloader/issues) — feedback is always welcome!
+باگی پیدا کردید؟ پیشنهادی دارید؟ [یک issue باز کنید](https://github.com/ProAlit/aio-downloader/issues) — بازخورد همیشه خوش‌آمد است!
