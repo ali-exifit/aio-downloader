@@ -79,15 +79,17 @@ jobs:
             echo "::group::Downloading $url"
             # Use cookies if the file exists, otherwise fall back to no cookies
             if [ -f "$COOKIES_FILE" ]; then
-              yt-dlp --cookies "$COOKIES_FILE" \
-                     --no-progress \
-                     -o "instagram_downloads/%(title)s.%(ext)s" \
-                     "$url"
-            else
-              yt-dlp --no-progress \
-                     -o "instagram_downloads/%(title)s.%(ext)s" \
-                     "$url"
-            fi
+          yt-dlp --cookies "$COOKIES_FILE" \
+                 --ignore-no-formats-error \  # <-- Add this flag
+                 --no-progress \
+                 -o "instagram_downloads/%(title)s.%(ext)s" \
+                 "$url"
+          else
+            yt-dlp --ignore-no-formats-error \  # <-- Add this flag
+                   --no-progress \
+                   -o "instagram_downloads/%(title)s.%(ext)s" \
+                   "$url"
+          fi
             echo "::endgroup::"
           done < urls.txt
 
