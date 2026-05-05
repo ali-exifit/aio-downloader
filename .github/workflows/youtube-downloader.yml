@@ -1,3 +1,4 @@
+---
 name: youtube-downloader
 
 on:
@@ -15,6 +16,19 @@ jobs:
         with:
           persist-credentials: true
 
+      # ── Write YouTube cookies from secret ─────────────────────
+      - name: Write YouTube cookies from secret
+        run: |
+          if [ -n "$YOUTUBE_COOKIES" ]; then
+            echo "$YOUTUBE_COOKIES" > youtube-cookies.txt
+            echo "YouTube cookies written."
+          else
+            echo "No YOUTUBE_COOKIES secret found – proceeding without cookies."
+          fi
+        env:
+          YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
+
+      # ── Parse input ─────────────────────────────────────────
       - name: Parse input (Is it YouTube?)
         id: detect
         run: |
@@ -39,7 +53,6 @@ jobs:
           path: |
             ~/.local/bin/yt-dlp
             ~/.deno
-          # Key: change the version number (v1) to force a refresh
           key: fetch-tools-${{ runner.os }}-v1
 
       - name: Add cached tools to PATH
@@ -48,29 +61,25 @@ jobs:
           mkdir -p ~/.local/bin
           echo "$HOME/.local/bin" >> $GITHUB_PATH
           echo "$HOME/.deno/bin" >> $GITHUB_PATH
-      # ──────────────────────────────────────────────────────────
 
+      # ── Install tools ──────────────────────────────────────
       - name: Install tools (YouTube only)
         if: steps.detect.outputs.IS_YOUTUBE == 'true'
         run: |
-          # yt-dlp
           if ! command -v yt-dlp &> /dev/null; then
             curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o ~/.local/bin/yt-dlp
             chmod a+rx ~/.local/bin/yt-dlp
           fi
-
-          # jq & ffmpeg (single apt update)
           if ! command -v jq &> /dev/null || ! command -v ffmpeg &> /dev/null; then
             sudo apt-get update -qq
             sudo apt-get install -y -qq jq ffmpeg
           fi
-
-          # Deno
           if ! command -v deno &> /dev/null; then
             curl -fsSL https://deno.land/install.sh | sh -s -- -y
-            echo "$HOME/.deno/bin" >> $GITHUB_PATH   # already added, safe to repeat
+            echo "$HOME/.deno/bin" >> $GITHUB_PATH
           fi
 
+      # ── Select format ──────────────────────────────────────
       - name: Select format (YouTube only)
         if: steps.detect.outputs.IS_YOUTUBE == 'true'
         id: select_format
@@ -155,6 +164,7 @@ jobs:
             echo "TOTAL_SIZE=$TOTAL_SIZE" >> $GITHUB_OUTPUT
           fi
 
+      # ── Download ───────────────────────────────────────────
       - name: Download
         run: |
           LINK="${{ steps.detect.outputs.LINK }}"
@@ -192,23 +202,24 @@ jobs:
           }
           if [ "$IS_YOUTUBE" != "true" ]; then
             echo "Non-YouTube link. Downloading with wget..."
-            mkdir -p videos-downloaded
-            cd videos-downloaded
+            mkdir -p youtube-content
+            cd youtube-content
             wget --progress=bar:force --content-disposition "$LINK"
             cd ..
           else
             DOWNLOAD_ARGS="${{ steps.select_format.outputs.DOWNLOAD_ARGS }}"
             TOTAL_SIZE="${{ steps.select_format.outputs.TOTAL_SIZE }}"
             YT_DLP_ARGS="--cookies youtube-cookies.txt --js-runtimes deno --remote-components ejs:npm --no-progress"
-            mkdir -p videos-downloaded
-            download_with_progress "$YT_DLP_ARGS $DOWNLOAD_ARGS" "videos-downloaded/%(title)s.%(ext)s" "$TOTAL_SIZE" "$LINK"
+            mkdir -p youtube-content
+            download_with_progress "$YT_DLP_ARGS $DOWNLOAD_ARGS" "youtube-content/%(title)s.%(ext)s" "$TOTAL_SIZE" "$LINK"
           fi
 
+      # ── Remux ──────────────────────────────────────────────
       - name: Remux (YouTube video only)
         if: steps.detect.outputs.IS_YOUTUBE == 'true' && steps.select_format.outputs.TYPE == 'v'
         run: |
           echo "Remuxing video for compatibility..."
-          cd videos-downloaded
+          cd youtube-content
           INPUT_FILE=$(ls -1 *.mp4 *.webm *.mkv 2>/dev/null | head -n1)
           if [ -n "$INPUT_FILE" ]; then
             OUTPUT_FILE="fixed_${INPUT_FILE}"
@@ -223,14 +234,16 @@ jobs:
           fi
           cd ..
 
+      # ── Split & ZIP ───────────────────────────────────────
       - name: Split file & Create ZIP
         run: |
-          cd videos-downloaded
+          cd youtube-content
           FILE=$(ls -1)
           cd ..
           mkdir -p youtube
-          zip -s 99m -r "youtube/${FILE}.zip" "videos-downloaded/${FILE}"
+          zip -s 99m -r "youtube/${FILE}.zip" "youtube-content/${FILE}"
 
+      # ── Upload ────────────────────────────────────────────
       - name: Upload to youtube folder
         env:
           BRANCH: ${{ github.ref_name }}
@@ -245,14 +258,12 @@ jobs:
             exit 0
           fi
 
-          # Add and commit all new files locally
           git add youtube/
           git commit -m "Add download parts [skip ci]" || echo "Nothing to commit"
 
           RETRIES=5
           for i in $(seq 1 $RETRIES); do
             echo "Push attempt $i..."
-            # Stash any leftover modifications, rebase on top of remote, then pop stash
             git pull --rebase --autostash origin "$BRANCH"
             if git push origin "$BRANCH"; then
               echo "Push succeeded."
