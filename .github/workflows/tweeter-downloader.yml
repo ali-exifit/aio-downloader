@@ -24,18 +24,15 @@ jobs:
         with:
           node-version: 24
 
-      # ---------- Parse input: normal URLs + "username l N" ----------
       - name: Parse input – build final URL list
         id: parse
         run: |
           INPUT="${{ github.event.inputs.urls }}"
           CLEANED=$(echo "$INPUT" | tr -d '"'\')
 
-          # Extract normal tweet URLs
           URLS=$(echo "$CLEANED" | grep -oP 'https?://(www\.)?(twitter|x)\.com/[^\s,;]+' | sort -u)
           echo "$URLS" > urls_raw.txt
 
-          # Extract "username l N" patterns (case insensitive 'l')
           USER_LIMITS=$(echo "$CLEANED" | grep -oP '[A-Za-z0-9_]+[[:space:]]+[Ll][[:space:]]+[0-9]+' || true)
 
           if [ -n "$USER_LIMITS" ]; then
@@ -45,7 +42,11 @@ jobs:
               USER=$(echo "$line" | awk '{print $1}')
               COUNT=$(echo "$line" | awk '{print $3}')
               echo "::group::Fetching latest $COUNT tweets from @$USER"
-              gallery-dl --get-urls "https://twitter.com/$USER" -o "extractor.twitter.tweets.max=$COUNT" 2>/dev/null > "user_${USER}_urls.txt" || true
+
+              # 👇 correct limit option for user timelines
+              gallery-dl --get-urls "https://twitter.com/$USER" \
+                         -o "extractor.twitter.user.count=$COUNT" 2>/dev/null \
+                         > "user_${USER}_urls.txt" || true
               cat "user_${USER}_urls.txt" >> urls_raw.txt
               echo "::endgroup::"
             done <<< "$USER_LIMITS"
