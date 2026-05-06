@@ -14,11 +14,11 @@ from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
 
-BASE_DIR = Path(__file__).parent
-CHANNELS_FILE = BASE_DIR / "telegram" / "channels.json"
-STATE_FILE = BASE_DIR / "telegram" / "last_ids.json"
-OUTPUT_FILE = BASE_DIR / "telegram.md"          # <-- now in root
-CONTENT_DIR = BASE_DIR / "telegram" / "content" # media still here
+BASE_DIR = Path(__file__).parent                # telegram/ folder
+CHANNELS_FILE = BASE_DIR / "channels.json"
+STATE_FILE = BASE_DIR / "last_ids.json"
+OUTPUT_FILE = BASE_DIR.parent / "telegram.md"   # repo root
+CONTENT_DIR = BASE_DIR / "content"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
