@@ -1,11 +1,11 @@
 ---
-name: twitter-downloader
+name: x-downloader
 
 on:
   workflow_dispatch:
     inputs:
       urls:
-        description: 'Twitter/X URLs – separate by comma, space, or newline'
+        description: 'x/X URLs – separate by comma, space, or newline'
         required: true
 
 jobs:
@@ -29,9 +29,9 @@ jobs:
         run: |
           INPUT="${{ github.event.inputs.urls }}"
           CLEANED=$(echo "$INPUT" | tr -d '"'\')
-          URLS=$(echo "$CLEANED" | grep -oP 'https?://(www\.)?(twitter|x)\.com/[^\s,;]+' | sort -u)
+          URLS=$(echo "$CLEANED" | grep -oP 'https?://(www\.)?(x|x)\.com/[^\s,;]+' | sort -u)
           if [ -z "$URLS" ]; then
-            echo "ERROR: No Twitter/X URLs found."
+            echo "ERROR: No x/X URLs found."
             exit 1
           fi
           echo "$URLS" > urls.txt
@@ -39,14 +39,14 @@ jobs:
 
       - name: Write cookies from secrets
         run: |
-          if [ -n "$TWITTER_COOKIES" ]; then
-            echo "$TWITTER_COOKIES" > twitter-cookies.txt
-            echo "Twitter cookies written."
+          if [ -n "$X_COOKIES" ]; then
+            echo "$X_COOKIES" > x-cookies.txt
+            echo "x cookies written."
           else
-            echo "No TWITTER_COOKIES secret found – proceeding without login."
+            echo "No X_COOKIES secret found – proceeding without login."
           fi
         env:
-          TWITTER_COOKIES: ${{ secrets.TWITTER_COOKIES }}
+          X_COOKIES: ${{ secrets.X_COOKIES }}
 
       - name: Restore cached tools
         uses: actions/cache@v4
@@ -64,41 +64,41 @@ jobs:
             sudo apt-get install -y -qq jq ffmpeg
           fi
 
-      - name: Download Twitter content (images, videos, no JSON)
+      - name: Download x content (images, videos, no JSON)
         run: |
-          mkdir -p twitter_downloads
+          mkdir -p x_downloads
 
           GALLERY_DL_ARGS=""
-          if [ -f "twitter-cookies.txt" ]; then
-            GALLERY_DL_ARGS="$GALLERY_DL_ARGS --cookies twitter-cookies.txt"
+          if [ -f "x-cookies.txt" ]; then
+            GALLERY_DL_ARGS="$GALLERY_DL_ARGS --cookies x-cookies.txt"
           fi
 
           gallery-dl $GALLERY_DL_ARGS \
                      --input-file urls.txt \
-                     -d "twitter_downloads" \
+                     -d "x_downloads" \
                      --verbose
 
           echo "Downloads finished. Contents:"
-          ls -lhR twitter_downloads/
+          ls -lhR x_downloads/
 
       - name: Create ZIP archive (split into 99 MB parts, flattened, unique name)
         id: zip
         run: |
-          # Flatten all media files inside twitter_downloads into the ZIP root
-          mkdir -p twitter
+          # Flatten all media files inside x_downloads into the ZIP root
+          mkdir -p x
           RANDSTR=$(uuidgen | tr '[:upper:]' '[:lower:]' | tr -d '-' | head -c 8)
-          ZIP_NAME="twitter-contents-${RANDSTR}.zip"
+          ZIP_NAME="x-contents-${RANDSTR}.zip"
           echo "Archive base name: ${ZIP_NAME}"
 
           # -j = junk (don't store directory paths)
           # -r = recursive
           # -s 99m = split at 99 MB
-          zip -s 99m -j -r "twitter/${ZIP_NAME}" twitter_downloads/
+          zip -s 99m -j -r "x/${ZIP_NAME}" x_downloads/
 
           echo "Created archive parts:"
-          ls -lh twitter/
+          ls -lh x/
 
-      - name: Upload to 'twitter' folder
+      - name: Upload to 'x' folder
         env:
           BRANCH: ${{ github.ref_name }}
         run: |
@@ -106,13 +106,13 @@ jobs:
           git config user.email "actions@github.com"
           git config http.postBuffer 524288000
 
-          if [ ! -d "twitter" ] || [ -z "$(ls -A twitter)" ]; then
+          if [ ! -d "x" ] || [ -z "$(ls -A x)" ]; then
             echo "Nothing to upload."
             exit 0
           fi
 
-          git add twitter/
-          git commit -m "Add Twitter batch download [skip ci]" || echo "Nothing to commit"
+          git add x/
+          git commit -m "Add x batch download [skip ci]" || echo "Nothing to commit"
 
           RETRIES=5
           for i in $(seq 1 $RETRIES); do
@@ -131,4 +131,4 @@ jobs:
               fi
             fi
           done
-          echo "All files uploaded to the 'twitter' folder."
+          echo "All files uploaded to the 'x' folder."
