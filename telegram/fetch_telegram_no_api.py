@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 """
-Scrape public Telegram channels (no API credentials) and download their media.
-Outputs telegram.md at the repository root.
+Scrape public Telegram channels using Playwright (headless browser).
+No API credentials needed. Outputs telegram.md at repo root.
 """
-import json, re, time, requests
+import asyncio, json, re, time, requests
 from datetime import datetime, timezone
 from pathlib import Path
-from bs4 import BeautifulSoup
+from urllib.parse import urlparse, unquote
+
+from playwright.async_api import async_playwright
 
 BASE_DIR = Path(__file__).parent                # telegram/
 CHANNELS_FILE = BASE_DIR / "channels.json"
@@ -15,7 +17,7 @@ OUTPUT_FILE = BASE_DIR.parent / "telegram.md"   # repo root
 CONTENT_DIR = BASE_DIR / "content"
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
 
 def load_channels():
@@ -41,237 +43,184 @@ def load_existing_md():
 def save_md(content):
     OUTPUT_FILE.write_text(content, encoding="utf-8")
 
-def download_media(url, channel_name, post_id, media_type="photo"):
-    """Download a media file and return the relative markdown link path."""
+def download_media(url, channel_name, post_id):
+    """Download a media file and return a relative Markdown link."""
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)
-    ext = ".jpg" if media_type == "photo" else ".mp4"
+    # Determine extension from URL (often Telegram gives .jpg or .mp4 directly)
+    ext = ".jpg"
+    if any(k in url.lower() for k in [".mp4", "video", "stream"]):
+        ext = ".mp4"
     local_name = f"{channel_name}_{post_id}_{int(time.time())}{ext}"
     local_path = CONTENT_DIR / local_name
-
     try:
         resp = requests.get(url, headers=HEADERS, timeout=30)
         resp.raise_for_status()
         local_path.write_bytes(resp.content)
         return f"telegram/content/{local_name}"
     except Exception as e:
-        print(f"  ⚠️ Failed to download {media_type} from {url}: {e}")
+        print(f"    ⚠️ Media download failed: {e}")
         return None
 
-def fetch_page(channel_name, before=None):
-    """Fetch a single page of the channel's public preview."""
+async def scrape_channel(page, channel_name, last_id):
+    """Open the public preview, wait for messages, extract new ones (newest first)."""
     url = f"https://t.me/s/{channel_name}"
-    if before:
-        url += f"?before={before}"
-    print(f"  📡 Fetching {url} ...")
-    resp = requests.get(url, headers=HEADERS, timeout=30)
-    resp.raise_for_status()
-    return resp.text
+    print(f"  🌐 Navigating to {url} ...")
+    await page.goto(url, wait_until="networkidle", timeout=30000)
 
-def extract_messages_from_html(html, channel_name, last_id):
-    """Parse t.me/s/... HTML and return list of message dicts (newest first)."""
-    soup = BeautifulSoup(html, "lxml")
-    messages = []
+    # Wait for at least one message wrap to appear
+    try:
+        await page.wait_for_selector("[data-post]", timeout=15000)
+    except:
+        print("    ❌ No messages found (timeout). Page might be empty or blocked.")
+        return []
 
-    # ---------- Robust extraction: look for any element with data-post="channel/..." ----------
-    # This handles even if the wrapping div class changes.
-    for element in soup.select("[data-post]"):
-        data_post = element.get("data-post", "")
-        if not data_post or "/" not in data_post:
-            continue
-        try:
-            chan, post_id_str = data_post.split("/")
-            post_id = int(post_id_str)
-        except (ValueError, IndexError):
-            continue
+    # Extract all message containers that have a data-post attribute
+    messages = await page.evaluate("""() => {
+        const containers = document.querySelectorAll('[data-post]');
+        const msgs = [];
+        containers.forEach(el => {
+            const dataPost = el.getAttribute('data-post');
+            if (!dataPost) return;
+            const parts = dataPost.split('/');
+            if (parts.length < 2) return;
+            const channel = parts[0];
+            const postId = parseInt(parts[1]);
+            if (isNaN(postId)) return;
 
-        if post_id <= last_id:
-            continue
+            // Date
+            const timeEl = el.querySelector('time');
+            const datetime = timeEl ? timeEl.getAttribute('datetime') : '';
 
-        # The actual message widget is often the parent of the element containing data-post
-        # so we walk up until we find the bubble wrapper.
-        widget = element
-        for _ in range(5):
-            if "tgme_widget_message_wrap" in widget.get("class", []):
-                break
-            widget = widget.parent
-            if widget is None:
-                break
-        if widget is None or "tgme_widget_message_wrap" not in widget.get("class", []):
-            # fallback to element itself
-            widget = element
+            // Text
+            const textEl = el.querySelector('.tgme_widget_message_text');
+            const text = textEl ? textEl.innerText : '';
 
-        # Timestamp
-        time_tag = widget.find("time")
-        dt_str = time_tag.get("datetime") if time_tag else ""
-        try:
-            dt = datetime.fromisoformat(dt_str).astimezone(timezone.utc)
-        except Exception:
-            dt = datetime.now(timezone.utc)
+            // Media (photo or video)
+            let mediaUrl = null;
+            let mediaType = null;
+            const photoWrap = el.querySelector('.tgme_widget_message_photo_wrap');
+            if (photoWrap) {
+                const style = photoWrap.getAttribute('style') || '';
+                const match = style.match(/url\\('(.*?)'\\)/);
+                if (match) {
+                    mediaUrl = match[1];
+                    mediaType = 'photo';
+                }
+            }
+            if (!mediaUrl) {
+                const videoTag = el.querySelector('video');
+                if (videoTag && videoTag.src) {
+                    mediaUrl = videoTag.src;
+                    mediaType = 'video';
+                }
+            }
 
-        # Text – try the dedicated class, then the bubble
-        text_div = widget.select_one(".tgme_widget_message_text")
-        if not text_div:
-            text_div = widget.select_one(".tgme_widget_message_bubble")
-        text = text_div.get_text("\n", strip=True) if text_div else ""
+            if (!mediaUrl) {
+                // Sometimes media is wrapped as a background of a link with class tgme_widget_message_photo_wrap
+                const linkPhoto = el.querySelector('a.tgme_widget_message_photo_wrap');
+                if (linkPhoto) {
+                    const style = linkPhoto.getAttribute('style') || '';
+                    const match = style.match(/url\\('(.*?)'\\)/);
+                    if (match) {
+                        mediaUrl = match[1];
+                        mediaType = 'photo';
+                    }
+                }
+            }
 
-        # Media
-        media_link = None
-        media_type = None
-        photo_link = widget.select_one(".tgme_widget_message_photo_wrap")
-        if photo_link:
-            style = photo_link.get("style", "")
-            bg = re.search(r"url\('(.*?)'\)", style)
-            if bg:
-                media_link, media_type = bg.group(1), "photo"
-        if not media_link:
-            video_tag = widget.find("video")
-            if video_tag:
-                media_link, media_type = video_tag.get("src"), "video"
+            msgs.push({
+                id: postId,
+                datetime: datetime,
+                text: text,
+                media_url: mediaUrl,
+                media_type: mediaType
+            });
+        });
+        return msgs;
+    }""")
 
-        if not text and media_link:
-            text = "📷 Photo" if media_type == "photo" else "🎬 Video"
+    # Filter new messages and sort newest first
+    new_msgs = [m for m in messages if m["id"] > last_id]
+    new_msgs.sort(key=lambda x: x["id"], reverse=True)
 
-        messages.append({
-            "id": post_id,
-            "date": dt,
-            "text": text,
-            "media_url": media_link,
-            "media_type": media_type,
-        })
+    # Remove exact duplicates (same id) that may appear due to multiple containers
+    seen_ids = set()
+    unique = []
+    for m in new_msgs:
+        if m["id"] not in seen_ids:
+            seen_ids.add(m["id"])
+            unique.append(m)
+    return unique
 
-    # Backward compatibility: if the above didn't work, try old class selector
-    if not messages:
-        for msg_div in soup.select(".tgme_widget_message_wrap"):
-            data_post = msg_div.get("data-post")
-            if not data_post:
-                continue
-            try:
-                chan, post_id_str = data_post.split("/")
-                post_id = int(post_id_str)
-            except:
-                continue
-            if post_id <= last_id:
-                continue
-
-            time_tag = msg_div.find("time")
-            dt_str = time_tag.get("datetime") if time_tag else ""
-            try:
-                dt = datetime.fromisoformat(dt_str).astimezone(timezone.utc)
-            except:
-                dt = datetime.now(timezone.utc)
-
-            text_div = msg_div.select_one(".tgme_widget_message_text") or msg_div.select_one(".tgme_widget_message_bubble")
-            text = text_div.get_text("\n", strip=True) if text_div else ""
-
-            media_link = None
-            media_type = None
-            photo_link = msg_div.select_one(".tgme_widget_message_photo_wrap")
-            if photo_link:
-                style = photo_link.get("style", "")
-                bg = re.search(r"url\('(.*?)'\)", style)
-                if bg:
-                    media_link, media_type = bg.group(1), "photo"
-            if not media_link:
-                video_tag = msg_div.find("video")
-                if video_tag:
-                    media_link, media_type = video_tag.get("src"), "video"
-
-            if not text and media_link:
-                text = "📷 Photo" if media_type == "photo" else "🎬 Video"
-
-            messages.append({
-                "id": post_id,
-                "date": dt,
-                "text": text,
-                "media_url": media_link,
-                "media_type": media_type,
-            })
-
-    # Deduplicate by id, keep first occurrence
-    seen = set()
-    unique_msgs = []
-    for m in messages:
-        if m["id"] not in seen:
-            seen.add(m["id"])
-            unique_msgs.append(m)
-    # Sort newest first
-    unique_msgs.sort(key=lambda x: x["id"], reverse=True)
-    return unique_msgs
-
-def format_message(msg, channel_name):
-    dt_str = msg["date"].strftime("%Y-%m-%d %H:%M:%S UTC")
-    header = f"## {dt_str} — {channel_name}\n"
-
-    if msg["media_url"] and msg["media_type"]:
-        local_path = download_media(msg["media_url"], channel_name, msg["id"], msg["media_type"])
-        if local_path:
-            if msg["media_type"] == "photo":
-                header += f"![Photo]({local_path})\n\n"
-            else:
-                header += f"[🎬 Video]({local_path})\n\n"
-
-    lines = msg["text"].splitlines()
-    quoted = "\n> ".join(lines) if lines else ""
-    return f"{header}> {quoted}\n\n"
-
-def main():
+async def main():
     channels = load_channels()
     state = load_state()
     is_first_run = not state
 
-    # Ensure content directory exists to prevent git add failure later
-    CONTENT_DIR.mkdir(parents=True, exist_ok=True)
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=True)
+        page = await browser.new_page()
 
-    all_new_entries = []
+        all_entries = []
 
-    for ch_name in channels:
-        clean_name = ch_name.lstrip("@")
-        last_id = state.get(ch_name, 0)
+        for ch_name in channels:
+            clean_name = ch_name.lstrip("@")
+            last_id = state.get(ch_name, 0)
 
-        pages_to_fetch = 3 if is_first_run else 1
-        before = None
-        new_msgs = []
-
-        for page in range(pages_to_fetch):
-            try:
-                html = fetch_page(clean_name, before)
-            except Exception as e:
-                print(f"  ❌ Failed to fetch {ch_name}: {e}")
-                break
-
-            msgs = extract_messages_from_html(html, clean_name, last_id)
-            print(f"    Found {len(msgs)} messages on this page (HTML length: {len(html)})")
-
+            msgs = await scrape_channel(page, clean_name, last_id)
             if not msgs:
-                break
+                print(f"  ℹ️ No new messages for {ch_name}")
+                continue
 
-            new_msgs.extend(msgs)
-            before = msgs[-1]["id"]   # the oldest message on this page
-            time.sleep(1)
+            # Update state with the highest (newest) message id
+            state[ch_name] = msgs[0]["id"]
 
-        if not new_msgs:
-            print(f"  ℹ️ No new messages for {ch_name}")
-            continue
+            for msg in msgs:
+                # Parse datetime
+                dt = datetime.now(timezone.utc)
+                if msg["datetime"]:
+                    try:
+                        dt = datetime.fromisoformat(msg["datetime"]).astimezone(timezone.utc)
+                    except:
+                        pass
 
-        state[ch_name] = new_msgs[0]["id"]
+                # Download media if present
+                media_md = None
+                if msg["media_url"]:
+                    media_md = download_media(msg["media_url"], clean_name, msg["id"])
 
-        for msg in new_msgs:
-            entry = format_message(msg, clean_name)
-            all_new_entries.append(entry)
+                # Build markdown block
+                dt_str = dt.strftime("%Y-%m-%d %H:%M:%S UTC")
+                header = f"## {dt_str} — {clean_name}\n"
+                if media_md:
+                    if msg["media_type"] == "photo":
+                        header += f"![Photo]({media_md})\n\n"
+                    else:
+                        header += f"[🎬 Video]({media_md})\n\n"
 
-    # Ensure telegram.md exists
+                text = msg["text"] or (("📷 Photo" if msg["media_type"]=="photo" else "🎬 Video") if msg["media_type"] else "")
+                lines = text.splitlines()
+                quoted = "\n> ".join(lines)
+                entry = f"{header}> {quoted}\n\n"
+                all_entries.append(entry)
+
+            print(f"  ✅ {ch_name}: added {len(msgs)} new messages")
+
+        await browser.close()
+
+    # Write output file
     if not OUTPUT_FILE.exists():
         save_md("# Telegram Channel Archive\n\n")
 
-    if all_new_entries:
-        existing_md = load_existing_md()
-        combined = "".join(all_new_entries) + existing_md
+    if all_entries:
+        existing = load_existing_md()
+        combined = "".join(all_entries) + existing
         save_md(combined)
-        print(f"✅ Added {len(all_new_entries)} new messages.")
+        print(f"✅ Total new messages added: {len(all_entries)}")
     else:
         print("ℹ️ No new messages across all channels.")
 
     save_state(state)
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
