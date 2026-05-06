@@ -5,7 +5,9 @@ on:
   workflow_dispatch:
     inputs:
       url:
-        description: 'Enter one or more Direct Download URLs (comma, space, or newline separated)'
+        description: >
+          Enter one or more Direct Download URLs.
+          Separate by commas, spaces, or newlines.
         required: true
 
 jobs:
@@ -23,45 +25,73 @@ jobs:
           sudo apt-get update -qq
           sudo apt-get install -y -qq aria2
 
-      - name: Download Files (aria2)
-        id: dl
+      - name: Parse URLs
+        id: parse
         run: |
           URLS_INPUT="${{ github.event.inputs.url }}"
           # Replace commas and newlines with spaces, then trim
           URLS=$(echo "$URLS_INPUT" | tr ',' ' ' | tr '\n' ' ')
-          read -ra URL_ARRAY <<< "$URLS"
-          
-          if [ ${#URL_ARRAY[@]} -eq 0 ]; then
-            echo "No URLs provided"
-            exit 1
-          fi
-          
+          # Write clean URL list to a temporary file (one URL per line)
+          echo "$URLS" | tr -s ' ' '\n' | sed '/^$/d' > urls.txt
+          NUM_URLS=$(wc -l < urls.txt)
+          echo "Detected $NUM_URLS URL(s):"
+          cat urls.txt
+          echo "NUM_URLS=$NUM_URLS" >> $GITHUB_OUTPUT
+
+      - name: Download files (separately)
+        run: |
           mkdir -p files-downloaded
-          aria2c -x 16 -s 16 -d files-downloaded --console-log-level=warn --summary-interval=10 "${URL_ARRAY[@]}"
-          
-          # Save list of downloaded filenames for later use
-          ls -1 files-downloaded > files-downloaded.txt
-          echo "FILENAMES<<EOF" >> $GITHUB_OUTPUT
-          cat files-downloaded.txt >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
+          while IFS= read -r url; do
+            echo "Downloading: $url"
+            # aria2c will save the file using the remote filename.
+            aria2c -x 16 -s 16 -d files-downloaded \
+              --console-log-level=warn --summary-interval=10 \
+              --auto-file-renaming=false "$url"
+          done < urls.txt
+        # If auto-renaming is off, aria2c will fail if a file already exists.
+        # We catch that in the next step.
+
+      - name: Handle filename collisions
+        run: |
+          cd files-downloaded
+          # Give each file a unique name in case of duplicates
+          for file in *; do
+            [ -f "$file" ] || continue
+            # If a file with this name already exists in the final list, suffix it
+            base="$file"
+            counter=1
+            while [ -e "../final/$base" ]; do
+              name="${file%.*}"    # filename without extension
+              ext="${file##*.}"    # extension (if any)
+              if [ "$ext" = "$file" ]; then
+                # no extension
+                base="${file}_$counter"
+              else
+                base="${name}_$counter.$ext"
+              fi
+              counter=$((counter + 1))
+            done
+            mv "$file" "../final/$base"
+          done
+          # Now all downloaded files are in ../final/ with unique names
 
       - name: Split and Zip (each file at archive root)
         run: |
-          mkdir -p direct
-          
-          for FILE in files-downloaded/*; do
-            [ -f "$FILE" ] || continue
-            BASENAME=$(basename "$FILE")
+          mkdir -p direct tmpzip final
+          # At this point files are in final/ (moved from previous step)
+          for file in final/*; do
+            [ -f "$file" ] || continue
+            fname=$(basename "$file")
             
-            # Temporary directory to hold just this file
             mkdir -p tmpzip
-            cp "$FILE" tmpzip/
+            cp "$file" "tmpzip/"
             
-            # Zip from inside tmpzip so the file lands at root
-            (cd tmpzip && zip -s 99m "../direct/${BASENAME}.zip" "${BASENAME}")
+            # Create split zip directly in direct/ with the same unique filename
+            (cd tmpzip && zip -s 99m "../direct/${fname}.zip" "${fname}")
             
             rm -rf tmpzip
           done
+          rm -rf final   # cleanup
 
       - name: Upload to direct folder
         env:
@@ -77,8 +107,8 @@ jobs:
           fi
 
           git add direct/
-          # Commit message shows which files were added
-          COMMIT_MSG="Add: $(tr '\n' ' ' < files-downloaded.txt | sed 's/ *$//') [skip ci]"
+          # Build commit message from the unique filenames
+          COMMIT_MSG="Add: $(ls -1 direct/ | tr '\n' ' ' | sed 's/ *$//') [skip ci]"
           git commit -m "$COMMIT_MSG" || echo "Nothing to commit"
 
           RETRIES=5
@@ -89,10 +119,6 @@ jobs:
               echo "Push succeeded."
               break
             else
-              if [ $i -lt $RETRIES ]; then
-                sleep 3
-              else
-                exit 1
-              fi
+              [ $i -lt $RETRIES ] && sleep 3 || exit 1
             fi
           done
