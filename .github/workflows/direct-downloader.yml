@@ -29,69 +29,74 @@ jobs:
         id: parse
         run: |
           URLS_INPUT="${{ github.event.inputs.url }}"
-          # Replace commas and newlines with spaces, then trim
-          URLS=$(echo "$URLS_INPUT" | tr ',' ' ' | tr '\n' ' ')
-          # Write clean URL list to a temporary file (one URL per line)
-          echo "$URLS" | tr -s ' ' '\n' | sed '/^$/d' > urls.txt
-          NUM_URLS=$(wc -l < urls.txt)
-          echo "Detected $NUM_URLS URL(s):"
+          # Replace commas and newlines with spaces, then clean up
+          URLS=$(echo "$URLS_INPUT" | tr ',' ' ' | tr '\n' ' ' | tr -s ' ' | sed 's/^ *//;s/ *$//')
+          if [ -z "$URLS" ]; then
+            echo "No URLs provided." >&2
+            exit 1
+          fi
+          echo "$URLS" | tr ' ' '\n' > urls.txt
+          echo "URLs to download:"
           cat urls.txt
-          echo "NUM_URLS=$NUM_URLS" >> $GITHUB_OUTPUT
+          NUM=$(wc -l < urls.txt)
+          echo "NUM_URLS=$NUM" >> $GITHUB_OUTPUT
 
-      - name: Download files (separately)
+      - name: Download and zip each file
         run: |
-          mkdir -p files-downloaded
+          mkdir -p direct
+          index=0
           while IFS= read -r url; do
-            echo "Downloading: $url"
-            # aria2c will save the file using the remote filename.
-            aria2c -x 16 -s 16 -d files-downloaded \
-              --console-log-level=warn --summary-interval=10 \
-              --auto-file-renaming=false "$url"
-          done < urls.txt
-        # If auto-renaming is off, aria2c will fail if a file already exists.
-        # We catch that in the next step.
-
-      - name: Handle filename collisions
-        run: |
-          cd files-downloaded
-          # Give each file a unique name in case of duplicates
-          for file in *; do
-            [ -f "$file" ] || continue
-            # If a file with this name already exists in the final list, suffix it
-            base="$file"
-            counter=1
-            while [ -e "../final/$base" ]; do
-              name="${file%.*}"    # filename without extension
-              ext="${file##*.}"    # extension (if any)
-              if [ "$ext" = "$file" ]; then
-                # no extension
-                base="${file}_$counter"
+            index=$((index + 1))
+            echo "----------------------------------------"
+            echo "Processing URL $index: $url"
+            
+            # Download into a unique temporary folder for this URL
+            DL_DIR="dl_$index"
+            mkdir -p "$DL_DIR"
+            aria2c -x 16 -s 16 -d "$DL_DIR" --console-log-level=warn --summary-interval=10 "$url"
+            
+            # Get the downloaded filename (there will be exactly one file)
+            DL_FILE=$(ls -1 "$DL_DIR" | head -n1)
+            if [ -z "$DL_FILE" ]; then
+              echo "Download failed or no file found for $url"
+              rm -rf "$DL_DIR"
+              continue
+            fi
+            echo "Downloaded: $DL_FILE"
+            
+            # Determine ZIP archive base name (without .zip part)
+            ZIP_BASE="$DL_FILE"
+            
+            # Handle name collisions in the direct/ folder:
+            # If a file named "direct/${ZIP_BASE}.zip" already exists (from a previous URL),
+            # append a numeric suffix (_1, _2, ...) until we get a unique name.
+            BASE_NAME="$ZIP_BASE"
+            COUNTER=1
+            while [ -e "direct/${BASE_NAME}.zip" ]; do
+              NAME="${ZIP_BASE%.*}"
+              EXT="${ZIP_BASE##*.}"
+              if [ "$EXT" = "$ZIP_BASE" ]; then
+                # No extension
+                BASE_NAME="${ZIP_BASE}_$COUNTER"
               else
-                base="${name}_$counter.$ext"
+                BASE_NAME="${NAME}_$COUNTER.$EXT"
               fi
-              counter=$((counter + 1))
+              COUNTER=$((COUNTER + 1))
             done
-            mv "$file" "../final/$base"
-          done
-          # Now all downloaded files are in ../final/ with unique names
-
-      - name: Split and Zip (each file at archive root)
-        run: |
-          mkdir -p direct tmpzip final
-          # At this point files are in final/ (moved from previous step)
-          for file in final/*; do
-            [ -f "$file" ] || continue
-            fname=$(basename "$file")
+            ZIP_NAME="${BASE_NAME}.zip"
+            echo "ZIP output: $ZIP_NAME"
             
-            mkdir -p tmpzip
-            cp "$file" "tmpzip/"
+            # Create temporary folder to hold only this file
+            TMPZIP="tmpzip_$index"
+            mkdir -p "$TMPZIP"
+            cp "$DL_DIR/$DL_FILE" "$TMPZIP/"
             
-            # Create split zip directly in direct/ with the same unique filename
-            (cd tmpzip && zip -s 99m "../direct/${fname}.zip" "${fname}")
+            # Create split zip with the file at the archive root
+            (cd "$TMPZIP" && zip -s 99m "../direct/${ZIP_NAME}" "$DL_FILE")
             
-            rm -rf tmpzip
-          done
-          rm -rf final   # cleanup
+            # Cleanup
+            rm -rf "$DL_DIR" "$TMPZIP"
+          done < urls.txt
 
       - name: Upload to direct folder
         env:
@@ -107,7 +112,6 @@ jobs:
           fi
 
           git add direct/
-          # Build commit message from the unique filenames
           COMMIT_MSG="Add: $(ls -1 direct/ | tr '\n' ' ' | sed 's/ *$//') [skip ci]"
           git commit -m "$COMMIT_MSG" || echo "Nothing to commit"
 
