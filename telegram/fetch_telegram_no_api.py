@@ -1,20 +1,17 @@
 #!/usr/bin/env python3
 """
-Scrape public Telegram channels (no API credentials) and download media.
+Scrape public Telegram channels (no API credentials) and download their media.
 Outputs telegram.md at the repository root.
 """
 import json
-import os
 import re
 import time
 import requests
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import urljoin
-
 from bs4 import BeautifulSoup
 
-BASE_DIR = Path(__file__).parent                # telegram/ folder
+BASE_DIR = Path(__file__).parent                # telegram/
 CHANNELS_FILE = BASE_DIR / "channels.json"
 STATE_FILE = BASE_DIR / "last_ids.json"
 OUTPUT_FILE = BASE_DIR.parent / "telegram.md"   # repo root
@@ -58,43 +55,59 @@ def download_media(url, channel_name, post_id, media_type="photo"):
         resp = requests.get(url, headers=HEADERS, timeout=30)
         resp.raise_for_status()
         local_path.write_bytes(resp.content)
-        # Relative path from repo root (telegram.md's location)
         return f"telegram/content/{local_name}"
     except Exception as e:
         print(f"  ⚠️ Failed to download {media_type} from {url}: {e}")
         return None
+
+def fetch_page(channel_name, before=None):
+    """Fetch a single page of the channel's public preview."""
+    url = f"https://t.me/s/{channel_name}"
+    if before:
+        url += f"?before={before}"
+    print(f"  📡 Fetching {url} ...")
+    resp = requests.get(url, headers=HEADERS, timeout=30)
+    resp.raise_for_status()
+    return resp.text
 
 def extract_messages_from_html(html, channel_name, last_id):
     """Parse t.me/s/... HTML and return list of message dicts (newest first)."""
     soup = BeautifulSoup(html, "lxml")
     messages = []
 
-    for msg_div in soup.find_all("div", class_="tgme_widget_message_wrap"):
+    # Use CSS selector that works with multiple classes
+    for msg_div in soup.select(".tgme_widget_message_wrap"):
         data_post = msg_div.get("data-post")
         if not data_post:
             continue
         try:
-            chan, post_id_str = data_post.split("/")
+            _, post_id_str = data_post.split("/")
             post_id = int(post_id_str)
         except (ValueError, IndexError):
             continue
+
         if post_id <= last_id:
             continue
 
+        # Timestamp
         time_tag = msg_div.find("time")
         dt_str = time_tag.get("datetime") if time_tag else ""
         try:
             dt = datetime.fromisoformat(dt_str).astimezone(timezone.utc)
-        except:
+        except Exception:
             dt = datetime.now(timezone.utc)
 
-        text_div = msg_div.find("div", class_="tgme_widget_message_text")
+        # Text content – try the dedicated text class first, fallback to the bubble
+        text_div = msg_div.select_one(".tgme_widget_message_text")
+        if not text_div:
+            text_div = msg_div.select_one(".tgme_widget_message_bubble")
         text = text_div.get_text("\n", strip=True) if text_div else ""
 
+        # Media detection
         media_link = None
         media_type = None
 
-        photo_link = msg_div.find("a", class_="tgme_widget_message_photo_wrap")
+        photo_link = msg_div.select_one(".tgme_widget_message_photo_wrap")
         if photo_link:
             style = photo_link.get("style", "")
             bg_match = re.search(r"url\('(.*?)'\)", style)
@@ -119,6 +132,7 @@ def extract_messages_from_html(html, channel_name, last_id):
             "media_type": media_type,
         })
 
+    # Sort newest first
     messages.sort(key=lambda x: x["id"], reverse=True)
     return messages
 
@@ -131,12 +145,9 @@ def format_message(msg, channel_name):
         local_path = download_media(msg["media_url"], channel_name, msg["id"], msg["media_type"])
         if local_path:
             if msg["media_type"] == "photo":
-                # Inline image display
-                media_md = f"![Photo]({local_path})\n\n"
+                header += f"![Photo]({local_path})\n\n"
             else:
-                # Video: clickable link (embedding not possible on GitHub)
-                media_md = f"[🎬 Video]({local_path})\n\n"
-            header += media_md
+                header += f"[🎬 Video]({local_path})\n\n"
 
     lines = msg["text"].splitlines()
     quoted = "\n> ".join(lines) if lines else ""
@@ -145,34 +156,47 @@ def format_message(msg, channel_name):
 def main():
     channels = load_channels()
     state = load_state()
+    is_first_run = not state   # empty dict = first run
 
     all_new_entries = []
 
     for ch_name in channels:
         clean_name = ch_name.lstrip("@")
-        url = f"https://t.me/s/{clean_name}"
-        print(f"📡 Fetching {url} ...")
-        try:
-            resp = requests.get(url, headers=HEADERS, timeout=30)
-            resp.raise_for_status()
-        except Exception as e:
-            print(f"  ❌ Failed to fetch {url}: {e}")
-            continue
-
         last_id = state.get(ch_name, 0)
-        messages = extract_messages_from_html(resp.text, clean_name, last_id)
 
-        if not messages:
+        # ---- Pagination for first run: fetch up to 3 pages ----
+        pages_to_fetch = 3 if is_first_run else 1
+        before = None
+        new_msgs = []
+        for _ in range(pages_to_fetch):
+            try:
+                html = fetch_page(clean_name, before)
+            except Exception as e:
+                print(f"  ❌ Failed to fetch {ch_name}: {e}")
+                break
+
+            msgs = extract_messages_from_html(html, clean_name, last_id)
+            if not msgs:
+                break
+
+            new_msgs.extend(msgs)
+            before = msgs[-1]["id"]   # next page starts before the oldest message we just got
+            time.sleep(1)
+
+        if not new_msgs:
             print(f"  ℹ️ No new messages for {ch_name}")
             continue
 
-        state[ch_name] = messages[0]["id"]
+        # Update state with the highest message id
+        state[ch_name] = new_msgs[0]["id"]
 
-        for msg in messages:
+        for msg in new_msgs:
             entry = format_message(msg, clean_name)
             all_new_entries.append(entry)
 
-        time.sleep(1)
+    # Ensure telegram.md always exists, even if empty
+    if not OUTPUT_FILE.exists():
+        save_md("# Telegram Channel Archive\n\n")
 
     if all_new_entries:
         existing_md = load_existing_md()
