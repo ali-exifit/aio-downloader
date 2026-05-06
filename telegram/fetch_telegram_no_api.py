@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Scrape public Telegram channels (no API credentials) and download their media.
+Scrape public Telegram channels (no API credentials) and download media.
+Outputs telegram.md at the repository root.
 """
 import json
 import os
@@ -16,8 +17,8 @@ from bs4 import BeautifulSoup
 BASE_DIR = Path(__file__).parent
 CHANNELS_FILE = BASE_DIR / "telegram" / "channels.json"
 STATE_FILE = BASE_DIR / "telegram" / "last_ids.json"
-OUTPUT_FILE = BASE_DIR / "telegram" / "telegram.md"
-CONTENT_DIR = BASE_DIR / "telegram" / "content"
+OUTPUT_FILE = BASE_DIR / "telegram.md"          # <-- now in root
+CONTENT_DIR = BASE_DIR / "telegram" / "content" # media still here
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
@@ -44,11 +45,10 @@ def load_existing_md():
     return ""
 
 def save_md(content):
-    OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_FILE.write_text(content, encoding="utf-8")
 
 def download_media(url, channel_name, post_id, media_type="photo"):
-    """Download a media file and return the local markdown link."""
+    """Download a media file and return the relative markdown link path."""
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)
     ext = ".jpg" if media_type == "photo" else ".mp4"
     local_name = f"{channel_name}_{post_id}_{int(time.time())}{ext}"
@@ -58,34 +58,29 @@ def download_media(url, channel_name, post_id, media_type="photo"):
         resp = requests.get(url, headers=HEADERS, timeout=30)
         resp.raise_for_status()
         local_path.write_bytes(resp.content)
-        # Return relative markdown link
-        return f"content/{local_name}"
+        # Relative path from repo root (telegram.md's location)
+        return f"telegram/content/{local_name}"
     except Exception as e:
         print(f"  ⚠️ Failed to download {media_type} from {url}: {e}")
         return None
 
 def extract_messages_from_html(html, channel_name, last_id):
-    """Parse the t.me/s/... HTML and return a list of message dicts (newest first)."""
+    """Parse t.me/s/... HTML and return list of message dicts (newest first)."""
     soup = BeautifulSoup(html, "lxml")
     messages = []
 
-    # Each message is inside a div with class "tgme_widget_message_wrap"
     for msg_div in soup.find_all("div", class_="tgme_widget_message_wrap"):
         data_post = msg_div.get("data-post")
         if not data_post:
             continue
-
-        # data-post format: "channel/12345"
         try:
             chan, post_id_str = data_post.split("/")
             post_id = int(post_id_str)
         except (ValueError, IndexError):
             continue
-
         if post_id <= last_id:
             continue
 
-        # Extract date/time
         time_tag = msg_div.find("time")
         dt_str = time_tag.get("datetime") if time_tag else ""
         try:
@@ -93,18 +88,15 @@ def extract_messages_from_html(html, channel_name, last_id):
         except:
             dt = datetime.now(timezone.utc)
 
-        # Extract text
         text_div = msg_div.find("div", class_="tgme_widget_message_text")
         text = text_div.get_text("\n", strip=True) if text_div else ""
 
-        # Look for media (photo or video)
         media_link = None
         media_type = None
 
         photo_link = msg_div.find("a", class_="tgme_widget_message_photo_wrap")
         if photo_link:
             style = photo_link.get("style", "")
-            # Extract background-image URL from style: url('...')
             bg_match = re.search(r"url\('(.*?)'\)", style)
             if bg_match:
                 media_link = bg_match.group(1)
@@ -116,9 +108,8 @@ def extract_messages_from_html(html, channel_name, last_id):
                 media_link = video_tag.get("src")
                 media_type = "video"
 
-        # If the text is empty and there is media, set a placeholder
         if not text and media_link:
-            text = f"📷 Photo" if media_type == "photo" else f"🎬 Video"
+            text = "📷 Photo" if media_type == "photo" else "🎬 Video"
 
         messages.append({
             "id": post_id,
@@ -128,7 +119,6 @@ def extract_messages_from_html(html, channel_name, last_id):
             "media_type": media_type,
         })
 
-    # Sort by post id descending (newest first)
     messages.sort(key=lambda x: x["id"], reverse=True)
     return messages
 
@@ -138,16 +128,16 @@ def format_message(msg, channel_name):
     header = f"## {dt_str} — {channel_name}\n"
 
     if msg["media_url"] and msg["media_type"]:
-        # Try to download the media and get a local path
         local_path = download_media(msg["media_url"], channel_name, msg["id"], msg["media_type"])
         if local_path:
             if msg["media_type"] == "photo":
+                # Inline image display
                 media_md = f"![Photo]({local_path})\n\n"
             else:
-                media_md = f"<video src=\"{local_path}\" controls></video>\n\n"
+                # Video: clickable link (embedding not possible on GitHub)
+                media_md = f"[🎬 Video]({local_path})\n\n"
             header += media_md
 
-    # Quote the text
     lines = msg["text"].splitlines()
     quoted = "\n> ".join(lines) if lines else ""
     return f"{header}> {quoted}\n\n"
@@ -156,10 +146,9 @@ def main():
     channels = load_channels()
     state = load_state()
 
-    all_new_entries = []  # newest first across all channels
+    all_new_entries = []
 
     for ch_name in channels:
-        # Remove leading '@' if present for the URL
         clean_name = ch_name.lstrip("@")
         url = f"https://t.me/s/{clean_name}"
         print(f"📡 Fetching {url} ...")
@@ -177,15 +166,13 @@ def main():
             print(f"  ℹ️ No new messages for {ch_name}")
             continue
 
-        # Update state with the highest message id (first in the sorted list)
         state[ch_name] = messages[0]["id"]
 
-        # Format each new message (newest first)
         for msg in messages:
             entry = format_message(msg, clean_name)
             all_new_entries.append(entry)
 
-        time.sleep(1)  # be gentle
+        time.sleep(1)
 
     if all_new_entries:
         existing_md = load_existing_md()
