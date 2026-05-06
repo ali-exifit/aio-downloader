@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
     inputs:
       urls:
-        description: 'Twitter/X URLs – separate by comma, space, or newline'
+        description: 'Twitter/X URLs or "username l N" – separate by comma, space, or newline'
         required: true
 
 jobs:
@@ -24,19 +24,48 @@ jobs:
         with:
           node-version: 24
 
-      - name: Parse input and extract URLs
+      # ---------- Parse input: separate URLs from username+l specs ----------
+      - name: Parse input – build final URL list
         id: parse
         run: |
           INPUT="${{ github.event.inputs.urls }}"
           CLEANED=$(echo "$INPUT" | tr -d '"'\')
+
+          # Extract normal tweet URLs (twitter.com or x.com)
           URLS=$(echo "$CLEANED" | grep -oP 'https?://(www\.)?(twitter|x)\.com/[^\s,;]+' | sort -u)
-          if [ -z "$URLS" ]; then
-            echo "ERROR: No Twitter/X URLs found."
+          echo "$URLS" > urls_raw.txt
+
+          # Extract "username l N" patterns (case insensitive 'l')
+          # Allow optional @ prefix, username can contain alphanumeric and underscore
+          USER_LIMITS=$(echo "$CLEANED" | grep -oP '[A-Za-z0-9_]+[[:space:]]+[Ll][[:space:]]+[0-9]+' || true)
+
+          if [ -n "$USER_LIMITS" ]; then
+            echo "User limits found:"
+            echo "$USER_LIMITS"
+            while IFS= read -r line; do
+              # Parse fields: username, 'l', count
+              USER=$(echo "$line" | awk '{print $1}')
+              COUNT=$(echo "$line" | awk '{print $3}')
+              echo "::group::Fetching latest $COUNT tweets from @$USER"
+
+              # Use gallery-dl to get tweet URLs from user timeline, limit count
+              # --get-urls outputs only URLs; -o sets max number of tweets
+              gallery-dl --get-urls "https://twitter.com/$USER" -o "extractor.twitter.tweets.max=$COUNT" 2>/dev/null > "user_${USER}_urls.txt" || true
+              cat "user_${USER}_urls.txt" >> urls_raw.txt
+              echo "::endgroup::"
+            done <<< "$USER_LIMITS"
+          fi
+
+          # Final unique list
+          sort -u urls_raw.txt -o urls.txt
+          TOTAL=$(wc -l < urls.txt)
+          echo "Total tweet URLs to process: $TOTAL"
+          if [ "$TOTAL" -eq 0 ]; then
+            echo "ERROR: No Twitter URLs or valid usernames found."
             exit 1
           fi
-          echo "$URLS" > urls.txt
-          echo "Found $(wc -l < urls.txt) URL(s) to download."
 
+      # ---------- write cookies from secrets ----------
       - name: Write cookies from secrets
         run: |
           if [ -n "$TWITTER_COOKIES" ]; then
@@ -64,11 +93,12 @@ jobs:
             sudo apt-get install -y -qq jq ffmpeg
           fi
 
-      - name: Download Twitter content (images, videos, metadata)
+      # ---------- Download all media (with info.json) ----------
+      - name: Download attached media (images, videos) + JSON
         run: |
           mkdir -p twitter_downloads
 
-          GALLERY_DL_ARGS=""
+          GALLERY_DL_ARGS="--write-info-json"
           if [ -f "twitter-cookies.txt" ]; then
             GALLERY_DL_ARGS="$GALLERY_DL_ARGS --cookies twitter-cookies.txt"
           fi
@@ -76,16 +106,64 @@ jobs:
           gallery-dl $GALLERY_DL_ARGS \
                      --input-file urls.txt \
                      -d "twitter_downloads" \
-                     --write-info-json \
                      --verbose
 
-          echo "Downloads finished. Contents:"
+          echo "Media downloads finished."
           ls -lhR twitter_downloads/
 
+      # ---------- Process JSON → .txt (and handle text-only tweets) ----------
+      - name: Save tweet text as .txt (replace JSON)
+        run: |
+          # Process all tweet URLs listed in urls.txt
+          while IFS= read -r url; do
+            # Skip empty lines
+            [ -z "$url" ] && continue
+
+            # Extract username and tweet ID from URL
+            USER=$(echo "$url" | grep -oP '(?:twitter|x)\.com/\K[^/]+')
+            TWEET_ID=$(echo "$url" | grep -oP 'status/(\d+)' | cut -d/ -f2)
+            [ -z "$USER" ] && USER="unknown"
+            [ -z "$TWEET_ID" ] && TWEET_ID="unknown"
+
+            USER_DIR="twitter_downloads/twitter/$USER"
+            INFO_JSON="$USER_DIR/$TWEET_ID.json"   # gallery-dl names info.json as <tweet_id>.json
+
+            if [ -f "$INFO_JSON" ]; then
+              # Extract full_text from JSON, save as .txt
+              mkdir -p "$USER_DIR"
+              TEXT=$(jq -r '.full_text // .text // empty' "$INFO_JSON")
+              if [ -n "$TEXT" ]; then
+                echo "$TEXT" > "${USER_DIR}/${TWEET_ID}.txt"
+                echo "Text saved from info.json for tweet $TWEET_ID"
+              fi
+              rm -f "$INFO_JSON"   # remove JSON
+            else
+              # No media downloaded (text-only tweet) → fetch via oEmbed
+              echo "No media for tweet $TWEET_ID, fetching via oEmbed."
+              EMBED_URL="https://publish.twitter.com/oembed?url=$url"
+              EMBED_JSON=$(curl -s "$EMBED_URL")
+              TEXT=$(echo "$EMBED_JSON" | jq -r '.title // empty')
+              if [ -n "$TEXT" ]; then
+                # Remove HTML entities if any (gallery-dl already cleans, but just in case)
+                TEXT=$(echo "$TEXT" | sed 's/&amp;/\&/g; s/&lt;/</g; s/&gt;/>/g; s/&quot;/"/g')
+                mkdir -p "$USER_DIR"
+                echo "$TEXT" > "${USER_DIR}/${TWEET_ID}.txt"
+                echo "Text saved from oEmbed for tweet $TWEET_ID"
+              else
+                echo "Warning: Could not fetch text for $url"
+                echo "(unavailable or private)" > "${USER_DIR}/${TWEET_ID}.txt"
+              fi
+            fi
+          done < urls.txt
+
+          echo "JSON removed, text files ready."
+          ls -lhR twitter_downloads/
+
+      # ---------- Flatten and zip (grouped by username) ----------
       - name: Create ZIP archive (split into 99 MB parts, unique name)
         id: zip
         run: |
-          # bring username folders to top level
+          # Flatten: move username folders out of twitter_downloads/twitter/
           mv twitter_downloads/twitter/* twitter_downloads/ 2>/dev/null || true
           rmdir twitter_downloads/twitter 2>/dev/null || true
 
@@ -94,10 +172,12 @@ jobs:
           ZIP_NAME="twitter-contents-${RANDSTR}.zip"
           echo "Archive base name: ${ZIP_NAME}"
 
-          zip -s 99m -r "twitter/${ZIP_NAME}" twitter_downloads/
+          # Zip from inside twitter_downloads → username folders become root
+          cd twitter_downloads
+          zip -s 99m -r "../twitter/${ZIP_NAME}" .
 
           echo "Created archive parts:"
-          ls -lh twitter/
+          ls -lh ../twitter/
 
       - name: Upload to 'twitter' folder
         env:
