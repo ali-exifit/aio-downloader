@@ -34,21 +34,20 @@ jobs:
           FILENAME=$(ls -1 files-downloaded | head -n1)
           echo "FILENAME=$FILENAME" >> $GITHUB_OUTPUT
 
-      - name: Split and Zip (with direct-content folder inside)
+      - name: Split and Zip (file at root)
         run: |
           FILENAME="${{ steps.dl.outputs.FILENAME }}"
-          mkdir -p direct
-
-          # Create the structure: direct-content/FILENAME
-          mkdir -p tmpzip/direct-content
-          cp "files-downloaded/${FILENAME}" "tmpzip/direct-content/"
-
-          # Zip from inside tmpzip so the archive contains the direct-content folder
+          mkdir -p direct tmpzip
+      
+          # Copy the file directly into tmpzip (no subdirectory)
+          cp "files-downloaded/${FILENAME}" "tmpzip/"
+      
+          # Create split zip from inside tmpzip – file will be at the archive root
           cd tmpzip
-          zip -s 99m "../direct/${FILENAME}.zip" -r "direct-content"
+          zip -s 99m "../direct/${FILENAME}.zip" "${FILENAME}"
           cd ..
-
-          # Clean up temporary folder
+      
+          # Clean up
           rm -rf tmpzip
 
       - name: Upload to direct folder
