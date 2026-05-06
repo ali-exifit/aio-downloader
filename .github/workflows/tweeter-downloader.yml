@@ -43,7 +43,7 @@ jobs:
             echo "$TWITTER_COOKIES" > twitter-cookies.txt
             echo "Twitter cookies written."
           else
-            echo "No TWITTER_COOKIES secret found – proceeding without login (may miss NSFW/private content)."
+            echo "No TWITTER_COOKIES secret found – proceeding without login."
           fi
         env:
           TWITTER_COOKIES: ${{ secrets.TWITTER_COOKIES }}
@@ -53,7 +53,6 @@ jobs:
         id: tool-cache
         with:
           path: |
-            ~/.local/bin/yt-dlp
             ~/.cache/pip
           key: fetch-tools-${{ runner.os }}-v3
 
@@ -65,15 +64,6 @@ jobs:
       - name: Install tools
         run: |
           pip install gallery-dl
-
-          # keep yt-dlp only if you later want to fetch video threads (see note below)
-          # pip install yt-dlp
-          # or
-          # if ! command -v yt-dlp &> /dev/null; then
-          #   curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o ~/.local/bin/yt-dlp
-          #   chmod a+rx ~/.local/bin/yt-dlp
-          # fi
-
           if ! command -v jq &> /dev/null || ! command -v ffmpeg &> /dev/null; then
             sudo apt-get update -qq
             sudo apt-get install -y -qq jq ffmpeg
@@ -88,8 +78,6 @@ jobs:
             GALLERY_DL_ARGS="$GALLERY_DL_ARGS --cookies twitter-cookies.txt"
           fi
 
-          # gallery-dl will download all images, videos, and even polls/cards
-          # --write-info-json saves tweet text as .json (if you want it)
           gallery-dl $GALLERY_DL_ARGS \
                      --input-file urls.txt \
                      -d "twitter_downloads" \
@@ -106,7 +94,11 @@ jobs:
           RANDSTR=$(uuidgen | tr '[:upper:]' '[:lower:]' | tr -d '-' | head -c 8)
           ZIP_NAME="twitter-contents-${RANDSTR}.zip"
           echo "Archive base name: ${ZIP_NAME}"
-          zip -j -s 99m -r "twitter/${ZIP_NAME}" twitter_downloads/
+
+          # ---------- FIX: removed -j to keep directory structure ----------
+          zip -s 99m -r "twitter/${ZIP_NAME}" twitter_downloads/
+
+          echo "Created archive parts:"
           ls -lh twitter/
 
       - name: Upload to 'twitter' folder
