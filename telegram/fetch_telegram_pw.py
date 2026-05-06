@@ -211,9 +211,19 @@ async def main():
                 dt_utc = datetime(2000,1,1, tzinfo=ZoneInfo("UTC"))
                 if m["datetime"]:
                     try:
-                        dt_utc = datetime.fromisoformat(m["datetime"]).astimezone(ZoneInfo("UTC"))
-                    except:
-                        pass
+                        # Robust parsing: handle "2025-07-10T14:30:00+00:00" as well as "2025-07-10T14:30:00"
+                        dt_raw = datetime.fromisoformat(m["datetime"])
+                    except ValueError:
+                        dt_raw = None
+
+                    if dt_raw is not None:
+                        if dt_raw.tzinfo is None:
+                            # Naive ➜ treat as UTC directly (Telegram provides UTC times)
+                            dt_utc = dt_raw.replace(tzinfo=ZoneInfo("UTC"))
+                        else:
+                            # Aware ➜ ensure it's in UTC
+                            dt_utc = dt_raw.astimezone(ZoneInfo("UTC"))
+
                 m["_dt_utc"] = dt_utc
                 m["_channel"] = clean_name
 
