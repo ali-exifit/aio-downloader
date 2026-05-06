@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
 """
 Scrape public Telegram channels with Playwright.
-- Scrols to fetch ALL new messages (no gaps).
+- Scrolls to fetch ALL new messages (no gaps).
 - Sorts by time across channels.
 - Shows Hijri-Shamsi date & Iran/Tehran time.
+Scroll limit:
+  - First run (no last_ids.json): 15 scrolls
+  - Subsequent runs: 50 scrolls (stops when reaching stored ID)
 """
-import asyncio, json, re, time
+import asyncio, json, time
 from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -25,7 +28,7 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
 
-# ---- helper functions (same as before) ----
+# ---- helper functions ----
 def load_channels():
     with open(CHANNELS_FILE, "r", encoding="utf-8") as f:
         return json.load(f)
@@ -71,29 +74,28 @@ def convert_to_jalali(utc_dt: datetime) -> str:
     jdate = jdatetime.datetime.fromgregorian(datetime=local_dt)
     return jdate.strftime("%Y/%m/%d %H:%M")
 
-# ---- main scraping logic ----
-async def scrape_channel_all(page, channel_name, last_id):
+# ---- scraping with adaptive scroll limit ----
+async def scrape_channel_all(page, channel_name, last_id, max_scrolls):
     """
-    Keep scrolling until we reach a message with id <= last_id or no new messages.
+    Keep scrolling until we reach a message with id <= last_id,
+    or we hit max_scrolls (prevents insane history load).
     Returns list of message dicts (newest first) with id > last_id.
     """
     url = f"https://t.me/s/{channel_name}"
     print(f"  🌐 Loading {url} ...")
     await page.goto(url, wait_until="networkidle", timeout=30000)
 
-    # Wait for initial message list
     try:
         await page.wait_for_selector("[data-post]", timeout=15000)
     except:
         print("    ❌ No messages found on initial page.")
         return []
 
-    all_messages = []           # list of raw message dicts from evaluate
+    all_messages = []
     seen_ids = set()
-    max_scroll_attempts = 15    # safety limit
 
-    for scroll_count in range(max_scroll_attempts):
-        # Extract all messages currently on the page
+    for scroll_count in range(1, max_scrolls + 1):
+        # Extract all visible messages
         current_msgs = await page.evaluate("""() => {
             const containers = document.querySelectorAll('[data-post]');
             const msgs = [];
@@ -106,15 +108,12 @@ async def scrape_channel_all(page, channel_name, last_id):
                 const postId = parseInt(parts[1]);
                 if (isNaN(postId)) return;
 
-                // Date
                 const timeEl = el.querySelector('time');
                 const datetime = timeEl ? timeEl.getAttribute('datetime') : '';
 
-                // Text
                 const textEl = el.querySelector('.tgme_widget_message_text');
                 const text = textEl ? textEl.innerText : '';
 
-                // Media
                 let mediaUrl = null, mediaType = null;
                 const photoWrap = el.querySelector('.tgme_widget_message_photo_wrap');
                 if (photoWrap) {
@@ -146,70 +145,70 @@ async def scrape_channel_all(page, channel_name, last_id):
             return msgs;
         }""")
 
-        # Add new ones (deduplicate)
         new_added = 0
         for m in current_msgs:
-            mid = m["id"]
-            if mid not in seen_ids:
-                seen_ids.add(mid)
+            if m["id"] not in seen_ids:
+                seen_ids.add(m["id"])
                 all_messages.append(m)
                 new_added += 1
 
-        print(f"    Scroll {scroll_count+1}: collected {len(all_messages)} unique messages so far.")
+        print(f"    Scroll {scroll_count}: total unique={len(all_messages)}, new this scroll={new_added}")
 
-        # Check if the oldest message we've seen already has id <= last_id
+        # Stop condition: we have messages and the oldest ones are no longer new
         if all_messages:
-            oldest_id = min(m["id"] for m in all_messages)
+            oldest_id = min(msg["id"] for msg in all_messages)
             if oldest_id <= last_id:
-                print(f"    Reached last_id ({last_id}) or earlier, stopping scroll.")
+                print(f"    Reached last_id ({last_id}) – stopping scroll.")
                 break
 
-        # If no new messages were added during this scroll, we've loaded everything
         if new_added == 0:
-            print("    No new messages added, likely reached end of history.")
+            print("    No new messages added – end of history.")
             break
 
-        # Scroll to the bottom of the page to trigger loading older messages
+        # Scroll down to load older messages
         await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-        await asyncio.sleep(2)          # wait for new content
-        # Wait for any new data-post container to appear, with a timeout
+        await asyncio.sleep(2)
+
         try:
             await page.wait_for_function(
                 f"document.querySelectorAll('[data-post]').length > {len(seen_ids)}",
                 timeout=5000
             )
         except:
-            # No more messages loaded
             print("    No further messages loaded after scroll.")
             break
 
-    # Filter and sort
+    # Filter and sort newest first
     filtered = [m for m in all_messages if m["id"] > last_id]
-    filtered.sort(key=lambda x: x["id"], reverse=True)  # newest first
+    filtered.sort(key=lambda x: x["id"], reverse=True)
     return filtered
 
 async def main():
     channels = load_channels()
     state = load_state()
+    is_first_run = not state
+
+    # Set scroll limit: first run = 15, later runs = 50
+    scroll_limit = 15 if is_first_run else 50
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
         page = await browser.new_page()
 
-        all_messages = []   # will hold dicts with _dt, _channel, etc.
+        all_messages = []   # will hold dicts with _dt_utc, _channel, etc.
 
         for ch_name in channels:
             clean_name = ch_name.lstrip("@")
             last_id = state.get(ch_name, 0)
 
-            msgs = await scrape_channel_all(page, clean_name, last_id)
+            msgs = await scrape_channel_all(page, clean_name, last_id, max_scrolls=scroll_limit)
             if not msgs:
                 print(f"  ℹ️ No new messages for {ch_name}")
                 continue
 
             # Attach parsed UTC datetime and channel name
             for m in msgs:
-                dt_utc = datetime(2000,1,1, tzinfo=ZoneInfo("UTC"))  # fallback
+                dt_utc = datetime(2000,1,1, tzinfo=ZoneInfo("UTC"))
                 if m["datetime"]:
                     try:
                         dt_utc = datetime.fromisoformat(m["datetime"]).astimezone(ZoneInfo("UTC"))
@@ -241,8 +240,7 @@ async def main():
         if msg["media_url"]:
             media_md = download_media(msg["media_url"], ch, msg["id"])
 
-        # Jalali date + Tehran time
-        jalali_str = convert_to_jalali(dt_utc)   # e.g., "۱۴۰۴/۱۲/۲۵ ۱۵:۴۵"
+        jalali_str = convert_to_jalali(dt_utc)
 
         header = f"## {jalali_str} — {ch}\n"
         if media_md:
@@ -264,7 +262,6 @@ async def main():
         if ch_msgs:
             state[ch_name] = max(m["id"] for m in ch_msgs)
 
-    # Write output
     if not OUTPUT_FILE.exists():
         save_md("# Telegram Channel Archive\n\n")
 
