@@ -11,6 +11,8 @@ on:
 jobs:
   actions:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true      # opt into Node.js 24 for actions
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -68,22 +70,18 @@ jobs:
 
       - name: Install tools
         run: |
-          # Python packages: yt-dlp (needed by gallery-dl) and gallery-dl itself
           pip install yt-dlp gallery-dl
 
-          # yt-dlp binary (optional, kept for potential fallback)
           if ! command -v yt-dlp &> /dev/null; then
             curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o ~/.local/bin/yt-dlp
             chmod a+rx ~/.local/bin/yt-dlp
           fi
 
-          # jq & ffmpeg (ffmpeg no longer used for remuxing, but kept for future use)
           if ! command -v jq &> /dev/null || ! command -v ffmpeg &> /dev/null; then
             sudo apt-get update -qq
             sudo apt-get install -y -qq jq ffmpeg
           fi
 
-          # Deno (optional)
           if ! command -v deno &> /dev/null; then
             curl -fsSL https://deno.land/install.sh | sh -s -- -y
             echo "$HOME/.deno/bin" >> $GITHUB_PATH
@@ -107,17 +105,27 @@ jobs:
           echo "Downloads finished. Contents:"
           ls -lhR instagram_downloads/
 
-      # ---------- create split ZIP archive (flattened, 99 MB parts) ----------
-      - name: Create ZIP archive (split into 99 MB parts)
+      # ---------- create split ZIP archive with unique random suffix ----------
+      - name: Create ZIP archive (split into 99 MB parts, unique name)
         id: zip
         run: |
-          TIMESTAMP=$(date +%Y%m%d_%H%M%S)
-          ZIP_NAME="instagram-contents-${TIMESTAMP}.zip"
           mkdir -p instagram
-          # -j            flatten all files into the ZIP root
-          # -s 99m        split into 99 MB chunks (creates .zip, .z01, .z02, ...)
-          # -r            recursive
+
+          # Generate a random 5-character suffix, ensuring it does not conflict
+          # with any existing archive in the repository.
+          while true; do
+            RANDSTR=$(cat /dev/urandom | tr -dc 'a-z0-9' | fold -w 5 | head -n 1)
+            # Check if any file starts with that name (full base name)
+            if ! ls instagram/instagram-contents-${RANDSTR}.* >/dev/null 2>&1; then
+              break
+            fi
+          done
+
+          ZIP_NAME="instagram-contents-${RANDSTR}.zip"
+          echo "Using archive base name: ${ZIP_NAME}"
+
           zip -j -s 99m -r "instagram/${ZIP_NAME}" instagram_downloads/
+
           echo "Created archive parts:"
           ls -lh instagram/
 
