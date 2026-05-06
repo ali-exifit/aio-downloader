@@ -65,10 +65,9 @@ jobs:
             sudo apt-get install -y -qq jq ffmpeg
           fi
 
-          # Install puppeteer (skip Chromium download – use system Chromium)
-          PUPPETEER_SKIP_DOWNLOAD=true npm install -g puppeteer
+          # Install puppeteer locally (skip Chromium download – use system Chromium)
+          PUPPETEER_SKIP_DOWNLOAD=true npm install puppeteer
 
-      # ---------- Download all attached media (images, videos) ----------
       - name: Download attached media (no JSON)
         run: |
           mkdir -p twitter_downloads
@@ -86,7 +85,6 @@ jobs:
           echo "Media downloads finished. Contents:"
           ls -lhR twitter_downloads/
 
-      # ---------- Screenshot each tweet (replaces info.json) ----------
       - name: Screenshot tweets as images (with full threads)
         run: |
           CHROMIUM_PATH=$(which chromium-browser || which chromium || which google-chrome-stable || echo "/usr/bin/chromium-browser")
@@ -110,7 +108,6 @@ jobs:
           });
 
           const context = browser.defaultBrowserContext();
-          // Inject cookies if present
           if (fs.existsSync(cookieFile)) {
             const cookiesText = fs.readFileSync(cookieFile, 'utf8').trim();
             if (cookiesText) {
@@ -148,12 +145,11 @@ jobs:
             await page.setViewport({ width: 600, height: 900 });
             await page.goto(url, { waitUntil: 'networkidle2', timeout: 30000 });
 
-            // Wait for the main tweet to appear
             await page.waitForSelector('article[data-testid="tweet"]', { timeout: 15000 }).catch(() =>
               console.log('Warning: tweet container not found')
             );
 
-            // 🌐 Expand full thread if the "Show this thread" link is present
+            // Expand full thread if "Show this thread" is present
             const showThreadSelector = 'a[href*="/status/"][role="link"] span';
             try {
               const showThreadBtn = await page.waitForSelector(showThreadSelector, { timeout: 3000 });
@@ -162,16 +158,12 @@ jobs:
                 if (text && text.includes('Show this thread')) {
                   console.log('→ Clicked "Show this thread"');
                   await showThreadBtn.click();
-                  // Wait for the thread to expand
                   await page.waitForTimeout(2000);
                   await page.waitForNetworkIdle({ idleTime: 1000, timeout: 10000 }).catch(() => {});
                 }
               }
-            } catch (_) {
-              // No "Show this thread" link – that’s fine
-            }
+            } catch (_) { /* no "Show this thread" link – that's fine */ }
 
-            // Full‑page screenshot captures the whole thread
             await page.screenshot({ path: outputFile, fullPage: true });
             console.log(`Saved: ${outputFile}`);
             await page.close();
@@ -184,11 +176,9 @@ jobs:
           export CHROMIUM_PATH="$CHROMIUM_PATH"
           node screenshot-tweets.mjs
 
-      # ---------- Flatten directory and zip ----------
       - name: Create ZIP archive (split into 99 MB parts, unique name)
         id: zip
         run: |
-          # Move username folders to top level (remove twitter_downloads/twitter/ prefix)
           mv twitter_downloads/twitter/* twitter_downloads/ 2>/dev/null || true
           rmdir twitter_downloads/twitter 2>/dev/null || true
 
