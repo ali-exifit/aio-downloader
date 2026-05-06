@@ -2,7 +2,7 @@
 
 **[راهنمای فارسی (Persian)](#راهنمای-فارسی)**
 
-> A collection of **GitHub Actions workflows** that let you download videos, images, and files from **YouTube**, **Instagram**, and **any direct URL** – all from your browser, **without running any software on your own computer**.
+> A collection of **GitHub Actions workflows** that let you download videos, images, and files from **YouTube**, **Instagram**, **X (Twitter)**, and **any direct URL** – all from your browser, **without running any software on your own computer**.
 
 ## Features
 
@@ -10,19 +10,21 @@
 |---|---|
 | **YouTube Downloader** | Downloads YouTube videos in your chosen resolution (including 4K) with optional FPS selection. Supports video-only and audio-only modes. Now also handles multiple URLs in a single run, each with its own arguments. |
 | **Instagram Downloader** | Downloads **all media** from Instagram posts, reels, stories, highlights, and profiles – including mixed carousels. Handles both images and videos. |
+| **X (Twitter) Downloader** | Downloads **all media** (images, videos) from X/Twitter posts and profiles. Requires login cookies. Uses `gallery-dl` under the hood. |
 | **Direct Downloader** | Downloads **any file** from a direct URL using `aria2c` (16 parallel connections, ultra-fast). Great for large files. |
 
 ✅ **All downloads are automatically split into 99 MB parts, zipped, and uploaded back to your repository** – you can download them anytime from GitHub.
 ✅ **No server, no VPS, and no local installation required** – everything runs on GitHub's free infrastructure.
 ✅ **Cookies are stored securely** as GitHub Secrets – never exposed in logs or code.
-✅ **Batch downloading** – paste up to 10+ Instagram links at once, separated by commas, spaces, or newlines.
-✅ **Concurrent runs** – You can trigger multiple workflow runs at the same time (e.g., download multiple YouTube videos, an Instagram batch, and multiple direct files – all in parallel). Each run is independent and won't interfere with the others.
+✅ **Batch downloading** – paste up to 10+ Instagram or X links at once, separated by commas, spaces, or newlines.
+✅ **Concurrent runs** – You can trigger multiple workflow runs at the same time (e.g., download multiple YouTube videos, an Instagram batch, an X batch, and multiple direct files – all in parallel). Each run is independent and won't interfere with the others.
 
 ## Requirements (Before You Start)
 
 - A **GitHub account** (free)
 - A **browser** (Chrome/Firefox/Edge) with the extension **"Get cookies.txt LOCALLY"** to export your login cookies
 - (Optional) An **Instagram account** if you want to download private/story content
+- An **X (Twitter) account** (required for the X downloader to work)
 
 ## How to Fork and Set Up
 
@@ -42,13 +44,13 @@ Click the **"Fork"** button at the top-right of this page.
 
 > ⚠️ If you skip this step, the workflow will fail when trying to upload the ZIP files.
 
-## How to Add Cookies (For YouTube & Instagram)
+## How to Add Cookies (For YouTube, Instagram & X)
 
-> **Note:** YouTube and Instagram often require login cookies to access certain content (e.g., private videos, stories, highlights). If you're only downloading public content, you can skip this step.
+> **Note:** YouTube and Instagram may require login cookies for certain content. X (Twitter) **REQUIRES** login cookies – otherwise the downloader will fail.
 
 ### 1. Export Cookies from Your Browser
 - Install the extension **"Get cookies.txt LOCALLY"** from the Chrome Web Store or Firefox Add-ons.
-- Log into **youtube.com** (for the YouTube downloader) or **instagram.com** (for the Instagram downloader) in your browser.
+- Log into **youtube.com** (for the YouTube downloader), **instagram.com** (for the Instagram downloader), or **x.com** (for the X downloader) in your browser.
 - Click the extension icon and choose **"Export"** (Netscape format).
 - Save the `.txt` file somewhere safe.
 
@@ -57,6 +59,7 @@ Click the **"Fork"** button at the top-right of this page.
 2. Click **"New repository secret"**
 3. Create a secret named **`YOUTUBE_COOKIES`** and paste the entire contents of your YouTube `cookies.txt` file.
 4. Create another secret named **`INSTAGRAM_COOKIES`** and paste your Instagram `cookies.txt` contents.
+5. Create a secret named **`X_COOKIES`** and paste your X (Twitter) `cookies.txt` contents.
 
 > ⚠️ **Never commit your cookie files directly to the repository.** The workflow automatically reads them from the secrets and creates a temporary file during execution.
 
@@ -65,7 +68,7 @@ Click the **"Fork"** button at the top-right of this page.
 ### YouTube Downloader
 1. Go to your forked repository → **Actions** → Select **"youtube-downloader"**
 2. Click the **"Run workflow"** button
-3. In the input box, type one or more entries, each on a new line, sparated with space, or separated by commas. Each entry is a URL followed by `v` or `a`, resolution/bitrate, and optional FPS.
+3. In the input box, type one or more entries, each on a new line or separated by commas. Each entry is a URL followed by `v` or `a`, resolution/bitrate, and optional FPS.
 
 **Examples:**
 
@@ -99,6 +102,22 @@ https://www.instagram.com/p/DX2y7oLDFOb/, https://www.instagram.com/reel/DVRXhn0
 
 > **Tip:** You can paste up to 10+ links at once – the downloader processes them all and bundles them into a single ZIP file.
 
+### X (Twitter) Downloader
+1. Go to **Actions** → Select **"x-downloader"**
+2. Click **"Run workflow"**
+3. In the input box, paste your X (Twitter) links – **separated by commas, spaces, or newlines**
+
+**Example:**
+
+```
+https://x.com/username/status/123456789, https://x.com/otheruser/status/987654321
+```
+
+> ⚠️ **You MUST add the `X_COOKIES` secret for this workflow to work.** See "How to Add Cookies" above.
+
+4. Click **"Run workflow"**
+5. When finished, the output ZIP will appear in the **`x/`** folder of your repository.
+
 ### Direct Downloader
 1. Go to **Actions** → Select **"direct-downloader"**
 2. Click **"Run workflow"**
@@ -120,13 +139,15 @@ your-repository/
 │   └── Video Title.mp4.zip  (YouTube downloads, split into parts if > 99 MB)
 ├── instagram/
 │   └── instagram-contents-YYYYMMDD_HHMMSS.zip  (All Instagram content bundled together)
+├── x/
+│   └── x-contents-XXXXXXXX.zip  (X/Twitter downloads, flattened and zipped)
 ├── direct/
 │   └── filename.zip  (Direct downloads, split into parts if > 99 MB)
 ```
-### Inside the Instagram ZIP
-When you open the Instagram ZIP, you'll see:
+### Inside the Instagram / X ZIPs
+When you open the Instagram or X ZIP, you'll see:
 ```
-instagram-content/
+instagram-content/  (or x_downloads/ for X)
 ├── instagram_moruhiko_388851...jpg
 ├── instagram_moruhiko_388851...jpg
 ├── instagram_israelinpersian_...webp
@@ -139,11 +160,12 @@ All files are flattened into a single folder for easy browsing. Filenames are pr
 
 - **GitHub Free Tier** allows up to **6 hours per job** (public repos get **unlimited minutes**).
 - Files larger than **99 MB** are automatically split into multi-part ZIP archives (`.z01`, `.z02`, ...). You need a tool like **7-Zip** or **WinRAR** to extract them.
-- For very large Instagram batches, consider splitting them into smaller groups to avoid hitting GitHub's storage limits.
+- For very large Instagram or X batches, consider splitting them into smaller groups to avoid hitting GitHub's storage limits.
+- **X (Twitter) downloader requires cookies** – it will not work without the `X_COOKIES` secret.
 
 ## Managing Repository Storage (5 GB Limit)
 
-GitHub repositories have a **5 GB soft limit** (and a hard limit of 100 GB, but it's best to stay under 5 GB for performance). If you download frequently, your `youtube/`, `instagram/`, and `direct/` folders can fill up quickly. To avoid issues, clean out old files regularly.
+GitHub repositories have a **5 GB soft limit** (and a hard limit of 100 GB, but it's best to stay under 5 GB for performance). If you download frequently, your `youtube/`, `instagram/`, `x/`, and `direct/` folders can fill up quickly. To avoid issues, clean out old files regularly.
 
 ### How to Delete Files or Folders via GitHub Web Interface
 
@@ -192,7 +214,7 @@ SOFTWARE.
 
 ## aio-downloader — دانلودر همهکاره با GitHub Actions
 
-> مجموعهای از **گردشکارهای GitHub Actions** که به شما امکان میدهند ویدیوها، تصاویر و فایلها را از **یوتیوب**، **اینستاگرام** و **هر لینک مستقیم** — مستقیماً از مرورگر خود و **بدون اجرای هیچ نرمافزاری روی کامپیوترتان** دانلود کنید.
+> مجموعهای از **گردشکارهای GitHub Actions** که به شما امکان میدهند ویدیوها، تصاویر و فایلها را از **یوتیوب**، **اینستاگرام**، **X (توییتر)** و **هر لینک مستقیم** — مستقیماً از مرورگر خود و **بدون اجرای هیچ نرمافزاری روی کامپیوترتان** دانلود کنید.
 
 ## ویژگیها
 
@@ -200,19 +222,21 @@ SOFTWARE.
 |---|---|
 | **دانلودر یوتیوب** | دانلود ویدیوهای یوتیوب با رزولوشن دلخواه (از جمله 4K) و انتخاب FPS. پشتیبانی از حالت فقط-ویدیو و فقط-صدا. همچنین میتوانید چندین URL را در یک اجرا با آرگومان‌های مجزا پردازش کنید. |
 | **دانلودر اینستاگرام** | دانلود **تمام محتوا** از پستها، ریلزها، استوریها، هایلایتها و پروفایلهای اینستاگرام — شامل کاروسلهای ترکیبی (عکس + ویدیو). |
+| **دانلودر X (توییتر)** | دانلود **تمام محتوا** (عکس، ویدیو) از پست‌ها و پروفایل‌های X/Twitter. نیاز به کوکی ورود دارد. از `gallery-dl` استفاده می‌کند. |
 | **دانلودر مستقیم** | دانلود **هر فایلی** از یک لینک مستقیم با `aria2c` (16 اتصال موازی، بسیار سریع). مناسب برای فایلهای حجیم. |
 
 ✅ **تمام دانلودها بهطور خودکار به قطعات ۹۹ مگابایتی تقسیم، فشرده و در مخزن شما آپلود میشوند** — هر زمان میتوانید آنها را از GitHub دانلود کنید.
 ✅ **بدون نیاز به سرور، VPS یا نصب نرمافزار** — همه چیز روی زیرساخت رایگان GitHub اجرا میشود.
 ✅ **کوکیها بهصورت امن در GitHub Secrets ذخیره میشوند** — هرگز در لاگها یا کد نمایش داده نمیشوند.
-✅ **دانلود دستهجمعی** — تا ۱۰+ لینک اینستاگرام را همزمان (با کاما، فاصله یا خط جدید جدا کنید) بچسبانید.
-✅ **اجرای همزمان** — میتوانید چندین گردشکار را همزمان اجرا کنید (مثلاً چند ویدیو از یوتیوب، یک دسته از اینستاگرام و چند فایل مستقیم، همه موازی). هر اجرا مستقل است و تداخلی با بقیه ندارد.
+✅ **دانلود دستهجمعی** — تا ۱۰+ لینک اینستاگرام یا X را همزمان (با کاما، فاصله یا خط جدید جدا کنید) بچسبانید.
+✅ **اجرای همزمان** — میتوانید چندین گردشکار را همزمان اجرا کنید (مثلاً چند ویدیو از یوتیوب، یک دسته از اینستاگرام، یک دسته از X و چند فایل مستقیم، همه موازی). هر اجرا مستقل است و تداخلی با بقیه ندارد.
 
 ## پیشنیازها (قبل از شروع)
 
 - یک **حساب GitHub** (رایگان)
 - یک **مرورگر** (Chrome/Firefox/Edge) با افزونه **"Get cookies.txt LOCALLY"** برای استخراج کوکیهای ورود
 - (اختیاری) یک **حساب اینستاگرام** اگر میخواهید محتوای خصوصی/استوری دانلود کنید
+- یک **حساب X (توییتر)** (برای استفاده از دانلودر X الزامی است)
 
 ## نحوه فورک کردن و راهاندازی
 
@@ -232,13 +256,13 @@ SOFTWARE.
 
 > ⚠️ اگر این مرحله را انجام ندهید، گردشکار هنگام تلاش برای آپلود فایلهای ZIP شکست خواهد خورد.
 
-## نحوه اضافه کردن کوکیها (برای یوتیوب و اینستاگرام)
+## نحوه اضافه کردن کوکیها (برای یوتیوب، اینستاگرام و X)
 
-> **توجه:** یوتیوب و اینستاگرام اغلب برای دسترسی به محتوای خاص (مثلاً ویدیوهای خصوصی، استوریها، هایلایتها) به کوکیهای ورود نیاز دارند. اگر فقط محتوای عمومی دانلود میکنید، میتوانید این مرحله را نادیده بگیرید.
+> **توجه:** یوتیوب و اینستاگرام ممکن است برای برخی محتواها به کوکی نیاز داشته باشند. X (توییتر) **حتماً** به کوکی نیاز دارد – در غیر این صورت دانلودر کار نخواهد کرد.
 
 ### ۱. استخراج کوکیها از مرورگر
 - افزونه **"Get cookies.txt LOCALLY"** را از فروشگاه Chrome یا Firefox نصب کنید.
-- در مرورگر خود وارد **youtube.com** (برای دانلودر یوتیوب) یا **instagram.com** (برای دانلودر اینستاگرام) شوید. (بهتر است یک تب پرایویت باز کنید و مجدد لاگین کنید برای بهترین کوکی ها)
+- در مرورگر خود وارد **youtube.com** (برای یوتیوب)، **instagram.com** (برای اینستاگرام) یا **x.com** (برای X) شوید.
 - روی آیکون افزونه کلیک کنید و **"Export"** (فرمت Netscape) را انتخاب کنید.
 - فایل `.txt` را در جای امنی ذخیره کنید.
 
@@ -247,6 +271,7 @@ SOFTWARE.
 2. روی **"New repository secret"** کلیک کنید.
 3. یک secret با نام **`YOUTUBE_COOKIES`** بسازید و محتوای کامل فایل `cookies.txt` یوتیوب را در آن بچسبانید.
 4. یک secret دیگر با نام **`INSTAGRAM_COOKIES`** بسازید و محتوای فایل `cookies.txt` اینستاگرام را در آن بچسبانید.
+5. یک secret با نام **`X_COOKIES`** بسازید و محتوای فایل `cookies.txt` ایکس (توییتر) را در آن بچسبانید.
 
 > ⚠️ **هرگز فایلهای کوکی را مستقیماً در مخزن commit نکنید.** گردشکار بهطور خودکار آنها را از secrets خوانده و یک فایل موقت در زمان اجرا ایجاد میکند.
 
@@ -255,7 +280,7 @@ SOFTWARE.
 ### دانلودر یوتیوب
 1. به مخزن فورکشده خود بروید → **Actions** → **"youtube-downloader"** را انتخاب کنید.
 2. روی دکمه **"Run workflow"** کلیک کنید.
-3. در کادر ورودی، یک یا چند درخواست را وارد کنید، هر کدام در یک خط جداگانه، یا با فاصله، و  یا با کاما از هم جدا شوند. هر درخواست شامل یک URL و `v` یا `a`، رزولوشن/بیتریت و FPS اختیاری است.
+3. در کادر ورودی، یک یا چند درخواست را وارد کنید، هر کدام در یک خط جداگانه یا با کاما از هم جدا شوند. هر درخواست شامل یک URL و `v` یا `a`، رزولوشن/بیتریت و FPS اختیاری است.
 
 **مثالها:**
 
@@ -289,6 +314,22 @@ https://www.instagram.com/p/DX2y7oLDFOb/, https://www.instagram.com/reel/DVRXhn0
 
 > **نکته:** میتوانید تا ۱۰+ لینک را همزمان بچسبانید — دانلودر همه را پردازش کرده و در یک فایل ZIP واحد بستهبندی میکند.
 
+### دانلودر X (توییتر)
+1. به **Actions** بروید → **"x-downloader"** را انتخاب کنید.
+2. روی **"Run workflow"** کلیک کنید.
+3. در کادر ورودی، لینکهای X (توییتر) خود را — **با کاما، فاصله یا خط جدید جدا کنید** — بچسبانید.
+
+**مثال:**
+
+```
+https://x.com/username/status/123456789, https://x.com/otheruser/status/987654321
+```
+
+> ⚠️ **حتماً باید secret با نام `X_COOKIES` را اضافه کرده باشید.** به بخش «نحوه اضافه کردن کوکیها» در بالا مراجعه کنید.
+
+4. روی **"Run workflow"** کلیک کنید.
+5. پس از اتمام، فایل ZIP خروجی در پوشه **`x/`** مخزن شما ظاهر میشود.
+
 ### دانلودر مستقیم
 1. به **Actions** بروید → **"direct-downloader"** را انتخاب کنید.
 2. روی **"Run workflow"** کلیک کنید.
@@ -310,13 +351,15 @@ your-repository/
 │   └── Video Title.mp4.zip  (دانلودهای یوتیوب، در صورت > 99MB به قطعات تقسیم میشوند)
 ├── instagram/
 │   └── instagram-contents-YYYYMMDD_HHMMSS.zip  (تمام محتوای اینستاگرام در یک ZIP)
+├── x/
+│   └── x-contents-XXXXXXXX.zip  (دانلودهای X/Twitter، فشرده و یکپارچه)
 ├── direct/
 │   └── filename.zip  (دانلودهای مستقیم، در صورت > 99MB به قطعات تقسیم میشوند)
 ```
-### داخل ZIP اینستاگرام
-هنگام باز کردن ZIP اینستاگرام، خواهید دید:
+### داخل ZIP اینستاگرام و X
+هنگام باز کردن ZIP اینستاگرام یا X، خواهید دید:
 ```
-instagram-content/
+instagram-content/  (یا x_downloads/ برای X)
 ├── instagram_moruhiko_388851...jpg
 ├── instagram_moruhiko_388851...jpg
 ├── instagram_israelinpersian_...webp
@@ -329,11 +372,12 @@ instagram-content/
 
 - **طرح رایگان GitHub** تا **۶ ساعت برای هر کار (job)** اجازه میدهد (مخازن عمومی **دقیقه نامحدود** دارند).
 - فایلهای بزرگتر از **۹۹ مگابایت** بهطور خودکار به آرشیوهای ZIP چندبخشی (`.z01`, `.z02`, ...) تقسیم میشوند. برای استخراج به نرمافزاری مانند **7-Zip** یا **WinRAR** نیاز دارید.
-- برای دستههای بسیار بزرگ اینستاگرام، آنها را به گروههای کوچکتر تقسیم کنید تا از محدودیتهای ذخیرهسازی GitHub فراتر نروید.
+- برای دستههای بسیار بزرگ اینستاگرام یا X، آنها را به گروههای کوچکتر تقسیم کنید تا از محدودیتهای ذخیرهسازی GitHub فراتر نروید.
+- **دانلودر X (توییتر) حتماً به کوکی نیاز دارد** – بدون `X_COOKIES` کار نخواهد کرد.
 
 ## مدیریت فضای ذخیرهسازی مخزن (محدودیت ۵ گیگابایت)
 
-مخازن GitHub دارای **محدودیت نرم ۵ گیگابایت** هستند (حد سخت ۱۰۰ گیگابایت، اما بهتر است زیر ۵ گیگابایت بمانید). اگر زیاد دانلود کنید، پوشههای `youtube/`، `instagram/` و `direct/` به سرعت پر میشوند. برای جلوگیری از مشکل، فایلهای قدیمی را به طور منظم پاک کنید.
+مخازن GitHub دارای **محدودیت نرم ۵ گیگابایت** هستند (حد سخت ۱۰۰ گیگابایت، اما بهتر است زیر ۵ گیگابایت بمانید). اگر زیاد دانلود کنید، پوشههای `youtube/`، `instagram/`، `x/` و `direct/` به سرعت پر میشوند. برای جلوگیری از مشکل، فایلهای قدیمی را به طور منظم پاک کنید.
 
 ### نحوه حذف فایلها یا پوشهها از طریق رابط وب GitHub
 
@@ -358,11 +402,11 @@ MIT License
 
 کپیرایت (c) 2025 ProAlit
 
-بدینوسیله به هر شخصی که یک کپی از این نرمافزار و فایلهای مستندات همراه آن («نرمافزار») را دریافت میکند، بهطور رایگان و بدون محدودیت اجازه داده میشود که از نرمافزار استفاده کند، آن را کپی، ویرایش، ادغام، منتشر، توزیع، زیرمجوز دهد و / یا بفروشد، و به افرادی که نرمافزار به آنها ارائه میشود اجازه انجام آن را بدهد، مشروط بر رعایت شرایط زیر:
+بدینوسیله به هر شخصی که یک کپی از این نرم افزار و فایلهای مستندات همراه آن («نرم افزار») را دریافت میکند، بهطور رایگان و بدون محدودیت اجازه داده میشود که از نرمافزار استفاده کند، آن را کپی، ویرایش، ادغام، منتشر، توزیع، زیرمجوز دهد و / یا بفروشد، و به افرادی که نرمافزار به آنها ارائه میشود اجازه انجام آن را بدهد، مشروط بر رعایت شرایط زیر:
 
-اعلان کپیرایت فوق و این اعلان مجوز باید در تمام کپیها یا بخشهای عمده نرمافزار گنجانده شود.
+اعلان کپی رایت فوق و این اعلان مجوز باید در تمام کپی ها یا بخشهای عمده نرم افزار گنجانده شود.
 
-نرمافزار «همانگونه که هست» ارائه میشود، بدون هیچگونه ضمانتی، صریح یا ضمنی، شامل اما نه محدود به ضمانتهای تجاری بودن، تناسب برای یک هدف خاص و عدم نقض حقوق. در هیچ صورت نویسندگان یا دارندگان کپیرایت در قبال هرگونه ادعا، خسارت یا مسئولیت دیگری که از استفاده یا در ارتباط با نرمافزار ناشی شود، مسئول نخواهند بود.
+نرم افزار «همانگونه که هست» ارائه میشود، بدون هیچگونه ضمانتی، صریح یا ضمنی، شامل اما نه محدود به ضمانتهای تجاری بودن، تناسب برای یک هدف خاص و عدم نقض حقوق. در هیچ صورت نویسندگان یا دارندگان کپی رایت در قبال هرگونه ادعا، خسارت یا مسئولیت دیگری که از استفاده یا در ارتباط با نرم افزار ناشی شود، مسئول نخواهند بود.
 
 ## ⭐ اگر این پروژه را دوست دارید لطفاً به مخزن **ستاره** ⭐ بدهید — این کار به دیگران کمک میکند آن را پیدا کنند!
 
