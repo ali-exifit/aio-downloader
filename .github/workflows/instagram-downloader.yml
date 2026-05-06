@@ -111,19 +111,11 @@ jobs:
         run: |
           mkdir -p instagram
 
-          # Generate a random 5-character suffix, ensuring it does not conflict
-          # with any existing archive in the repository.
-          while true; do
-            RANDSTR=$(cat /dev/urandom | tr -dc 'a-z0-9' | fold -w 5 | head -n 1)
-            # Check if any file starts with that name (full base name)
-            if ! ls instagram/instagram-contents-${RANDSTR}.* >/dev/null 2>&1; then
-              break
-            fi
-          done
-
+          # Generate a unique 8-character suffix (no collision check needed)
+          RANDSTR=$(uuidgen | tr '[:upper:]' '[:lower:]' | tr -d '-' | head -c 8)
           ZIP_NAME="instagram-contents-${RANDSTR}.zip"
-          echo "Using archive base name: ${ZIP_NAME}"
 
+          echo "Using archive base name: ${ZIP_NAME}"
           zip -j -s 99m -r "instagram/${ZIP_NAME}" instagram_downloads/
 
           echo "Created archive parts:"
