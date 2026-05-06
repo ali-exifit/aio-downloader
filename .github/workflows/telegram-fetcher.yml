@@ -30,9 +30,36 @@ jobs:
         run: python telegram/fetch_telegram_pw.py
 
       - name: Commit and push changes
+        env:
+          BRANCH: ${{ github.ref_name }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config http.postBuffer 524288000
+
+          # Stage only if files exist (avoid error on empty content dir)
           if [ -d telegram/content ]; then git add telegram/content/; fi
           git add telegram/last_ids.json telegram.md
-          git diff --staged --quiet || (git commit -m "Update Telegram messages" && git push)
+
+          # Skip commit if nothing changed
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          # Commit with a descriptive message
+          git commit -m "Update Telegram messages [skip ci]"
+
+          # Retry loop with pull‑rebase to avoid conflicts
+          RETRIES=5
+          for i in $(seq 1 $RETRIES); do
+            echo "Push attempt $i..."
+            git pull --rebase --autostash origin "$BRANCH"
+            if git push origin "$BRANCH"; then
+              echo "Push succeeded."
+              break
+            else
+              echo "Push failed."
+              [ $i -lt $RETRIES ] && sleep 3 || exit 1
+            fi
+          done
