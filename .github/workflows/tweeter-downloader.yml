@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
     inputs:
       urls:
-        description: 'Twitter/X URLs or "username l N" – separate by comma, space, or newline'
+        description: 'Twitter/X URLs – separate by comma, space, or newline'
         required: true
 
 jobs:
@@ -24,42 +24,18 @@ jobs:
         with:
           node-version: 24
 
-      - name: Parse input – build final URL list
+      - name: Parse input and extract URLs
         id: parse
         run: |
           INPUT="${{ github.event.inputs.urls }}"
           CLEANED=$(echo "$INPUT" | tr -d '"'\')
-          URLS=$(echo "$CLEANED" | grep -oP 'https?://(www\.)?(twitter|x)\.com/[^/]+/status/[^\s,;]+' | sort -u)
-          echo "$URLS" > urls_raw.txt
-
-          USER_LIMITS=$(echo "$CLEANED" | grep -oP '[A-Za-z0-9_]+[[:space:]]+[Ll][[:space:]]+[0-9]+' || true)
-          COOKIE_ARG=""
-          [ -f "twitter-cookies.txt" ] && COOKIE_ARG="--cookies twitter-cookies.txt"
-
-          if [ -n "$USER_LIMITS" ]; then
-            echo "User limits found:"
-            echo "$USER_LIMITS"
-            while IFS= read -r line; do
-              USER=$(echo "$line" | awk '{print $1}')
-              COUNT=$(echo "$line" | awk '{print $3}')
-              echo "::group::Fetching latest $COUNT tweets from @$USER"
-              yt-dlp --flat-playlist --playlist-end "$COUNT" \
-                     --print "%(url)s" \
-                     $COOKIE_ARG \
-                     "https://x.com/$USER" 2>/dev/null \
-                     > "user_${USER}_urls.txt" || true
-              cat "user_${USER}_urls.txt" >> urls_raw.txt
-              echo "::endgroup::"
-            done <<< "$USER_LIMITS"
-          fi
-
-          sort -u urls_raw.txt -o urls.txt
-          TOTAL=$(wc -l < urls.txt)
-          echo "Total tweet URLs to process: $TOTAL"
-          if [ "$TOTAL" -eq 0 ]; then
-            echo "ERROR: No Twitter URLs or valid usernames found."
+          URLS=$(echo "$CLEANED" | grep -oP 'https?://(www\.)?(twitter|x)\.com/[^\s,;]+' | sort -u)
+          if [ -z "$URLS" ]; then
+            echo "ERROR: No Twitter/X URLs found."
             exit 1
           fi
+          echo "$URLS" > urls.txt
+          echo "Found $(wc -l < urls.txt) URL(s) to download."
 
       - name: Write cookies from secrets
         run: |
@@ -82,69 +58,43 @@ jobs:
 
       - name: Install tools
         run: |
-          pip install gallery-dl yt-dlp
+          pip install gallery-dl
           if ! command -v jq &> /dev/null || ! command -v ffmpeg &> /dev/null; then
             sudo apt-get update -qq
             sudo apt-get install -y -qq jq ffmpeg
           fi
 
-      - name: Download attached media + JSON
-        id: download
+      - name: Download Twitter content (images, videos, no JSON)
         run: |
           mkdir -p twitter_downloads
-          GALLERY_DL_ARGS="--write-info-json"
+
+          GALLERY_DL_ARGS=""
           if [ -f "twitter-cookies.txt" ]; then
             GALLERY_DL_ARGS="$GALLERY_DL_ARGS --cookies twitter-cookies.txt"
           fi
+
           gallery-dl $GALLERY_DL_ARGS \
                      --input-file urls.txt \
                      -d "twitter_downloads" \
                      --verbose
 
-      - name: Convert JSON to text (.txt) and handle text‑only tweets
-        run: |
-          while IFS= read -r url; do
-            [ -z "$url" ] && continue
-            USER=$(echo "$url" | grep -oP '(?:twitter|x)\.com/\K[^/]+')
-            TWEET_ID=$(echo "$url" | grep -oP 'status/(\d+)' | cut -d/ -f2)
-            [ -z "$USER" ] && USER="unknown"
-            [ -z "$TWEET_ID" ] && TWEET_ID="unknown"
-            USER_DIR="twitter_downloads/twitter/$USER"
-            INFO_JSON="$USER_DIR/$TWEET_ID.json"
-            mkdir -p "$USER_DIR"
+          echo "Downloads finished. Contents:"
+          ls -lhR twitter_downloads/
 
-            if [ -f "$INFO_JSON" ]; then
-              TEXT=$(jq -r '.full_text // .text // empty' "$INFO_JSON")
-              if [ -n "$TEXT" ]; then
-                echo "$TEXT" > "$USER_DIR/$TWEET_ID.txt"
-              else
-                echo "(empty tweet body)" > "$USER_DIR/$TWEET_ID.txt"
-              fi
-              rm -f "$INFO_JSON"
-            else
-              echo "No media for tweet $TWEET_ID, fetching via oEmbed."
-              EMBED_URL="https://publish.twitter.com/oembed?url=$url"
-              EMBED_JSON=$(curl -s "$EMBED_URL")
-              TEXT=$(echo "$EMBED_JSON" | jq -r '.title // empty' | sed 's/&amp;/\&/g; s/&lt;/</g; s/&gt;/>/g; s/&quot;/"/g')
-              if [ -n "$TEXT" ]; then
-                echo "$TEXT" > "$USER_DIR/$TWEET_ID.txt"
-              else
-                echo "(unavailable or private)" > "$USER_DIR/$TWEET_ID.txt"
-              fi
-            fi
-          done < urls.txt
-
-      - name: Create ZIP archive (username folders at root)
+      - name: Create ZIP archive (split into 99 MB parts, flattened, unique name)
         id: zip
         run: |
-          mv twitter_downloads/twitter/* twitter_downloads/ 2>/dev/null || true
-          rmdir twitter_downloads/twitter 2>/dev/null || true
+          # Flatten all media files inside twitter_downloads into the ZIP root
           mkdir -p twitter
           RANDSTR=$(uuidgen | tr '[:upper:]' '[:lower:]' | tr -d '-' | head -c 8)
           ZIP_NAME="twitter-contents-${RANDSTR}.zip"
-          cd twitter_downloads
-          zip -s 99m -r "../twitter/${ZIP_NAME}" .
-          cd ..
+          echo "Archive base name: ${ZIP_NAME}"
+
+          # -j = junk (don't store directory paths)
+          # -r = recursive
+          # -s 99m = split at 99 MB
+          zip -s 99m -j -r "twitter/${ZIP_NAME}" twitter_downloads/
+
           echo "Created archive parts:"
           ls -lh twitter/
 
@@ -155,12 +105,15 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git config http.postBuffer 524288000
+
           if [ ! -d "twitter" ] || [ -z "$(ls -A twitter)" ]; then
             echo "Nothing to upload."
             exit 0
           fi
+
           git add twitter/
           git commit -m "Add Twitter batch download [skip ci]" || echo "Nothing to commit"
+
           RETRIES=5
           for i in $(seq 1 $RETRIES); do
             echo "Push attempt $i..."
