@@ -15,11 +15,6 @@ jobs:
         with:
           persist-credentials: true
 
-      # ------------------------------------------------
-      # (Optional) Set up Node.js if you plan to run
-      # JavaScript/TypeScript scripts. Currently not used.
-      # v22 is the latest LTS; v24 does not exist yet.
-      # ------------------------------------------------
       - name: Setup Node.js 24
         uses: actions/setup-node@v4
         with:
