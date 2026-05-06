@@ -10,21 +10,18 @@ on:
 jobs:
   actions:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - uses: actions/checkout@v4
         with:
           persist-credentials: true
 
-      - name: Setup Node.js 24
-        uses: actions/setup-node@v4
-        with:
-          node-version: 24
-
       - name: Install aria2
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y -qq aria2
-    
+
       - name: Download File (aria2)
         id: dl
         run: |
