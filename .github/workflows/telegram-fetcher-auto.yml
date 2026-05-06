@@ -1,4 +1,4 @@
-name: telegram-fetcher
+name: telegram-fetcher-auto
 
 on:
   schedule:
