@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
     inputs:
       url:
-        description: 'Enter the Direct Download URL'
+        description: 'Enter one or more Direct Download URLs (comma, space, or newline separated)'
         required: true
 
 jobs:
@@ -23,32 +23,45 @@ jobs:
           sudo apt-get update -qq
           sudo apt-get install -y -qq aria2
 
-      - name: Download File (aria2)
+      - name: Download Files (aria2)
         id: dl
         run: |
-          URL="${{ github.event.inputs.url }}"
-          mkdir -p files-downloaded
-          aria2c -x 16 -s 16 -d files-downloaded --console-log-level=warn --summary-interval=10 "$URL"
+          URLS_INPUT="${{ github.event.inputs.url }}"
+          # Replace commas and newlines with spaces, then trim
+          URLS=$(echo "$URLS_INPUT" | tr ',' ' ' | tr '\n' ' ')
+          read -ra URL_ARRAY <<< "$URLS"
           
-          # Get the filename
-          FILENAME=$(ls -1 files-downloaded | head -n1)
-          echo "FILENAME=$FILENAME" >> $GITHUB_OUTPUT
+          if [ ${#URL_ARRAY[@]} -eq 0 ]; then
+            echo "No URLs provided"
+            exit 1
+          fi
+          
+          mkdir -p files-downloaded
+          aria2c -x 16 -s 16 -d files-downloaded --console-log-level=warn --summary-interval=10 "${URL_ARRAY[@]}"
+          
+          # Save list of downloaded filenames for later use
+          ls -1 files-downloaded > files-downloaded.txt
+          echo "FILENAMES<<EOF" >> $GITHUB_OUTPUT
+          cat files-downloaded.txt >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
 
-      - name: Split and Zip (file at root)
+      - name: Split and Zip (each file at archive root)
         run: |
-          FILENAME="${{ steps.dl.outputs.FILENAME }}"
-          mkdir -p direct tmpzip
-      
-          # Copy the file directly into tmpzip (no subdirectory)
-          cp "files-downloaded/${FILENAME}" "tmpzip/"
-      
-          # Create split zip from inside tmpzip – file will be at the archive root
-          cd tmpzip
-          zip -s 99m "../direct/${FILENAME}.zip" "${FILENAME}"
-          cd ..
-      
-          # Clean up
-          rm -rf tmpzip
+          mkdir -p direct
+          
+          for FILE in files-downloaded/*; do
+            [ -f "$FILE" ] || continue
+            BASENAME=$(basename "$FILE")
+            
+            # Temporary directory to hold just this file
+            mkdir -p tmpzip
+            cp "$FILE" tmpzip/
+            
+            # Zip from inside tmpzip so the file lands at root
+            (cd tmpzip && zip -s 99m "../direct/${BASENAME}.zip" "${BASENAME}")
+            
+            rm -rf tmpzip
+          done
 
       - name: Upload to direct folder
         env:
@@ -64,7 +77,9 @@ jobs:
           fi
 
           git add direct/
-          git commit -m "Add: ${{ steps.dl.outputs.FILENAME }} [skip ci]" || echo "Nothing to commit"
+          # Commit message shows which files were added
+          COMMIT_MSG="Add: $(tr '\n' ' ' < files-downloaded.txt | sed 's/ *$//') [skip ci]"
+          git commit -m "$COMMIT_MSG" || echo "Nothing to commit"
 
           RETRIES=5
           for i in $(seq 1 $RETRIES); do
