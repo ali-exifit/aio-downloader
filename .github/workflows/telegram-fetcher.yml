@@ -24,7 +24,7 @@ jobs:
         run: pip install requests beautifulsoup4 lxml
 
       - name: Run scraper
-        run: python telegram/fetch_telegram_no_api.py
+        run: python telegram/fetch_telegram_no_api.py   # script is inside telegram/
 
       - name: Commit and push changes
         run: |
