@@ -54,12 +54,8 @@ jobs:
         with:
           path: |
             ~/.cache/pip
-          key: fetch-tools-${{ runner.os }}-v3
-
-      - name: Add cached tools to PATH
-        run: |
-          mkdir -p ~/.local/bin
-          echo "$HOME/.local/bin" >> $GITHUB_PATH
+            ~/.npm
+          key: fetch-tools-${{ runner.os }}-v4
 
       - name: Install tools
         run: |
@@ -69,7 +65,11 @@ jobs:
             sudo apt-get install -y -qq jq ffmpeg
           fi
 
-      - name: Download Twitter content (images, videos, metadata)
+          # Install puppeteer (skip Chromium download – use system Chromium)
+          PUPPETEER_SKIP_DOWNLOAD=true npm install -g puppeteer
+
+      # ---------- Download all attached media (images, videos) ----------
+      - name: Download attached media (no JSON)
         run: |
           mkdir -p twitter_downloads
 
@@ -81,21 +81,122 @@ jobs:
           gallery-dl $GALLERY_DL_ARGS \
                      --input-file urls.txt \
                      -d "twitter_downloads" \
-                     --write-info-json \
                      --verbose
 
-          echo "Downloads finished. Contents:"
+          echo "Media downloads finished. Contents:"
           ls -lhR twitter_downloads/
 
+      # ---------- Screenshot each tweet (replaces info.json) ----------
+      - name: Screenshot tweets as images (with full threads)
+        run: |
+          CHROMIUM_PATH=$(which chromium-browser || which chromium || which google-chrome-stable || echo "/usr/bin/chromium-browser")
+          echo "Using Chromium at: $CHROMIUM_PATH"
+
+          cat > screenshot-tweets.mjs << 'EOF'
+          import puppeteer from 'puppeteer';
+          import fs from 'fs';
+          import path from 'path';
+          import { fileURLToPath } from 'url';
+
+          const __dirname = path.dirname(fileURLToPath(import.meta.url));
+          const urls = fs.readFileSync('urls.txt', 'utf8').trim().split(/\r?\n/).filter(Boolean);
+          const outputBase = 'twitter_downloads/twitter';
+          const cookieFile = 'twitter-cookies.txt';
+          const chromePath = process.env.CHROMIUM_PATH || '/usr/bin/chromium-browser';
+
+          const browser = await puppeteer.launch({
+            executablePath: chromePath,
+            args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage']
+          });
+
+          const context = browser.defaultBrowserContext();
+          // Inject cookies if present
+          if (fs.existsSync(cookieFile)) {
+            const cookiesText = fs.readFileSync(cookieFile, 'utf8').trim();
+            if (cookiesText) {
+              const cookies = cookiesText.split('\n')
+                .filter(line => !line.startsWith('#') && line.trim())
+                .map(line => {
+                  const parts = line.split('\t');
+                  if (parts.length < 7) return null;
+                  return {
+                    name: parts[5],
+                    value: parts[6],
+                    domain: parts[0],
+                    path: parts[2],
+                    httpOnly: false,
+                    secure: parts[1] === 'TRUE'
+                  };
+                })
+                .filter(Boolean);
+              if (cookies.length) await context.setCookies(cookies);
+            }
+          }
+
+          for (const url of urls) {
+            const match = url.match(/(?:twitter|x)\.com\/([^/]+)/);
+            const username = match ? match[1] : 'unknown';
+            const userDir = path.join(outputBase, username);
+            fs.mkdirSync(userDir, { recursive: true });
+
+            const tweetIdMatch = url.match(/status\/(\d+)/);
+            const tweetId = tweetIdMatch ? tweetIdMatch[1] : 'unknown';
+            const outputFile = path.join(userDir, `${username}_${tweetId}_tweet.png`);
+
+            console.log(`Screenshotting: ${url}`);
+            const page = await browser.newPage();
+            await page.setViewport({ width: 600, height: 900 });
+            await page.goto(url, { waitUntil: 'networkidle2', timeout: 30000 });
+
+            // Wait for the main tweet to appear
+            await page.waitForSelector('article[data-testid="tweet"]', { timeout: 15000 }).catch(() =>
+              console.log('Warning: tweet container not found')
+            );
+
+            // 🌐 Expand full thread if the "Show this thread" link is present
+            const showThreadSelector = 'a[href*="/status/"][role="link"] span';
+            try {
+              const showThreadBtn = await page.waitForSelector(showThreadSelector, { timeout: 3000 });
+              if (showThreadBtn) {
+                const text = await page.evaluate(el => el.textContent, showThreadBtn);
+                if (text && text.includes('Show this thread')) {
+                  console.log('→ Clicked "Show this thread"');
+                  await showThreadBtn.click();
+                  // Wait for the thread to expand
+                  await page.waitForTimeout(2000);
+                  await page.waitForNetworkIdle({ idleTime: 1000, timeout: 10000 }).catch(() => {});
+                }
+              }
+            } catch (_) {
+              // No "Show this thread" link – that’s fine
+            }
+
+            // Full‑page screenshot captures the whole thread
+            await page.screenshot({ path: outputFile, fullPage: true });
+            console.log(`Saved: ${outputFile}`);
+            await page.close();
+          }
+
+          await browser.close();
+          console.log('All screenshots taken.');
+          EOF
+
+          export CHROMIUM_PATH="$CHROMIUM_PATH"
+          node screenshot-tweets.mjs
+
+      # ---------- Flatten directory and zip ----------
       - name: Create ZIP archive (split into 99 MB parts, unique name)
         id: zip
         run: |
+          # Move username folders to top level (remove twitter_downloads/twitter/ prefix)
+          mv twitter_downloads/twitter/* twitter_downloads/ 2>/dev/null || true
+          rmdir twitter_downloads/twitter 2>/dev/null || true
+
           mkdir -p twitter
           RANDSTR=$(uuidgen | tr '[:upper:]' '[:lower:]' | tr -d '-' | head -c 8)
           ZIP_NAME="twitter-contents-${RANDSTR}.zip"
           echo "Archive base name: ${ZIP_NAME}"
 
-          # ---------- FIX: removed -j to keep directory structure ----------
           zip -s 99m -r "twitter/${ZIP_NAME}" twitter_downloads/
 
           echo "Created archive parts:"
