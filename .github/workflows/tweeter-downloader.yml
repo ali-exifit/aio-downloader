@@ -31,7 +31,7 @@ jobs:
           CLEANED=$(echo "$INPUT" | tr -d '"'\')
           URLS=$(echo "$CLEANED" | grep -oP 'https?://(www\.)?(twitter|x)\.com/[^\s,;]+' | sort -u)
           if [ -z "$URLS" ]; then
-            echo "ERROR: No Twitter/X URLs found in the input."
+            echo "ERROR: No Twitter/X URLs found."
             exit 1
           fi
           echo "$URLS" > urls.txt
@@ -43,7 +43,7 @@ jobs:
             echo "$TWITTER_COOKIES" > twitter-cookies.txt
             echo "Twitter cookies written."
           else
-            echo "No TWITTER_COOKIES secret found – proceeding without login."
+            echo "No TWITTER_COOKIES secret found – proceeding without login (may miss NSFW/private content)."
           fi
         env:
           TWITTER_COOKIES: ${{ secrets.TWITTER_COOKIES }}
@@ -64,36 +64,37 @@ jobs:
 
       - name: Install tools
         run: |
-          pip install yt-dlp
+          pip install gallery-dl
 
-          if ! command -v yt-dlp &> /dev/null; then
-            curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o ~/.local/bin/yt-dlp
-            chmod a+rx ~/.local/bin/yt-dlp
-          fi
+          # keep yt-dlp only if you later want to fetch video threads (see note below)
+          # pip install yt-dlp
+          # or
+          # if ! command -v yt-dlp &> /dev/null; then
+          #   curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o ~/.local/bin/yt-dlp
+          #   chmod a+rx ~/.local/bin/yt-dlp
+          # fi
 
           if ! command -v jq &> /dev/null || ! command -v ffmpeg &> /dev/null; then
             sudo apt-get update -qq
             sudo apt-get install -y -qq jq ffmpeg
           fi
 
-      - name: Download Twitter content (tweets + threads + metadata)
+      - name: Download Twitter content (images, videos, metadata)
         run: |
           mkdir -p twitter_downloads
 
-          YTDL_ARGS="--no-warnings"
+          GALLERY_DL_ARGS=""
           if [ -f "twitter-cookies.txt" ]; then
-            YTDL_ARGS="$YTDL_ARGS --cookies twitter-cookies.txt"
+            GALLERY_DL_ARGS="$GALLERY_DL_ARGS --cookies twitter-cookies.txt"
           fi
 
-          # 🌐 Download entire threads (not just single tweet)
-          #   --extractor-args "twitter:threads=1"  → fetches the full conversation
-          yt-dlp $YTDL_ARGS \
-                 --extractor-args "twitter:threads=1" \
-                 --write-info-json \
-                 --embed-metadata \
-                 --output "twitter_downloads/%(uploader)s - %(id)s.%(ext)s" \
-                 --batch-file urls.txt \
-                 --verbose
+          # gallery-dl will download all images, videos, and even polls/cards
+          # --write-info-json saves tweet text as .json (if you want it)
+          gallery-dl $GALLERY_DL_ARGS \
+                     --input-file urls.txt \
+                     -d "twitter_downloads" \
+                     --write-info-json \
+                     --verbose
 
           echo "Downloads finished. Contents:"
           ls -lhR twitter_downloads/
@@ -104,7 +105,7 @@ jobs:
           mkdir -p twitter
           RANDSTR=$(uuidgen | tr '[:upper:]' '[:lower:]' | tr -d '-' | head -c 8)
           ZIP_NAME="twitter-contents-${RANDSTR}.zip"
-          echo "Using archive base name: ${ZIP_NAME}"
+          echo "Archive base name: ${ZIP_NAME}"
           zip -j -s 99m -r "twitter/${ZIP_NAME}" twitter_downloads/
           ls -lh twitter/
 
