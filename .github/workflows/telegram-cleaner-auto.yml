@@ -1,4 +1,4 @@
-name: Clean old Telegram media & archive (every 3 days Iran time)
+name: telegram-cleaner-auto
 
 on:
   schedule:
