@@ -77,7 +77,7 @@ jobs:
             chmod a+rx ~/.local/bin/yt-dlp
           fi
 
-          # jq & ffmpeg
+          # jq & ffmpeg (ffmpeg no longer used for remuxing, but kept for future use)
           if ! command -v jq &> /dev/null || ! command -v ffmpeg &> /dev/null; then
             sudo apt-get update -qq
             sudo apt-get install -y -qq jq ffmpeg
@@ -107,15 +107,18 @@ jobs:
           echo "Downloads finished. Contents:"
           ls -lhR instagram_downloads/
 
-      # ---------- create ZIP archive (flattened, direct from downloads) ----------
-      - name: Create ZIP archive
+      # ---------- create split ZIP archive (flattened, 99 MB parts) ----------
+      - name: Create ZIP archive (split into 99 MB parts)
         id: zip
         run: |
           TIMESTAMP=$(date +%Y%m%d_%H%M%S)
           ZIP_NAME="instagram-contents-${TIMESTAMP}.zip"
           mkdir -p instagram
-          zip -j "instagram/${ZIP_NAME}" instagram_downloads/* -r
-          echo "Created archive:"
+          # -j            flatten all files into the ZIP root
+          # -s 99m        split into 99 MB chunks (creates .zip, .z01, .z02, ...)
+          # -r            recursive
+          zip -j -s 99m -r "instagram/${ZIP_NAME}" instagram_downloads/
+          echo "Created archive parts:"
           ls -lh instagram/
 
       # ---------- upload to repository ----------
