@@ -1,0 +1,94 @@
+name: aio-cleaner
+
+on:
+  workflow_dispatch:
+    inputs:
+      platform:
+        description: 'Platform to clean'
+        required: true
+        type: choice
+        options:
+          - telegram
+          - youtube
+          - x
+          - instagram
+
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Clean selected platform
+        env:
+          PLATFORM: ${{ github.event.inputs.platform }}
+        run: |
+          python << 'EOF'
+          import shutil, os
+          from pathlib import Path
+
+          platform = os.environ["PLATFORM"]
+
+          if platform == "telegram":
+              content_dir = Path("telegram") / "content"
+              md_file = Path("telegram.md")
+              if content_dir.exists():
+                  shutil.rmtree(content_dir)
+                  print("🧹 Deleted telegram/content/")
+              else:
+                  print("ℹ️ telegram/content/ not found, nothing to delete")
+              if md_file.exists():
+                  md_file.unlink()
+                  print("🧹 Deleted telegram.md")
+              else:
+                  print("ℹ️ telegram.md not found, nothing to delete")
+          else:
+              folder = Path(platform)
+              if folder.exists() and folder.is_dir():
+                  shutil.rmtree(folder)
+                  print(f"🧹 Deleted {platform}/ folder")
+              else:
+                  print(f"ℹ️ {platform}/ folder not found, nothing to delete")
+          EOF
+
+      - name: Commit and push deletions
+        env:
+          BRANCH: ${{ github.ref_name }}
+          PLATFORM: ${{ github.event.inputs.platform }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config http.postBuffer 524288000
+
+          if [ "$PLATFORM" = "telegram" ]; then
+            git add -A telegram/content/ telegram.md 2>/dev/null || true
+          else
+            git add -A "$PLATFORM/" 2>/dev/null || true
+          fi
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "🧹 Clean $PLATFORM media (manual trigger) [skip ci]"
+
+          RETRIES=5
+          for i in $(seq 1 $RETRIES); do
+            echo "Push attempt $i..."
+            git pull --rebase --autostash origin "$BRANCH"
+            if git push origin "$BRANCH"; then
+              echo "Push succeeded."
+              break
+            else
+              echo "Push failed."
+              [ $i -lt $RETRIES ] && sleep 3 || exit 1
+            fi
+          done
