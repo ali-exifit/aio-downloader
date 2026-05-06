@@ -69,12 +69,12 @@ Click the **"Fork"** button at the top-right of this page.
 
 **Examples:**
 
-+++
+```
 https://www.youtube.com/watch?v=VIDEO_ID v max
 https://www.youtube.com/watch?v=VIDEO_ID v 1080 60
 https://www.youtube.com/watch?v=VIDEO_ID a max
 https://www.youtube.com/watch?v=VIDEO_ID v 4k, https://www.youtube.com/watch?v=VIDEO_ID a 128
-+++
+```
 
 - `v` = video, `a` = audio
 - Resolution: `max`, `min`, `1080`, `2k`, `4k`, etc.
@@ -90,9 +90,9 @@ https://www.youtube.com/watch?v=VIDEO_ID v 4k, https://www.youtube.com/watch?v=V
 
 **Example:**
 
-+++
+```
 https://www.instagram.com/p/DX2y7oLDFOb/, https://www.instagram.com/reel/DVRXhn0gjL3/, https://www.instagram.com/p/DX6US4uCNGb/
-+++
+```
 
 4. Click **"Run workflow"**
 5. When finished, the output ZIP will appear in the **`instagram/`** folder of your repository.
@@ -106,9 +106,9 @@ https://www.instagram.com/p/DX2y7oLDFOb/, https://www.instagram.com/reel/DVRXhn0
 
 **Example:**
 
-+++
+```
 https://example.com/path/to/large-file.zip, https://example.com/another-file.mp4
-+++
+```
 
 4. Click **"Run workflow"**
 5. The files will be downloaded with 16 parallel connections and uploaded to the **`direct/`** folder of your repository, split into 99 MB parts if needed.
@@ -259,12 +259,12 @@ SOFTWARE.
 
 **مثالها:**
 
-+++
+```
 https://www.youtube.com/watch?v=VIDEO_ID v max
 https://www.youtube.com/watch?v=VIDEO_ID v 1080 60
 https://www.youtube.com/watch?v=VIDEO_ID a max
 https://www.youtube.com/watch?v=VIDEO_ID v 4k, https://www.youtube.com/watch?v=VIDEO_ID a 128
-+++
+```
 
 - `v` = ویدیو، `a` = صدا
 - رزولوشن: `max`، `min`، `1080`، `2k`، `4k` و غیره.
@@ -280,9 +280,9 @@ https://www.youtube.com/watch?v=VIDEO_ID v 4k, https://www.youtube.com/watch?v=V
 
 **مثال:**
 
-+++
+```
 https://www.instagram.com/p/DX2y7oLDFOb/, https://www.instagram.com/reel/DVRXhn0gjL3/, https://www.instagram.com/p/DX6US4uCNGb/
-+++
+```
 
 4. روی **"Run workflow"** کلیک کنید.
 5. پس از اتمام، فایل ZIP خروجی در پوشه **`instagram/`** مخزن شما ظاهر میشود.
@@ -296,9 +296,9 @@ https://www.instagram.com/p/DX2y7oLDFOb/, https://www.instagram.com/reel/DVRXhn0
 
 **مثال:**
 
-+++
+```
 https://example.com/path/to/large-file.zip, https://example.com/another-file.mp4
-+++
+```
 
 4. روی **"Run workflow"** کلیک کنید.
 5. فایلها با ۱۶ اتصال موازی دانلود و در پوشه **`direct/`** مخزن شما آپلود میشوند (در صورت نیاز به قطعات ۹۹ مگابایتی تقسیم میشوند).
