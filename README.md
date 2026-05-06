@@ -65,7 +65,7 @@ Click the **"Fork"** button at the top-right of this page.
 ### YouTube Downloader
 1. Go to your forked repository → **Actions** → Select **"youtube-downloader"**
 2. Click the **"Run workflow"** button
-3. In the input box, type one or more entries, each on a new line or separated by commas. Each entry is a URL followed by `v` or `a`, resolution/bitrate, and optional FPS.
+3. In the input box, type one or more entries, each on a new line, sparated with space, or separated by commas. Each entry is a URL followed by `v` or `a`, resolution/bitrate, and optional FPS.
 
 **Examples:**
 
@@ -255,7 +255,7 @@ SOFTWARE.
 ### دانلودر یوتیوب
 1. به مخزن فورکشده خود بروید → **Actions** → **"youtube-downloader"** را انتخاب کنید.
 2. روی دکمه **"Run workflow"** کلیک کنید.
-3. در کادر ورودی، یک یا چند درخواست را وارد کنید، هر کدام در یک خط جداگانه یا با کاما از هم جدا شوند. هر درخواست شامل یک URL و `v` یا `a`، رزولوشن/بیتریت و FPS اختیاری است.
+3. در کادر ورودی، یک یا چند درخواست را وارد کنید، هر کدام در یک خط جداگانه، یا با فاصله، و  یا با کاما از هم جدا شوند. هر درخواست شامل یک URL و `v` یا `a`، رزولوشن/بیتریت و FPS اختیاری است.
 
 **مثالها:**
 
