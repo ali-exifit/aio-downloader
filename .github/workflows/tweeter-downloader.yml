@@ -1,0 +1,165 @@
+---
+name: twitter-downloader
+
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: 'Twitter/X URLs – separate by comma, space, or newline'
+        required: true
+
+jobs:
+  actions:
+    runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          persist-credentials: true
+
+      # ---------- setup Node.js 24 ----------
+      - name: Setup Node.js 24
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      # ---------- extract URLs from input ----------
+      - name: Parse input and extract URLs
+        id: parse
+        run: |
+          INPUT="${{ github.event.inputs.urls }}"
+          CLEANED=$(echo "$INPUT" | tr -d '"'\')
+          # match x.com and twitter.com URLs; remove quotes, trailing punctuation
+          URLS=$(echo "$CLEANED" | grep -oP 'https?://(www\.)?(twitter|x)\.com/[^\s,;]+' | sort -u)
+          if [ -z "$URLS" ]; then
+            echo "ERROR: No Twitter/X URLs found in the input."
+            exit 1
+          fi
+          echo "$URLS" > urls.txt
+          echo "Found $(wc -l < urls.txt) URL(s) to download."
+
+      # ---------- write cookies from secrets ----------
+      - name: Write cookies from secrets
+        run: |
+          if [ -n "$TWITTER_COOKIES" ]; then
+            echo "$TWITTER_COOKIES" > twitter-cookies.txt
+            echo "Twitter cookies written."
+          else
+            echo "No TWITTER_COOKIES secret found – proceeding without login (may fail for NSFW/private content)."
+          fi
+        env:
+          TWITTER_COOKIES: ${{ secrets.TWITTER_COOKIES }}
+
+      # ---------- cache & install tools ----------
+      - name: Restore cached tools
+        uses: actions/cache@v4
+        id: tool-cache
+        with:
+          path: |
+            ~/.local/bin/yt-dlp
+            ~/.deno
+            ~/.cache/pip
+          key: fetch-tools-${{ runner.os }}-v3
+
+      - name: Add cached tools to PATH
+        run: |
+          mkdir -p ~/.local/bin
+          echo "$HOME/.local/bin" >> $GITHUB_PATH
+          echo "$HOME/.deno/bin" >> $GITHUB_PATH
+
+      - name: Install tools
+        run: |
+          pip install yt-dlp
+
+          if ! command -v yt-dlp &> /dev/null; then
+            curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o ~/.local/bin/yt-dlp
+            chmod a+rx ~/.local/bin/yt-dlp
+          fi
+
+          if ! command -v jq &> /dev/null || ! command -v ffmpeg &> /dev/null; then
+            sudo apt-get update -qq
+            sudo apt-get install -y -qq jq ffmpeg
+          fi
+
+          if ! command -v deno &> /dev/null; then
+            curl -fsSL https://deno.land/install.sh | sh -s -- -y
+            echo "$HOME/.deno/bin" >> $GITHUB_PATH
+          fi
+
+      # ---------- download all Twitter/X URLs ----------
+      - name: Download Twitter content (media + tweet metadata)
+        run: |
+          mkdir -p twitter_downloads
+
+          YTDL_ARGS="--no-warnings"
+          if [ -f "twitter-cookies.txt" ]; then
+            YTDL_ARGS="$YTDL_ARGS --cookies twitter-cookies.txt"
+          fi
+
+          # --twitter-thread   → fetch the full thread when a single tweet URL is given
+          # --write-info-json  → save tweet text, author, timestamp etc. as .info.json
+          # --embed-metadata   → embed info into media files
+          yt-dlp $YTDL_ARGS \
+                 --twitter-thread \
+                 --write-info-json \
+                 --embed-metadata \
+                 --output "twitter_downloads/%(uploader)s - %(id)s.%(ext)s" \
+                 --batch-file urls.txt \
+                 --verbose
+
+          echo "Downloads finished. Contents:"
+          ls -lhR twitter_downloads/
+
+      # ---------- create split ZIP archive with unique random suffix ----------
+      - name: Create ZIP archive (split into 99 MB parts, unique name)
+        id: zip
+        run: |
+          mkdir -p twitter
+
+          # Generate a unique 8-character suffix
+          RANDSTR=$(uuidgen | tr '[:upper:]' '[:lower:]' | tr -d '-' | head -c 8)
+          ZIP_NAME="twitter-contents-${RANDSTR}.zip"
+
+          echo "Using archive base name: ${ZIP_NAME}"
+          zip -j -s 99m -r "twitter/${ZIP_NAME}" twitter_downloads/
+
+          echo "Created archive parts:"
+          ls -lh twitter/
+
+      # ---------- upload to repository ----------
+      - name: Upload to 'twitter' folder
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git config http.postBuffer 524288000
+
+          if [ ! -d "twitter" ] || [ -z "$(ls -A twitter)" ]; then
+            echo "Nothing to upload."
+            exit 0
+          fi
+
+          git add twitter/
+          git commit -m "Add Twitter batch download [skip ci]" || echo "Nothing to commit"
+
+          RETRIES=5
+          for i in $(seq 1 $RETRIES); do
+            echo "Push attempt $i..."
+            git pull --rebase --autostash origin "$BRANCH"
+            if git push origin "$BRANCH"; then
+              echo "Push succeeded."
+              break
+            else
+              if [ $i -lt $RETRIES ]; then
+                echo "Push rejected, retrying in 3 seconds..."
+                sleep 3
+              else
+                echo "Push failed after $RETRIES attempts."
+                exit 1
+              fi
+            fi
+          done
+          echo "All files uploaded to the 'twitter' folder."
