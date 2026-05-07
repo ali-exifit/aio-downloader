@@ -3,6 +3,436 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/17 23:02
+---
+
+## VahidOOnLine — post 238724
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_238724_1778182357.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+‌
+رسانه‌های داخلی ایران از شنیده شدن چندین صدای انفجار در مناطق جنوبی کشور از جمله بندرعباس، قشم و سیرک خبر داده‌اند.
+
+بر اساس گزارش‌ها، شهروندان بندرعباس دقایقی پیش چند صدای «شبیه به انفجار» در اطراف این شهر شنیده‌اند. به نوشته رسانه‌ها، هنوز منشا و محل دقیق این صداها مشخص نیست و بررسی‌ها برای روشن شدن ابعاد ماجرا ادامه دارد.
+
+همزمان برخی گزارش‌ها حاکی از شنیده شدن صدای انفجار در جزیره قشم، از جمله در محدوده اسکله مسافربری بهمن، و همچنین در شهرستان سیرک است.
+
+خبرگزاری حکومتی تسنیم به نقل از منابعی اعلام کرده برخی از این صداها «مرتبط با عملیات نیروی دریایی سپاه پاسداران» بوده و با هدف هشدار به کشتی‌ها درباره عبور از تنگه هرمز انجام شده است.
+
+با این حال، جزئیات بیشتری درباره ماهیت دقیق این انفجارها منتشر نشده و مقام‌های رسمی تاکنون توضیح شفافی در این‌باره ارائه نکرده‌اند.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 238723
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_238723_1778182358.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+تماس یک دختر ۹ ساله از رفسنجان
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 238722
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_238722_1778182360.jpg" alt="Photo">
+</div>
+<div dir="rtl">
+♦️ خبرگزاری فارس، وابسته به سپاه پاسداران، در خبری اختصاصی اعلام کرد که صداهای انفجار که پنجشنبه‌شب، ۱۷ اردیبهشت در حوالی بندرعباس شنیده شد، مربوط به «تبادل آتش» میان نیروهای مسلح جمهوری اسلامی و ایالات متحده بوده است. به گفته فارس، در جریان این تبادل آتش، بخش‌هایی از اسکله بهمن در جزیره قشم هدف قرار گرفته است.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## pm_afshaa — post 90309
+
+
+<div dir="rtl">
+🔴العربیه:حملات از طرف اسرائیل و امریکا نبوده
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90308
+
+
+<div dir="rtl">
+فارس:بررسی‌ها در بندرعباس نشان می‌دهد در جریان تبادل آتش میان نیروهای مسلح جمهوری اسلامی و دشمن بخش‌های تجاری اسکله بهمن هدف قرار گرفته
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90307
+
+
+<div dir="rtl">
+🔴خبرگزاری مهر حمله جنگنده های امارات عربی متحده به بنادر جنوبی ایران را تایید کرد
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90306
+
+
+<div dir="rtl">
+🔴صدای انفجار در قشم و بندر عباس 
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom 
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90305
+
+
+<div dir="rtl">
+🔴صدای انفجار در قشم و بندر عباس
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90304
+
+<div align="center">
+  <img src="telegram/content/pm_afshaa_90304_1778182361.jpg" alt="Photo">
+</div>
+<div dir="rtl">
+چندین هواپیمای سوخت‌رسان KC-135 نیروی هوایی ایالات متحده از امارات متحده عربی برخاستن
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## DEJradio — post 4484
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4484_1778182362.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+🚨
+⭕️ صدای انفجارها در مناطق بندرعباس و قشم ادامه دارد.
+
+#انفجار
+@DEJradio
+</div>
+
+## DEJradio — post 4483
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4483_1778182363.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+🎥
+🔸 علی رضوانی؛ بازجو-خبرنگار و قطعه‌ای از پازل سپاه و وزارت اطلاعات
+
+#اطلاعات #IRGCterrorists
+@DEJradio
+</div>
+
+## VahidOnline — post 75305
+
+<div align="center">
+  <img src="telegram/content/VahidOnline_75305_1778182366.jpg" alt="Photo">
+</div>
+<div dir="rtl">
+خبرگزاری فارس، وابسته به سپاه پاسداران، در خبری اختصاصی اعلام کرد که صداهای انفجار که پنجشنبه‌شب، ۱۷ اردیبهشت در حوالی بندرعباس شنیده شد، مربوط به «تبادل آتش» میان نیروهای مسلح جمهوری اسلامی و ایالات متحده بوده است.
+به گفته فارس، در جریان این تبادل آتش، بخش‌هایی از اسکله بهمن در جزیره قشم هدف قرار گرفته است.
+@VahidOOnLine
+
+📡 @VahidOnline
+</div>
+
+## Shin_Persian — post 5859
+
+<div align="center">
+  <img src="telegram/content/Shin_Persian_5859_1778182367.jpg" alt="Photo">
+</div>
+<div dir="rtl">
+Rapid Response 47 ✓ @RapidResponse47
+Thu, 07 May 2026 19:09:01 UTC
+
+𝕏 · @shin_persian
+</div>
+
+## ManotoTV — post 105103
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105103_1778182368.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+‌
+رسانه‌های داخلی ایران از شنیده شدن چندین صدای انفجار در مناطق جنوبی کشور از جمله بندرعباس، قشم و سیرک خبر داده‌اند.
+
+بر اساس گزارش‌ها، شهروندان بندرعباس دقایقی پیش چند صدای «شبیه به انفجار» در اطراف این شهر شنیده‌اند. به نوشته رسانه‌ها، هنوز منشا و محل دقیق این صداها مشخص نیست و بررسی‌ها برای روشن شدن ابعاد ماجرا ادامه دارد.
+
+همزمان برخی گزارش‌ها حاکی از شنیده شدن صدای انفجار در جزیره قشم، از جمله در محدوده اسکله مسافربری بهمن، و همچنین در شهرستان سیرک است.
+
+خبرگزاری حکومتی تسنیم به نقل از منابعی اعلام کرده برخی از این صداها «مرتبط با عملیات نیروی دریایی سپاه پاسداران» بوده و با هدف هشدار به کشتی‌ها درباره عبور از تنگه هرمز انجام شده است.
+
+با این حال، جزئیات بیشتری درباره ماهیت دقیق این انفجارها منتشر نشده و مقام‌های رسمی تاکنون توضیح شفافی در این‌باره ارائه نکرده‌اند.
+</div>
+
+## ManotoTV — post 105102
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105102_1778182369.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+تماس یک دختر ۹ ساله از رفسنجان
+</div>
+
+## FarsiVOA — post 217135
+
+
+<div dir="rtl">
+⚡️ماهیت ارائه اینترنت به گروههای خاص و برنامه‌های حکومت برای بسته نگه‌داشتن ارتباط دیجیتال عموم مردم؛ گفت‌وگو با امیر رشیدی
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 13620
+
+
+<div dir="rtl">
+https://youtube.com/live/f_XbdlsXjOY?feature=share
+
+تا 10 دقیقه دیگه لایو آغاز میشه
+</div>
+
+## Persian_Trend_Official — post 13619
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_13619_1778182372.jpg" alt="Photo">
+</div>
+<div dir="rtl">
+آخرین بروز رسانی فلایت رادار ....
+پرواز سوخت رسان های آمریکایی از فرودگاه های اسرائیلی به سوی خلیج فارس
+</div>
+
+## IranianMinds — post 19722
+
+
+<div dir="rtl">
+🔴 کانال 12 اسرائیل :
+
+اسرائیل هیچ نقشی در اتفاقات امشب ایران نداره
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19721
+
+
+<div dir="rtl">
+🔴 خبرگزاری مهر :
+
+داریم تحقیق میکنیم ببینیم امارات زده یا نه
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19720
+
+
+<div dir="rtl">
+🔴 صدای انفجار مجدد در قشم
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19719
+
+
+<div dir="rtl">
+🔴العربیه:
+
+حملات از طرف اسرائیل و امریکا نبوده است.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19718
+
+
+<div dir="rtl">
+🔴 خبرگزاری فارس :
+
+اسرائیل میگه ما نزدیم احتمالا کار امارات بوده داریم تحقیق میکنیم ببینیم کی زده
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19717
+
+
+<div dir="rtl">
+🔴 5 تا هواپیمای سوخت رسان از امارات بلند شدن @IranianMinds
+</div>
+
+## Dirty_Kids — post 389057
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389057_1778182372.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+🔴خبرگزاری فارس نوشت:
+بررسی‌ها در بندرعباس نشان می‌دهد در جریان تبادل آتش میان نیروهای مسلح جمهوری اسلامی ایران و دشمن بخش‌های تجاری اسکله بهمن هدف قرار گرفته است.
+
+
+
+🔴العربیه به نقل از یک مقام اسرائیلی:
+اسرائیل هیچ نقشی در انفجارهای اخیر ایران نداشته است.
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## manototv — post 105104
+
+<div align="center">
+  <a href="telegram/content/manototv_105104_1778182373.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+تماسی از تهران:
+«با همه سختی‌ها، هنوز باید پشت هم باشیم؛
+هیچ‌کس از بیرون قرار نیست نجاتمون بده، خودمون باید به هم کمک کنیم و بایستیم.»
+</div>
+
+## manototv — post 105103
+
+<div align="center">
+  <a href="telegram/content/manototv_105103_1778182376.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+‌
+رسانه‌های داخلی ایران از شنیده شدن چندین صدای انفجار در مناطق جنوبی کشور از جمله بندرعباس، قشم و سیرک خبر داده‌اند.
+
+بر اساس گزارش‌ها، شهروندان بندرعباس دقایقی پیش چند صدای «شبیه به انفجار» در اطراف این شهر شنیده‌اند. به نوشته رسانه‌ها، هنوز منشا و محل دقیق این صداها مشخص نیست و بررسی‌ها برای روشن شدن ابعاد ماجرا ادامه دارد.
+
+همزمان برخی گزارش‌ها حاکی از شنیده شدن صدای انفجار در جزیره قشم، از جمله در محدوده اسکله مسافربری بهمن، و همچنین در شهرستان سیرک است.
+
+خبرگزاری حکومتی تسنیم به نقل از منابعی اعلام کرده برخی از این صداها «مرتبط با عملیات نیروی دریایی سپاه پاسداران» بوده و با هدف هشدار به کشتی‌ها درباره عبور از تنگه هرمز انجام شده است.
+
+با این حال، جزئیات بیشتری درباره ماهیت دقیق این انفجارها منتشر نشده و مقام‌های رسمی تاکنون توضیح شفافی در این‌باره ارائه نکرده‌اند.
+</div>
+
+## manototv — post 105102
+
+<div align="center">
+  <a href="telegram/content/manototv_105102_1778182377.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+تماس یک دختر ۹ ساله از رفسنجان
+</div>
+
+## alonews — post 118469
+
+<div align="center">
+  <img src="telegram/content/alonews_118469_1778182380.jpg" alt="Photo">
+</div>
+<div dir="rtl">
+👈ارسالی از سیریک و گزارش شلیک و صدای جنگنده
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118468
+
+<div align="center">
+  <a href="telegram/content/alonews_118468_1778182381.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+👈منابع محلی: در اسکله مسافربری بهمن در قشم دود سیاه دیده می‌شود
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118467
+
+<div align="center">
+  <a href="telegram/content/alonews_118467_1778182381.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+🔴فوووووووووووووووووووری
+</div>
+
+## alonews — post 118466
+
+
+<div dir="rtl">
+🔴فوووووووووووووووووووری
+</div>
+
+## alonews — post 118465
+
+<div align="center">
+  <a href="telegram/content/alonews_118465_1778182382.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+👈میدل ایست : امارات متحده عربی به ایران حمله کرده
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118464
+
+<div align="center">
+  <a href="telegram/content/alonews_118464_1778182382.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+👈دوباره شنیده شدن صدای انفجار در بندر عباس و قشم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118463
+
+<div align="center">
+  <a href="telegram/content/alonews_118463_1778182382.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+👈فارس نیز به خبر برخی منابع اسراییلی اشاره کرده و از احتمال نقش داشتن امارات در حوادث امشب را مطرح کرده
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118462
+
+<div align="center">
+  <a href="telegram/content/alonews_118462_1778182383.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+👈العربیه: اسرائیل و آمریکا حمله نکردن
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/17 22:52
 ---
 
