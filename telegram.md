@@ -3,6 +3,332 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/18 00:22
+---
+
+## VahidOOnLine — post 238745
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_238745_1778187142.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+♦️تصاویر رسیده به ایندیپندنت فارسی، صدای انفجار و فعالیت پدافند هوایی در غرب تهران را بامداد جمعه ۱۸ اردیبهشت نشان می‌دهد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 238744
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_238744_1778187143.jpg" alt="Photo">
+</div>
+<div dir="rtl">
+فاکس‌نیوز اعلام کرد که ارتش آمریکا حملاتی را به بندر قشم و بندرعباس در ایران انجام داده است.
+
+پیش‌تر صداوسیما گزارش داد: «انفجار در اسکله بهمن قشم در جریان تبادل آتش میان نیروهای مسلح ایران و دشمن رخ داده است.»
+
+اسرائیل هیوم نیز به نقل از یک منبع اسرائیلی تایید کرد که تهران و واشینگتن در تنگه هرمز تبادل آتش داشته‌اند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8660
+
+
+<div dir="rtl">
+⚠️خبر فوری: به گفته یک مقام ارشد آمریکایی، ارتش ایالات متحده حملاتی را علیه جزیره قشم و بندرعباس ایران انجام داده است — به نقل از فاکس نیوز. @mwarmonitor
+</div>
+
+## pm_afshaa — post 90335
+
+
+<div dir="rtl">
+🔴فاکس نیوز تایید کرد حملات به قشم و بندرعباس توسط امریکا انجام شده 
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom 
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90334
+
+
+<div dir="rtl">
+🔴فاکس نیوز تایید کرد حملات به قشم و بندرعباس توسط امریکا انجام شده
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## DEJradio — post 4495
+
+
+<div dir="rtl">
+🚨
+🚨فاکس نیوز در خبری اعلام کرد ایالات متحده حملاتی به بندر قشم و بندرعباس در ایران انجام داده است. #آمریکا #قشم @DEJradio
+</div>
+
+## DEJradio — post 4494
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4494_1778187143.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+🚨
+⭕️ صدای انفجارها در مناطق بندرعباس و قشم ادامه دارد. #انفجار @DEJradio
+</div>
+
+## kianmeli1 — post 87246
+
+
+<div dir="rtl">
+🔴فوری-حمله هوایی به میناب
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87245
+
+<div align="center">
+  <a href="telegram/content/kianmeli1_87245_1778187144.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+🔴فوری-ریزپرنده های بسیاری به تهران حمله کرده اند
+https://t.me/kianmeli1
+</div>
+
+## IranIntlTV — post 336035
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336035_1778187145.jpg" alt="Photo">
+</div>
+<div dir="rtl">
+فاکس‌نیوز اعلام کرد که ارتش آمریکا حملاتی را به بندر قشم و بندرعباس در ایران انجام داده است.
+
+پیش‌تر صداوسیما گزارش داد: «انفجار در اسکله بهمن قشم در جریان تبادل آتش میان نیروهای مسلح ایران و دشمن رخ داده است.»
+
+اسرائیل هیوم نیز به نقل از یک منبع اسرائیلی تایید کرد که تهران و واشینگتن در تنگه هرمز تبادل آتش داشته‌اند.
+https://iranintl.com/202605075930
+</div>
+
+## Shin_Persian — post 5874
+
+
+<div dir="rtl">
+Jennifer Griffin ✓ @JenGriffinFNC
+Thu, 07 May 2026 20:36:57 UTC
+
+NEW: US military just carried out strikes on Iran’s Qeshm Port and Bandar Abbas: Senior US official tells me, but this is NOT a restarting of the war.
+
+MORE
+
+فارسی
+
+جدید: ارتش ایالات متحده به تازگی حملاتی را علیه بندر قشم و بندرعباس ایران انجام داده است: یک مقام ارشد آمریکایی به من گفت، اما این به معنای شروع مجدد جنگ نیست.
+
+بیشتر (MORE)
+
+𝕏 · @shin_persian
+</div>
+
+## Shin_Persian — post 5873
+
+
+<div dir="rtl">
+Shin ✓ @hey_itsmyturn
+Thu, 07 May 2026 20:47:54 UTC
+
+NOW @ 2047Z
+AA activity, western Tehran
+#Tehran Province, #Iran
+
+فارسی
+
+هم‌اکنون در ۲۰۴۷ زولو (۰۰:۱۷ به وقت تهران)
+فعالیت پدافند هوایی، غرب تهران
+#استان_تهران، #ایران
+
+𝕏 · @shin_persian
+</div>
+
+## Persian_Trend_Official — post 13635
+
+
+<div dir="rtl">
+#فوری
+
+🔴فاکس نیوز
+
+ایالات متحده حملاتی را به بندر قشم و بندرعباس ایران انجام داده است، اما یک مقام ارشد آمریکایی می‌گوید این به معنای از سرگیری جنگ نیست
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 19742
+
+
+<div dir="rtl">
+فک کنم این آتش بس فقط با بمب هسته ای میشکنه
+</div>
+
+## IranianMinds — post 19741
+
+
+<div dir="rtl">
+🔴 خبرگزاری مهر :
+
+صدای انفجار دیگری در بندرعباس شنیده شد
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19740
+
+
+<div dir="rtl">
+🔴 انفجار مجدد در بندرعباس
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19739
+
+
+<div dir="rtl">
+🔴 فاکس نیوز :
+
+دلیل حمله ی ایالات متحده هنوز مشخص نیست
+
+@IranianMinds
+</div>
+
+## Dirty_Kids — post 389071
+
+
+<div dir="rtl">
+لطفا فعلا مجتبی خامنه‌ای رو تا کنید بذارید یه گوشه تا ببینیم چی میشه.
+
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389070
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389070_1778187145.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+غرب تهران، ساعت ۱۲.۰۵ بامداد جمعه؛ فعالیت شدید پدافند دیده می‌شود.
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 118517
+
+<div align="center">
+  <a href="telegram/content/alonews_118517_1778187146.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+👈انفجار در میناب
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118516
+
+<div align="center">
+  <a href="telegram/content/alonews_118516_1778187146.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+🔴فووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووری
+</div>
+
+## alonews — post 118515
+
+
+<div dir="rtl">
+🔴فووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووری
+</div>
+
+## alonews — post 118514
+
+<div align="center">
+  <a href="telegram/content/alonews_118514_1778187147.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+👈فیلمی از سیریک، جنوب غربی ایران. حدود ۸ دقیقه پیش یک جسم ناشناس در آسمان پرواز می‌کرد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118513
+
+<div align="center">
+  <a href="telegram/content/alonews_118513_1778187147.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+👈انفجار در بندرعباس
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118512
+
+<div align="center">
+  <a href="telegram/content/alonews_118512_1778187148.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+🔴فوری/سنتکام مسئولیت حمله به بندرعباس، قشم و تهران را برعهده گرفت
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118511
+
+<div align="center">
+  <a href="telegram/content/alonews_118511_1778187148.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+🔴گزارش مردمی: غرب تهران، محدوده فردوس غرب. صدا شدید درگیری پدافند
+
+
+✅@AloNews
+</div>
+
+## alonews — post 118510
+
+<div align="center">
+  <a href="telegram/content/alonews_118510_1778187149.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+👈فاکس نیوز تایید کرد حملات به قشم و بندرعباس توسط امریکا انجام شده 
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118509
+
+<div align="center">
+  <a href="telegram/content/alonews_118509_1778187149.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+👈هم اکنون فعالیت پدافند در غرب تهران
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/18 00:12
 ---
 
