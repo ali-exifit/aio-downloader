@@ -2,7 +2,7 @@
 
 **[راهنمای فارسی (Persian)](#راهنمای-فارسی)**
 
-> A collection of **GitHub Actions workflows** that let you download videos, images, and files from **YouTube**, **Instagram**, **X (Twitter)**, **any direct URL**, and now **archive public Telegram channels** — all from your browser, **without running any software on your own computer**.
+> A collection of **GitHub Actions workflows** that let you download videos, images, and files from **YouTube**, **Instagram**, **X (Twitter)**, **any direct URL**, **archive public Telegram channels**, and now **capture any website as a PDF** — all from your browser, **without running any software on your own computer**.
 
 ## Features
 
@@ -12,14 +12,15 @@
 | **Instagram Downloader** | Downloads **all media** from Instagram posts, reels, stories, highlights, and profiles – including mixed carousels. Handles both images and videos. |
 | **X (Twitter) Downloader** | Downloads **all media** (images, videos) from X/Twitter posts and profiles. Requires login cookies. Uses `gallery-dl` under the hood. |
 | **Direct Downloader** | Downloads **any file** from a direct URL using `aria2c` (16 parallel connections, ultra-fast). Great for large files. |
-| **🆕 Telegram Channel Archiver** | Scrapes **public Telegram channels** every 15 minutes (cron) or on manual trigger – saves all new messages, photos, and videos as a Markdown archive in your repo. No API key or bot needed — works with Playwright on any public channel. |
-| **🆕 AIO Cleaner (All-in-One Cleaner)** | **One manual workflow to clean up storage for all platforms.** You choose exactly what to delete: Telegram media, YouTube files, X (Twitter) files, Instagram files, or **all at once**. No more juggling separate cleaners! |
+| **Telegram Channel Archiver** | Scrapes **public Telegram channels** every 15 minutes (cron) or on manual trigger – saves all new messages, photos, and videos as a Markdown archive in your repo. No API key or bot needed — works with Playwright on any public channel. |
+| **🆕 Website Capture** | **Capture any website as a PDF** — visits the main page, follows up to 20 internal links, captures every page as A4 PDF, and merges everything into one polished document. Uses Playwright + Chromium behind the scenes. Perfect for archiving articles, documentation, or entire site sections. |
+| **AIO Cleaner (All-in-One Cleaner)** | **One manual workflow to clean up storage for all platforms.** You choose exactly what to delete: Telegram media, YouTube files, X (Twitter) files, Instagram files, Website captures, or **all at once**. No more juggling separate cleaners! |
 
 ✅ **All downloads are automatically split into 99 MB parts, zipped, and uploaded back to your repository** – you can download them anytime from GitHub.
 ✅ **No server, no VPS, and no local installation required** – everything runs on GitHub's free infrastructure.
 ✅ **Cookies are stored securely** as GitHub Secrets – never exposed in logs or code.
 ✅ **Batch downloading** – paste up to 10+ Instagram or X links at once, separated by commas, spaces, or newlines.
-✅ **Concurrent runs** – You can trigger multiple workflow runs at the same time (e.g., download multiple YouTube videos, an Instagram batch, an X batch, and multiple direct files – all in parallel). Each run is independent and won't interfere with the others.
+✅ **Concurrent runs** – You can trigger multiple workflow runs at the same time (e.g., download multiple YouTube videos, an Instagram batch, an X batch, capture a website, and multiple direct files – all in parallel). Each run is independent and won't interfere with the others.
 
 ---
 
@@ -30,6 +31,7 @@
 - (Optional) An **Instagram account** if you want to download private/story content
 - An **X (Twitter) account** (required for the X downloader to work)
 - For Telegram: **nothing extra** — the archiver works on any public channel without login or API keys
+- For Website Capture: **nothing extra** — works on any public website without login or API keys
 
 ---
 
@@ -55,7 +57,7 @@ Click the **"Fork"** button at the top-right of this page.
 
 ## How to Add Cookies (For YouTube, Instagram & X)
 
-> **Note:** YouTube and Instagram may require login cookies for certain content. X (Twitter) **REQUIRES** login cookies – otherwise the downloader will fail. **Telegram works without any cookies.**
+> **Note:** YouTube and Instagram may require login cookies for certain content. X (Twitter) **REQUIRES** login cookies – otherwise the downloader will fail. **Telegram and Website Capture work without any cookies.**
 
 ### 1. Export Cookies from Your Browser
 - Install the extension **"Get cookies.txt LOCALLY"** from the Chrome Web Store or Firefox Add-ons.
@@ -74,10 +76,95 @@ Click the **"Fork"** button at the top-right of this page.
 
 ---
 
-## 🆕 Storage Cleaner — Full Guide (The AIO Cleaner)
+## 🆕 Website Capture — Full Guide
 
-All downloads go into your repository. Over time, the `youtube/`, `instagram/`, `x/`, and `telegram/` folders can fill up and eat into GitHub’s **5 GB storage limit**.  
-Instead of deleting files one by one, you can now use the **AIO Cleaner** workflow to wipe any platform’s downloads in one go.
+The Website Capture workflow turns **any public website** into a single, polished PDF document that's saved directly in your repository. It uses **Playwright** with a headless **Chromium** browser to render pages exactly like a real user would see them — including JavaScript, CSS, images, and dynamic content.
+
+It's perfect for:
+- Archiving news articles, blog posts, or documentation for offline reading
+- Saving entire site sections as a single PDF reference
+- Creating printable copies of web content
+- Preserving pages that may change or disappear later
+
+### What It Does (Step by Step)
+
+1. **You provide a URL** — any public website address (e.g., `https://example.com/article`).
+2. **Launches Chromium** via Playwright and visits the main URL.
+3. **Captures the main page** as an A4 PDF with print backgrounds enabled, proper margins, and full scroll-down loading.
+4. **Extracts all internal links** (up to 20 unique links from the same domain) from the main page.
+5. **Visits each linked page** and captures it as a PDF too.
+6. **Merges all PDFs** into a single document using `pdf-lib` — the main page first, then all linked pages in order.
+7. **Saves the merged PDF** to the `website/` folder with a descriptive filename: `hostname-random5chars.pdf`.
+8. **Commits and pushes** the PDF to your repository with a 5‑retry loop for push conflicts.
+
+### What You Get
+
+A single PDF file in the `website/` folder, named like:
+
+```
+website/example-com-xkjsd.pdf
+```
+
+The PDF contains:
+- **Page 1**: The main URL you entered
+- **Pages 2+**: Up to 20 internal pages linked from the main page
+
+All content is rendered with full styling, images, and background graphics — it looks exactly like the live website.
+
+### How to Trigger the Capture
+
+1. Go to **Actions** → select **"website-capture"**
+2. Click the **"Run workflow"** button
+3. Enter the full URL of the website you want to capture:
+
+**Examples:**
+
+```
+https://example.com/article/my-post
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+https://github.com/ProAlit/aio-downloader
+```
+
+4. Click **"Run workflow"**
+5. Within 5–10 minutes (depending on the site), the PDF appears in the **`website/`** folder of your repository.
+
+### What Types of Pages Work Best
+
+| Good for | Not ideal for |
+|---|---|
+| Blog posts and articles | Single-page apps with infinite scroll |
+| Documentation sites | Pages behind login walls |
+| News articles | Sites that aggressively block bots |
+| Product pages | Very large pages (100+ links) |
+| GitHub READMEs / repos | Pages with heavy CAPTCHA |
+
+### Limitations
+
+- **Up to 20 internal links** are followed. If the main page has more internal links, only the first 20 are captured.
+- **Only same-domain links** are followed. External links (different websites) are skipped.
+- **30‑minute timeout** per capture. Very large sites with many slow-loading pages may not finish.
+- **JavaScript‑heavy sites** may not render perfectly (e.g., WebGL, complex animations).
+- **Pages behind login** won't work — only public websites are supported.
+- **No cookies needed!** Website Capture works without any authentication.
+
+### Viewing Your PDF
+
+1. Navigate to the `website/` folder in your repository.
+2. Click the PDF file — GitHub renders PDFs natively in the browser.
+3. You can also download the PDF by clicking the **"Download"** button.
+
+### Tips for Best Results
+
+- Use the **full URL** including `https://`.
+- For sites with many pages, capture a **specific article or section** rather than the homepage.
+- If a site blocks the bot, try capturing a simpler page first to test.
+- The PDF filename includes a random 5‑letter suffix to prevent naming conflicts — rename it if you prefer something more descriptive.
+
+---
+
+## Storage Cleaner — Full Guide (The AIO Cleaner)
+
+All downloads go into your repository. Over time, the `youtube/`, `instagram/`, `x/`, `website/`, and `telegram/` folders can fill up and eat into GitHub’s **5 GB storage limit**. Instead of deleting files one by one, you can now use the **AIO Cleaner** workflow to wipe any platform’s downloads in one go.
 
 ### What It Cleans
 
@@ -87,29 +174,31 @@ Instead of deleting files one by one, you can now use the **AIO Cleaner** workfl
 | **YouTube** | The entire `youtube/` folder (all downloaded videos and split ZIP parts). |
 | **Instagram** | The entire `instagram/` folder (all downloaded ZIP archives). |
 | **X (Twitter)** | The entire `x/` folder (all downloaded media and split ZIP parts). |
+| **Website** | The entire `website/` folder (all captured PDF files). |
 
-> ⚠️ **Warning:** Cleaning is **permanent**. Once deleted, those files cannot be recovered from GitHub. Make sure you’ve saved any important media before running the cleaner.
+> ⚠️ **Warning:** Cleaning is **permanent**. Once deleted, those files cannot be recovered from GitHub. Make sure you've saved any important media before running the cleaner.
 
 ### How to Run the AIO Cleaner
 
 1. Go to **Actions** → select **"aio-cleaner"**
 2. Click the **"Run workflow"** button
-3. You will see **five checkboxes**:
+3. You will see **six checkboxes**:
 
    - ✅ **Clean ALL platforms** – check this to wipe everything at once.
    - ✅ **Clean Telegram** – delete Telegram media and archive.
    - ✅ **Clean Youtube** – delete all YouTube downloads.
    - ✅ **Clean X** – delete all X/Twitter downloads.
    - ✅ **Clean Instagram** – delete all Instagram downloads.
+   - ✅ **Clean Website** – delete all captured website PDFs.
 
 4. Choose what you want to clean. Examples:
 
-   **Clean only Telegram:**
-   - Uncheck all boxes EXCEPT ✅ **Clean Telegram**
+   **Clean only Website captures:**
+   - Uncheck all boxes EXCEPT ✅ **Clean Website**
    - Click **"Run workflow"**
 
-   **Clean YouTube + Instagram together:**
-   - Check ✅ **Clean Youtube** and ✅ **Clean Instagram**
+   **Clean YouTube + Website together:**
+   - Check ✅ **Clean Youtube** and ✅ **Clean Website**
    - Leave others unchecked
    - Click **"Run workflow"**
 
@@ -124,12 +213,13 @@ Instead of deleting files one by one, you can now use the **AIO Cleaner** workfl
 After the workflow finishes:
 - Go to **Actions** → click the completed **"aio-cleaner"** run
 - Expand the **"Clean selected platforms"** step
-- You’ll see a log like:
+- You'll see a log like:
 
 ```
  Deleted telegram/content/
  Deleted telegram.md
  Deleted youtube/ folder
+ Deleted website/ folder
 ```
 
 - The commit message will list what was cleaned.
@@ -137,10 +227,10 @@ After the workflow finishes:
 ### When Should You Clean?
 
 - When your repository size approaches **5 GB** (check at **Settings → Repository → Repository size**)
-- After you’ve downloaded and saved any important media locally
+- After you've downloaded and saved any important media locally
 - Periodically as maintenance (e.g., once a week or once a month depending on usage)
 
-> 💡 **Tip:** Telegram media accumulates fastest because the archiver runs automatically every 15 minutes. Cleaning Telegram every few days is recommended, while YouTube/Instagram/X can be cleaned less often.
+> 💡 **Tip:** Telegram media accumulates fastest because the archiver runs automatically every 15 minutes. Cleaning Telegram every few days is recommended, while YouTube/Instagram/X/Website can be cleaned less often.
 
 ---
 
@@ -148,7 +238,7 @@ After the workflow finishes:
 
 The Telegram Channel Archiver scrapes **public Telegram channels**, downloads all their messages, photos, and videos, and stores them as a Markdown archive in your repository. It can run **automatically every 15 minutes** (via cron schedule) **or manually whenever you want**.
 
-> **If the automatic cron doesn’t work** (e.g., due to GitHub disabling scheduled workflows on inactive forks), **you can always trigger it manually** — manual runs are 100% reliable.
+> **If the automatic cron doesn't work** (e.g., due to GitHub disabling scheduled workflows on inactive forks), **you can always trigger it manually** — manual runs are 100% reliable.
 
 ### What It Does (Step by Step)
 
@@ -194,14 +284,29 @@ Edit `telegram/channels.json` directly on GitHub:
 
 ```
 [
-  "@VahidOOnLine",
+  "VahidOOnLine",
   "mwarmonitor",
-  "@pm_afshaa",
-  "@iaghapour",
-  "@DEJradio",
+  "pm_afshaa",
+  "iaghapour",
+  "DEJradio",
   "mamlekate",
   "VahidOnline",
-  "@kianmeli1"
+  "kianmeli1",
+  "IranIntlTV",
+  "FoxNewsChannel",
+  "Shin_Persian",
+  "Iliaen",
+  "CnnBrk", 
+  "reutersworldchannel",
+  "ManotoTV",
+  "FarsiVOA",
+  "DW_Farsi",
+  "Persian_Trend_Official",
+  "RadioFarda",
+  "IranianMinds",
+  "BBCPersian",
+  "IranWire",
+  "Hranews"
 ]
 ```
 
@@ -296,7 +401,7 @@ https://example.com/path/to/large-file.zip, https://example.com/another-file.mp4
 ---
 
 ## Output Folder Structure
-```
+``
 your-repository/
 ├── youtube/
 │   └── Video Title.mp4.zip  (split if >99 MB)
@@ -306,22 +411,24 @@ your-repository/
 │   └── x-contents-XXXXXXXX.zip
 ├── direct/
 │   └── filename.zip  (split if >99 MB)
+├── website/
+│   └── hostname-random5chars.pdf  (captured website as merged PDF)
 ├── telegram/
 │   ├── channels.json  (your channel list)
 │   ├── last_ids.json  (message tracking – do not edit)
 │   └── content/  (downloaded Telegram media)
 ├── telegram.md  (the archive: all messages sorted by time)
-```
+``
 ### Inside the Instagram / X ZIPs
-```
+``
 instagram-content/  (or x_downloads/ for X)
 ├── instagram_moruhiko_388851...jpg
 ├── instagram_moruhiko_388851...jpg
 ├── instagram_israelinpersian_...webp
 ├── instagram_meme.azaad_...mp4
 └── ...
-```
-All files are flattened into one folder; filenames are prefixed with the uploader’s username to avoid collisions.
+``
+All files are flattened into one folder; filenames are prefixed with the uploader's username to avoid collisions.
 
 ---
 
@@ -333,8 +440,9 @@ All files are flattened into one folder; filenames are prefixed with the uploade
 | **instagram-downloader** | Manual trigger | Paste Instagram URLs (up to 10+) |
 | **x-downloader** | Manual trigger | Paste X/Twitter URLs (requires `X_COOKIES` secret) |
 | **direct-downloader** | Manual trigger | Paste direct download URLs |
+| **🆕 website-capture** | Manual trigger | Enter a single URL – captures site as merged PDF |
 | **telegram-fetcher** | Every 15 min (cron) + Manual trigger | Configure `channels.json`, then run automatically or manually |
-| **🆕 aio-cleaner** | **Manual trigger** | Check boxes to select what to clean, then run |
+| **aio-cleaner** | **Manual trigger** | Check boxes to select what to clean (now includes Website), then run |
 
 ---
 
@@ -345,17 +453,19 @@ All files are flattened into one folder; filenames are prefixed with the uploade
 - For very large Instagram or X batches, consider splitting them into smaller groups.
 - **X (Twitter) downloader requires cookies** – it will not work without the `X_COOKIES` secret.
 - **Telegram archiver only works with public channels**. Private channels, groups, or channels requiring login are not supported.
+- **Website Capture** is limited to **public websites**. Pages behind login, CAPTCHA, or aggressive bot-blocking may fail. Up to **20 internal links** are followed; large sites with hundreds of pages won't be fully captured.
 - Telegram media files can accumulate quickly. Use the **AIO Cleaner** regularly to free up space.
+- Captured website PDFs can be large (several MB each). Clean the `website/` folder with the AIO Cleaner when you no longer need old captures.
 
 ---
 
 ## Managing Repository Storage (5 GB Limit)
 
-GitHub repositories have a **5 GB soft limit** (and a hard limit of 100 GB, but it's best to stay under 5 GB for performance). If you download frequently, your `youtube/`, `instagram/`, `x/`, `direct/`, and `telegram/content/` folders can fill up quickly.
+GitHub repositories have a **5 GB soft limit** (and a hard limit of 100 GB, but it's best to stay under 5 GB for performance). If you download frequently, your `youtube/`, `instagram/`, `x/`, `direct/`, `website/`, and `telegram/content/` folders can fill up quickly.
 
 ### The Best Way: Use the AIO Cleaner
 
-The easiest way to manage storage is the **aio-cleaner** workflow described above. It lets you wipe any platform's folder with one click.
+The easiest way to manage storage is the **aio-cleaner** workflow described above. It lets you wipe any platform's folder with one click — now including the `website/` folder for captured PDFs.
 
 ### Manual Deletion (If You Prefer)
 
@@ -406,7 +516,7 @@ SOFTWARE.
 
 ## aio-downloader — دانلودر همهکاره با GitHub Actions
 
-> مجموعهای از **گردشکارهای GitHub Actions** که به شما امکان میدهند ویدیوها، تصاویر و فایلها را از **یوتیوب**، **اینستاگرام**، **X (توییتر)**، **هر لینک مستقیم**، و حالا **آرشیو کانال‌های عمومی تلگرام** — مستقیماً از مرورگر خود و **بدون اجرای هیچ نرم افزاری روی کامپیوترتان** دانلود کنید.
+> مجموعهای از **گردشکارهای GitHub Actions** که به شما امکان میدهند ویدیوها، تصاویر و فایلها را از **یوتیوب**، **اینستاگرام**، **X (توییتر)**، **هر لینک مستقیم**، **آرشیو کانال‌های عمومی تلگرام**، و حالا **ذخیره هر وبسایت به صورت PDF** — مستقیماً از مرورگر خود و **بدون اجرای هیچ نرم افزاری روی کامپیوترتان** دانلود کنید.
 
 ## ویژگیها
 
@@ -416,8 +526,9 @@ SOFTWARE.
 | **دانلودر اینستاگرام** | دانلود تمام محتوا از پستها، ریلزها، استوریها و پروفایلها. |
 | **دانلودر X (توییتر)** | دانلود عکس و ویدیو از توییتها و پروفایلها (نیاز به کوکی). |
 | **دانلودر مستقیم** | دانلود هر فایل از لینک مستقیم با ۱۶ اتصال موازی و تقسیم فایلهای بزرگ. |
-| **🆕 آرشیو کانال تلگرام** | اسکن خودکار (هر ۱۵ دقیقه) یا دستی کانالهای عمومی و ذخیره پیامها، عکسها و ویدیوها در یک فایل Markdown. بدون نیاز به API یا ربات. |
-| **🆕 پاککننده جامع (AIO Cleaner)** | **یک گردشکار دستی برای پاکسازی فضای ذخیرهسازی تمام پلتفرمها.** شما انتخاب میکنید چه چیزی حذف شود: محتوای تلگرام، یوتیوب، X، اینستاگرام، یا **همه با هم**. |
+| **آرشیو کانال تلگرام** | اسکن خودکار (هر ۱۵ دقیقه) یا دستی کانالهای عمومی و ذخیره پیامها، عکسها و ویدیوها در یک فایل Markdown. بدون نیاز به API یا ربات. |
+| **🆕 ضبط وبسایت (Website Capture)** | **هر وبسایت را به صورت PDF ذخیره کنید** — صفحه اصلی را بازدید کرده، تا ۲۰ لینک داخلی را دنبال کرده، هر صفحه را به صورت PDF با فرمت A4 ذخیره و همه را در یک فایل ادغام میکند. مناسب برای آرشیو مقالات، مستندات یا بخش‌های کامل سایت. |
+| **پاککننده جامع (AIO Cleaner)** | **یک گردشکار دستی برای پاکسازی فضای ذخیرهسازی تمام پلتفرمها.** شما انتخاب میکنید چه چیزی حذف شود: محتوای تلگرام، یوتیوب، X، اینستاگرام، وبسایت، یا **همه با هم**. |
 
 ✅ تمام دانلودها بهطور خودکار به قطعات ۹۹ مگابایتی تقسیم، فشرده و در مخزن شما آپلود میشوند.
 ✅ بدون نیاز به سرور، VPS یا نصب نرم افزار.
@@ -434,6 +545,7 @@ SOFTWARE.
 - (اختیاری) یک **حساب اینستاگرام** برای محتوای خصوصی/استوری
 - یک **حساب X (توییتر)** (برای دانلودر X الزامی است)
 - برای تلگرام: **هیچ چیز اضافی لازم نیست** — آرشیوکننده روی هر کانال عمومی بدون نیاز به ورود یا کلید API کار میکند
+- برای ضبط وبسایت: **هیچ چیز اضافی لازم نیست** — روی هر وبسایت عمومی بدون نیاز به ورود یا کلید API کار میکند
 
 ---
 
@@ -459,7 +571,7 @@ SOFTWARE.
 
 ## نحوه اضافه کردن کوکیها (برای یوتیوب، اینستاگرام و X)
 
-> **توجه:** یوتیوب و اینستاگرام ممکن است برای برخی محتواها به کوکی نیاز داشته باشند. X (توییتر) **حتماً** به کوکی نیاز دارد. **تلگرام بدون هیچ کوکی کار میکند.**
+> **توجه:** یوتیوب و اینستاگرام ممکن است برای برخی محتواها به کوکی نیاز داشته باشند. X (توییتر) **حتماً** به کوکی نیاز دارد. **تلگرام و ضبط وبسایت بدون هیچ کوکی کار میکنند.**
 
 ### ۱. استخراج کوکیها از مرورگر
 - افزونه **"Get cookies.txt LOCALLY"** را نصب کنید.
@@ -478,10 +590,95 @@ SOFTWARE.
 
 ---
 
-## 🆕 پاککننده فضای ذخیرهسازی — راهنمای کامل (AIO Cleaner)
+## 🆕 ضبط وبسایت (Website Capture) — راهنمای کامل
 
-همه دانلودها در مخزن شما ذخیره میشوند. به مرور زمان، پوشههای `youtube/`، `instagram/`، `x/` و `telegram/` میتوانند پر شده و فضای ذخیرهسازی **۵ گیگابایتی** GitHub را مصرف کنند.
-به جای حذف دستی فایلها، میتوانید از گردشکار **AIO Cleaner** برای پاکسازی هر پلتفرم با یک کلیک استفاده کنید.
+گردشکار ضبط وبسایت، **هر وبسایت عمومی** را به یک فایل PDF واحد و باکیفیت تبدیل کرده و مستقیماً در مخزن شما ذخیره میکند. این گردشکار از **Playwright** با مرورگر **Chromium** بدون رابط کاربری (headless) استفاده میکند تا صفحات را دقیقاً همانطور که یک کاربر واقعی میبیند نمایش دهد — شامل JavaScript، CSS، تصاویر و محتوای پویا.
+
+موارد استفاده عالی:
+- آرشیو مقالات خبری، پستهای وبلاگ یا مستندات برای مطالعه آفلاین
+- ذخیره بخش‌های کامل یک سایت به عنوان یک فایل PDF مرجع
+- ایجاد نسخه‌های قابل چاپ از محتوای وب
+- حفظ صفحاتی که ممکن است در آینده تغییر کنند یا حذف شوند
+
+### این گردشکار چه میکند (گام به گام)
+
+1. **شما یک URL وارد میکنید** — هر آدرس وبسایت عمومی (مثلاً `https://example.com/article`).
+2. **Chromium را راهاندازی میکند** و از URL اصلی بازدید میکند.
+3. **صفحه اصلی را ضبط میکند** به صورت PDF با فرمت A4، با پس‌زمینه‌های چاپی فعال، حاشیه‌های مناسب و بارگذاری کامل با اسکرول.
+4. **تمام لینک‌های داخلی را استخراج میکند** (تا ۲۰ لینک یکتا از همان دامنه) از صفحه اصلی.
+5. **از هر صفحه لینک‌شده بازدید کرده** و آن را نیز به صورت PDF ضبط میکند.
+6. **تمام PDFها را ادغام میکند** در یک فایل واحد با استفاده از `pdf-lib` — صفحه اصلی اول، سپس تمام صفحات لینک‌شده به ترتیب.
+7. **فایل PDF ادغام‌شده را ذخیره میکند** در پوشه `website/` با یک نام توصیفی: `hostname-random5chars.pdf`.
+8. **تغییرات را commit و push میکند** با یک حلقه ۵ بار تلاش مجدد.
+
+### خروجی
+
+یک فایل PDF در پوشه `website/` با نامی مشابه:
+
+```
+website/example-com-xkjsd.pdf
+```
+
+PDF شامل:
+- **صفحه ۱**: URL اصلی که وارد کردید
+- **صفحات ۲+**: تا ۲۰ صفحه داخلی که از صفحه اصلی لینک شده‌اند
+
+تمام محتوا با استایل کامل، تصاویر و گرافیک پس‌زمینه نمایش داده میشود — دقیقاً شبیه وبسایت زنده.
+
+### نحوه اجرای ضبط
+
+1. به **Actions** بروید → **"website-capture"** را انتخاب کنید.
+2. روی دکمه **"Run workflow"** کلیک کنید.
+3. آدرس کامل وبسایتی که می‌خواهید ضبط کنید را وارد کنید:
+
+**مثال‌ها:**
+
+```
+https://example.com/article/my-post
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+https://github.com/ProAlit/aio-downloader
+```
+
+4. روی **"Run workflow"** کلیک کنید.
+5. ظرف ۵–۱۰ دقیقه (بسته به سایت)، PDF در پوشه **`website/`** مخزن شما ظاهر میشود.
+
+### چه صفحاتی بهترین عملکرد را دارند
+
+| مناسب برای | نامناسب برای |
+|---|---|
+| پست‌های وبلاگ و مقالات | برنامه‌های تک‌صفحه‌ای با اسکرول بی‌نهایت |
+| سایت‌های مستندات | صفحات پشت دیوار ورود |
+| مقالات خبری | سایت‌هایی که به شدت ربات‌ها را مسدود میکنند |
+| صفحات محصول | صفحات بسیار بزرگ (۱۰۰+ لینک) |
+| READMEهای GitHub | صفحات با CAPTCHA سنگین |
+
+### محدودیت‌ها
+
+- **حداکثر ۲۰ لینک داخلی** دنبال میشود. اگر صفحه اصلی لینک‌های داخلی بیشتری داشته باشد، فقط ۲۰ تای اول ضبط میشوند.
+- **فقط لینک‌های همان دامنه** دنبال میشوند. لینک‌های خارجی (وبسایت‌های دیگر) نادیده گرفته میشوند.
+- **مهلت ۳۰ دقیقه‌ای** برای هر ضبط. سایت‌های بسیار بزرگ با صفحات زیاد ممکن است کامل نشوند.
+- **صفحات با JavaScript سنگین** ممکن است کامل نمایش داده نشوند.
+- **صفحات پشت ورود** کار نمیکنند — فقط وبسایت‌های عمومی پشتیبانی میشوند.
+- **بدون نیاز به کوکی!** ضبط وبسایت بدون هیچ احراز هویتی کار میکند.
+
+### مشاهده PDF
+
+1. به پوشه `website/` در مخزن خود بروید.
+2. روی فایل PDF کلیک کنید — GitHub PDFها را به صورت بومی در مرورگر نمایش میدهد.
+3. همچنین میتوانید PDF را با کلیک روی دکمه **"Download"** دانلود کنید.
+
+### نکات برای بهترین نتیجه
+
+- از **آدرس کامل** شامل `https://` استفاده کنید.
+- برای سایت‌های با صفحات زیاد، یک **مقاله یا بخش خاص** را به جای صفحه اصلی ضبط کنید.
+- اگر سایتی ربات را مسدود کرد، ابتدا یک صفحه ساده‌تر را برای آزمایش امتحان کنید.
+- نام فایل PDF شامل یک پسوند تصادفی ۵ حرفی برای جلوگیری از تداخل نام‌ها است — در صورت تمایل میتوانید آن را تغییر نام دهید.
+
+---
+
+## پاککننده فضای ذخیرهسازی — راهنمای کامل (AIO Cleaner)
+
+همه دانلودها در مخزن شما ذخیره میشوند. به مرور زمان، پوشه‌های `youtube/`، `instagram/`، `x/`، `website/` و `telegram/` میتوانند پر شده و فضای ذخیرهسازی **۵ گیگابایتی** GitHub را مصرف کنند. به جای حذف دستی فایلها، میتوانید از گردشکار **AIO Cleaner** برای پاکسازی هر پلتفرم با یک کلیک استفاده کنید.
 
 ### چه چیزهایی پاک میشوند
 
@@ -491,6 +688,7 @@ SOFTWARE.
 | **یوتیوب** | کل پوشه `youtube/` (تمام ویدیوهای دانلود شده). |
 | **اینستاگرام** | کل پوشه `instagram/` (تمام فایلهای ZIP دانلود شده). |
 | **X (توییتر)** | کل پوشه `x/` (تمام رسانههای دانلود شده). |
+| **وبسایت** | کل پوشه `website/` (تمام فایل‌های PDF ضبط شده). |
 
 > ⚠️ **هشدار:** پاکسازی **دائمی** است. پس از حذف، فایلها قابل بازیابی نیستند. قبل از اجرا مطمئن شوید که رسانههای مهم را ذخیره کردهاید.
 
@@ -498,22 +696,23 @@ SOFTWARE.
 
 1. به **Actions** بروید → **"aio-cleaner"** را انتخاب کنید.
 2. روی دکمه **"Run workflow"** کلیک کنید.
-3. پنج گزینه (چکباکس) خواهید دید:
+3. شش گزینه (چکباکس) خواهید دید:
 
    - ✅ **Clean ALL platforms** — همه چیز را یکجا پاک میکند.
    - ✅ **Clean Telegram** — رسانهها و آرشیو تلگرام را حذف میکند.
    - ✅ **Clean Youtube** — همه دانلودهای یوتیوب را حذف میکند.
    - ✅ **Clean X** — همه دانلودهای X را حذف میکند.
    - ✅ **Clean Instagram** — همه دانلودهای اینستاگرام را حذف میکند.
+   - ✅ **Clean Website** — همه PDFهای ضبط شده وبسایت را حذف میکند.
 
 4. انتخاب کنید چه چیزی پاک شود. مثالها:
 
-   **فقط تلگرام:**
-   - فقط ✅ **Clean Telegram** را تیک بزنید.
+   **فقط وبسایت:**
+   - فقط ✅ **Clean Website** را تیک بزنید.
    - روی **"Run workflow"** کلیک کنید.
 
-   **یوتیوب + اینستاگرام با هم:**
-   - ✅ **Clean Youtube** و ✅ **Clean Instagram** را تیک بزنید.
+   **یوتیوب + وبسایت با هم:**
+   - ✅ **Clean Youtube** و ✅ **Clean Website** را تیک بزنید.
    - بقیه را بدون تیک بگذارید.
    - روی **"Run workflow"** کلیک کنید.
 
@@ -534,6 +733,7 @@ SOFTWARE.
  Deleted telegram/content/
  Deleted telegram.md
  Deleted youtube/ folder
+ Deleted website/ folder
 ```
 
 ### چه زمانی پاکسازی کنیم؟
@@ -542,7 +742,7 @@ SOFTWARE.
 - پس از ذخیره رسانههای مهم روی کامپیوتر خود.
 - بهعنوان نگهداری دورهای (مثلاً هفتگی یا ماهانه بسته به میزان استفاده).
 
-> 💡 **نکته:** رسانههای تلگرام سریعترین رشد را دارند چون آرشیوکننده هر ۱۵ دقیقه اجرا میشود. پاکسازی تلگرام هر چند روز یکبار توصیه میشود، در حالی که یوتیوب/اینستاگرام/X را میتوان با فاصله بیشتری پاک کرد.
+> 💡 **نکته:** رسانههای تلگرام سریعترین رشد را دارند چون آرشیوکننده هر ۱۵ دقیقه اجرا میشود. پاکسازی تلگرام هر چند روز یکبار توصیه میشود، در حالی که یوتیوب/اینستاگرام/X/وبسایت را میتوان با فاصله بیشتری پاک کرد.
 
 ---
 
@@ -591,14 +791,29 @@ SOFTWARE.
 
 ```
 [
-  "@VahidOOnLine",
+  "VahidOOnLine",
   "mwarmonitor",
-  "@pm_afshaa",
-  "@iaghapour",
-  "@DEJradio",
+  "pm_afshaa",
+  "iaghapour",
+  "DEJradio",
   "mamlekate",
   "VahidOnline",
-  "@kianmeli1"
+  "kianmeli1",
+  "IranIntlTV",
+  "FoxNewsChannel",
+  "Shin_Persian",
+  "Iliaen",
+  "CnnBrk", 
+  "reutersworldchannel",
+  "ManotoTV",
+  "FarsiVOA",
+  "DW_Farsi",
+  "Persian_Trend_Official",
+  "RadioFarda",
+  "IranianMinds",
+  "BBCPersian",
+  "IranWire",
+  "Hranews"
 ]
 ```
 
@@ -659,7 +874,7 @@ https://example.com/path/to/large-file.zip, https://example.com/another-file.mp4
 ---
 
 ## ساختار پوشه خروجی
-```
+``
 your-repository/
 ├── youtube/
 │   └── Video Title.mp4.zip
@@ -669,12 +884,14 @@ your-repository/
 │   └── x-contents-XXXXXXXX.zip
 ├── direct/
 │   └── filename.zip
+├── website/
+│   └── hostname-random5chars.pdf
 ├── telegram/
 │   ├── channels.json
 │   ├── last_ids.json
 │   └── content/
 ├── telegram.md
-```
+``
 ## خلاصه گردشکارها
 
 | گردشکار | زمانبندی | نحوه استفاده |
@@ -683,8 +900,9 @@ your-repository/
 | **instagram-downloader** | دستی | وارد کردن لینکهای اینستاگرام |
 | **x-downloader** | دستی | وارد کردن لینکهای X (نیاز به کوکی) |
 | **direct-downloader** | دستی | وارد کردن لینکهای دانلود مستقیم |
+| **🆕 website-capture** | دستی | وارد کردن یک URL — ذخیره سایت به صورت PDF ادغام‌شده |
 | **telegram-fetcher** | هر ۱۵ دقیقه (cron) + دستی | تنظیم `channels.json`، سپس اجرای خودکار یا دستی |
-| **🆕 aio-cleaner** | **دستی** | انتخاب پلتفرم(های) مورد نظر برای پاکسازی |
+| **aio-cleaner** | **دستی** | انتخاب پلتفرم(های) مورد نظر برای پاکسازی (حالا شامل وبسایت) |
 
 ---
 
@@ -695,17 +913,19 @@ your-repository/
 - برای دستههای بسیار بزرگ اینستاگرام یا X، آنها را به گروههای کوچکتر تقسیم کنید.
 - **دانلودر X (توییتر) حتماً به کوکی نیاز دارد** – بدون `X_COOKIES` کار نخواهد کرد.
 - **آرشیو تلگرام فقط کانالهای عمومی** را پشتیبانی میکند.
+- **ضبط وبسایت** فقط برای **وبسایت‌های عمومی** کار میکند. صفحات پشت ورود، CAPTCHA یا مسدودکننده‌های قوی ربات ممکن است失敗 شوند. حداکثر **۲۰ لینک داخلی** دنبال میشود؛ سایت‌های بزرگ با صدها صفحه کاملاً ضبط نخواهند شد.
 - رسانههای تلگرام به سرعت فضا را پر میکنند. از **AIO Cleaner** بهطور منظم استفاده کنید.
+- PDFهای ضبط شده وبسایت ممکن است بزرگ باشند (چند مگابایت هر کدام). پوشه `website/` را با AIO Cleaner زمانی که دیگر به ضبط‌های قدیمی نیاز ندارید پاک کنید.
 
 ---
 
 ## مدیریت فضای ذخیرهسازی مخزن (محدودیت ۵ گیگابایت)
 
-مخازن GitHub دارای **محدودیت نرم ۵ گیگابایت** هستند. اگر زیاد دانلود کنید، پوشههای `youtube/`، `instagram/`، `x/`، `direct/` و `telegram/content/` به سرعت پر میشوند.
+مخازن GitHub دارای **محدودیت نرم ۵ گیگابایت** هستند. اگر زیاد دانلود کنید، پوشههای `youtube/`، `instagram/`، `x/`، `direct/`، `website/` و `telegram/content/` به سرعت پر میشوند.
 
 ### بهترین روش: استفاده از AIO Cleaner
 
-سادهترین راه برای مدیریت فضا استفاده از گردشکار **aio-cleaner** است که در بالا توضیح داده شد.
+سادهترین راه برای مدیریت فضا استفاده از گردشکار **aio-cleaner** است که در بالا توضیح داده شد — حالا شامل پوشه `website/` برای PDFهای ضبط شده نیز میشود.
 
 ### حذف دستی (در صورت تمایل)
 
