@@ -37,9 +37,9 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config http.postBuffer 524288000
 
-          # Stage only if files exist (avoid error on empty content dir)
+          # Stage the new HTML file, state file, and media (if any)
+          git add index.html telegram/last_ids.json
           if [ -d telegram/content ]; then git add telegram/content/; fi
-          git add telegram/last_ids.json telegram.md
 
           # Skip commit if nothing changed
           if git diff --staged --quiet; then
@@ -47,7 +47,6 @@ jobs:
             exit 0
           fi
 
-          # Commit with a descriptive message
           git commit -m "Update Telegram messages [skip ci]"
 
           # Retry loop with pull‑rebase to avoid conflicts
