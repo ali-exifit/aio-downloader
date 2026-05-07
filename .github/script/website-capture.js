@@ -1,6 +1,6 @@
 const { chromium } = require('playwright');
-const { PDFDocument } = require('pdf-lib');
 const fs = require('fs').promises;
+const { execSync } = require('child_process');
 
 const inputUrl = process.argv[2];
 if (!inputUrl) {
@@ -8,7 +8,7 @@ if (!inputUrl) {
   process.exit(1);
 }
 
-const MAX_LINKS = 150;                // capture up to 75 linked pages
+const MAX_LINKS = 500;               // safety cap for the URL list
 const VIEWPORT = { width: 1280, height: 720 };
 
 // ---------- random 5 lowercase letters ----------
@@ -18,65 +18,47 @@ function randomFiveLetters() {
   ).join('');
 }
 
-// ---------- wait for page to be fully loaded ----------
+// ---------- wait for full load ----------
 async function waitForStable(page) {
-  // wait for network idle (no ongoing requests for 500ms) with a generous timeout
   await page.waitForLoadState('networkidle', { timeout: 30000 }).catch(() => {
     console.warn('Network did not become fully idle – continuing…');
   });
-  // extra fixed delay to let images/animations finish rendering
-  await page.waitForTimeout(3000);
+  await page.waitForTimeout(3000);  // extra time for images/animations
 }
 
-// ---------- capture a URL → PDF buffer (full page, as seen) ----------
-async function captureUrl(context, url) {
-  const page = await context.newPage();
-  try {
-    // use 'load' to wait for all resources (images, CSS, etc.)
-    await page.goto(url, { waitUntil: 'load', timeout: 30000 });
-    await waitForStable(page);
-
-    // scroll to trigger lazy images
-    await page.evaluate(async () => {
-      await new Promise(resolve => {
-        let totalHeight = 0;
-        const distance = 300;
-        const timer = setInterval(() => {
-          window.scrollBy(0, distance);
-          totalHeight += distance;
-          if (totalHeight >= document.body.scrollHeight) {
-            clearInterval(timer);
-            resolve();
-          }
-        }, 200);
-      });
+// ---------- scroll to trigger lazy images ----------
+async function scrollToLoad(page) {
+  await page.evaluate(async () => {
+    await new Promise(resolve => {
+      let totalHeight = 0;
+      const distance = 300;
+      const timer = setInterval(() => {
+        window.scrollBy(0, distance);
+        totalHeight += distance;
+        if (totalHeight >= document.body.scrollHeight) {
+          clearInterval(timer);
+          resolve();
+        }
+      }, 200);
     });
-
-    // short extra pause after scrolling to let newly loaded images settle
-    await page.waitForTimeout(2000);
-
-    // capture the entire page as one continuous PDF
-    return await page.pdf({
-      fullPage: true,
-      printBackground: true,
-      margin: { top: '0px', bottom: '0px', left: '0px', right: '0px' }
-    });
-  } catch (err) {
-    console.error(`Failed to capture ${url} – ${err.message}`);
-    return null;
-  } finally {
-    await page.close();
-  }
+  });
+  await page.waitForTimeout(2000);
 }
 
-// ---------- extract unique links from a page ----------
+// ---------- extract all unique links ----------
 async function extractLinks(page) {
   return page.evaluate(() => {
     const links = Array.from(document.querySelectorAll('a[href]'))
       .map(a => a.href)                           // absolute URL
       .filter(href => href.startsWith('http'));    // ignore javascript:, mailto: etc.
-    // deduplicate while preserving order
-    return [...new Set(links)];
+    const seen = new Set();
+    return links
+      .map(link => link.split('#')[0])             // remove hash
+      .filter(link => {
+        if (seen.has(link)) return false;
+        seen.add(link);
+        return true;
+      });
   });
 }
 
@@ -84,78 +66,89 @@ async function extractLinks(page) {
 (async () => {
   console.log('Launching browser…');
   const browser = await chromium.launch({ headless: true });
-
   const context = await browser.newContext({
     viewport: VIEWPORT,
     userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
   });
 
-  // 1. main page
-  console.log(`Capturing main page: ${inputUrl}`);
-  const mainPdfBuf = await captureUrl(context, inputUrl);
-  if (!mainPdfBuf) {
-    console.error('Main page capture failed');
-    await browser.close();
-    process.exit(1);
-  }
-
-  // 2. extract all unique links from the main page
-  let page;
+  const page = await context.newPage();
   try {
-    page = await context.newPage();
+    // ----- 1. Capture main page with clickable links -----
     await page.goto(inputUrl, { waitUntil: 'load', timeout: 30000 });
     await waitForStable(page);
+    await scrollToLoad(page);
+
+    console.log('Saving main page as PDF (links will be clickable)…');
+    await page.pdf({
+      path: 'main.pdf',
+      fullPage: true,
+      printBackground: true,
+      margin: { top: '0px', bottom: '0px', left: '0px', right: '0px' }
+    });
+
+    // ----- 2. Extract all links -----
     const allLinks = await extractLinks(page);
-    await page.close();
+    console.log(`Found ${allLinks.length} unique links.`);
 
-    // remove hash fragments and keep only the first occurrence (preserving order)
-    const seen = new Set();
-    const uniqueLinks = allLinks
-      .map(link => link.split('#')[0])  // strip hash
-      .filter(link => {
-        if (seen.has(link)) return false;
-        seen.add(link);
-        return true;
-      })
-      .slice(0, MAX_LINKS);
-
-    console.log(`Found ${uniqueLinks.length} unique links (capped at ${MAX_LINKS})`);
-
-    // 3. capture each linked page (same context → user‑like session)
-    const linkedPdfBufs = [];
-    for (const link of uniqueLinks) {
-      console.log(`Capturing linked page: ${link}`);
-      const buf = await captureUrl(context, link);
-      if (buf) linkedPdfBufs.push(buf);
+    // Limit to a safe maximum to avoid enormous PDFs
+    const limitedLinks = allLinks.slice(0, MAX_LINKS);
+    if (allLinks.length > MAX_LINKS) {
+      console.log(`(Trimmed to ${MAX_LINKS} for the list.)`);
     }
 
-    // 4. merge all PDFs
-    const mergedPdf = await PDFDocument.create();
-    const pdfsToMerge = [mainPdfBuf, ...linkedPdfBufs];
+    // ----- 3. Build a simple HTML page listing all URLs -----
+    const listHtml = `<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"><title>Extracted URLs</title>
+<style>
+  body { font-family: monospace; margin: 50px; }
+  a   { display: block; word-break: break-all; margin-bottom: 8px; }
+</style></head>
+<body>
+<h1>Extracted URLs from ${inputUrl}</h1>
+<ol>
+${limitedLinks.map(link => `<li><a href="${link}">${link}</a></li>`).join('\n')}
+</ol>
+</body></html>`;
 
-    for (const buf of pdfsToMerge) {
-      const srcDoc = await PDFDocument.load(buf);
-      const copiedPages = await mergedPdf.copyPages(srcDoc, srcDoc.getPageIndices());
-      copiedPages.forEach(p => mergedPdf.addPage(p));
-    }
+    // Open the list in a new tab, capture it as PDF
+    const listPage = await context.newPage();
+    await listPage.setContent(listHtml, { waitUntil: 'load' });
+    await listPage.waitForTimeout(1000); // let rendering finish
+    await listPage.pdf({
+      path: 'list.pdf',
+      fullPage: true,
+      printBackground: true,
+      margin: { top: '20px', bottom: '20px', left: '20px', right: '20px' }
+    });
+    await listPage.close();
 
-    const finalPdfBytes = await mergedPdf.save();
+    // ----- 4. Merge both PDFs with ghostscript (keeps links intact) -----
+    console.log('Merging with Ghostscript…');
+    execSync(
+      `gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=output.pdf main.pdf list.pdf`,
+      { stdio: 'inherit' }
+    );
 
-    // 5. filename: hostname-random.pdf
+    // ----- 5. Generate filename -----
     const hostname = new URL(inputUrl).hostname.replace(/^www\./, '');
     const randomPart = randomFiveLetters();
     const filename = `${hostname}-${randomPart}.pdf`;
     console.log(`Generated filename: ${filename}`);
 
-    // 6. save and export filename for the upload step
-    await fs.writeFile('output.pdf', finalPdfBytes);
+    // Export filename for the upload step
     await fs.appendFile(process.env.GITHUB_ENV, `FILENAME=${filename}\n`);
+
+    // Clean up temporary PDFs
+    await fs.unlink('main.pdf');
+    await fs.unlink('list.pdf');
 
     console.log('Done.');
   } catch (err) {
     console.error(err);
     process.exit(1);
   } finally {
+    await page.close();
     await context.close();
     await browser.close();
   }
