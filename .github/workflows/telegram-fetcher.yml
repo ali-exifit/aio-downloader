@@ -12,7 +12,7 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - uses: actions/setup-python@v5
         with:
@@ -37,9 +37,9 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config http.postBuffer 524288000
 
-          # Stage the new HTML file, state file, and media (if any)
-          git add index.html telegram/last_ids.json
+          # Stage only if files exist (avoid error on empty content dir)
           if [ -d telegram/content ]; then git add telegram/content/; fi
+          git add telegram/last_ids.json telegram.md
 
           # Skip commit if nothing changed
           if git diff --staged --quiet; then
@@ -47,6 +47,7 @@ jobs:
             exit 0
           fi
 
+          # Commit with a descriptive message
           git commit -m "Update Telegram messages [skip ci]"
 
           # Retry loop with pull‑rebase to avoid conflicts
