@@ -28,7 +28,7 @@ jobs:
       - name: Install Node dependencies
         run: |
           npm init -y > /dev/null
-          npm install playwright pdf-lib
+          npm install playwright pdf-lib turndown
 
       # Installs Chromium and required OS libraries
       - name: Install Playwright browsers
