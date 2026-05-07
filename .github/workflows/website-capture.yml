@@ -18,7 +18,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -34,10 +34,14 @@ jobs:
       - name: Install Playwright browsers
         run: npx playwright install --with-deps chromium
 
-      - name: Capture, merge and name PDF
+      # ADD THIS STEP – Ghostscript for merging without losing links
+      - name: Install Ghostscript
+        run: sudo apt-get update && sudo apt-get install -y ghostscript
+
+      - name: Capture, list URLs and merge PDFs
         run: node .github/script/website-capture.js "${{ github.event.inputs.url }}"
 
-      # ── Upload to website folder (robust push with retries) ──
+      # ── Upload to website folder (same robust push with retries) ──
       - name: Upload to website folder
         env:
           BRANCH: ${{ github.ref_name }}
