@@ -3,6 +3,89 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/18 02:02
+---
+
+## IranIntlTV — post 336039
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336039_1778193145.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+فاکس‌نیوز به نقل از یک مقام ارشد آمریکایی گزارش داد نیروهای ایالات متحده حملاتی را در قشم و بندرعباس انجام داده‌اند.
+
+این مقام آمریکایی تاکید کرده این اقدام به معنای آغاز دوباره جنگ نیست.
+
+گفت‌وگو با محسن مهیمنی، خبرنگار ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## Persian_Trend_Official — post 13657
+
+
+<div dir="rtl">
+⭕️ ترامپ: آتش بس برقرار است و نقض نشده است.
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 13656
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_13656_1778193146.jpg" alt="Photo">
+</div>
+<div dir="rtl">
+🔥 نورثروپ گرومن (Northrop Grumman):
+
+نیروی آزمایش مشترک B-21 ریدر (B-21 Raider)، در همکاری با نیروی هوایی ایالات متحده (usairforce)، یک برنامه آزمایشی ۱۸۰ روزه را به ۷۳ روز کاهش داد و با انجام تنها نیمی از مأموریت‌ها، ۱۱.۸ میلیارد دلار بودجه را تضمین کرد.
+
+ما در حال پیشبرد سریع و متمرکزِ فناوری رادارگریزی (پنهان‌کاری) نسل آینده هستیم.
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 19772
+
+
+<div dir="rtl">
+🔴 ترامپ به ای بی سی نیوز :
+
+آتش بس ادامه دارد و درحال اجراست هنوز حملات امشب فقط عشقی برای تلافی کاراشون بود
+
+@IranianMinds
+</div>
+
+## alonews — post 118555
+
+<div align="center">
+  <img src="telegram/content/alonews_118555_1778193147.jpg" alt="Photo">
+</div>
+<div dir="rtl">
+👈دونالد ترامپ به ABC News گفته حملات تلافی‌جویانه علیه اهداف ایرانی فقط «یک ضربه کوچک» بوده است.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118554
+
+<div align="center">
+  <a href="telegram/content/alonews_118554_1778193147.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+🔴فوری/ترامپ: آتش بس برقراره و نقض نشده.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/18 01:52
 ---
 
