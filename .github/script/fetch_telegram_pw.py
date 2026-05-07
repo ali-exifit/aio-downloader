@@ -145,7 +145,6 @@ def build_post_html(msg):
     if msg["media_url"]:
         media_rel = download_media(msg["media_url"], ch, msg["id"])
 
-    # Date header
     if dt_utc:
         date_str = convert_to_jalali(dt_utc)
     else:
@@ -154,14 +153,12 @@ def build_post_html(msg):
     html = f'<div class="post">\n'
     html += f'  <div class="post-header">📅 {date_str} &nbsp;|&nbsp; 📣 @{ch}</div>\n'
 
-    # Media
     if media_rel:
         if msg.get("media_type") == "video":
             html += f'  <div class="media"><video controls src="{media_rel}"></video></div>\n'
         else:
             html += f'  <div class="media"><img src="{media_rel}" alt="Photo"></div>\n'
 
-    # Text
     text = msg["text"] or ""
     if not text:
         if msg.get("media_type") == "photo":
@@ -169,14 +166,13 @@ def build_post_html(msg):
         elif msg.get("media_type") == "video":
             text = "🎬 ویدیو"
     lines = text.splitlines()
-    # simple escaping for HTML
     safe_lines = [line.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;") for line in lines]
     joined = "<br>".join(safe_lines)
     html += f'  <div class="post-text">{joined}</div>\n'
     html += f'</div>\n'
     return html
 
-# ---- Playwright scraping (unchanged except datetime handling) ----
+# ---- Playwright scraping ----
 async def scrape_channel_all(page, channel_name, last_id, max_scrolls):
     url = f"https://t.me/s/{channel_name}"
     print(f"  🌐 Loading {url} ...")
@@ -315,11 +311,8 @@ async def main():
 
     if not all_messages:
         print("ℹ️ No new messages across all channels.")
-        # Ensure HTML file exists at least as template
-        if not OUTPUT_HTML.exists():
-            OUTPUT_HTML.write_text(HTML_TEMPLATE.replace("<!-- INSERT_NEW_ENTRIES_HERE -->", "").replace("<!-- OLD_ENTRIES_BELOW -->", ""), encoding="utf-8")
         save_state(state)
-        return
+        return   # <-- important: do NOT create an empty index.html
 
     # Separate dated / undated
     dated   = [m for m in all_messages if m["_dt_utc"] is not None]
@@ -337,21 +330,17 @@ async def main():
     # Read existing HTML (if any) and extract the old entries part
     if OUTPUT_HTML.exists():
         existing = OUTPUT_HTML.read_text(encoding="utf-8")
-        # Find the marker where old entries start
         marker = "<!-- OLD_ENTRIES_BELOW -->"
         if marker in existing:
             idx = existing.index(marker)
-            old_part = existing[idx:]  # keep the marker and everything after
+            old_part = existing[idx:]   # includes marker and everything after
         else:
-            # fallback: entire existing content is considered old (should not happen)
             old_part = existing
     else:
         old_part = ""
 
     # Assemble final HTML: template header + new entries + old entries
-    # Replace insertion marker with new entries
     final_html = HTML_TEMPLATE.replace("<!-- INSERT_NEW_ENTRIES_HERE -->", new_entries_html)
-    # Append the old part (which includes the marker and everything below)
     final_html = final_html.replace("<!-- OLD_ENTRIES_BELOW -->", old_part)
 
     OUTPUT_HTML.write_text(final_html, encoding="utf-8")
