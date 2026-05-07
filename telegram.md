@@ -3,6 +3,235 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/18 00:08
+---
+
+## VahidOOnLine — post 238741
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_238741_1778186327.jpg" alt="Photo">
+</div>
+<div dir="rtl">
+♦️به گزارش خبرگزاری مهر، در نخستین ساعت بامداد جمعه ۱۸ اردیبهشت، صدای چند انفجار و فعالیت پدافند در غرب تهران شنیده شد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8658
+
+
+<div dir="rtl">
+📝 ترامپ احتمالاً تهش توئیت می‌زنه: «اصلاً برخورد فیزیکی در کار نبوده، فقط داشتیم با برادران ایرانی روی ناوشکن، تست مقاومت بدنه و کیفیت رنگ بدنه انجام می‌دادیم؛ عالی بود، ۱۰ از ۱۰!»
+از توجه شما سپاسگزارم دونالد جی ترامپ
+
+@mwarmonitor
+</div>
+
+## pm_afshaa — post 90332
+
+
+<div dir="rtl">
+من بخابم جنگ میشه
+</div>
+
+## pm_afshaa — post 90331
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90331_1778186328.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+غرب تهران هم اکنون
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## DEJradio — post 4492
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4492_1778186330.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+⭕️
+🧨 
+🚨 خبرگزاری‌های رسمی جمهوری اسلامی در آخرین دقایق پنجشنبه گزارش دادند که پس بعد دو صدای مهیب، برای چندین دقیقه صدای شلیک ممتد پدافند در غرب تهران شنیده شده است.
+پیش از این خبرهای غیر رسمی از فعالیت پدافند هوایی و انفجار در منطقه بیدگنه خبر داده بودند.
+
+#تهران #انفجار
+@DEJradio
+</div>
+
+## DEJradio — post 4491
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4491_1778186331.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+🚨
+🔸 سامان شریفیان کارآفرین و فعال بازارهای مالی در برنامه «پرتوی دیگر» عنوان کرد جنگ به مردم ایران یاد داد جمهوری اسلامی ظرفیت فروپاشی دارد.
+
+برنامه پرتوی دیگر هر آدینه از یوتیوب کیهان لندن و شبکه دژ ساعت ۱۹:۰۰ به‌وقت تهران پخش می‌شود.
+
+#پرتوی_دیگر #جمهوری_اسلامی
+@DEJradio
+</div>
+
+## VahidOnline — post 75308
+
+
+<div dir="rtl">
+هرمزگان:
+
+وحید بندر [عباس؟] صدای انفجار اومد الان
+
+الان ساعت دوازده شب صدای دو انفجار دیگه در بندرعباس شنیده شد
+
+همین الان بندرعباس صدای انفجار اومد
+
+سلام بندرعباس ۰۰:۰۰ یک صدا اومد
+
+۰۰:۰۲ بامداد جمعه ۱۸ اردیبهشت صدای تک انفجار این دفعه از فاصله بسیار دورتر ظاهرا از مناطقی در نزدیکی جزیره لارک یا هرمز بود.
+خودم همچنان در همین محدوده نزدیک اسکله بهمن، محله دوحه و چابهار هستم
+
+📡 @VahidOnline
+</div>
+
+## kianmeli1 — post 87243
+
+
+<div dir="rtl">
+🔴فوری- گچین بندرعباس هدف حمله هوایی قرار گرفت
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87242
+
+
+<div dir="rtl">
+🔴فوری
+
+امیرحاتمی،فرمانده کل ارتش
+
+پشیمان خواهند شد
+https://t.me/kianmeli1
+</div>
+
+## IranIntlTV — post 336034
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336034_1778186331.jpg" alt="Photo">
+</div>
+<div dir="rtl">
+رسانه‌های ایران از شنیده‌شدن صدای «فعالیت شدید پدافند هوایی» در غرب تهران در شامگاه پنجشنبه خبر دادند.
+
+ایرنا، خبرگزاری دولت جمهوری اسلامی، اعلام کرد: «ساعت ۲۳:۵۲ پنجشنبه شب، بعد از دو صدای مهیب، برای چندین دقیقه صدای شلیک ممتد پدافند در غرب تهران شنیده شد.»
+
+همزمان خبرگزاری مهر گزارش داد «پدافند موفق به سرنگونی دو هواگرد متخاصم بر روی آسمان بندرعباس و قشم شده است.»
+https://iranintl.com/202605074267
+</div>
+
+## FarsiVOA — post 217144
+
+
+<div dir="rtl">
+🔺گزارش‌های متفاوت رسانه‌های حکومتی در ایران از انفجارها در بندرعباس و جزیره قشم
+
+▪️رسانه‌های حکومتی در ایران شامگاه پنجشنبه ۱۷ اردیبهشت از شنیده شدن چند صدای انفجار در بندرعباس و جزیره قشم خبر دادند.
+
+⬇️ بیشتر بخوانید:
+https://ir.voanews.com/a/8147702.html
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 13634
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_13634_1778186332.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+🔴فعالیت پدافند در آسمان تهران
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 19735
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_19735_1778186333.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+🔴 تهران
+
+@IranianMinds
+</div>
+
+## Dirty_Kids — post 389068
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389068_1778186335.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+ساعت ۲۳:۵۷ پنجشنبه؛ تهران محدوده‌ی شهران
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 118504
+
+<div align="center">
+  <a href="telegram/content/alonews_118504_1778186336.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+🔴فوری / ایرنا: دفاع هوایی ایران در حال مقابله با پرتابه‌های خصمانه بالای تهران است.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118503
+
+<div align="center">
+  <a href="telegram/content/alonews_118503_1778186336.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+👈صدای انفجار در غرب تهران
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118502
+
+<div align="center">
+  <a href="telegram/content/alonews_118502_1778186337.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+🔴فوری/خبرهایی از حمله به محدوده شهران تهران
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118501
+
+
+<div dir="rtl">
+👈جهت رزرو تبلیغات برای VPN در کانال #الونیوز به کانال زیر مراجعه کنید👇
+
+
+📃https://t.me/ads_alonews
+
+📃https://t.me/ads_alonews
+</div>
+
+---
 📅 بروزرسانی: 1405/02/18 00:02
 ---
 
