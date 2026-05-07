@@ -35,7 +35,7 @@ jobs:
           npm install playwright pdf-lib
 
       - name: Capture, merge and name PDF
-        run: node .github/scripts/capture.js "${{ github.event.inputs.url }}"
+        run: node .github/scripts/website-capture.js "${{ github.event.inputs.url }}"
 
       - name: Upload to website folder
         env:
