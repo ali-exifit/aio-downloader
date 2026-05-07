@@ -18,7 +18,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -28,14 +28,14 @@ jobs:
       - name: Install Node dependencies
         run: |
           npm init -y > /dev/null
-          npm install playwright pdf-lib turndown
+          npm install playwright pdf-lib
 
       # Installs Chromium and required OS libraries
       - name: Install Playwright browsers
         run: npx playwright install --with-deps chromium
 
       - name: Capture, merge and name PDF
-        run: node .github/script/website-capture.js "${{ github.event.inputs.url }}"
+        run: node .github/scripts/website-capture.js "${{ github.event.inputs.url }}"
 
       # ── Upload to website folder (robust push with retries) ──
       - name: Upload to website folder
@@ -45,25 +45,19 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git config http.postBuffer 524288000
-      
+
           mkdir -p website
-          # Move both PDF and MD
-          mv output.pdf website/${FILENAME}.pdf
-          mv output.md  website/${FILENAME}.md
-          # Also move the content folder (created by the script if any media was downloaded)
-          if [ -d "website/content" ]; then
-            echo "Media content folder found."
-          fi
-      
+          mv output.pdf website/${FILENAME}
+
           FILES=(website/*)
           if [ ${#FILES[@]} -eq 0 ]; then
             echo "No files to upload."
             exit 0
           fi
-      
+
           git add website/
           git commit -m "Add website capture for ${{ github.event.inputs.url }} [skip ci]" || echo "Nothing to commit"
-      
+
           RETRIES=5
           for i in $(seq 1 $RETRIES); do
             echo "Push attempt $i..."
