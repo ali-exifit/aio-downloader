@@ -16,11 +16,14 @@ import requests
 import jdatetime
 from playwright.async_api import async_playwright
 
-BASE_DIR = Path(__file__).parent                # telegram/
-CHANNELS_FILE = BASE_DIR / "channels.json"
-STATE_FILE = BASE_DIR / "last_ids.json"
-OUTPUT_FILE = BASE_DIR.parent / "telegram.md"   # repo root
-CONTENT_DIR = BASE_DIR / "content"
+# Script is now in .github/script/
+SCRIPT_DIR = Path(__file__).resolve().parent          # .github/script/
+REPO_ROOT = SCRIPT_DIR.parent.parent                  # repo root
+
+CHANNELS_FILE = REPO_ROOT / "telegram" / "channels.json"
+STATE_FILE    = REPO_ROOT / "telegram" / "last_ids.json"
+OUTPUT_FILE   = REPO_ROOT / "telegram.md"
+CONTENT_DIR   = REPO_ROOT / "telegram" / "content"
 
 IRAN_TZ = ZoneInfo("Asia/Tehran")
 
