@@ -1,0 +1,80 @@
+name: website-capture
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: 'Full URL of the website to capture'
+        required: true
+        type: string
+
+permissions:
+  contents: write   # needed to push the PDF back
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Playwright browsers
+        uses: microsoft/playwright@v1.43.1
+        # Installs Chromium, so we don't need to install it separately
+
+      - name: Install Node dependencies
+        run: |
+          npm init -y > /dev/null
+          npm install playwright pdf-lib
+
+      - name: Capture, merge and name PDF
+        run: node .github/scripts/capture.js "${{ github.event.inputs.url }}"
+
+      - name: Upload to website folder
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git config http.postBuffer 524288000
+
+          # Ensure the folder exists
+          mkdir -p website
+
+          # Move the output PDF into website/ with the dynamic filename
+          mv output.pdf website/${FILENAME}
+
+          FILES=(website/*)
+          if [ ${#FILES[@]} -eq 0 ]; then
+            echo "No files to upload."
+            exit 0
+          fi
+
+          git add website/
+          git commit -m "Add website capture for ${{ github.event.inputs.url }} [skip ci]" || echo "Nothing to commit"
+
+          RETRIES=5
+          for i in $(seq 1 $RETRIES); do
+            echo "Push attempt $i..."
+            git pull --rebase --autostash origin "$BRANCH"
+            if git push origin "$BRANCH"; then
+              echo "Push succeeded."
+              break
+            else
+              if [ $i -lt $RETRIES ]; then
+                echo "Push rejected, retrying in 3 seconds..."
+                sleep 3
+              else
+                echo "Push failed after $RETRIES attempts."
+                exit 1
+              fi
+            fi
+          done
+          echo "All files uploaded to the 'website' folder."
