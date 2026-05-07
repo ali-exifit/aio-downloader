@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       clean_all:
-        description: 'Clean ALL platforms (telegram, youtube, x, instagram)'
+        description: 'Clean ALL platforms (telegram, youtube, x, instagram, website)'
         required: false
         type: boolean
         default: false
@@ -25,6 +25,11 @@ on:
         default: false
       clean_instagram:
         description: 'Clean Instagram'
+        required: false
+        type: boolean
+        default: false
+      clean_website:
+        description: 'Clean Website'
         required: false
         type: boolean
         default: false
@@ -49,6 +54,7 @@ jobs:
           CLEAN_YOUTUBE: ${{ github.event.inputs.clean_youtube }}
           CLEAN_X: ${{ github.event.inputs.clean_x }}
           CLEAN_INSTAGRAM: ${{ github.event.inputs.clean_instagram }}
+          CLEAN_WEBSITE: ${{ github.event.inputs.clean_website }}
         run: |
           python << 'EOF'
           import shutil, os
@@ -58,7 +64,7 @@ jobs:
           clean_all = os.environ.get("CLEAN_ALL") == "true"
           platforms = []
           if clean_all:
-              platforms = ["telegram", "youtube", "x", "instagram"]
+              platforms = ["telegram", "youtube", "x", "instagram", "website"]
           else:
               if os.environ.get("CLEAN_TELEGRAM") == "true":
                   platforms.append("telegram")
@@ -68,6 +74,8 @@ jobs:
                   platforms.append("x")
               if os.environ.get("CLEAN_INSTAGRAM") == "true":
                   platforms.append("instagram")
+              if os.environ.get("CLEAN_WEBSITE") == "true":
+                  platforms.append("website")
 
           if not platforms:
               print("ℹ️ No platforms selected, nothing to clean.")
@@ -92,6 +100,7 @@ jobs:
                   else:
                       print("ℹ️ telegram: nothing to delete")
               else:
+                  # youtube, x, instagram, website: delete the whole folder
                   folder = Path(platform)
                   if folder.exists() and folder.is_dir():
                       shutil.rmtree(folder)
