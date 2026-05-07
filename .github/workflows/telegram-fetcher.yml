@@ -19,7 +19,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install Python dependencies
-        run: pip install playwright requests jdatetime ZoneInfo
+        run: pip install playwright requests jdatetime
 
       - name: Install Chromium for Playwright
         run: |
