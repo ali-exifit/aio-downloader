@@ -4,7 +4,7 @@ Scrape public Telegram channels with Playwright.
 - Scrolls to fetch ALL new messages (no gaps).
 - Sorts by time across channels.
 - Shows Hijri‑Shamsi date & Iran/Tehran time.
-- Handles file size limit: when telegram.md > 850 KB,
+- Handles file size limit: when telegram.md > 950 KB,
   moves older content into `telegram/content/archive_N.md`
   and maintains Persian (صفحه بعد / صفحه قبل) navigation.
 """
@@ -206,7 +206,7 @@ def split_main_page(new_entries_block: str, old_messages_block: str):
     """
     # Quick size check for new_entries_block alone
     test_page = wrap_page(new_entries_block, next_rel=None, prev_rel=None)
-    if len(test_page.encode("utf-8")) <= 850 * 1024:
+    if len(test_page.encode("utf-8")) <= 950 * 1024:
         # new entries fit – shift archives and write main page
         shift_archives_for_new_page1(old_messages_block)
 
@@ -221,7 +221,7 @@ def split_main_page(new_entries_block: str, old_messages_block: str):
     else:
         # New entries alone exceed limit – split the new entries themselves.
         # We take the newest half as the main page and the older half as a new archive.
-        print("⚠️ New entries alone exceed 850KB – splitting inside new entries.")
+        print("⚠️ New entries alone exceed 950KB – splitting inside new entries.")
         entries = new_entries_block.split("\n\n")   # crude split by blank lines
         # Rebuild blocks in order: each entry roughly lines until next "## "
         # But we can just split the monolithic string in half.
@@ -455,7 +455,7 @@ async def main():
         trial_page = wrap_page(new_entries_block + old_messages_block,
                                next_rel=None, prev_rel=None)
         size = len(trial_page.encode("utf-8"))
-        if size > 850 * 1024 and old_messages_block.strip():
+        if size > 950 * 1024 and old_messages_block.strip():
             # Split required
             split_main_page(new_entries_block, old_messages_block)
         else:
