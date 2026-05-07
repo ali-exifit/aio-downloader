@@ -1,7 +1,6 @@
 const { chromium } = require('playwright');
 const { PDFDocument } = require('pdf-lib');
 const fs = require('fs').promises;
-const crypto = require('crypto');
 
 const URL = process.argv[2];
 if (!URL) {
@@ -12,28 +11,28 @@ if (!URL) {
 const MAX_LINKS = 20;                // cap to avoid huge PDFs
 const VIEWPORT = { width: 1280, height: 720 };
 
-// ---------- Helper: random 5 lowercase letters ----------
+// ---------- random 5 lowercase letters ----------
 function randomFiveLetters() {
   return Array.from({ length: 5 }, () =>
     String.fromCharCode(97 + Math.floor(Math.random() * 26))
   ).join('');
 }
 
-// ---------- Wait for page to be fully loaded ----------
+// ---------- wait for page to be fully loaded ----------
 async function waitForStable(page) {
   await page.waitForLoadState('networkidle', { timeout: 15000 }).catch(() => {
     console.warn('Network did not become fully idle – continuing…');
   });
 }
 
-// ---------- Capture a URL → PDF buffer (full page) ----------
+// ---------- capture a URL → PDF buffer (full page) ----------
 async function captureUrl(context, url) {
   const page = await context.newPage();
   try {
     await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 30000 });
     await waitForStable(page);
 
-    // Auto‑scroll to trigger lazy‑loaded images
+    // scroll to trigger lazy images
     await page.evaluate(async () => {
       await new Promise(resolve => {
         let totalHeight = 0;
@@ -49,12 +48,11 @@ async function captureUrl(context, url) {
       });
     });
 
-    const pdfBuffer = await page.pdf({
+    return await page.pdf({
       format: 'A4',
       printBackground: true,
       margin: { top: '20px', bottom: '20px', left: '20px', right: '20px' }
     });
-    return pdfBuffer;
   } catch (err) {
     console.error(`Failed to capture ${url} – ${err.message}`);
     return null;
@@ -63,28 +61,28 @@ async function captureUrl(context, url) {
   }
 }
 
-// ---------- Extract unique links from a page ----------
+// ---------- extract unique links from a page ----------
 async function extractLinks(page) {
   return page.evaluate(() => {
     const links = Array.from(document.querySelectorAll('a[href]'))
-      .map(a => a.href)                           // resolved absolute URL
+      .map(a => a.href)                           // absolute URL
       .filter(href => href.startsWith('http'));    // ignore javascript:, mailto: etc.
     return [...new Set(links)];
   });
 }
 
-// ---------- Main ----------
+// ---------- main ----------
 (async () => {
   console.log('Launching browser…');
   const browser = await chromium.launch({ headless: true });
 
-  // Use a persistent context to mimic a real user session (cookies, localStorage)
+  // single context → maintains cookies, localStorage, sessions (real user behaviour)
   const context = await browser.newContext({
     viewport: VIEWPORT,
     userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
   });
 
-  // 1. Capture main page
+  // 1. main page
   console.log(`Capturing main page: ${URL}`);
   const mainPdfBuf = await captureUrl(context, URL);
   if (!mainPdfBuf) {
@@ -93,7 +91,7 @@ async function extractLinks(page) {
     process.exit(1);
   }
 
-  // 2. Extract same‑origin links from the main page
+  // 2. extract same‑origin links
   let page;
   try {
     page = await context.newPage();
@@ -105,13 +103,13 @@ async function extractLinks(page) {
     const mainOrigin = new URL(URL).origin;
     const uniqueLinks = [...new Set(
       allLinks
-        .filter(link => link.startsWith(mainOrigin))  // same domain
+        .filter(link => link.startsWith(mainOrigin))
         .map(link => link.split('#')[0])              // remove hash
     )].slice(0, MAX_LINKS);
 
     console.log(`Found ${uniqueLinks.length} unique internal links (capped at ${MAX_LINKS})`);
 
-    // 3. Capture each linked page **within the same context** (user‑like navigation)
+    // 3. capture each linked page (same context → user click simulation)
     const linkedPdfBufs = [];
     for (const link of uniqueLinks) {
       console.log(`Capturing linked page: ${link}`);
@@ -119,7 +117,7 @@ async function extractLinks(page) {
       if (buf) linkedPdfBufs.push(buf);
     }
 
-    // 4. Merge all PDFs
+    // 4. merge all PDFs
     const mergedPdf = await PDFDocument.create();
     const pdfsToMerge = [mainPdfBuf, ...linkedPdfBufs];
 
@@ -131,15 +129,14 @@ async function extractLinks(page) {
 
     const finalPdfBytes = await mergedPdf.save();
 
-    // 5. Generate filename: hostname‑random.pdf
+    // 5. filename: hostname-random.pdf
     const hostname = new URL(URL).hostname.replace(/^www\./, '');
     const randomPart = randomFiveLetters();
     const filename = `${hostname}-${randomPart}.pdf`;
     console.log(`Generated filename: ${filename}`);
 
-    // 6. Save the PDF temporarily and export the filename for the next step
+    // 6. save and export filename for the upload step
     await fs.writeFile('output.pdf', finalPdfBytes);
-    // Append the filename to $GITHUB_ENV so the upload step can use it
     await fs.appendFile(process.env.GITHUB_ENV, `FILENAME=${filename}\n`);
 
     console.log('Done.');
