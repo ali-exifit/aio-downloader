@@ -1,14 +1,10 @@
 #!/usr/bin/env python3
 """
 Scrape public Telegram channels with Playwright.
-- Scrolls to fetch ALL new messages (no gaps).
-- Sorts by time across channels.
-- Shows Hijri-Shamsi date & Iran/Tehran time.
-Scroll limit:
-  - First run (no last_ids.json): 15 scrolls
-  - Subsequent runs: 50 scrolls (stops when reaching stored ID)
+Generates a self-contained index.html (RTL, Vazirmatn font) to avoid
+GitHub's 1 MB Markdown rendering limit.
 """
-import asyncio, json, time
+import asyncio, json, re, time
 from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -16,13 +12,13 @@ import requests
 import jdatetime
 from playwright.async_api import async_playwright
 
-# Script is now in .github/script/
+# ---- paths ----
 SCRIPT_DIR = Path(__file__).resolve().parent          # .github/script/
 REPO_ROOT = SCRIPT_DIR.parent.parent                  # repo root
 
 CHANNELS_FILE = REPO_ROOT / "telegram" / "channels.json"
 STATE_FILE    = REPO_ROOT / "telegram" / "last_ids.json"
-OUTPUT_FILE   = REPO_ROOT / "telegram.md"
+OUTPUT_HTML   = REPO_ROOT / "index.html"              # served by GitHub Pages
 CONTENT_DIR   = REPO_ROOT / "telegram" / "content"
 
 IRAN_TZ = ZoneInfo("Asia/Tehran")
@@ -30,6 +26,78 @@ IRAN_TZ = ZoneInfo("Asia/Tehran")
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
+
+# ---- HTML template ----
+HTML_TEMPLATE = """<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>آرشیو کانال‌های تلگرام</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Vazirmatn', sans-serif;
+    background: #f5f5f5;
+    color: #222;
+    line-height: 1.8;
+  }
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .header {
+    text-align: center;
+    padding: 2rem 0;
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 2rem;
+  }
+  .header h1 { font-size: 1.8rem; }
+  .post {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.07);
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+  }
+  .post-header {
+    font-weight: bold;
+    margin-bottom: 0.8rem;
+    color: #555;
+    font-size: 0.9rem;
+  }
+  .post-text {
+    white-space: pre-wrap;
+    margin-bottom: 1rem;
+  }
+  .media img, .media video {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-bottom: 0.5rem;
+  }
+  .separator {
+    border: none;
+    border-top: 1px solid #eee;
+    margin: 2rem 0;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <h1>📢 آرشیو کانال‌های تلگرام</h1>
+    <p>آخرین پیام‌ها از کانال‌های منتخب</p>
+  </div>
+  <!-- INSERT_NEW_ENTRIES_HERE -->
+  <hr class="separator">
+  <!-- OLD_ENTRIES_BELOW -->
+</div>
+</body>
+</html>"""
 
 # ---- helper functions ----
 def load_channels():
@@ -46,14 +114,6 @@ def save_state(state):
     STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, ensure_ascii=False, indent=2)
-
-def load_existing_md():
-    if OUTPUT_FILE.exists():
-        return OUTPUT_FILE.read_text(encoding="utf-8")
-    return ""
-
-def save_md(content):
-    OUTPUT_FILE.write_text(content, encoding="utf-8")
 
 def download_media(url, channel_name, post_id):
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)
@@ -72,18 +132,52 @@ def download_media(url, channel_name, post_id):
         return None
 
 def convert_to_jalali(utc_dt: datetime) -> str:
-    """Convert UTC datetime to Iran timezone and format as Jalali string."""
+    """UTC datetime → Jalali string (Iran time)."""
     local_dt = utc_dt.astimezone(IRAN_TZ)
     jdate = jdatetime.datetime.fromgregorian(datetime=local_dt)
     return jdate.strftime("%Y/%m/%d %H:%M")
 
-# ---- scraping with adaptive scroll limit ----
+def build_post_html(msg):
+    """Generate HTML for one message."""
+    ch = msg["_channel"]
+    dt_utc = msg["_dt_utc"]
+    media_rel = None
+    if msg["media_url"]:
+        media_rel = download_media(msg["media_url"], ch, msg["id"])
+
+    # Date header
+    if dt_utc:
+        date_str = convert_to_jalali(dt_utc)
+    else:
+        date_str = f"???-??-?? ??:?? (post {msg['id']})"
+
+    html = f'<div class="post">\n'
+    html += f'  <div class="post-header">📅 {date_str} &nbsp;|&nbsp; 📣 @{ch}</div>\n'
+
+    # Media
+    if media_rel:
+        if msg.get("media_type") == "video":
+            html += f'  <div class="media"><video controls src="{media_rel}"></video></div>\n'
+        else:
+            html += f'  <div class="media"><img src="{media_rel}" alt="Photo"></div>\n'
+
+    # Text
+    text = msg["text"] or ""
+    if not text:
+        if msg.get("media_type") == "photo":
+            text = "📷 عکس"
+        elif msg.get("media_type") == "video":
+            text = "🎬 ویدیو"
+    lines = text.splitlines()
+    # simple escaping for HTML
+    safe_lines = [line.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;") for line in lines]
+    joined = "<br>".join(safe_lines)
+    html += f'  <div class="post-text">{joined}</div>\n'
+    html += f'</div>\n'
+    return html
+
+# ---- Playwright scraping (unchanged except datetime handling) ----
 async def scrape_channel_all(page, channel_name, last_id, max_scrolls):
-    """
-    Keep scrolling until we reach a message with id <= last_id,
-    or we hit max_scrolls (prevents insane history load).
-    Returns list of message dicts (newest first) with id > last_id.
-    """
     url = f"https://t.me/s/{channel_name}"
     print(f"  🌐 Loading {url} ...")
     await page.goto(url, wait_until="networkidle", timeout=30000)
@@ -98,7 +192,6 @@ async def scrape_channel_all(page, channel_name, last_id, max_scrolls):
     seen_ids = set()
 
     for scroll_count in range(1, max_scrolls + 1):
-        # Extract all visible messages
         current_msgs = await page.evaluate("""() => {
             const containers = document.querySelectorAll('[data-post]');
             const msgs = [];
@@ -157,7 +250,6 @@ async def scrape_channel_all(page, channel_name, last_id, max_scrolls):
 
         print(f"    Scroll {scroll_count}: total unique={len(all_messages)}, new this scroll={new_added}")
 
-        # Stop condition: we have messages and the oldest ones are no longer new
         if all_messages:
             oldest_id = min(msg["id"] for msg in all_messages)
             if oldest_id <= last_id:
@@ -168,7 +260,6 @@ async def scrape_channel_all(page, channel_name, last_id, max_scrolls):
             print("    No new messages added – end of history.")
             break
 
-        # Scroll down to load older messages
         await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
         await asyncio.sleep(2)
 
@@ -181,111 +272,98 @@ async def scrape_channel_all(page, channel_name, last_id, max_scrolls):
             print("    No further messages loaded after scroll.")
             break
 
-    # Filter and sort newest first
     filtered = [m for m in all_messages if m["id"] > last_id]
     filtered.sort(key=lambda x: x["id"], reverse=True)
     return filtered
 
+# ---- main ----
 async def main():
     channels = load_channels()
     state = load_state()
     is_first_run = not state
-
-    # Set scroll limit: first run = 15, later runs = 50
     scroll_limit = 15 if is_first_run else 50
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
         page = await browser.new_page()
 
-        all_messages = []   # will hold dicts with _dt_utc, _channel, etc.
-
+        all_messages = []
         for ch_name in channels:
             clean_name = ch_name.lstrip("@")
             last_id = state.get(ch_name, 0)
-
             msgs = await scrape_channel_all(page, clean_name, last_id, max_scrolls=scroll_limit)
             if not msgs:
                 print(f"  ℹ️ No new messages for {ch_name}")
                 continue
 
-            # Attach parsed UTC datetime and channel name
             for m in msgs:
-                dt_utc = datetime(2000,1,1, tzinfo=ZoneInfo("UTC"))
-                if m["datetime"]:
+                dt_utc = None
+                if m.get("datetime"):
                     try:
-                        # Robust parsing: handle "2025-07-10T14:30:00+00:00" as well as "2025-07-10T14:30:00"
-                        dt_raw = datetime.fromisoformat(m["datetime"])
-                    except ValueError:
-                        dt_raw = None
-
-                    if dt_raw is not None:
-                        if dt_raw.tzinfo is None:
-                            # Naive ➜ treat as UTC directly (Telegram provides UTC times)
-                            dt_utc = dt_raw.replace(tzinfo=ZoneInfo("UTC"))
-                        else:
-                            # Aware ➜ ensure it's in UTC
-                            dt_utc = dt_raw.astimezone(ZoneInfo("UTC"))
-
+                        dt_utc = datetime.fromisoformat(m["datetime"]).astimezone(ZoneInfo("UTC"))
+                    except:
+                        print(f"    ⚠️ Cannot parse datetime '{m['datetime']}' for post {m['id']}")
+                else:
+                    print(f"    ⚠️ No datetime element for post {m['id']}")
                 m["_dt_utc"] = dt_utc
                 m["_channel"] = clean_name
 
             all_messages.extend(msgs)
-            print(f"  ✅ {ch_name}: fetched {len(msgs)} new messages (after filter)")
+            print(f"  ✅ {ch_name}: fetched {len(msgs)} new messages")
 
         await browser.close()
 
     if not all_messages:
         print("ℹ️ No new messages across all channels.")
-        if not OUTPUT_FILE.exists():
-            save_md("# Telegram Channel Archive\n\n")
+        # Ensure HTML file exists at least as template
+        if not OUTPUT_HTML.exists():
+            OUTPUT_HTML.write_text(HTML_TEMPLATE.replace("<!-- INSERT_NEW_ENTRIES_HERE -->", "").replace("<!-- OLD_ENTRIES_BELOW -->", ""), encoding="utf-8")
         save_state(state)
         return
 
-    # Sort all messages by UTC time, newest first
-    all_messages.sort(key=lambda m: m["_dt_utc"], reverse=True)
+    # Separate dated / undated
+    dated   = [m for m in all_messages if m["_dt_utc"] is not None]
+    undated = [m for m in all_messages if m["_dt_utc"] is None]
 
-    all_entries = []
-    for msg in all_messages:
-        ch = msg["_channel"]
-        dt_utc = msg["_dt_utc"]
-        media_md = None
-        if msg["media_url"]:
-            media_md = download_media(msg["media_url"], ch, msg["id"])
+    dated.sort(key=lambda m: m["_dt_utc"], reverse=True)
+    undated.sort(key=lambda m: m["id"], reverse=True)
+    sorted_messages = dated + undated
 
-        jalali_str = convert_to_jalali(dt_utc)
+    # Build HTML for new posts
+    new_entries_html = ""
+    for msg in sorted_messages:
+        new_entries_html += build_post_html(msg)
 
-        header = f"## {jalali_str} — {ch}\n"
-        if media_md:
-            if msg["media_type"] == "photo":
-                header += f"![Photo]({media_md})\n\n"
-            else:
-                header += f"[🎬 Video]({media_md})\n\n"
+    # Read existing HTML (if any) and extract the old entries part
+    if OUTPUT_HTML.exists():
+        existing = OUTPUT_HTML.read_text(encoding="utf-8")
+        # Find the marker where old entries start
+        marker = "<!-- OLD_ENTRIES_BELOW -->"
+        if marker in existing:
+            idx = existing.index(marker)
+            old_part = existing[idx:]  # keep the marker and everything after
+        else:
+            # fallback: entire existing content is considered old (should not happen)
+            old_part = existing
+    else:
+        old_part = ""
 
-        text = msg["text"] or ("📷 Photo" if msg["media_type"] == "photo" else "🎬 Video" if msg["media_type"] == "video" else "")
-        lines = text.splitlines()
-        quoted = "\n> ".join(lines)
-        entry = f"{header}> {quoted}\n\n"
-        all_entries.append(entry)
+    # Assemble final HTML: template header + new entries + old entries
+    # Replace insertion marker with new entries
+    final_html = HTML_TEMPLATE.replace("<!-- INSERT_NEW_ENTRIES_HERE -->", new_entries_html)
+    # Append the old part (which includes the marker and everything below)
+    final_html = final_html.replace("<!-- OLD_ENTRIES_BELOW -->", old_part)
 
-    # Update state per channel
+    OUTPUT_HTML.write_text(final_html, encoding="utf-8")
+
+    # Update state
     for ch_name in channels:
         clean_name = ch_name.lstrip("@")
         ch_msgs = [m for m in all_messages if m["_channel"] == clean_name]
         if ch_msgs:
             state[ch_name] = max(m["id"] for m in ch_msgs)
 
-    if not OUTPUT_FILE.exists():
-        save_md("# Telegram Channel Archive\n\n")
-
-    if all_entries:
-        existing = load_existing_md()
-        combined = "".join(all_entries) + existing
-        save_md(combined)
-        print(f"✅ Added {len(all_entries)} new messages, sorted by time.")
-    else:
-        print("ℹ️ No new messages to write.")
-
+    print(f"✅ Added {len(sorted_messages)} new messages to index.html")
     save_state(state)
 
 if __name__ == "__main__":
