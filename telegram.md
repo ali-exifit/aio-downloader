@@ -1,6 +1,15 @@
 # خواننده تلگرام
 
 <!-- MSG START -->
+## 1405/02/17 18:40 — IranianMinds
+![Photo](telegram/content/IranianMinds_19693_1778166737.jpg)
+
+> 🔴 پست جدید ترامپ که دوباره اومده گرفته رو این بایدن یتیم :
+> 
+> تصویری بسیار دقیق از دولت جو بایدن خواب‌آلود. خسارت عظیم وارد شده، اما ما برگشتیم!
+> 
+> @IranianMinds
+
 ## 1405/02/17 18:31 — VahidOOnLine
 ![Photo](telegram/content/VahidOOnLine_238665_1778166506.jpg)
 
