@@ -3,6 +3,303 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/18 00:32
+---
+
+## VahidOOnLine — post 238746
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_238746_1778187756.jpg" alt="Photo">
+</div>
+<div dir="rtl">
+♦️ بامداد جمعه ۱۸ اردیبهشت‌ماه گزارش داد ارتش آمریکا مسئولیت حمله به بندر قشم و بندرعباس را بر عهده گرفته است.
+
+بر اساس گزارش فاکس‌نیوز، یک مقام ارشد آمریکایی گفته است پایان آتش‌بس با جمهوری اسلامی اعلام نشده و وضعیت آتش‌بس همچنان ادامه دارد
+
+جزئیات بیشتری درباره ابعاد این حملات و خسارت‌های احتمالی منتشر نشده است.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8661
+
+
+<div dir="rtl">
+📝آتش‌بسِ پوشالی: از بوسه تا گاز ! 📌این دو هفته آتش‌بس، چیزی جز یک «تنفسِ مصنوعی» وسطِ یک دعوای ناموسی نیست. همه‌چیز دقیقاً مثل همین ویدیو شروع می‌شود؛ با بوسه‌هایی که بوی خیانت می‌دهند و آغوش‌هایی که فقط برای پیدا کردنِ جای چاقو باز شده‌اند. درست در لحظه‌ای…
+</div>
+
+## pm_afshaa — post 90342
+
+
+<div dir="rtl">
+حملات موشکی سپاه به سمت ناو های آمریکا در تنگه هرمز
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90341
+
+
+<div dir="rtl">
+انفجار در ابوظبی
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90340
+
+
+<div dir="rtl">
+محمود آباد اصفهانو زدن
+</div>
+
+## pm_afshaa — post 90339
+
+
+<div dir="rtl">
+صداسیمای گنده گوز جمهوری اسهالی:آمریکا برای خارج کردن دو فروند کشتی خود اقدام به ضربه زدن به برخی نقاط کرد اما بلافاصله با واکنش محکم نیروهای ما مواجه شد
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90338
+
+
+<div dir="rtl">
+امریکا اعلام کرد حملات امشب در پاسخ حمله جمهوری اسلامی به امارات بوده
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90337
+
+
+<div dir="rtl">
+انفجار در میناب
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90336
+
+
+<div dir="rtl">
+🔴سنتکام مسئولیت حمله به بندرعباس، قشم و تهران را برعهده گرفت
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## DEJradio — post 4497
+
+
+<div dir="rtl">
+💣 خبرگزاری‌های محلی از وقوع انفجار در شهر ابوظبی خبر میدهند.
+#انفجار #ابوظبی
+@DEJradio
+</div>
+
+## DEJradio — post 4496
+
+
+<div dir="rtl">
+⭕️
+💣 خبرگزاری های رسمی داخلی از شنیده شدن صدای انفجار در میناب خبر میدهند.
+
+#میناب #انفجار
+@DEJradio
+</div>
+
+## kianmeli1 — post 87249
+
+
+<div dir="rtl">
+🔴فوری-رویترز
+
+ناوهای امریکا در تنگه هرمز موشکباران شده اند
+
+US naval units near the Strait of Hormuz came under Iranian missile fire and were forced to retreat after sustaining damage - Reuters
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87248
+
+
+<div dir="rtl">
+🔴فوری
+
+انفجار در ابوظبی، امارات
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87247
+
+
+<div dir="rtl">
+🔴فوری-سه ناوشکن امریکا هدف موشک سپاه قرار گرفت
+https://t.me/kianmeli1
+</div>
+
+## Persian_Trend_Official — post 13637
+
+
+<div dir="rtl">
+⭕️ آکسیوس:
+ارتش آمریکا به اهداف ایرانی در «منطقه تنگه هرمز» حمله کرده.
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 13636
+
+
+<div dir="rtl">
+🔴گزارش‌های تایید نشده از شنیده‌شدن انفجارهای شدید در میناب و ابوظبی خبر می‌دهند.
+
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانا
+</div>
+
+## IranianMinds — post 19744
+
+
+<div dir="rtl">
+🔴 آکسیوس :
+
+ارتش آمریکا داره در تنگه هرمز به اهداف ایرانی حمله میکنه
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19743
+
+
+<div dir="rtl">
+🔴 صدای انفجار شدید در میناب
+
+@IranianMinds
+</div>
+
+## Dirty_Kids — post 389072
+
+
+<div dir="rtl">
+فاکس‌نیوز اعلام کرد که ارتش آمریکا حملاتی را به بندر قشم و بندرعباس در ایران انجام داده است. اسرائیل هیوم نیز به نقل از یک منبع اسرائیلی تایید کرد که تهران و واشینگتن در تنگه هرمز تبادل آتش داشته‌اند.
+
+پ‌ن: جدی منتظر بودن ناو باکسر برسه مراد انقد گفت جدی نگرفتید
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 118524
+
+<div align="center">
+  <a href="telegram/content/alonews_118524_1778187756.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+👈تسنیم: ۳ ناوشکن آمریکایی در نزدیکی تنگه هرمز هدف حمله نیروی دریایی ایران قرار گرفت
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118523
+
+<div align="center">
+  <a href="telegram/content/alonews_118523_1778187756.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+👈شاخص صف پمپ بنزین برای بار Nام در ایران بالا زد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118522
+
+<div align="center">
+  <a href="telegram/content/alonews_118522_1778187757.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+👈اکسیوس گزارش می‌دهد که ارتش ایالات متحده حملاتی را به اهداف ایرانی در «منطقه تنگه هرمز» انجام داده است.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118521
+
+<div align="center">
+  <a href="telegram/content/alonews_118521_1778187757.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+👈گزارشات ضد و نقیض از انفجار در اصفهان
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118520
+
+<div align="center">
+  <a href="telegram/content/alonews_118520_1778187757.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+👈شبکه خبر: آمریکا برای خارج کردن دو فروند کشتی خود اقدام به ضربه زدن به برخی نقاط کرد اما بلافاصله با واکنش محکم نیروهای ما مواجه شد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118519
+
+<div align="center">
+  <a href="telegram/content/alonews_118519_1778187757.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+👈امریکا اعلام کرد حملات امشب در پاسخ حمله ایران به امارات بوده
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118518
+
+<div align="center">
+  <a href="telegram/content/alonews_118518_1778187757.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+🔴فوری/سنتکام مسئولیت حمله به بندرعباس، قشم و تهران را برعهده گرفت 
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/18 00:22
 ---
 
