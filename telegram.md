@@ -3,6 +3,257 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/17 23:22
+---
+
+## VahidOOnLine — post 238731
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_238731_1778183547.jpg" alt="Photo">
+</div>
+<div dir="rtl">
+♦️دونالد ترامپ، رئیس‌جمهوری آمریکا، روز پنجشنبه ۱۷ اردیبهشت در پیامی در شبکه اجتماعی تروث سوشال از گفتگوی تلفنی با اورزولا فون در لاین، رئیس کمیسیون اروپا، خبر داد. ترامپ اعلام کرد که دو طرف بر سر جلوگیری قاطع از دستیابی جمهوری اسلامی به سلاح هسته‌ای توافق نظر کامل دارند و تاکید کردند رژیمی که مردم خود را می‌کشد، نباید به بمبی دست یابد که می‌تواند میلیون‌ها نفر را به کام مرگ بکشد.
+
+ترامپ در بخش دیگری از پیام خود، با اشاره به توافق تجاری تاریخی «ترنبری»، به اتحادیه اروپا هشدار داد که باید به وعده خود مبنی بر صفر کردن تعرفه‌های گمرکی عمل کند. او تصریح کرد که تا سالگرد ۲۵۰ سالگی استقلال آمریکا (۴ ژوئیه ۲۰۲۶) به اروپا فرصت می‌دهد تا این تعهد را اجرایی کند؛ در غیر این صورت، تعرفه‌های واردات از اتحادیه اروپا بلافاصله به سطوح بسیار بالاتری افزایش خواهد یافت.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8653
+
+
+<div dir="rtl">
+جمهوری اسلامی اعلام کرده امارات به بندرعباس و قشم حمله کرده
+</div>
+
+## pm_afshaa — post 90317
+
+
+<div dir="rtl">
+صدا سیما : امارات جرات نداره بهمون حمله کنه
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90315
+
+
+<div dir="rtl">
+فعالیت شدید سوخت رسان ها در خاورمیانه
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90314
+
+
+<div dir="rtl">
+صداوسیما: اسکله مسافربری بهمن در جزیره قشم هدف حمله دشمن قرار گرفت
+
+ساختمان اداری این اسکله هدف حمله بود
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## DEJradio — post 4486
+
+<div align="center">
+  <img src="telegram/content/DEJradio_4486_1778183548.jpg" alt="Photo">
+</div>
+<div dir="rtl">
+🚨
+⭕️ آخرین شرایط ترافیک هوایی در منطقه
+#خاورمیانه
+@DEJradio
+</div>
+
+## kianmeli1 — post 87229
+
+
+<div dir="rtl">
+🔴فوری-میدل ایست: امارات متحده عربی به ایران حمله کرده
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87228
+
+
+<div dir="rtl">
+🔴ساعت حدود ۲۳:۱۵ پنجشنبه؛ تعداد ۷ یا ۸ موشک از جنوب هرمزگان به سمت محدوده‌ی تنگه هرمز شلیک شد.
+https://t.me/kianmeli1
+</div>
+
+## Shin_Persian — post 5867
+
+
+<div dir="rtl">
+Shin ✓ @hey_itsmyturn
+Thu, 07 May 2026 19:50:09 UTC
+
+Earlier: AA activity in Bidganeh (Bidkaneh), West of Tehran
+Regime confirms, adds that it was "due to testing the air defense systems"
+
+فارسی
+
+پیش‌تر: فعالیت پدافند هوایی در بیدگنه، غرب تهران
+رژیم تایید کرد و افزود که این موضوع «به دلیل آزمایش سامانه‌های پدافند هوایی» بوده است.
+
+𝕏 · @shin_persian
+</div>
+
+## Shin_Persian — post 5866
+
+
+<div dir="rtl">
+↩️ Quoted tweet: Josh Young ✓ @JoshYoung Thu, 07 May 2026 19:43:33 UTC "Peace" in the Middle East sure is different! https://x.com/i/status/2052467946404950427 ↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید. فارسی «صلح» در خاورمیانه واقعاً متفاوت…
+</div>
+
+## Shin_Persian — post 5865
+
+
+<div dir="rtl">
+↩️ Quoted tweet:
+Josh Young ✓ @JoshYoung
+Thu, 07 May 2026 19:43:33 UTC
+
+"Peace" in the Middle East sure is different!
+https://x.com/i/status/2052467946404950427
+
+↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.
+
+فارسی
+
+«صلح» در خاورمیانه واقعاً متفاوت است!
+https://x.com/i/status/2052467946404950427
+
+𝕏 · @shin_persian
+</div>
+
+## Iliaen — post 4427
+
+
+<div dir="rtl">
+ساعت حدود ۲۳:۱۵ پنجشنبه؛ تعداد ۷ یا ۸ موشک از جنوب هرمزگان به سمت محدوده‌ی تنگه هرمز شلیک شد.
+
+@iliaen
+</div>
+
+## FarsiVOA — post 217138
+
+
+<div dir="rtl">
+🔺دونالد ترامپ: جمهوری اسلامی «که مردم خودش را می‌کشد نباید کنترل بمبی را داشته باشد که می‌تواند میلیون‌ها نفر را بکشد»
+
+▪️دونالد ترامپ، رئیس جمهوری آمریکا روز پنجشنبه در تروت‌سوشال اعلام کرد که با اورزولا فون در لاین، رئیس کمیسیون اروپا «تماس بسیار خوبی» داشت و در این تماس در مورد ایران گفت‌وگو کرد.
+
+⬇️ بیشتر بخوانید:
+https://ir.voanews.com/a/8147693.html
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217137
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217137_1778183549.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+⚡️بن‌بست تجاری اروپا و آمریکا در کنار نشست بروکسل‌؛ چالش‌های جدید اقتصاد و رقابت جهانی
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 13625
+
+
+<div dir="rtl">
+همراهان پرشین ترند که فیلم یا عکسی از حملات امشب دارند به پی وی من ارسال کنند 🫶🙏
+
+@Tony_Soprano007
+</div>
+
+## BBCPersian — post 280434
+
+<div align="center">
+  <a href="telegram/content/BBCPersian_280434_1778183550.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+🔴 از آن که گزارش‌هایی در مورد شنیده شدن صدای انفجارهایی در حوالی بندرعباس و جزیره قشم در رسانه‌های ایران منتشر شد، خبرگزاری فارس اکنون می‌گوید که بررسی‌هایش نشان می‌دهد «در جریان تبادل آتش میان نیروهای مسلح ایران و دشمن بخش‌هایی تجاری اسکله بهمن قشم هدف قرار گرفته است.»
+خبرگزاری صدا و سیما هم گزارش کرده «انفجار در اسکله بهمن قشم در جریان تبادل آتش میان نیروهای مسلح ایران و دشمن رخ داده است.»
+به گزارش صدا و سیما، ساختمان اداری این اسکله هدف حمله بود.
+
+https://bbc.in/4etLM7w
+@BBCPersian
+</div>
+
+## Dirty_Kids — post 389060
+
+
+<div dir="rtl">
+ساعت حدود ۲۳:۱۵ پنجشنبه؛ تعداد ۷ یا ۸ موشک از جنوب هرمزگان به سمت محدوده‌ی تنگه هرمز شلیک شد.
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 118479
+
+<div align="center">
+  <a href="telegram/content/alonews_118479_1778183551.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+👈یک مقام آگاه نظامی: به دنبال تعرض ارتش متجاوز آمریکا به یک نفت کش ایرانی یگان های متعرض دشمن در محدوده تنگه هرمز زیر آتش موشکی ایران قرار گرفتند که پس از تحمل خسارت مجبور به فرار شدند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118478
+
+<div align="center">
+  <a href="telegram/content/alonews_118478_1778183551.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+👈دقایقی پیش، آسمان بندرعباس
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118477
+
+<div align="center">
+  <a href="telegram/content/alonews_118477_1778183552.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+👈علت شلیک پدافند هوایی در غرب کشور، ورود ریز پرنده های شناسایی بوده است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118475
+
+<div align="center">
+  <a href="telegram/content/alonews_118475_1778183552.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+👈آسمان خاورمیانه هم اکنون !
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/17 23:12
 ---
 
