@@ -25,18 +25,19 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install Playwright browsers
-        uses: microsoft/playwright@v1.43.1
-        # Installs Chromium, so we don't need to install it separately
-
       - name: Install Node dependencies
         run: |
           npm init -y > /dev/null
           npm install playwright pdf-lib
 
+      # Installs Chromium and required OS libraries
+      - name: Install Playwright browsers
+        run: npx playwright install --with-deps chromium
+
       - name: Capture, merge and name PDF
         run: node .github/scripts/website-capture.js "${{ github.event.inputs.url }}"
 
+      # ── Upload to website folder (robust push with retries) ──
       - name: Upload to website folder
         env:
           BRANCH: ${{ github.ref_name }}
@@ -45,10 +46,7 @@ jobs:
           git config user.email "actions@github.com"
           git config http.postBuffer 524288000
 
-          # Ensure the folder exists
           mkdir -p website
-
-          # Move the output PDF into website/ with the dynamic filename
           mv output.pdf website/${FILENAME}
 
           FILES=(website/*)
