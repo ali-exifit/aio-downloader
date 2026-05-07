@@ -6,6 +6,7 @@ Scrape public Telegram channels with Playwright.
 - Sorts messages by ID (newest first) across channels.
 - Handles file size limit with archive pages.
 - Deduplicates posts based on (channel, post_id) to prevent repeats.
+- Centers media and shows captions in right‑to‑left (RTL) for Persian.
 """
 
 import asyncio
@@ -13,7 +14,6 @@ import json
 import os
 import re
 import time
-from datetime import datetime
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -51,7 +51,7 @@ HEADER_TEMPLATE = f"""\
 """
 
 # ----------------------------------------------------------------------
-# Helpers (same as before)
+# Helpers
 # ----------------------------------------------------------------------
 def load_channels():
     with open(CHANNELS_FILE, "r", encoding="utf-8") as f:
@@ -132,10 +132,9 @@ def deduplicate_messages(old_block: str, new_ids_set: set[tuple[str, int]]) -> s
     return "".join(kept)
 
 # ----------------------------------------------------------------------
-# Media download (now includes documents)
+# Media download
 # ----------------------------------------------------------------------
 def download_media(url, channel_name, post_id, filename=None):
-    """Download photo or video (direct URL)."""
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)
     if filename is None:
         ext = ".jpg"
@@ -155,39 +154,29 @@ def download_media(url, channel_name, post_id, filename=None):
         return None
 
 def download_document(post_url, channel_name, post_id):
-    """
-    Fetch the single‑post page and extract the direct document download link.
-    Returns local file path (string) or None.
-    """
     print(f"    📄 Fetching document page: {post_url}")
     try:
         resp = requests.get(post_url, headers=HEADERS, timeout=30)
         resp.raise_for_status()
         html = resp.text
 
-        # Look for the document link: <a class="tgme_widget_message_document_wrap" href="...">
         match = re.search(r'<a\s[^>]*class="tgme_widget_message_document_wrap"[^>]*\shref="([^"]+)"', html)
         if not match:
             print("    ⚠️ No document download link found on the post page.")
             return None
         doc_url = match.group(1)
-        # Fix relative URLs
         if doc_url.startswith("/"):
             doc_url = "https://t.me" + doc_url
 
-        # Try to guess a filename from the URL or from the document title
         filename = None
         parsed = urlparse(doc_url)
         path = parsed.path
         if path and "/" in path:
-            # Extract last segment as potential filename
             potential_name = path.split("/")[-1]
             if "." in potential_name:
                 filename = potential_name
         if not filename:
-            # Fallback: use time‑based unique name with .dat
             ext = ".dat"
-            # sometimes the doc URL has a query param like ?download=1, ignore
             filename = f"{channel_name}_{post_id}_{int(time.time())}{ext}"
 
         print(f"    ⬇️ Downloading document: {doc_url} -> {filename}")
@@ -198,7 +187,7 @@ def download_document(post_url, channel_name, post_id):
         return None
 
 # ----------------------------------------------------------------------
-# Archive shifting (unchanged)
+# Archive shifting
 # ----------------------------------------------------------------------
 def shift_archives_for_new_page1(message_block_new_page1: str):
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)
@@ -259,10 +248,9 @@ def split_main_page(new_entries_block: str, old_messages_block: str):
         print("⚠️ Some new messages may be lost due to size limit.")
 
 # ----------------------------------------------------------------------
-# Scraping (now detects documents)
+# Scraping
 # ----------------------------------------------------------------------
 async def scrape_channel_all(page, channel_name, last_id, max_scrolls):
-    """Returns list of message dicts, newest first."""
     url = f"https://t.me/s/{channel_name}"
     print(f"  🌐 Loading {url} ...")
     await page.goto(url, wait_until="networkidle", timeout=30000)
@@ -293,20 +281,16 @@ async def scrape_channel_all(page, channel_name, last_id, max_scrolls):
                 const text = textEl ? textEl.innerText : '';
 
                 let mediaUrl = null, mediaType = null;
-
-                // Photo
                 const photoWrap = el.querySelector('.tgme_widget_message_photo_wrap');
                 if (photoWrap) {
                     const style = photoWrap.getAttribute('style') || '';
                     const match = style.match(/url\\('(.*?)'\\)/);
                     if (match) { mediaUrl = match[1]; mediaType = 'photo'; }
                 }
-                // Video
                 if (!mediaUrl) {
                     const videoTag = el.querySelector('video');
                     if (videoTag && videoTag.src) { mediaUrl = videoTag.src; mediaType = 'video'; }
                 }
-                // Link‑based photo
                 if (!mediaUrl) {
                     const linkPhoto = el.querySelector('a.tgme_widget_message_photo_wrap');
                     if (linkPhoto) {
@@ -315,13 +299,9 @@ async def scrape_channel_all(page, channel_name, last_id, max_scrolls):
                         if (match) { mediaUrl = match[1]; mediaType = 'photo'; }
                     }
                 }
-                // Document (any file)
                 if (!mediaUrl) {
                     const docWrap = el.querySelector('a.tgme_widget_message_document_wrap');
                     if (docWrap) {
-                        // On the main feed page, we don't have a direct download URL.
-                        // We'll return the post URL as a placeholder; Python will fetch
-                        // the single‑post page to get the real download link.
                         mediaUrl = 'https://t.me/' + channel + '/' + postId;
                         mediaType = 'document';
                     }
@@ -422,33 +402,29 @@ async def main():
         if media_url and media_type in ("photo", "video"):
             media_md = download_media(media_url, ch, pid)
         elif media_url and media_type == "document":
-            # For documents, we have a post URL, not a direct file URL.
-            # Download the document via the post page.
             media_md = download_document(media_url, ch, pid)
             if not media_md:
-                # Fallback: keep the post URL as a clickable link
-                media_md = media_url   # this will be rendered as a link
+                media_md = media_url  # fallback
 
-        header = f"## {ch} — post {pid}\n"
+        # ---- Centered media & RTL caption ----
+        header = f"## {ch} — post {pid}\n\n"
+        media_html = ""
         if media_md:
             if media_type == "photo":
-                header += f"![Photo]({media_md})\n\n"
+                media_html = f'<div align="center">\n  <img src="{media_md}" alt="Photo">\n</div>'
             elif media_type == "video":
-                header += f"[🎬 Video]({media_md})\n\n"
+                media_html = f'<div align="center">\n  <a href="{media_md}">🎬 Download video</a>\n</div>'
             elif media_type == "document":
-                # If download succeeded, show as a link; otherwise keep the post link
-                if media_md.startswith("http"):
-                    header += f"📎 [Download file]({media_md})\n\n"
-                else:
-                    header += f"📎 [Download file]({media_md})\n\n"
+                media_html = f'<div align="center">\n  <a href="{media_md}">📎 Download file</a>\n</div>'
 
-        text = msg.get("text", "")
-        if not text:
-            if media_type == "photo": text = "📷 Photo"
-            elif media_type == "video": text = "🎬 Video"
-            elif media_type == "document": text = "📎 Document"
-        quoted = "\n> ".join(text.splitlines())
-        entry = f"{header}> {quoted}\n\n"
+        caption = msg.get("text", "")
+        if not caption:
+            if media_type == "photo": caption = "📷 Photo"
+            elif media_type == "video": caption = "🎬 Video"
+            elif media_type == "document": caption = "📎 Document"
+        caption_div = f'<div dir="rtl">\n{caption}\n</div>' if caption else ""
+
+        entry = header + media_html + "\n" + caption_div + "\n\n"
         new_entries_list.append(entry)
 
     new_entries_block = update_header + "".join(new_entries_list)
