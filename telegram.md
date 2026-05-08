@@ -7,6 +7,116 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/18 21:13
+---
+
+## VahidOOnLine — post 238946
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_238946_1778262211.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سنتکام، ستاد فرماندهی مرکزی ایالات متحده، اعلام کرد که از زمان آغاز محاصره دریایی بنادر و سواحل جنوب ایران، ۵۷ کشتی تجاری با دستور نیروهای آمریکایی تغییر مسیر داده و چهار کشتی پس از حمله از کار افتاده‌اند.
+
+همچنین سه ناوشکن در دریای عرب برای پشتیبانی از محاصره در حال گشت‌زنی‌اند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## kianmeli1 — post 87288
+
+<div align="center">
+  <img src="telegram/content/kianmeli1_87288_1778262211.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴سی‌ان‌ان: ایران به شناورها هشدار داده که از ناوهای آمریکا دور شوند
+
+سی‌ان‌ان نوشت:
+
+ایران روی فرکانس اضطراری کشتی‌ها در پیامی هشدار داده که: برای حفظ امنیت‌تان، توصیه می‌کنیم فاصلهٔ حداقل 10 مایلی را از ناوهای جنگی آمریکا حفظ کنید، زیرا ما گاهی نیاز داریم با موشک و پهپاد به یانکی‌ها درس بدهیم.
+
+روز پنجشنبه هم ایرانی‌ها از تمامی کشتی‌های حاضر در بخش شمالی تنگهٔ هرمز خواستند به سمت دبی حرکت کنند و همهٔ آن‌ها به حرف ایران گوش کردند.
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87287
+
+<div align="center">
+  <img src="telegram/content/kianmeli1_87287_1778262212.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴آواکس"Boeing E-3 Sentry" تو شرق عربستان نزدیک قطر دیده شد؛برای فرماندهی و کنترل نبرد هوایی استفاده می‌شود
+https://t.me/kianmeli1
+</div>
+
+## IranIntlTV — post 336181
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336181_1778262212.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سنتکام، ستاد فرماندهی مرکزی ایالات متحده، اعلام کرد که از زمان آغاز محاصره دریایی بنادر و سواحل جنوب ایران، ۵۷ کشتی تجاری با دستور نیروهای آمریکایی تغییر مسیر داده و چهار کشتی پس از حمله از کار افتاده‌اند.
+
+همچنین سه ناوشکن در دریای عرب برای پشتیبانی از محاصره در حال گشت‌زنی‌اند.
+https://iranintl.com/202605081553
+</div>
+
+## configx2ray — post 38660
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+هرچیزی که رایگانه براتون وصله رو دایرکت چنل بفرستید تا متود برداری کنیم و از روش سرور بسازیم بزاریم چنل استفادع کنید فقط رایگان هارو بفرستید دمتون گرم دایرکت چنل : http://t.me/ConfigX2ray?direct
+</div>
+
+## configx2ray — post 38659
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+هرچیزی که رایگانه براتون وصله رو دایرکت چنل بفرستید تا متود برداری کنیم و از روش سرور بسازیم بزاریم چنل استفادع کنید
+
+فقط رایگان هارو بفرستید دمتون گرم
+دایرکت چنل :
+http://t.me/ConfigX2ray?direct
+</div>
+
+## alonews — post 118727
+
+<div align="center">
+  <a href="telegram/content/alonews_118727_1778262213.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈هم اکنون یک پهپاد آمریکایی درحال رصد سواحل ایران است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118726
+
+<div align="center">
+  <a href="telegram/content/alonews_118726_1778262213.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزارت امور خارجه ایالات متحده: لبنان و اسرائیل متعهد شده‌اند که بر اساس منافع مربوطه خود وارد گفتگو شوند و ما برای آشتی دادن آنها تلاش خواهیم کرد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118725
+
+<div align="center">
+  <a href="telegram/content/alonews_118725_1778262214.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈بقایی، سخنگوی وزارت‌خارجه: پاسخ ایران به پیشنهاد آمریکایی‌ها در دست بررسیه و در زمان خودش براشون ارسال میشه. ضرب‌الاجل آمریکایی‌ها؟ برامون مهم نیست و کار خودمونو میکنیم.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/18 21:02
 ---
 
