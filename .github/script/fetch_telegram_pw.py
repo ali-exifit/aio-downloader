@@ -8,7 +8,6 @@ Scrape public Telegram channels with Playwright.
 - Deduplicates posts based on (channel, post_id) to prevent repeats.
 - Centers media and shows captions in right‑to‑left (RTL) for Persian.
 - Shows a notice when no new posts are found in an update cycle.
-- Returns direct raw GitHub download links for all media.
 """
 
 import asyncio
@@ -32,9 +31,6 @@ CHANNELS_FILE = REPO_ROOT / "telegram" / "channels.json"
 STATE_FILE    = REPO_ROOT / "telegram" / "last_ids.json"
 OUTPUT_FILE   = REPO_ROOT / "telegram.md"
 CONTENT_DIR   = REPO_ROOT / "telegram" / "content"
-
-# ---- Raw GitHub base URL for direct download links ----
-RAW_BASE = "https://raw.githubusercontent.com/ali-exifit/aio-downloader/refs/heads/main"
 
 IRAN_TZ = ZoneInfo("Asia/Tehran")
 HEADERS = {
@@ -193,6 +189,7 @@ def download_media(url, channel_name, post_id, media_type='photo', filename=None
             'video/webm': '.webm',
             'video/quicktime': '.mov',
             'application/pdf': '.pdf',
+            # add more if needed
         }
         correct_ext = None
         for mime, extension in ext_map_mime.items():
@@ -201,14 +198,14 @@ def download_media(url, channel_name, post_id, media_type='photo', filename=None
                 break
 
         if correct_ext and not local_name.endswith(correct_ext):
+            # rename file
             new_local_name = str(Path(local_name).stem) + correct_ext
             local_path = CONTENT_DIR / new_local_name
             local_name = new_local_name
             print(f"    ℹ️ Corrected extension -> {local_name}")
 
         local_path.write_bytes(resp.content)
-        # Return raw GitHub download URL
-        return f"{RAW_BASE}/telegram/content/{local_name}"
+        return f"telegram/content/{local_name}"
 
     except Exception as e:
         print(f"    ⚠️ Media download failed: {e}")
@@ -515,7 +512,7 @@ async def main():
         elif media_url and media_type == "document":
             media_md = download_document(media_url, ch, pid)
             if not media_md:
-                media_md = media_url  # fallback link to t.me post
+                media_md = media_url  # fallback link
 
         # ---- Centered media & RTL caption ----
         header = f"## {ch} — post {pid}\n\n"
