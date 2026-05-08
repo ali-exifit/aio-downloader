@@ -7,6 +7,22 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/19 02:07
+---
+
+## alonews — post 118787
+
+<div align="center">
+  <a href="telegram/content/alonews_118787_1778279848.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ای بی سی: واسنگتن هنوز پاسخ ایران را دریافت نکرده اما مذاکرات درحال پیشرفته
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/19 02:02
 ---
 
