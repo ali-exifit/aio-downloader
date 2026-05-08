@@ -17960,5 +17960,5 @@ https://t.me/+6ckCmywafrxiYzk0
 </div>
 <!-- MSG END -->
 <!-- NAV START -->
-[صفحه بعد](../telegram.md)
+[صفحه بعد](https://github.com/ali-exifit/aio-downloader/blob/main/telegram.md)
 <!-- NAV END -->
