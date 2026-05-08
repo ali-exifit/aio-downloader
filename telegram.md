@@ -7,6 +7,70 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/19 00:43
+---
+
+## Persian_Trend_Official — post 13724
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_13724_1778274820.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+از نتایج #طوفان‌الاقصی
+
+7 اکتبر 2023: ویدیویی از ورود نیرو های حماس با گروکان های اسرائیلی به غزه و شادمانی مردم، همچنین مکث خودرو ها و حمله مردم با چوب و چماق به اجساد گروگان‌ها در غزه درون محله‌ای در خان یونس
+
+8 می 2026: ارتش اسرائیل در همان محله بر روی ویرانه‌های خان یونس یک پست نظارتی و مرزبانی در غزه می‌سازد.
+
+پ.ن: در زندگی مثل اسرائیل باشید، هیچ چیز رو فراموش نکنید و بی جواب نزارید.
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Dirty_Kids — post 389137
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389137_1778274823.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ما هم همین میگیم برید انتقام بگیرید
+
+جمع بشید حمله کنید زمینی به اسرائیل امارات، خودتون هرشب میرید خیابون دنبال سکس و عقد صیغه بازی 🤷🏻‍♂
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389135
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389135_1778274824.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ناتالیا سرباز دلیر و جانفدای اسرائیلی:
+
+کمک توراهه، به زودی تو تابستون امسال همدیگه رو تو تهران می‌بینیم.
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 118777
+
+<div align="center">
+  <a href="telegram/content/alonews_118777_1778274825.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈همزمان با شیوع ویروس جدید و همچنین انتشار اسناد مربوط به مشاهدات اجسام ناشناس در فضا/بازنشر جلد مجله اکونومیست برای سال ۲۰۲۶(انتشار قبل از سال جدید میلادی) که به شیوع یک بیماری و وجود آدم فضایی ها اشاره می کند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/19 00:32
 ---
 
