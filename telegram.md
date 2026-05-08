@@ -7,6 +7,50 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/19 03:03
+---
+
+## VahidOOnLine — post 238994
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_238994_1778283198.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اسکات بسنت، وزیر خزانه‌داری آمریکا، با اشاره به تحریم‌های جدید آمریکا علیه صنعت پهپادی جمهوری اسلامی، در ایکس نوشت: «در حالی که سران بازمانده سپاه مانند موش‌هایی در یک کشتی در حال غرق شدن گرفتار شده‌اند، وزارت خزانه‌داری در کارزار خشم اقتصادی خود بی‌وقفه عمل می‌کند.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## IranIntlTV — post 336214
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336214_1778283199.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اسکات بسنت، وزیر خزانه‌داری آمریکا، با اشاره به تحریم‌های جدید آمریکا علیه صنعت پهپادی جمهوری اسلامی، در ایکس نوشت: «در حالی که سران بازمانده سپاه مانند موش‌هایی در یک کشتی در حال غرق شدن گرفتار شده‌اند، وزارت خزانه‌داری در کارزار خشم اقتصادی خود بی‌وقفه عمل می‌کند.»
+https://iranintl.com/202605085523
+</div>
+
+## Shin_Persian — post 5902
+
+<div align="center">
+  <a href="telegram/content/Shin_Persian_5902_1778283200.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Fri, 08 May 2026 23:30:02 UTC
+
+Sums the situation up pretty well
+
+فارسی
+
+وضعیت را به خوبی خلاصه می‌کند
+
+𝕏 · @shin_persian
+</div>
+
+---
 📅 بروزرسانی: 1405/02/19 02:53
 ---
 
