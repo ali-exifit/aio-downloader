@@ -7,6 +7,168 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/19 01:53
+---
+
+## VahidOOnLine — post 238986
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_238986_1778279020.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اسکات بسنت، وزیر خزانه‌داری آمریکا، با اشاره به تحریم‌های جدید آمریکا علیه صنایع پهپاد جمهوری اسلامی گفت: «به اقدام برای حفظ امنیت آمریکا ادامه می‌دهیم و افراد و شرکت‌های خارجی که برای استفاده علیه نیروهای آمریکایی به ارتش ایران سلاح می‌دهند را هدف قرار می‌دهیم.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## IranIntlTV — post 336211
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336211_1778279022.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اسکات بسنت، وزیر خزانه‌داری آمریکا، با اشاره به تحریم‌های جدید آمریکا علیه صنایع پهپاد جمهوری اسلامی گفت: «به اقدام برای حفظ امنیت آمریکا ادامه می‌دهیم و افراد و شرکت‌های خارجی که برای استفاده علیه نیروهای آمریکایی به ارتش ایران سلاح می‌دهند را هدف قرار می‌دهیم.»
+https://iranintl.com/202605088246
+</div>
+
+## Dirty_Kids — post 389145
+
+<div align="center">
+  <a href="https://t.me/Dirty_Kids/389145" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✅ اپلیکیشن اندروید سایت جهانی دربی بت
+
+💰اولین سایت جهانی با امکان شارژ و برداشت ریالی(کارت به کارت)
+
+🔗 برای ورود فیلترشکن روی کشور مناسب قرار دهید مانند فنلاند و المان و....
+
+😀Telegram Channel
+👇
+https://t.me/+bcynkEgSW2dlYTc0
+</div>
+
+## Dirty_Kids — post 389144
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389144_1778279023.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+😤دنبال یه سایت شرط بندی بین المللی بودی که به ایرانیا خدمات بده؟!
+⛔
+
+
+👍دربی بت همون انتخاب  100%
+
+
+💎ویژگی های سایت جهانی Derby Bet:
+
+⬅️امکان شارژ امن با کارت بانکی
+
+⬅️واریز اول دوبل شارژ می شوید(بونوس۱۰۰٪)
+
+⬅️پر اپشن ترین سایت فعال در ایران
+
+⬅️تسویه حساب کمتر از 5 دقیقه
+
+⬅️برگشت بخشی از باخت به صورت هفتگی
+
+
+🚨کد هدیه ثبت نام:GG007
+
+
+⚠️برای دانلود اپلکیشن کلیک کنید
+👉
+
+
+🔔کانال دربی بت :
+
+🪙https://t.me/+bcynkEgSW2dlYTc0
+</div>
+
+## Dirty_Kids — post 389143
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389143_1778279024.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+#بخوابیم
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389142
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389142_1778279025.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خب خدا رو شکر کونش سالمه پس.
+
+[سعید طوسی]
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389141
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389141_1778279026.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴گلایه یه شهروند از قیمت کاندوم تو شبکه ایران اینترنشنال:
+
+" کاندوم ۱۲ تایی کدکس شده ۳۲۰ هزار یعنی هر کاندوم دونه ای ۲۷ هزار تومن".
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389140
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389140_1778279026.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎙خبرنگار: کی تو دنیا از این سگ‌های هلال احمر هم پَست‌تره؟
+
+عرزشی: هرچی سلبریتی‌ و خائن و وطن فروشه مثل علی دایی!
+
+
+🎙خبرنگار: نه الان دیگه نمی‌خواد اسم ببری هاهاها...
+
++ این مصاحبه به صورت زنده از صداوسيما پخش شد!
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389138
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پاشو جاکش برو بخواب تو خلیج فارس جلوی این فاجعه بزرگ زیست‌محیطیِ ریختن نفت تو دریا توسط وحوش مسلمان روبگیر، پفیوز مزد بگیر..
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 118783
+
+<div align="center">
+  <a href="telegram/content/alonews_118783_1778279029.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈اکسیوس به نقل از یک مقام آمریکایی:«نیرو هوایی قطر در طول جنگ دو جنگنده ایرانی(Su-24) را سرنگون و در پاسخ به حملات ایران مستقیما اهدافی در جنوب ایران را هدف قرار دادند!»
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/19 01:43
 ---
 
