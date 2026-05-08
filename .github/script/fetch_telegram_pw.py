@@ -365,7 +365,7 @@ def shift_archives_for_new_page1(message_block_new_page1: str,
 
     # New archive_1 (oldest of the previously archived content)
     new_page1_path = CONTENT_DIR / "archive_1.md"
-    prev_rel = "../telegram.md"             # back to main page (newer)
+    prev_rel = "../../telegram.md"             # back to main page (newer)
     next_rel = "archive_2.md" if (2 in [n+1 for n in old_blocks]) else None
     new_page1 = wrap_page(message_block_new_page1,
                           next_rel=next_rel,
