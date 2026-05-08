@@ -14251,5 +14251,5 @@ Channel : https://t.me/ConfigX2ray
 <!-- MSG END -->
 
 <!-- NAV START -->
-<div dir="rtl" style="text-align:left; margin-top:10px;"><a href="https://github.com/ali-exifit/aio-downloader/blob/main/telegram/telegram.md" style="display:inline-block; padding:6px 12px; margin:0 4px; background-color:#2ea44f; color:white; text-decoration:none; border-radius:4px; font-weight:bold;">صفحه قبل</a></div>
+<div dir="rtl" style="text-align:left; margin-top:10px;"><a href="https://github.com/ali-exifit/aio-downloader/blob/main/telegram.md" style="display:inline-block; padding:6px 12px; margin:0 4px; background-color:#2ea44f; color:white; text-decoration:none; border-radius:4px; font-weight:bold;">صفحه قبل</a></div>
 <!-- NAV END -->
