@@ -7,6 +7,112 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/18 23:43
+---
+
+## mwarmonitor — post 8732
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🛢 (رویترز) — بهای معاملات آتی نفت خام برنت روز جمعه تا ۳ درصد افزایش یافت؛ یک روز پس از آن‌که ایالات متحده و ایران حملات هوایی متقابل انجام دادند. با این حال، با کاهش نگرانی‌ها و امید معامله‌گران به توقفی طولانی‌تر در درگیری‌ها، بخشی از این رشد از دست رفت؛ درگیری‌هایی که باعث توقف کشتیرانی در تنگه هرمز شده است.
+
+@mwarmonitor
+</div>
+
+## kianmeli1 — post 87290
+
+<div align="center">
+  <a href="telegram/content/kianmeli1_87290_1778271222.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴مجتبی خامنه ای فقط کشکک زانوش صدمه دیده
+
+روایت جدید
+https://t.me/kianmeli1
+</div>
+
+## Persian_Trend_Official — post 13721
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+لایو امشب حدودا نیم ساعت دیگر برگزار میشه ...
+</div>
+
+## Persian_Trend_Official — post 13720
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ وال استریت ژورنال: ممکن است مذاکرات آمریکا و ایران از هفته آینده در اسلام‌آباد از سر گرفته شود، اما ایران همچنان با انتقال اورانیوم مخالفه.
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## configx2ray — post 38663
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38663" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## alonews — post 118763
+
+<div align="center">
+  <a href="telegram/content/alonews_118763_1778271226.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈یک پورش کاین با پلاک گشت عملیاتی سپاه در تهران
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118762
+
+<div align="center">
+  <a href="telegram/content/alonews_118762_1778271226.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚀 مگه میشه با این قیمت فضایی، بیت‌کوین داشت؟! 💰🔥
+
+✅ بله، میشه… وقتی کلود ماینر نصب داشته باشی ☁️⛏️
+
+✅ بله، میشه… وقتی بتونی یه ماینر اجاره کنی و ازش برای استخراج بیت‌کوین استفاده کنی 🖥️
+
+✅ بله، میشه… وقتی فقط به اینترنت و یه گوشی نیاز داشته باشی 📱🌐
+
+✅ بله، میشه… حتی وقتی هر شغلی داشته باشی و بیت‌کوین خودش برات استخراج بشه 💸⚡
+
+✨ این معجزه نیست!
+این همون سرویس اجاره ماینر ابریه ☁️⛏️
+
+🔹 ساده
+🔹 کاربردی
+🔹 سودده
+
+🔥 فقط با چند کلیک نصب کن، تست کن و خودت نتیجه رو ببین!
+
+🤝 پشتیبانی ۲۴ ساعته هم کنارت هست تا کامل تو این مسیر پیش بری 💬🕐
+
+📲 دانلود برنامه و شروع
+https://t.me/cloudminersbtc/790
+
+🎥 لینک اموزش استفاده
+https://t.me/cloudminersbtc/830
+</div>
+
+---
 📅 بروزرسانی: 1405/02/18 23:33
 ---
 
