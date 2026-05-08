@@ -7,6 +7,150 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/18 21:32
+---
+
+## VahidOOnLine — post 238950
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_238950_1778263375.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رحمانی فضلی، سفیر جمهوری اسلامی در چین، گزارش‌ها درباره حمله ایران به یک نفتکش چینی در تنگه هرمز را «غیرواقعی» توصیف کرد و گفت این خبر با هدف تحت تأثیر قرار دادن دستاوردهای سفر اخیر وزیر خارجه ایران به پکن منتشر شده است.
+او همچنین گفت روابط تهران و پکن پس از جنگ «گسترده‌تر و عمیق‌تر» خواهد شد. سفیر نظام در چین افزود با توجه به جایگاه پکن برای ایران و کشورهای خلیج فارس، چین می‌تواند به‌عنوان «ضامن هرگونه توافق» در منطقه مطرح باشد.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 238949
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_238949_1778263375.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک شهروند در پیامی از قزوین به ایران‌اینترنشنال به کمبود داروها اشاره کرده و می‌گشوید به دلیل نبود داروی آنژیوگرافی در بیمارستان بوعلی جان و سلامت بیماران به خطر افتاده است.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## pm_afshaa — post 90382
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴پرواز پهپاد های جاسوسی امریکا بر فراز تنگه هرمز
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## kianmeli1 — post 87289
+
+<div align="center">
+  <img src="telegram/content/kianmeli1_87289_1778263377.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴سخنگو قرارگاه خاتم
+
+ما از موضع ضعف مذاکره نمی‌کنیم؛ بلکه به دشمن آخرین فرصت را می‌دهیم تا از آنچه غیرقابل توصیف است، اجتناب کند. اگر درِ گفتگو را ببندید، دروازه‌های جهنم به رویتان گشوده خواهد شد.
+https://t.me/kianmeli1
+</div>
+
+## IranIntlTV — post 336183
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336183_1778263378.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک شهروند در پیامی از قزوین به ایران‌اینترنشنال به کمبود داروها اشاره کرده و می‌گشوید به دلیل نبود داروی آنژیوگرافی در بیمارستان بوعلی جان و سلامت بیماران به خطر افتاده است.
+</div>
+
+## ManotoTV — post 105157
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105157_1778263379.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رحمانی فضلی، سفیر جمهوری اسلامی در چین، گزارش‌ها درباره حمله ایران به یک نفتکش چینی در تنگه هرمز را «غیرواقعی» توصیف کرد و گفت این خبر با هدف تحت تأثیر قرار دادن دستاوردهای سفر اخیر وزیر خارجه ایران به پکن منتشر شده است.
+او همچنین گفت روابط تهران و پکن پس از جنگ «گسترده‌تر و عمیق‌تر» خواهد شد. سفیر نظام در چین افزود با توجه به جایگاه پکن برای ایران و کشورهای خلیج فارس، چین می‌تواند به‌عنوان «ضامن هرگونه توافق» در منطقه مطرح باشد.
+</div>
+
+## FarsiVOA — post 217210
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اپلیکیشن‌های داخلی در ایران هیچ‌گونه امنیتی برای کاربران ندارند؛ گفت‌وگو با علیرضا فیروزی
+</div>
+
+## FarsiVOA — post 217209
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+همگرایی آمریکا و اروپا علیه برنامه هسته‌ای جمهوری اسلامی در تماس ترامپ و فون‌درلاین
+</div>
+
+## Persian_Trend_Official — post 13714
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_13714_1778263380.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 جمهوری اسلامی حملات آمریکا در هرمز را «ماجراجویی و رفتار یاغی‌گرایانه» توصیف کرد
+
+اسماعیل بقایی، سخنگوی وزارت خارجه ، پس از حملات نظامی آمریکا به شناورهای ایرانی در تنگه هرمز، نسبت به «ماجراجویی و رفتار قانون‌گریزانه» هشدار داد.
+
+بقایی در پیامی در X که به‌نظر می‌رسد اشاره‌ای مستقیم به دونالد ترامپ داشته باشد، نوشت:
+
+«توطئه‌چینی و تعبیرات ساده‌لوحانه‌ای مانند “ضربه‌ای سبک” نمی‌تواند ننگ عمیقی را که حاصل خودشیفتگی، طمع، محاسبات بی‌پروا و بی‌مسئولیتی خارج از قانون است، پاک کند.»
+
+عبارت «ضربه‌ای سبک» اشاره‌ای به اظهارات پیشین ترامپ دارد که حملات آمریکا علیه ایران را «یک love tap» توصیف کرده بود.
+
+بقایی همچنین از «توییت‌های آشفته و توهم‌آلود» انتقاد کرد و گفت این پیام‌ها «دیگر هیچ تأثیری بر واقعیت ندارند.»
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## manototv — post 105157
+
+<div align="center">
+  <a href="telegram/content/manototv_105157_1778263381.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رحمانی فضلی، سفیر جمهوری اسلامی در چین، گزارش‌ها درباره حمله ایران به یک نفتکش چینی در تنگه هرمز را «غیرواقعی» توصیف کرد و گفت این خبر با هدف تحت تأثیر قرار دادن دستاوردهای سفر اخیر وزیر خارجه ایران به پکن منتشر شده است.
+او همچنین گفت روابط تهران و پکن پس از جنگ «گسترده‌تر و عمیق‌تر» خواهد شد. سفیر نظام در چین افزود با توجه به جایگاه پکن برای ایران و کشورهای خلیج فارس، چین می‌تواند به‌عنوان «ضامن هرگونه توافق» در منطقه مطرح باشد.
+</div>
+
+## alonews — post 118730
+
+<div align="center">
+  <a href="telegram/content/alonews_118730_1778263381.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈طبق گزارش WSJ، از سه‌شنبه تاکنون هیچ کشتی تجاری که توسط شرکت‌های کشتیرانی ثبت‌شده اداره می‌شود، از تنگه هرمز عبور نکرده است، زیرا تنش‌ها بین ایران و آمریکا افزایش یافته است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118729
+
+<div align="center">
+  <a href="telegram/content/alonews_118729_1778263381.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ارتش اسرائیل اعلام کرد که سیستم‌های راداری به اشتباه پرتاب دو موشک از ایران را تشخیص داده‌اند.ظاهراً این نقص سیستم بوده
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/18 21:23
 ---
 
