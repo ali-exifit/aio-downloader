@@ -7,6 +7,129 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/18 23:23
+---
+
+## VahidOOnLine — post 238966
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_238966_1778270038.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ در پی دستور مستقیم دونالد ترامپ برای پایان دادن به دهه‌ها پنهان‌کاری، مقامات دولت آمریکا روز جمعه اولین مجموعه از اسناد خروج از حالت محرمانه مربوط به اشیاء ناشناس پرنده (UFO) که اکنون با نام رسمی «پدیده‌های ناهنجار ناشناخته» (UAP) شناخته می‌شوند را منتشر کردند. این اسناد که توسط پنتاگون، اف‌بی‌آی و ناسا ارائه شده‌اند، شامل تصاویر، ویدیوهای بحث‌برانگیز و مصاحبه با شاهدان عینی است که بسیاری از آن‌ها تاکنون برای عموم غیرقابل دسترس بودند.
+
+آنا کلی، سخنگوی کاخ سفید، در بیانیه‌ای اعلام کرد: «رئیس‌جمهوری بر ارائه حداکثر شفافیت به مردم متمرکز است تا آن‌ها خودشان درباره این اطلاعات قضاوت کنند. مردم آمریکا درخواست کردند و رئیس‌جمهوری ترامپ آن را عملی کرد؛ از آن لذت ببرید!»
+
+ترامپ نیز در شبکه اجتماعی «تروث سوشال» با کنایه به دولت‌های پیشین بابت شفافیت نداشتن، از مردم خواست با این فایل‌ها «خوش بگذرانند». او تاکید کرد که با انتشار این مدارک و ویدیوها، اکنون این مردم هستند که می‌توانند درباره واقعیت این پدیده‌ها تصمیم بگیرند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## IranIntlTV — post 336198
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/336198" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی ‌‌‏﻿﻿۲۴ با فرداد فرحزاد: درگیری در تنگه هرمز همزمان با انتظار واشینگتن برای پاسخ تهران
+@iranintlTV
+</div>
+
+## FarsiVOA — post 217224
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217224_1778270039.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️مردم ایران ۷۰ روز در خاموشی و تاریکی دیجیتال؛ واکنش کاربران شبکه‌های اجتماعی
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217223
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️در برنامه تفسیر خبر امروز، مهدی آقازمانی با کارشناسان مهمان، درباره تداوم آتش بس بین ایران و آمریکا به رغم شلیک موشک به ناوهای آمریکایی از سوی سپاه و پاسخ تلافی جویانه آمریکا، گفتگو میکند ؟
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 13719
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+لایو امشب حدودا نیم ساعت دیگر برگزار میشه ...
+</div>
+
+## BBCPersian — post 280523
+
+<div align="center">
+  <a href="telegram/content/BBCPersian_280523_1778270040.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻آخرین خبرهای مهم روز جمعه ۱۸ اردیبهشت ۱۴۰۵
+
+@BBCPersian
+</div>
+
+## configx2ray — post 38662
+
+<div align="center">
+  <a href="telegram/content/configx2ray_38662_1778270042.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+socks://Og@62.220.126.56:30170#https://t.me/ConfigX2ray
+
+
+
+
+ترکیبی با سایفون وصله 
+✅
+
+آموزش استفادع : 
+👇
+https://t.me/ConfigX2ray0/1665
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## alonews — post 118760
+
+<div align="center">
+  <a href="telegram/content/alonews_118760_1778270042.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وال استریت ژورنال: ایران همچنان با انتقال مواد هسته ای به آمریکا مخالفه
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118759
+
+<div align="center">
+  <a href="telegram/content/alonews_118759_1778270043.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈محمد جولانی رئیس‌جمهور موقت سوریه، برادرانش را از سمت‌های ارشد دولتی برکنار کرد تا با اتهامات خویشاوندسالاری مقابله کند و حکومت خود را از مدل خانواده اسد دور نگه دارد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118758
+
+<div align="center">
+  <a href="telegram/content/alonews_118758_1778270043.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈زیبا کلام: نظام اگه به مخالفان هم اجازه تجمع بده ورق کلا برمیگرده
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/18 23:13
 ---
 
