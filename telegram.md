@@ -7,6 +7,126 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/19 00:23
+---
+
+## VahidOOnLine — post 238974
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_238974_1778273598.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+جلسه تفهیم اتهام شمیم مافی، شهروند ایرانی‌تبار مقیم لس‌آنجلس که ۲۹ فروردین به اتهام قاچاق سلاح برای جمهوری اسلامی دستگیر شد، در دادگاه عمومی برگزار شد. او در جلسه تفهیم اتهام تمامی اتهامات را رد کرد. طبق دستور دادگاه، مافی تا زمان ادامه روند دادرسی همچنان در بازداشت باقی می‌ماند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## pm_afshaa — post 90389
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رویترز با استناد به تصاویر ماهواره‌ای: نشت مشکوک نفت، 45 کیلومتر مربع در نزدیکی جزیره خارک ایران رو پوشانده 
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom 
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 336204
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336204_1778273599.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+جلسه تفهیم اتهام شمیم مافی، شهروند ایرانی‌تبار مقیم لس‌آنجلس که ۲۹ فروردین به اتهام قاچاق سلاح برای جمهوری اسلامی دستگیر شد، در دادگاه عمومی برگزار شد. او در جلسه تفهیم اتهام تمامی اتهامات را رد کرد. طبق دستور دادگاه، مافی تا زمان ادامه روند دادرسی همچنان در بازداشت باقی می‌ماند.
+https://iranintl.com/202605086573
+</div>
+
+## FarsiVOA — post 217232
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217232_1778273600.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️مجید گلپور در برنامه تفسیر خبر: جنگ و دیپلماسی هر دو در بن بست قرار گرفته است
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 13722
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ قیمت اینترنت خانگی بدون هیچ اطلاع رسانی قبلی و در سکوت خبری افزایش یافت!
+
+البته، استفاده از واژه «اینترنت» غلط مصطلح است و باید از آن به عنوان «اینترانت داخلی» یا «شبکه ملی اطلاعات» یاد کرد.
+
+اینترنت بین الملل بیش از ۹۹ درصد پهنای باند اینترنت در دسترس سابق را تشکیل می‌داد و حالا بیش از ۹۹ درصد دسترسی کاربران اینترنت خانگی قطع شده و قیمت ها افزایش یافته است!
+
+کاربرانی که تنها به کمتر از ۱ درصد پهنای باند و وبسایت ها و سرویس های سابق دسترسی دارند حالا برای همین کمتر از ۱ درصد باید هزینه بیشتری پرداخت کنند، احتمالا برای این که ضرر چند ماه اخیر شرکت های ارائه دهنده خدمات اینترنتی جبران شود.
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 19815
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پرستوی های صادراتی کنار برج ایفل :
+
+@IranianMinds
+</div>
+
+## Dirty_Kids — post 389131
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شات‌های وایرال شده‌ی شاهدخت فرح پهلوی از مراسم فارغ‌التحصیلیش @Dirty_Kids 👻
+</div>
+
+## alonews — post 118773
+
+<div align="center">
+  <a href="telegram/content/alonews_118773_1778273600.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈تانکر ترکرز: موقع بارگیری نفتکش نشت کرده و احتمال اینکه نفت رو خالی کرده باشند تو آب به خاطر نبود فضای ذخیره سازی خیلی کمه، چون ایران حجم بسیار زیادی هنوز برای ذخیره سازی دارد 
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118772
+
+<div align="center">
+  <a href="telegram/content/alonews_118772_1778273601.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈توقف تبادل آتش و درگیری در تنگه هرمز
+
+تسنیم به نقل از یک منبع نظامی نوشت:
+
+🔴پس از مدتی تبادل آتش، هم اینک درگیری‌ها متوقف شده و فضا آرام است
+
+
+🔴در صورت مزاحمت آمریکایی‌ها برای شناورهای ایرانی یا تلاش برای ورود به خلیج فارس، احتمال درگیری مجدد در منطقه وجود دارد .
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118771
+
+<div align="center">
+  <a href="telegram/content/alonews_118771_1778273601.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈الجزیره به نقل از زلنسکی: اوکراین آتش‌بس اعلام‌شده از سوی رئیس‌جمهور ترامپ را می‌پذیرد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/19 00:12
 ---
 
