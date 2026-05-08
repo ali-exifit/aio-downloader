@@ -7,6 +7,158 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/18 16:32
+---
+
+## VahidOOnLine — post 238889
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_238889_1778245377.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فرماندار میناب گفت در جریان حمله آمریکا به یک شناور در نزدیکی آب‌های این شهرستان، ۱۰ نفر از ۱۵ ملوان حاضر در لنج مصدوم و به بیمارستان منتقل شدند و گروه‌های تجسس در حال تلاش برای اطلاع از وضعیت دیگر ملوانان هستند.
+
+شامگاه پنجشنبه خبرگزاری فارس، وابسته به سپاه پاسداران گزارش داد که بررسی‌ها در بندرعباس نشان می‌دهد در جریان تبادل آتش میان نیروهای مسلح جمهوری اسلامی و دشمن، بخش‌های تجاری اسکله بهمن هدف قرار گرفته است.
+
+ستاد فرماندهی مرکزی ایالات متحده (سنتکام) نیز اعلام کرد نیروهای آمریکایی حملات موشکی، پهپادی و قایق‌های تندرو جمهوری اسلامی در تنگه هرمز را رهگیری کرده و در پاسخ، منابع این حملات در داخل ایران را هدف قرار دادند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 238888
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_238888_1778245378.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فرماندار میناب گفت در جریان حمله آمریکا به یک شناور در نزدیکی آب‌های این شهرستان، ۱۰ نفر از ۱۵ ملوان حاضر در لنج مصدوم و به بیمارستان منتقل شدند و گروه‌های تجسس در حال تلاش برای اطلاع از وضعیت دیگر ملوانان هستند.
+
+شامگاه پنجشنبه خبرگزاری فارس، وابسته به سپاه پاسداران گزارش داد که بررسی‌ها در بندرعباس نشان می‌دهد در جریان تبادل آتش میان نیروهای مسلح جمهوری اسلامی و دشمن، بخش‌های تجاری اسکله بهمن هدف قرار گرفته است.
+
+ستاد فرماندهی مرکزی ایالات متحده (سنتکام) نیز اعلام کرد نیروهای آمریکایی حملات موشکی، پهپادی و قایق‌های تندرو جمهوری اسلامی در تنگه هرمز را رهگیری کرده و در پاسخ، منابع این حملات در داخل ایران را هدف قرار دادند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8686
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇦🇪امروز پس از یک حمله گزارش‌شده موشکی و پهپادی ایران در ساعات صبح، ستون‌های بزرگ دود در دبی مشاهده شد که در نتیجه آن دست‌کم سه نفر دچار جراحات با شدت متوسط شدند. @mwarmonitor
+</div>
+
+## IranIntlTV — post 336138
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336138_1778245379.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فرماندار میناب گفت در جریان حمله آمریکا به یک شناور در نزدیکی آب‌های این شهرستان، ۱۰ نفر از ۱۵ ملوان حاضر در لنج مصدوم و به بیمارستان منتقل شدند و گروه‌های تجسس در حال تلاش برای اطلاع از وضعیت دیگر ملوانان هستند.
+
+شامگاه پنجشنبه خبرگزاری فارس، وابسته به سپاه پاسداران گزارش داد که بررسی‌ها در بندرعباس نشان می‌دهد در جریان تبادل آتش میان نیروهای مسلح جمهوری اسلامی و دشمن، بخش‌های تجاری اسکله بهمن هدف قرار گرفته است.
+
+ستاد فرماندهی مرکزی ایالات متحده (سنتکام) نیز اعلام کرد نیروهای آمریکایی حملات موشکی، پهپادی و قایق‌های تندرو جمهوری اسلامی در تنگه هرمز را رهگیری کرده و در پاسخ، منابع این حملات در داخل ایران را هدف قرار دادند.
+https://iranintl.com/202605080031
+</div>
+
+## IranIntlTV — post 336137
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336137_1778245380.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک شهروند با ارسال پیامی به ایران‌اینترنشنال از گرانی چندبرابری محصولات بهداشتی خبر می‌دهد و می‌گوید هر کاندوم کدکس در ایران قیمتش به حدود ۲۷ هزار تومان رسیده است.
+</div>
+
+## Shin_Persian — post 5890
+
+<div align="center">
+  <img src="telegram/content/Shin_Persian_5890_1778245382.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+U.S. Central Command ✓ @CENTCOM
+Fri, 08 May 2026 11:59:50 UTC
+
+There are currently more than 70 tankers that U.S. forces are preventing from entering or leaving Iranian ports. These commercial ships have the capacity to transport over 166 million barrels of Iranian oil worth an estimated $13 billion-plus.
+
+فارسی
+
+در حال حاضر بیش از ۷۰ نفتکش وجود دارد که نیروهای ایالات متحده از ورود یا خروج آن‌ها از بنادر ایران جلوگیری می‌کنند. این کشتی‌های تجاری ظرفیت حمل بیش از ۱۶۶ میلیون بشکه نفت ایران به ارزش تخمینی بیش از ۱۳ میلیارد دلار را دارند.
+
+𝕏 · @shin_persian
+</div>
+
+## DW_Farsi — post 124435
+
+<div align="center">
+  <img src="telegram/content/DW_Farsi_124435_1778245383.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶 سنتکام: نیروهای آمریکا بیش از ۷۰ نفتکش را از ورود به بنادر ایران بازداشتند
+
+فرماندهی مرکزی ایالات متحده (CENTCOM) اعلام کرد که روز جمعه ۸ مه (۱۸ اردیبهشت) بیش از ۷۰ نفتکش از ورود به بنادر ایران یا خروج از آن‌ها بازداشته شده‌اند.
+
+سنتکام در پیامی در شبکه اجتماعی "ایکس" نوشت: «این کشتی‌های تجاری ظرفیت حمل بیش از ۱۶۶ میلیون بشکه نفت ایران را دارند که ارزش آن بیش از ۱۳ میلیارد دلار برآورد می‌شود.»
+@dw_farsi
+</div>
+
+## BBCPersian — post 280505
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻امارات: سه نفر در حملات پهپادی و موشکی ایران مجروح شدند
+
+وزارت دفاع امارات می‌گوید که پدافند هوایی آن کشور دو موشک بالستیک و سه پهپاد را که از ایران شلیک شده بودند، رهگیری کرده‌ است.
+
+در بیانیه این وزارتخانه در شبکه ایکس آمده است که سه نفر در این حمله مجروح شده‌اند.
+
+سطح جراحت این افراد «متوسط» اعلام شده است.
+
+وزارت دفاع امارات همچنین هشدار داد که نیروهایش برای مقابله با هرگونه تهدید «در آمادگی کامل» قرار دارند و با هر اقدامی که امنی کشور را به خطر بیندازد، «قاطعانه» برخورد خواهند کرد.
+
+https://bbc.in/4cZY32k
+@BBCPersian
+</div>
+
+## alonews — post 118673
+
+<div align="center">
+  <a href="telegram/content/alonews_118673_1778245383.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴فوری / شنیده شدن صدای انفجارهایی در محدوده شهرستان سیریک از سوی ساکنان محلی گزارش شده است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118672
+
+<div align="center">
+  <a href="telegram/content/alonews_118672_1778245384.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 توییت سفارت ایران در سیرالئون : ناوهای جنگی آمریکا در نزدیکی آب‌های سرزمینی ایران
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118671
+
+<div align="center">
+  <a href="telegram/content/alonews_118671_1778245384.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈دستور بازگشایی پناهگاه‌های عمومی در حیفا صادر شده است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/18 16:22
 ---
 
