@@ -49,12 +49,12 @@ jobs:
             index=$((index + 1))
             echo "----------------------------------------"
             echo "Processing URL $index: $url"
-            
+
             # Download into a unique temporary folder for this URL
             DL_DIR="dl_$index"
             mkdir -p "$DL_DIR"
             aria2c -x 16 -s 16 -d "$DL_DIR" --console-log-level=warn --summary-interval=10 "$url"
-            
+
             # Get the downloaded filename (there will be exactly one file)
             DL_FILE=$(ls -1 "$DL_DIR" | head -n1)
             if [ -z "$DL_FILE" ]; then
@@ -63,37 +63,23 @@ jobs:
               continue
             fi
             echo "Downloaded: $DL_FILE"
-            
-            # Determine ZIP archive base name (without .zip part)
-            ZIP_BASE="$DL_FILE"
-            
-            # Handle name collisions in the direct/ folder:
-            # If a file named "direct/${ZIP_BASE}.zip" already exists (from a previous URL),
-            # append a numeric suffix (_1, _2, ...) until we get a unique name.
-            BASE_NAME="$ZIP_BASE"
-            COUNTER=1
-            while [ -e "direct/${BASE_NAME}.zip" ]; do
-              NAME="${ZIP_BASE%.*}"
-              EXT="${ZIP_BASE##*.}"
-              if [ "$EXT" = "$ZIP_BASE" ]; then
-                # No extension
-                BASE_NAME="${ZIP_BASE}_$COUNTER"
-              else
-                BASE_NAME="${NAME}_$COUNTER.$EXT"
-              fi
-              COUNTER=$((COUNTER + 1))
-            done
-            ZIP_NAME="${BASE_NAME}.zip"
+
+            # Generate a random 5-letter string (lowercase a-z)
+            RAND5=$(tr -dc 'a-z' </dev/urandom | head -c5)
+
+            # Append the random string before the final .zip extension
+            ZIP_BASE="${DL_FILE}_${RAND5}"
+            ZIP_NAME="${ZIP_BASE}.zip"
             echo "ZIP output: $ZIP_NAME"
-            
+
             # Create temporary folder to hold only this file
             TMPZIP="tmpzip_$index"
             mkdir -p "$TMPZIP"
             cp "$DL_DIR/$DL_FILE" "$TMPZIP/"
-            
+
             # Create split zip with the file at the archive root
             (cd "$TMPZIP" && zip -s 99m "../direct/${ZIP_NAME}" "$DL_FILE")
-            
+
             # Cleanup
             rm -rf "$DL_DIR" "$TMPZIP"
           done < urls.txt
