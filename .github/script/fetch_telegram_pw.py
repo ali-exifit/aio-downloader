@@ -9,6 +9,9 @@ Scrape public Telegram channels with Playwright.
 - Centers media and shows captions in right‑to‑left (RTL) for Persian.
 - Shows a notice when no new posts are found in an update cycle.
 - Generate absolute GitHub links for pagination (when run in a Git repo).
+- Navigation buttons (top & bottom) styled as clickable buttons.
+- Download links open in a new tab to preserve scroll position.
+- Ignores .webm videos (animations/stickers) to improve media detection.
 """
 
 import asyncio
@@ -41,14 +44,20 @@ HEADERS = {
 
 MSG_START = "<!-- MSG START -->"
 MSG_END   = "<!-- MSG END -->"
+TOP_NAV_START = "<!-- TOP_NAV START -->"
+TOP_NAV_END   = "<!-- TOP_NAV END -->"
 NAV_START = "<!-- NAV START -->"
 NAV_END   = "<!-- NAV END -->"
 
 HEADER_TEMPLATE = f"""\
 # خواننده تلگرام
 
+{TOP_NAV_START}
+{TOP_NAV_END}
+
 {MSG_START}
 {MSG_END}
+
 {NAV_START}
 {NAV_END}
 """
@@ -121,30 +130,54 @@ def save_state(state):
         json.dump(state, f, ensure_ascii=False, indent=2)
 
 
-def build_nav_footer(next_page_rel: str | None, prev_page_rel: str | None,
-                     base_url: str | None = None) -> str:
+def build_nav_buttons(next_page_rel: str | None, prev_page_rel: str | None,
+                      base_url: str | None = None) -> str:
     """
-    Build navigation footer with absolute URLs if base_url is given.
+    Build navigation buttons as HTML links styled like buttons.
+    Returns empty string if no links.
     """
-    lines = []
+    button_style = (
+        "display:inline-block; padding:6px 12px; margin:0 4px; "
+        "background-color:#2ea44f; color:white; text-decoration:none; "
+        "border-radius:4px; font-weight:bold;"
+    )
+    parts = []
     if prev_page_rel:
         href = urljoin(base_url, prev_page_rel) if base_url else prev_page_rel
-        lines.append(f"[صفحه قبل]({href})")
+        parts.append(f'<a href="{href}" style="{button_style}">صفحه قبل</a>')
     if next_page_rel:
         href = urljoin(base_url, next_page_rel) if base_url else next_page_rel
-        lines.append(f"[صفحه بعد]({href})")
-    if not lines:
-        lines.append("*پایان پیام‌ها*")
-    return "\n\n".join(lines)
+        parts.append(f'<a href="{href}" style="{button_style}">صفحه بعد</a>')
+    return " ".join(parts) if parts else ""
 
 
 def wrap_page(message_block: str, next_rel: str | None, prev_rel: str | None,
               base_url: str | None = None) -> str:
-    nav_footer = build_nav_footer(next_rel, prev_rel, base_url=base_url)
-    page = HEADER_TEMPLATE.replace(f"{MSG_START}\n{MSG_END}",
-                                   f"{MSG_START}\n{message_block}\n{MSG_END}")
-    page = page.replace(f"{NAV_START}\n{NAV_END}",
-                        f"{NAV_START}\n{nav_footer}\n{NAV_END}")
+    # Top and bottom navigation
+    nav_buttons = build_nav_buttons(next_rel, prev_rel, base_url=base_url)
+    # Top navigation: place inside a RTL div aligned left (end side)
+    top_nav_div = (
+        f'<div dir="rtl" style="text-align:left; margin-bottom:10px;">{nav_buttons}</div>'
+        if nav_buttons else ""
+    )
+    # Bottom navigation similarly
+    bottom_nav_div = (
+        f'<div dir="rtl" style="text-align:left; margin-top:10px;">{nav_buttons}</div>'
+        if nav_buttons else ""
+    )
+
+    page = HEADER_TEMPLATE.replace(
+        f"{TOP_NAV_START}\n{TOP_NAV_END}",
+        f"{TOP_NAV_START}\n{top_nav_div}\n{TOP_NAV_END}"
+    )
+    page = page.replace(
+        f"{MSG_START}\n{MSG_END}",
+        f"{MSG_START}\n{message_block}\n{MSG_END}"
+    )
+    page = page.replace(
+        f"{NAV_START}\n{NAV_END}",
+        f"{NAV_START}\n{bottom_nav_div}\n{NAV_END}"
+    )
     return page
 
 
@@ -238,7 +271,6 @@ def download_media(url, channel_name, post_id, media_type='photo', filename=None
                 break
 
         if correct_ext and not local_name.endswith(correct_ext):
-            # rename file
             new_local_name = str(Path(local_name).stem) + correct_ext
             local_path = CONTENT_DIR / new_local_name
             local_name = new_local_name
@@ -282,7 +314,7 @@ def download_document(post_url, channel_name, post_id):
         else:
             filename = None
 
-        # Fallback if nothing useful was extracted
+        # Fallback
         if not filename or not any(c in filename for c in (".", "_")):
             ext = ".dat"
             filename = f"{channel_name}_{post_id}_{int(time.time())}{ext}"
@@ -554,6 +586,12 @@ async def main():
 
         await browser.close()
 
+    # ---- Block .webm video (animated stickers/emojis) ----
+    for m in all_messages:
+        if m.get("media_type") == "video" and m.get("media_url", "").lower().endswith(".webm"):
+            m["media_url"] = None
+            m["media_type"] = None
+
     # ---- Obtain repository info for absolute links ----
     repo_url, branch = get_github_base_url()
 
@@ -588,9 +626,9 @@ async def main():
             if media_type == "photo":
                 media_html = f'<div align="center">\n  <img src="{media_md}" alt="Photo">\n</div>'
             elif media_type == "video":
-                media_html = f'<div align="center">\n  <a href="{media_md}">🎬 Download video</a>\n</div>'
+                media_html = f'<div align="center">\n  <a href="{media_md}" target="_blank">🎬 Download video</a>\n</div>'
             elif media_type == "document":
-                media_html = f'<div align="center">\n  <a href="{media_md}">📎 Download file</a>\n</div>'
+                media_html = f'<div align="center">\n  <a href="{media_md}" target="_blank">📎 Download file</a>\n</div>'
 
         caption = msg.get("text", "")
         if not caption:
