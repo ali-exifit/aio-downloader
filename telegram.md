@@ -3,6 +3,42 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/18 09:52
+---
+
+## Persian_Trend_Official — post 13663
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ali-exifit/aio-downloader/refs/heads/main/telegram/content/Persian_Trend_Official_13663_1778221343.jpg" alt="Photo">
+</div>
+<div dir="rtl">
+🔴 اسماعیل بقایی:
+
+«اگر دندان‌های شیر را دیدی که بیرون زده‌اند،
+تصور نکن که شیر لبخند می‌زند.»
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## alonews — post 118581
+
+<div align="center">
+  <a href="https://raw.githubusercontent.com/ali-exifit/aio-downloader/refs/heads/main/telegram/content/alonews_118581_1778221343.webm">🎬 Download video</a>
+</div>
+<div dir="rtl">
+👈جاناتان کارل خبرنگار ای‌بی‌سی:در یک تماس تلفنی ، ترامپ از بیان این که ایران آتش‌بس را نقض کرده خودداری کرد.
+
+
+🔴در مورد حملات امروز ایران با پهپاد و موشک به امارات متحده عربی، ترامپ به من گفت: «بیشترشان سرنگون شدند. یکی نفوذ کرد. آسیب چندانی ندید.»
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/18 09:47
 ---
 
