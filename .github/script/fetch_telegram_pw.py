@@ -8,6 +8,7 @@ Scrape public Telegram channels with Playwright.
 - Deduplicates posts based on (channel, post_id) to prevent repeats.
 - Centers media and shows captions in right‑to‑left (RTL) for Persian.
 - Shows a notice when no new posts are found in an update cycle.
+- Generate absolute GitHub links for pagination (when run in a Git repo).
 """
 
 import asyncio
@@ -16,8 +17,7 @@ import os
 import re
 import time
 from pathlib import Path
-from urllib.parse import urlparse
-from zoneinfo import ZoneInfo
+from urllib.parse import urljoin, urlparse
 
 import jdatetime
 import requests
@@ -55,6 +55,38 @@ HEADER_TEMPLATE = f"""\
 # ----------------------------------------------------------------------
 # Helpers
 # ----------------------------------------------------------------------
+def get_github_base_url():
+    """
+    Return (repo_url, branch) for the current git repository, or (None, None).
+    Uses subprocess to query git.
+    """
+    try:
+        import subprocess
+        # Get remote URL
+        remote = subprocess.run(
+            ["git", "config", "--get", "remote.origin.url"],
+            capture_output=True, text=True, cwd=REPO_ROOT
+        ).stdout.strip()
+        if not remote:
+            return None, None
+
+        # Convert SSH to HTTPS if necessary
+        if remote.startswith("git@"):
+            remote = re.sub(r"git@([^:]+):(.+)\.git", r"https://\1/\2", remote)
+        elif remote.endswith(".git"):
+            remote = remote[:-4]
+
+        # Get current branch
+        branch = subprocess.run(
+            ["git", "rev-parse", "--abbrev-ref", "HEAD"],
+            capture_output=True, text=True, cwd=REPO_ROOT
+        ).stdout.strip()
+
+        return remote, branch
+    except Exception:
+        return None, None
+
+
 def safe_filename(name: str, max_length: int = 100) -> str:
     """Truncate filename to a safe length, preserving the extension."""
     if len(name) <= max_length:
@@ -88,19 +120,26 @@ def save_state(state):
         json.dump(state, f, ensure_ascii=False, indent=2)
 
 
-def build_nav_footer(next_page_rel: str | None, prev_page_rel: str | None) -> str:
+def build_nav_footer(next_page_rel: str | None, prev_page_rel: str | None,
+                     base_url: str | None = None) -> str:
+    """
+    Build navigation footer with absolute URLs if base_url is given.
+    """
     lines = []
     if prev_page_rel:
-        lines.append(f"[صفحه قبل]({prev_page_rel})")
+        href = urljoin(base_url, prev_page_rel) if base_url else prev_page_rel
+        lines.append(f"[صفحه قبل]({href})")
     if next_page_rel:
-        lines.append(f"[صفحه بعد]({next_page_rel})")
+        href = urljoin(base_url, next_page_rel) if base_url else next_page_rel
+        lines.append(f"[صفحه بعد]({href})")
     if not lines:
         lines.append("*پایان پیام‌ها*")
     return "\n\n".join(lines)
 
 
-def wrap_page(message_block: str, next_rel: str | None, prev_rel: str | None) -> str:
-    nav_footer = build_nav_footer(next_rel, prev_rel)
+def wrap_page(message_block: str, next_rel: str | None, prev_rel: str | None,
+              base_url: str | None = None) -> str:
+    nav_footer = build_nav_footer(next_rel, prev_rel, base_url=base_url)
     page = HEADER_TEMPLATE.replace(f"{MSG_START}\n{MSG_END}",
                                    f"{MSG_START}\n{message_block}\n{MSG_END}")
     page = page.replace(f"{NAV_START}\n{NAV_END}",
@@ -257,9 +296,16 @@ def download_document(post_url, channel_name, post_id):
 
 
 # ----------------------------------------------------------------------
-# Archive shifting
+# Archive shifting with correct pagination & absolute URLs
 # ----------------------------------------------------------------------
-def shift_archives_for_new_page1(message_block_new_page1: str):
+def shift_archives_for_new_page1(message_block_new_page1: str,
+                                 repo_url: str | None, branch: str | None):
+    """
+    Move existing archives up by one, create new archive_1 with the provided block.
+    Navigation: archive_N → next = archive_N+1 (older), prev = archive_N-1 (newer).
+    archive_1 → prev = "../telegram.md" (main page, newer), next = archive_2 (older).
+    Uses absolute GitHub URLs if repo_url/branch are available.
+    """
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)
 
     old_blocks = {}
@@ -277,11 +323,20 @@ def shift_archives_for_new_page1(message_block_new_page1: str):
         if old_path.exists():
             old_path.rename(new_path)
 
+    # Determine base URL for archive files
+    if repo_url and branch:
+        archive_base = f"{repo_url}/blob/{branch}/telegram/content/"
+    else:
+        archive_base = None
+
+    # New archive_1 (oldest of the previously archived content)
     new_page1_path = CONTENT_DIR / "archive_1.md"
-    prev_rel = "archive_2.md" if (2 in [n+1 for n in old_blocks]) else None
+    prev_rel = "../telegram.md"             # back to main page (newer)
+    next_rel = "archive_2.md" if (2 in [n+1 for n in old_blocks]) else None
     new_page1 = wrap_page(message_block_new_page1,
-                          next_rel="../telegram.md",
-                          prev_rel=prev_rel)
+                          next_rel=next_rel,
+                          prev_rel=prev_rel,
+                          base_url=archive_base)
     new_page1_path.write_text(new_page1, encoding="utf-8")
 
     total_archives = len(old_blocks) + 1
@@ -289,23 +344,31 @@ def shift_archives_for_new_page1(message_block_new_page1: str):
         old_num = new_num - 1
         block = old_blocks.get(old_num, "")
         file_path = CONTENT_DIR / f"archive_{new_num}.md"
-        next_rel = f"archive_{new_num-1}.md"
-        prev_rel = f"archive_{new_num+1}.md" if new_num < total_archives else None
-        page = wrap_page(block, next_rel=next_rel, prev_rel=prev_rel)
+        prev_rel = f"archive_{new_num-1}.md"   # newer
+        next_rel = f"archive_{new_num+1}.md" if new_num < total_archives else None  # older
+        page = wrap_page(block, next_rel=next_rel, prev_rel=prev_rel,
+                         base_url=archive_base)
         file_path.write_text(page, encoding="utf-8")
 
     print(f"✅ Archives shifted: new archive_1 created, total pages = {total_archives}")
 
 
-def split_main_page(new_entries_block: str, old_messages_block: str):
+def split_main_page(new_entries_block: str, old_messages_block: str,
+                    repo_url: str | None, branch: str | None):
+    """
+    Main page too large: keep new entries on main, move old content to archive_1.
+    """
     test_page = wrap_page(new_entries_block, next_rel=None, prev_rel=None)
     if len(test_page.encode("utf-8")) <= 950 * 1024:
-        shift_archives_for_new_page1(old_messages_block)
-        next_rel_main = None
-        prev_rel_main = "telegram/content/archive_1.md"
+        shift_archives_for_new_page1(old_messages_block, repo_url, branch)
+        # Main page: next = archive_1 (older), previous = None
+        next_rel_main = "telegram/content/archive_1.md"
+        prev_rel_main = None
+        main_base = f"{repo_url}/blob/{branch}/" if repo_url and branch else None
         main_page = wrap_page(new_entries_block,
                               next_rel=next_rel_main,
-                              prev_rel=prev_rel_main)
+                              prev_rel=prev_rel_main,
+                              base_url=main_base)
         OUTPUT_FILE.write_text(main_page, encoding="utf-8")
         print("✅ Main page updated, old content moved to archive_1.md")
     else:
@@ -313,7 +376,7 @@ def split_main_page(new_entries_block: str, old_messages_block: str):
         half = len(new_entries_block) // 2
         head_block = new_entries_block[:half]
         tail_block = new_entries_block[half:]
-        shift_archives_for_new_page1(old_messages_block)
+        shift_archives_for_new_page1(old_messages_block, repo_url, branch)
         main_page = wrap_page(head_block, next_rel=None,
                               prev_rel="telegram/content/archive_1.md")
         OUTPUT_FILE.write_text(main_page, encoding="utf-8")
@@ -490,6 +553,9 @@ async def main():
 
         await browser.close()
 
+    # ---- Obtain repository info for absolute links ----
+    repo_url, branch = get_github_base_url()
+
     # ---- Update timestamp header ----
     now_jalali = jdatetime.datetime.now(IRAN_TZ)
     update_header = f"\n---\n📅 بروزرسانی: {now_jalali.strftime('%Y/%m/%d %H:%M')}\n---\n\n"
@@ -558,26 +624,36 @@ async def main():
     if old_messages_block.strip() and new_ids_set:
         old_messages_block = deduplicate_messages(old_messages_block, new_ids_set)
 
-    # ---- Combine and handle size limit ----
+    # ---- Combine and handle size limit, with correct pagination ----
     if new_entries_block or old_messages_block:
+        # Determine base URL for the main page
+        main_base = f"{repo_url}/blob/{branch}/" if repo_url and branch else None
+
         trial_page = wrap_page(new_entries_block + old_messages_block,
-                               next_rel=None, prev_rel=None)
+                               next_rel=None, prev_rel=None,
+                               base_url=main_base)
         size = len(trial_page.encode("utf-8"))
         if size > 950 * 1024 and old_messages_block.strip():
-            split_main_page(new_entries_block, old_messages_block)
+            # Split: new entries on main, old goes to archive_1
+            split_main_page(new_entries_block, old_messages_block,
+                            repo_url, branch)
         else:
+            # No split needed, all content on main page
             archives = get_existing_archives()
-            prev_rel_main = None
+            next_rel_main = None
             if archives:
-                prev_rel_main = f"telegram/content/archive_{archives[0][0]}.md"
+                # Main page → next = first archive (older)
+                next_rel_main = f"telegram/content/archive_{archives[0][0]}.md"
             main_page = wrap_page(new_entries_block + old_messages_block,
-                                  next_rel=None,
-                                  prev_rel=prev_rel_main)
+                                  next_rel=next_rel_main,
+                                  prev_rel=None,
+                                  base_url=main_base)
             OUTPUT_FILE.write_text(main_page, encoding="utf-8")
             print("✅ Main page updated (no split needed).")
     else:
         if not OUTPUT_FILE.exists():
-            OUTPUT_FILE.write_text(wrap_page("", None, None), encoding="utf-8")
+            OUTPUT_FILE.write_text(wrap_page("", None, None,
+                                             base_url=f"{repo_url}/blob/{branch}/" if repo_url and branch else None))
             print("ℹ️ No messages yet, empty page created.")
 
     # ---- Update state ----
