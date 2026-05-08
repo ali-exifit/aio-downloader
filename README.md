@@ -298,6 +298,7 @@ All downloads go into your repository and can quickly eat into GitHub’s **5 GB
 | **Instagram** | The entire `instagram/` folder. |
 | **X (Twitter)** | The entire `x/` folder. |
 | **Website** | The entire `website/` folder (captured PDFs). |
+| **Leecher** | The entire `leecher/` folder. |
 
 #### How to Run
 
@@ -615,6 +616,7 @@ https://github.com/ProAlit/aio-downloader
 | **اینستاگرام** | کل پوشه `instagram/` |
 | **X (توییتر)** | کل پوشه `x/` |
 | **وبسایت** | کل پوشه `website/` |
+| **لیچر** | کل پوشه `leecher/` |
 
 #### نحوه اجرا
 
