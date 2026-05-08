@@ -7,6 +7,40 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/19 00:53
+---
+
+## mamlekate — post 103480
+
+<div align="center">
+  <a href="telegram/content/mamlekate_103480_1778275402.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📝 مقام دفتر علی خامنه‌ای: مجتبی خامنه‌ای از ناحیه زانو، کمر و پشت گوش مجروح شده است
+
+مظاهر حسینی، مسئول دیدارهای دفتر علی خامنه‌ای، در تجمع شبانه حکومتی، گفت که مجتبی خامنه‌ای در جریان بمباران بیت علی خامنه‌ای، رهبر کشته‌شده جمهوری اسلامی، از ناحیه زانو، کمر و پشت گوش آسیب دیده است.
+
+@mamlekate
+</div>
+
+## Persian_Trend_Official — post 13726
+
+<div align="center">
+  <a href="https://t.me/persian_trend_official/13726" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فایل صوتی لایو اول
+نسخه کم حجم - 6.38 مگابایت
+
+اتاق جنگ جمعه 18 اردیبهشت | سه ناو جنگی آمریکا پنجشنبه با آتش بی وقفه مواجه شدند!
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+---
 📅 بروزرسانی: 1405/02/19 00:43
 ---
 
