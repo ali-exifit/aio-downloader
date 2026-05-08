@@ -7,6 +7,74 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/19 02:33
+---
+
+## Shin_Persian — post 5900
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Fri, 08 May 2026 23:01:17 UTC
+
+NOW @ 2300Z -
+Jet activity over Amman, Amman Governorate, #Jordan
+
+فارسی
+
+هم‌اکنون در ساعت ۲۳۰۰ زولو (۰۲:۳۰ بامداد به وقت تهران) -
+فعالیت جت‌ها بر فراز امان، استان امان، #اردن
+
+𝕏 · @shin_persian
+</div>
+
+## Shin_Persian — post 5899
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Fri, 08 May 2026 22:58:20 UTC
+
+Economic Fury, #Iran
+
+As part of the Economic Fury campaign, the U.S. Treasury @USTreasury (OFAC) has sanctioned a network of 10 individuals and entities across China, the UAE, Belarus, and Hong Kong for procuring weapons and UAV components for the Iranian regime.
+Weapons & MANPADS Procurement
+This network facilitated technology and weapons acquisitions (including man-portable air-defense systems) for the Center for Innovation and Technology Cooperation (CITC):
+• Yushita Shanghai International Trade Co Ltd (China): Facilitator for CITC.
+• AE International Trade Co Limited (Hong Kong): Received millions in funding for procurement efforts.
+• Elite Energy FZCO (UAE): Transferred funds to AE International for CITC.
+• HK Hesin Industry Co Limited (Hong Kong): Intermediary used to obfuscate the Iranian end-user.
+• Armory Alliance LLC (Belarus): Intermediary for Iranian procurement.
+• Mohammadmahdi Maleki: Belarus-based Iranian employee of Armory Alliance.
+• Mohammed Ali Tolibov: CEO of Armory Alliance and arms facilitator.
+IRGC Weapons Procurement
+• Mustad Limited (Hong Kong): Facilitated millions of dollars in weapons procurement transactions for the IRGC.
+UAV & Missile Components
+Targeting the supply of aerospace-grade raw materials (carbon fiber and honeycomb fabric) for the Shahed-series UAVs:
+• Hitex Insulation Ningbo Company Limited (China): Supplied materials to Pishgam Electronic Safeh Company (PESC).
+• Li Genping (China): Legal representative and manager of Hitex Insulation.
+Campaign Context
+Secretary Scott Bessent stated the "Economic Fury" campaign remains unrelenting in targeting Iran's defense industrial base. Concurrently, the State Department designated four additional entities for conventional arms activities.
+
+ترجمه فارسی در بخش نظرات
+
+𝕏 · @shin_persian
+</div>
+
+## FarsiVOA — post 217237
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺جی‌دی ونس و نخست وزیر قطر در واشنگتن دیدار و گفت‌وگو کردند
+
+▪️معاون رئیس جمهوری آمریکا، جی‌دی ونس، روز جمعه ۱۸ اردیبهشت با نخست‌وزیر و وزیر امور خارجه قطر، محمد بن عبدالرحمن بن جاسم آل ثانی، در واشنگتن دیدار و با او درباره ایران گفت‌وگو کرد.
+
+⬇️ بیشتر بخوانید:
+https://ir.voanews.com/a/8148107.html
+@FarsiVOA
+</div>
+
+---
 📅 بروزرسانی: 1405/02/19 02:23
 ---
 
