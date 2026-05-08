@@ -7,6 +7,82 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/18 23:53
+---
+
+## mwarmonitor — post 8733
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_8733_1778271806.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇺🇸سفارت آمریکا در کاراکاس «طرح سه‌مرحله‌ای ریس جمهور ترامپ و وزیر امور خارجه برای ونزوئلا، خروج این ریسک هسته‌ای را از ونزوئلا تسریع کرد و یک نقطه عطف تاریخی دیگر را رقم زد.
+
+☢۱۳.۵ کیلوگرم اورانیوم از IVIC (موسسه تحقیقات علمی ونزوئلا) خارج و برای دفع به ایالات متحده منتقل شد، به این معنا که ونزوئلا دیگر هیچ اورانیوم غنی‌شده‌ای در اختیار ندارد.
+این انتقال با هماهنگی ایالات متحده، ونزوئلا، بریتانیا و آژانس بین‌المللی انرژی اتمی (IAEA) انجام شد.
+
+@mwarmonitor
+</div>
+
+## IranIntlTV — post 336201
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336201_1778271807.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مارکو روبیو تاکید کرد کنترل جمهوری اسلامی بر تنگه هرمز قابل تحمل نیست. همزمان محمد مخبر، مشاور و دستیار رهبر جمهوری اسلامی، گفت کنترل تنگه هرمز برای ایران امکانی در حد بمب اتم ایجاد می‌کند و تهران نباید هیچ‌وقت این تنگه را از دست بدهد.
+
+او افزود اماراتی‌ها در درگیری‌های اخیر تنبیه شده‌اند و باز هم تنبیه خواهند شد.
+
+گفت‌وگو با لیلا مروتی، تحلیل‌گر سیاسی و ابراهیم روشندل، عضو کمیته مبارزه با تروریسم سازمان امنیت داخلی آمریکا
+@iranintltv
+</div>
+
+## FarsiVOA — post 217228
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217228_1778271809.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️کامبیز غفوری در برنامه تفسیر خبر: جمهوری اسلامی متخصص از دست دادن فرصت‌های طلایی است
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217227
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217227_1778271809.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️گزارش نرگس صبا در برنامه تفسیر خبر: از کشتی‌ها و ملوانان گیر افتاده در پشت تنگه هرمز چه می‌دانیم؟
+@FarsiVOA
+</div>
+
+## alonews — post 118765
+
+<div align="center">
+  <a href="telegram/content/alonews_118765_1778271810.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈شبکه کان اسرائیل: واشنگتن و تهران فعلا تمایلی به درگیری دوباره ندارن؛ ترامپ میتونست یه حمله دیگه دست و پا کنه ولی از انجام دادنش خودداری کرد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118764
+
+<div align="center">
+  <a href="telegram/content/alonews_118764_1778271810.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈فرماندار اشنویه:صدای انفجار در اشنویه مربوط به مهمات عمل‌نکرده بود
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/18 23:43
 ---
 
