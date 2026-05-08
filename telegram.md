@@ -2424,5 +2424,5 @@ https://iranintl.com/202605080524
 </div>
 <!-- MSG END -->
 <!-- NAV START -->
-[صفحه بعد](https://github.com/ali-exifit/aio-downloader/blob/main/telegram/content/archive_1.md)
+![صفحه بعد](https://github.com/ali-exifit/aio-downloader/blob/main/telegram/content/archive_1.md)
 <!-- NAV END -->
