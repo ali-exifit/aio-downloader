@@ -7,6 +7,178 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/18 20:32
+---
+
+## VahidOOnLine — post 238940
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_238940_1778259749.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یکی از مخاطبان ایران‌اینترنشنال می‌گوید پس از ۷۰ روز به سختی توانسته ارتباط برقرار کند و از ایرانیان خارج از کشور می‌خواهد صدای مردم داخل ایران باشند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 238939
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_238939_1778259751.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ مسعود پزشکیان، رئیس‌جمهوری اسلامی، روز جمعه ۱۸ اردیبهشت، با انتشار پیامی در شبکه اجتماعی ایکس بار دیگر سیاست خارجی تهران را مبتنی بر «گسترش رابطه دوستانه با احترام متقابل و بر اساس منافع مشترک» دانست.
+
+پزشکیان نوشت: «سیاست استعمار و استثمار جایی در جهان آینده نخواهد داشت. همانقدر که مدارا در فرهنگ مردم ما ریشه دارد، مبارزه با ظلم در تاریخ این سرزمین می‌درخشد. این هویت برای اعتلای نام ایران تداوم خواهد یافت.»
+
+پزشکیان به‌طور مستقیم به حوادث اخیر اشاره نکرد اما به‌نظر می‌رسد با توجه به درگیری‌های ۲۴ ساعت گذشته در تنگه هرمز و افزایش فشارها بر جمهوری اسلامی برای پذیرش پیشنهادهای واشنگتن و از سر گیری مذاکرات، این پیام در راستای گفته‌های پیشین مجتبی خامنه‌ای، رهبر جدید جمهوری اسلامی مبنی بر کوتاه نیامدن از کنترل کامل تنگه هرمز باشد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8720
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🦠«شرکت مدرنا در یک بیانیه اعلام کرد که در مراحل اولیه پژوهش درباره واکسن ویروس‌های هانتا با همکاری مؤسسه تحقیقات پزشکی بیماری‌های عفونی ارتش ایالات متحده (USAMRIID) فعالیت کرده است.»
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 8719
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔰«به گزارش وال‌استریت ژورنال (WSJ)، شرکت‌های اپل و اینتل به یک توافق اولیه دست یافته‌اند که بر اساس آن اینتل برخی از تراشه‌های مورد استفاده در دستگاه‌های اپل را تولید خواهد کرد.»
+
+@mwarmonitor
+</div>
+
+## IranIntlTV — post 336177
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336177_1778259752.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یکی از مخاطبان ایران‌اینترنشنال می‌گوید پس از ۷۰ روز به سختی توانسته ارتباط برقرار کند و از ایرانیان خارج از کشور می‌خواهد صدای مردم داخل ایران باشند.
+</div>
+
+## RadioFarda — post 156983
+
+<div align="center">
+  <a href="https://t.me/radiofarda/156983" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+چرا کمبود دارو شدت گرفته و چگونه کنشگران به تامین آن کمک می‌کنند؟ گفت‌وگو با هما فتحی
+
+🔸هما فتحی کنشگر حوزه درمان است. به گفته خودش از «کنجکاوی» در حوزه سرکوب کادر درمان به بخش کمک به بیماران، تامین دارو و خیریه متمایل شد. او از شهر مونترال در کانادا در گفت‌وگو با رادیوفردا از مشاهداتش در چرخه تامین دارو در داخل ایران، مشکلات و چالش‌های عدیده در این چرخه در پی جنگ چهل روزه و راه‌های مختلفی که کنشگرانی مثل او برای کمک به شهروندان ایرانی دارند یا ندارند، می‌گوید.
+
+@RadioFarda
+</div>
+
+## RadioFarda — post 156982
+
+<div align="center">
+  <a href="https://t.me/radiofarda/156982" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📻بشنوید: ایستگاه ۱۹ با رادیوفردا، ۱۸ اردیبهشت ۱۴۰۵
+
+@RadioFarda
+</div>
+
+## IranianMinds — post 19812
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_19812_1778259755.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 رویترز با استناد به تصاویر ماهواره‌ای: نشت مشکوک نفت، ۴۵ کیلومتر مربع در نزدیکی جزیره خارک ایران را پوشانده است.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19811
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 حسن قشقاوی، عضو کمیسیون امنیت ملی مجلس: آمریکا ۴۸ ساعت پیش ادعا کرد عملیات موسوم به «آزادی» را متوقف می‌کند و منتظر پاسخ دیپلماتیک ایران است، اما دیشب دست به اقدام نظامی زد.
+
+@IranianMinds
+</div>
+
+## alonews — post 118714
+
+<div align="center">
+  <a href="telegram/content/alonews_118714_1778259756.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ : قیمت داروها رو 90 درصد آوردیم پایین،البته اگه بخوای یه‌جوری بگی، میشه گفت 500٪ یا 600٪ هم کم شده!
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118713
+
+<div align="center">
+  <a href="telegram/content/alonews_118713_1778259758.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ در مورد کاخ سفید: قبلا این باغ پر از لجن بود و سنگاش شکسته بود نمیشد راه رفت ولی من درستش کردم و سنگ گرانیت کار گذاشتم
+
+
+🔴این باغ رزی که توشیم قبلا رز نداشت فقط علف بود ولی من پر از رز کردمش
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118712
+
+<div align="center">
+  <a href="telegram/content/alonews_118712_1778259759.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ : من بهشون میگم مرزهای احمقانه،کار آدمای احمقیه که اونا رو اونجا گذاشتن
+
+
+🔴 ما مانع عبور هزاران نفر مهاجر کصخل از مرز خودمون شدیم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118711
+
+<div align="center">
+  <a href="telegram/content/alonews_118711_1778259761.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ به یاد مادرش : من مادری فوق‌العاده داشتم،روز مادر یکی از بزرگ‌ترین روزهاست که میشه گفت ..
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118710
+
+<div align="center">
+  <a href="telegram/content/alonews_118710_1778259763.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ : ما عکس‌های رئیس‌جمهورها رو از جورج واشنگتن تا یه نفر به اسم ترامپ اضافه کردیم
+
+
+🔴 مردم واقعاً خیلی خوششون اومده،ما بهش می‌گیم پیاده‌روی مشاهیر ریاست‌جمهوری
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/18 20:22
 ---
 
