@@ -7,6 +7,134 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/18 19:33
+---
+
+## VahidOOnLine — post 238933
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_238933_1778256198.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ تصاویر ماهواره‌ای که بین ۶ تا ۸ می (۱۶ تا ۱۸ اردیبهشت) ثبت شده‌اند، از وقوع یک نشت نفت گسترده در نزدیکی جزیره خارگ، اصلی‌ترین پایانه صادرات نفت ایران، خبر می‌دهند. این لکه نفتی که در تصاویر ماهواره‌های کوپرنیک به‌صورت توده‌ای خاکستری و سفید دیده می‌شود، منطقه‌ای به وسعت تقریبی ۴۵ تا ۹۵ کیلومتر مربع را در غرب این جزیره پوشانده است.
+
+لوییس گودارد، از موسسه تحلیلی «دیتا دسک»، این حادثه را احتمالا بزرگ‌ترین نشت نفتی از زمان آغاز جنگ اخیر توصیف کرده است. لئون مورلند، پژوهشگر رصدخانه درگیری و محیط‌زیست (CEOBS)، نیز تاکید کرد که ماهیت لکه با نفت کاملا همخوانی دارد، هرچند منشا دقیق و علت وقوع آن هنوز مشخص نیست.
+
+جزیره خارگ که مرکز صادرات ۹۰ درصد نفت ایران است، در جریان این جنگ هدف حملات نیروهای آمریکایی قرار گرفته و اکنون تحت محاصره دریایی شدید قرار دارد. در حالی که نیروهای نظامی آمریکا و نمایندگی جمهوری اسلامی در سازمان ملل هنوز واکنشی به این تصاویر نشان نداده‌اند، کارشناسان هشدار می‌دهند که تداوم این وضعیت می‌تواند منجر به یک فاجعه زیست‌محیطی بی‌سابقه در زیست‌بوم حساس خلیج‌فارس شود.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8710
+
+
+
+
+## pm_afshaa — post 90378
+
+<div align="center">
+  <img src="telegram/content/pm_afshaa_90378_1778256199.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رویترز با استناد به تصاویر ماهواره‌ای: نشت مشکوک نفت، 45 کیلومتر مربع در نزدیکی جزیره خارک ایران رو پوشانده
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90377
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴سی‌ان‌ان: ایران به شناورها هشدار داده که از ناوهای آمریکا دور شوند
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## VahidOnline — post 75335
+
+<div align="center">
+  <img src="telegram/content/VahidOnline_75335_1778256200.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+روح‌الله مومن‌نسب، دبیر ستاد امر به معروف تهران نوشت نمی‌شود نیروهای مسلح، مرزهای ما و تنگه هرمز را به روی دشمنان ببندند اما دولت فضای مجازی را در اختیار آنان قرار دهد.
+
+او افزود که «فضای مجازی به هیچ وجه نباید به حالت قبل برگردد؛ همان‌طور که امام شهید ما به حالت قبل برنمی‌گردد.»
+@VahidOOnLine
+
+📡 @VahidOnline
+</div>
+
+## kianmeli1 — post 87285
+
+<div align="center">
+  <a href="telegram/content/kianmeli1_87285_1778256201.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴به عنوان بخشی از دستور اجرایی ترامپ درباره افشای اطلاعات یوفوها، وزارت جنگ آمریکا اولین بخش از پرونده‌های یوفو را منتشر کرد.
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87284
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴بلومبرگ: تنگه هرمز همچنان عملاً بسته است و هیچ ترافیک کشتی‌ از سه‌شنبه تاکنون وارد یا خارج نشده است.
+https://t.me/kianmeli1
+</div>
+
+## IranIntlTV — post 336166
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336166_1778256203.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک شهروند با ارسال پیامی به ایران‌اینترنشنال از افزایش شدید قیمت خدمات درمانی روایت کرده و می‌گوید قیمت هر جلسه شیمی‌درمانی به ۷۰۰ میلیون تومان رسیده است.
+</div>
+
+## alonews — post 118704
+
+<div align="center">
+  <a href="telegram/content/alonews_118704_1778256206.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈تسنیم: درگیری‌ها در خلیج فارس فعلاً متوقف شده اما احتمال آغاز مجدد آن وجود دارد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118703
+
+<div align="center">
+  <a href="telegram/content/alonews_118703_1778256206.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈سخنگوی وزارت خارجه: اقدام دیشب آمریکا، هم نقض آتش‌بس بود و هم نقض فاحش منشور سازمان ملل
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118702
+
+<div align="center">
+  <a href="telegram/content/alonews_118702_1778256206.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈سی‌ان‌ان: ایران به شناورها هشدار داده که از ناوهای آمریکا دور شوند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/18 19:23
 ---
 
@@ -376,8 +504,6 @@ https://bbc.in/4cZY32k
 <div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
 ⚽️🇮🇷بالاخره یه حریف تدارکاتی واسه تیم‌ملی قبل جام جهانی پیدا شد؛ تیمِ مخوف گامبیا🇬🇲حاضر شده قبل جام جهانی با ایران بازی دوستانه برگزار کنه. @AloSport
 </div>
-
-
 <!-- MSG END -->
 
 <!-- NAV START -->
