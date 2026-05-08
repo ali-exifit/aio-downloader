@@ -5,12 +5,13 @@ on:
     inputs:
       url:
         description: >
-          Enter one or more URLs with optional arguments.
-          Separate entries with newlines, commas, or spaces.
-          Example:
-          https://www.youtube.com/watch?v=dfdXGw1xY9A v 480
-          https://www.youtube.com/watch?v=dfdXGw1xY9A v 1080
-          or: https://www.youtube.com/watch?v=dfdXGw1xY9A v 480, https://... v 720
+          Enter one or more URLs (newlines, commas, or spaces) with optional arguments.
+          Arguments:  `v` (video) or `a` (audio) followed by quality:
+            Video: `max` | `min` | height (e.g. 480, 720, 1080, 4k) [optional fps e.g. `1080 30`]
+            Audio: `max` | `min` | bitrate in kbps (e.g. 128, 192, 320)
+          yt-dlp supports 1800+ sites, including: YouTube, Vimeo, Twitch, Dailymotion, TikTok,
+          SoundCloud, Bandcamp, Twitter/X, Instagram, Facebook, reddit, Odnoklassniki, Rumble,
+          Bilibili, NicoNico, and many more general/extractor sites.
         required: true
 
 jobs:
