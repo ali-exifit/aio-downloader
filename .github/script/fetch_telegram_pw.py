@@ -12,6 +12,7 @@ Scrape public Telegram channels with Playwright.
 - Navigation buttons (top & bottom) styled as clickable buttons.
 - Download links open in a new tab to preserve scroll position.
 - Ignores .webm videos (animations/stickers) to improve media detection.
+- Captions use inline Vazirmatn font (falls back to Tahoma if not installed).
 """
 
 import asyncio
@@ -619,7 +620,7 @@ async def main():
             if not media_md:
                 media_md = media_url  # fallback link
 
-        # ---- Centered media & RTL caption ----
+        # ---- Centered media & RTL caption with Vazirmatn font ----
         header = f"## {ch} — post {pid}\n\n"
         media_html = ""
         if media_md:
@@ -635,7 +636,10 @@ async def main():
             if media_type == "photo": caption = "📷 Photo"
             elif media_type == "video": caption = "🎬 Video"
             elif media_type == "document": caption = "📎 Document"
-        caption_div = f'<div dir="rtl">\n{caption}\n</div>' if caption else ""
+
+        # Inline RTL + Vazirmatn font, fallback to Tahoma
+        caption_style = "dir='rtl' style='font-family: \"Vazirmatn\", Tahoma, sans-serif;'"
+        caption_div = f'<div {caption_style}>\n{caption}\n</div>' if caption else ""
 
         entry = header + media_html + "\n" + caption_div + "\n\n"
         new_entries_list.append(entry)
@@ -644,7 +648,8 @@ async def main():
 
     # ---- If no new posts were fetched, show a notice ----
     if not new_entries_list:
-        new_entries_block += '<div dir="rtl">\nهیچ پیام جدیدی در این بروزرسانی ارسال نشد.\n</div>\n\n'
+        caption_style = "dir='rtl' style='font-family: \"Vazirmatn\", Tahoma, sans-serif;'"
+        new_entries_block += f'<div {caption_style}>\nهیچ پیام جدیدی در این بروزرسانی ارسال نشد.\n</div>\n\n'
 
     # ---- Load and deduplicate existing messages ----
     old_messages_block = ""
