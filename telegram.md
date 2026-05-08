@@ -7,6 +7,107 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/18 22:12
+---
+
+## IranIntlTV — post 336189
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336189_1778265774.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+۲۴ با فرداد فرحزاد
+@iranintltv
+</div>
+
+## Dirty_Kids — post 389125
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389125_1778265775.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گلهای غربت، تو این روزای سخت، خانواده‌ها و عزیزانتون داخل ایران رو دریابید لطفا.
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389124
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389124_1778265777.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+انقد موشتباه نیومد خمینی کامبک زد
+
++ البته قبول نیست، چون آفتابشو نیاورده
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389123
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389123_1778265777.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پست جدید ترامپ: پدافند لیزری ناوشکن
+
+
+@Dirty_Kids 👻
+</div>
+
+## configx2ray — post 38661
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38661" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## alonews — post 118737
+
+<div align="center">
+  <a href="telegram/content/alonews_118737_1778265778.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈دو مشاور رئیس‌جمهور آمریکا به آتلانتیک گفتند: «رئیس‌جمهور معتقد است که می‌تواند هر توافقی با ایران را به عنوان پیروزی خود بازاریابی کند».
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118736
+
+<div align="center">
+  <a href="telegram/content/alonews_118736_1778265778.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈زلنسکی: ما موافقت روسیه را برای انجام تبادل اسیران به صورت ۱۰۰۰ نفر در برابر ۱۰۰۰ نفر دریافت کردیم.
+
+
+🔴همچنین باید آتش‌بس در روزهای ۹، ۱۰ و ۱۱ مه برقرار باشد.
+
+
+🔴از رئیس‌جمهور ایالات متحده و تیمش برای مشارکت دیپلماتیک مؤثرشان تشکر می‌کنم.
+
+
+🔴ما انتظار داریم ایالات متحده اجرای توافقات را از سوی روسیه تضمین کند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/18 22:03
 ---
 
