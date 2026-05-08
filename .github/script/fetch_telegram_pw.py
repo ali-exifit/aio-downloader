@@ -7,6 +7,9 @@ Scrape public Telegram channels with Playwright.
 - Handles file size limit with archive pages.
 - Deduplicates posts based on (channel, post_id) to prevent repeats.
 - Centers media and shows captions in right‑to‑left (RTL) for Persian.
+
+Updated: documents are now downloaded with their original filenames,
+and a notice is shown when no new messages are found.
 """
 
 import asyncio
@@ -133,58 +136,39 @@ def deduplicate_messages(old_block: str, new_ids_set: set[tuple[str, int]]) -> s
     return "".join(kept)
 
 # ----------------------------------------------------------------------
-# Media download
+# Media download (updated to accept custom filename and fallback)
 # ----------------------------------------------------------------------
 def download_media(url, channel_name, post_id, filename=None):
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)
     if filename is None:
-        ext = ".jpg"
-        if any(k in url.lower() for k in [".mp4", "video", "stream"]):
-            ext = ".mp4"
-        local_name = f"{channel_name}_{post_id}_{int(time.time())}{ext}"
+        # Try to get a reasonable extension from the URL
+        path = urlparse(url).path
+        if path and '.' in path.split('/')[-1]:
+            filename = path.split('/')[-1]
+        else:
+            ext = ".jpg"
+            if any(k in url.lower() for k in [".mp4", "video", "stream"]):
+                ext = ".mp4"
+            filename = f"{channel_name}_{post_id}_{int(time.time())}{ext}"
     else:
-        local_name = filename
-    local_path = CONTENT_DIR / local_name
+        # Sanitise the provided filename (remove paths, keep only name)
+        filename = Path(filename).name  # e.g. "report.pdf" stays, no directory parts
+
+    local_path = CONTENT_DIR / filename
+    # If a file with the same name already exists, add a suffix to avoid overwriting
+    if local_path.exists():
+        stem = local_path.stem
+        suffix = local_path.suffix
+        stamp = int(time.time())
+        local_path = CONTENT_DIR / f"{stem}_{stamp}{suffix}"
+
     try:
         resp = requests.get(url, headers=HEADERS, timeout=30)
         resp.raise_for_status()
         local_path.write_bytes(resp.content)
-        return f"telegram/content/{local_name}"
+        return f"telegram/content/{local_path.name}"
     except Exception as e:
         print(f"    ⚠️ Media download failed: {e}")
-        return None
-
-def download_document(post_url, channel_name, post_id):
-    print(f"    📄 Fetching document page: {post_url}")
-    try:
-        resp = requests.get(post_url, headers=HEADERS, timeout=30)
-        resp.raise_for_status()
-        html = resp.text
-
-        match = re.search(r'<a\s[^>]*class="tgme_widget_message_document_wrap"[^>]*\shref="([^"]+)"', html)
-        if not match:
-            print("    ⚠️ No document download link found on the post page.")
-            return None
-        doc_url = match.group(1)
-        if doc_url.startswith("/"):
-            doc_url = "https://t.me" + doc_url
-
-        filename = None
-        parsed = urlparse(doc_url)
-        path = parsed.path
-        if path and "/" in path:
-            potential_name = path.split("/")[-1]
-            if "." in potential_name:
-                filename = potential_name
-        if not filename:
-            ext = ".dat"
-            filename = f"{channel_name}_{post_id}_{int(time.time())}{ext}"
-
-        print(f"    ⬇️ Downloading document: {doc_url} -> {filename}")
-        return download_media(doc_url, channel_name, post_id, filename=filename)
-
-    except Exception as e:
-        print(f"    ⚠️ Document download failed: {e}")
         return None
 
 # ----------------------------------------------------------------------
@@ -249,7 +233,7 @@ def split_main_page(new_entries_block: str, old_messages_block: str):
         print("⚠️ Some new messages may be lost due to size limit.")
 
 # ----------------------------------------------------------------------
-# Scraping
+# Scraping (updated to extract document filename)
 # ----------------------------------------------------------------------
 async def scrape_channel_all(page, channel_name, last_id, max_scrolls):
     url = f"https://t.me/s/{channel_name}"
@@ -281,7 +265,8 @@ async def scrape_channel_all(page, channel_name, last_id, max_scrolls):
                 const textEl = el.querySelector('.tgme_widget_message_text');
                 const text = textEl ? textEl.innerText : '';
 
-                let mediaUrl = null, mediaType = null;
+                let mediaUrl = null, mediaType = null, mediaCustomName = null;
+
                 const photoWrap = el.querySelector('.tgme_widget_message_photo_wrap');
                 if (photoWrap) {
                     const style = photoWrap.getAttribute('style') || '';
@@ -300,11 +285,16 @@ async def scrape_channel_all(page, channel_name, last_id, max_scrolls):
                         if (match) { mediaUrl = match[1]; mediaType = 'photo'; }
                     }
                 }
+                // ---- Document detection with filename extraction ----
                 if (!mediaUrl) {
                     const docWrap = el.querySelector('a.tgme_widget_message_document_wrap');
                     if (docWrap) {
-                        mediaUrl = 'https://t.me/' + channel + '/' + postId;
+                        mediaUrl = docWrap.href;   // direct download link
                         mediaType = 'document';
+                        const titleEl = el.querySelector('.tgme_widget_message_document_title');
+                        if (titleEl) {
+                            mediaCustomName = titleEl.innerText.trim();
+                        }
                     }
                 }
 
@@ -312,7 +302,8 @@ async def scrape_channel_all(page, channel_name, last_id, max_scrolls):
                     id: postId,
                     text: text,
                     media_url: mediaUrl,
-                    media_type: mediaType
+                    media_type: mediaType,
+                    filename: mediaCustomName || null
                 });
             });
             return msgs;
@@ -400,12 +391,12 @@ async def main():
         media_type = msg.get("media_type")
         media_url = msg.get("media_url")
 
+        # Download media with correct filename for documents
         if media_url and media_type in ("photo", "video"):
             media_md = download_media(media_url, ch, pid)
         elif media_url and media_type == "document":
-            media_md = download_document(media_url, ch, pid)
-            if not media_md:
-                media_md = media_url  # fallback
+            filename = msg.get("filename")   # original filename from widget
+            media_md = download_media(media_url, ch, pid, filename=filename)
 
         # ---- Centered media & RTL caption ----
         header = f"## {ch} — post {pid}\n\n"
@@ -428,7 +419,11 @@ async def main():
         entry = header + media_html + "\n" + caption_div + "\n\n"
         new_entries_list.append(entry)
 
-    new_entries_block = update_header + "".join(new_entries_list)
+    # ---- If no new messages, add a friendly notice ----
+    if not all_messages:
+        new_entries_block = update_header + '<div dir="rtl">\n**هیچ پیام جدیدی در این بازه ارسال نشده است.**\n</div>\n\n'
+    else:
+        new_entries_block = update_header + "".join(new_entries_list)
 
     # ---- Load and deduplicate existing messages ----
     old_messages_block = ""
