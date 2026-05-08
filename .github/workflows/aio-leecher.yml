@@ -1,4 +1,4 @@
-name: leecher
+name: aio-leecher
 
 on:
   workflow_dispatch:
