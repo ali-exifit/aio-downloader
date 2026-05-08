@@ -7,6 +7,142 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/18 19:02
+---
+
+## DW_Farsi — post 124452
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶 آلمان و وابستگی مبرم آن به پزشکان خارجی
+
+کانال اول تلویزیون آلمان در گزارشی به موضوع کمبود پزشک در این کشور و علل وابستگی رو به رشد آن به پزشکان خارجی پرداخته است.
+
+ماتیاس ووت، مدیر کلینیک هارتس در کوئدلین‌بورگ (Quedlinburg) آلمان در شرح این موضوع می‌گوید: «بدون پزشکان خارجی، بخش بزرگی از بیمارستان‌های آلمان دیگر قادر به فعالیت نخواهند بود.»
+
+حدود یک‌سوم کادر پزشکی کلینیک او را مهاجران تشکیل می‌دهند. چنین آماری، به‌ویژه در خارج از شهرهای بزرگ، مدت‌هاست که به یک امر عادی تبدیل شده است.
+
+به گفته او، در حال حاضر بیش از ۵۰هزار پزشک فاقد تابعیت آلمانی، کمبود نیروی انسانی را جبران می‌کنند. این در حالی است که تعداد پزشکان شاغل در آلمان بیش از هر زمان دیگری است.
+
+کریستیان کاراگیانیدیس نیز که خود متخصص مراقبت‌های ویژه و عضو کمیسیون دولتی برای اصلاحات ساختاری سیستم بیمارستانی آلمان بوده است می‌گوید: «اگر به تعداد پزشک نسبت به جمعیت نگاه کنیم، آلمان به همراه اتریش در صدر جدول جهانی قرار دارند. این یعنی در مجموع، ما در واقع بیش از حد نیاز، پزشک در اختیار داریم.»
+
+با این حال به گفته کریستیان کاراگیانیدیس، ساختار ناکارآمد بیمارستان‌ها باعث می‌شود که آلمان نتواند با وجود تراکم بالای پزشک در حال حاضر حدود ۶هزار پست خالی در کلینیک‌ها را پر کند: «ما در آلمان متأسفانه با پدیده همزمان خدمات بیش از حد، خدمات ناکافی و خدمات نادرست مواجه هستیم.»
+
+او وجود یک‌هزار و ۷۰۰ بیمارستان در سراسر کشور را در مقایسه با استانداردهای بین‌المللی "بسیار زیاد" می‌داند و در عین حال یادآور می‌شود که با این حال، در برخی مناطق روستایی آلمان کمبود پزشک وجود دارد.
+
+اینا ویاروکینا، پزشک دستیار در بخش مراقبت‌های ویژه در کوئدلین‌بورگ، روزانه چندین ساعت را صرف ثبت پرونده‌ها و کارهای اداری می‌کند.
+
+این پزشک ۴۵ ساله هفت سال پیش از بلاروس به آلمان آمد. او که در بلاروس حقوق‌‌ ماهیانه‌اش حدود ۱۷۰ یورو بود سرانجام برای فراهم کردن زندگی بهتر برای خود و دو دخترش همسر و وطنش را ترک کرد و در اواخر دهه ۳۰ سالگی خود زبان آلمانی را آموخت.
+
+کانال اول تلویزیون آلمان در گزارش خود می‌نویسد، در درازمدت، به‌ویژه بیمارستان‌های کوچک به متخصصان مهاجری مانند اینا ویاروکینا وابسته خواهند ماند.
+
+@dw_farsi
+</div>
+
+## configx2ray — post 38658
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🍆نزدیک 7 عدد npv tunell . Npsternet گذاشتیم منطقه ای وصله ولی صدرصد وصل میشه فقط یکم زمان بدید بزنید اتصال بشه بیاید تلگرام یکم بمونید تا اوکی بشه
+❤️
+
+پخش کردن یادتون نره بفرستید تا همه وصل بشن
+❤️
+</div>
+
+## configx2ray — post 38657
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38657" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38656
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38656" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38655
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38655" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38654
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38654" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38653
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38653" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## alonews — post 118694
+
+<div align="center">
+  <a href="telegram/content/alonews_118694_1778254379.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈برزیل اولین مورد ویروس هانتا را تایید کرد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/18 18:57
 ---
 
