@@ -7,6 +7,105 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/19 20:52
+---
+
+## Shin_Persian — post 5907
+
+<div align="center">
+  <img src="telegram/content/Shin_Persian_5907_1778347377.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Sat, 09 May 2026 17:14:56 UTC
+
+Today -
+TEL movement,
+Shokuhiyeh Town,
+Qom Province, #Iran .
+
+(Do not watermark)
+
+فارسی
+
+امروز -
+تحرک پرتابگرهای موشک (TEL)،
+شهرک شکوهیه،
+استان قم، #Iran .
+
+(واترنمارک نکنید)
+
+𝕏 · @shin_persian
+</div>
+
+## FarsiVOA — post 217286
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سیاست راهبردی آمریکا برای مهار گروه‌های مسلح وابسته به جمهوری اسلامی در عراق
+</div>
+
+## Persian_Trend_Official — post 13772
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_13772_1778347377.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 فعال شدن هشدار قرمز در شمال اسرائیل در پی رهگیری پهپاد حزب‌الله
+
+رسانه‌های عبری گزارش می‌دهند هشدارهای قرمز در نزدیکی شهر «شلومی» در شمال اسرائیل، به‌دلیل تلاش برای رهگیری یک پهپاد وابسته به حزب‌الله فعال شده است.
+
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## BBCPersian — post 280589
+
+<div align="center">
+  <a href="https://t.me/bbcpersian/280589" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پادکست رادیویی جام جهان‌نما شنبه ۱۹ اردیبهشت ۱۴۰۵
+در پی تحولات اخیر ایران و قطع و اختلال در اینترنت که امکان دسترسی مخاطبان در ایران به رسانه‌ها را با مشکل مواجه کرده است، بی‌بی‌سی فارسی از ۱۵ بهمن پخش رادیویی برنامه‌های خود را دوباره آغاز کرده است.
+
+برنامه‌ جام جهان‌نما از این پس همه روزه از ساعت ۱۶:۳۰ گرینویچ (۲۰:۰۰ ایران) روی موج متوسط ۷۰۲ کیلوهرتز و موج کوتاه ۹۴۶۵ کیلوهرتز پخش می‌شود.
+
+تکرار این برنامه از ساعت ۱۸:۰۰ گرینویچ (۲۱:۳۰ ایران) روی موج متوسط ۷۰۲ کیلوهرتز و موج کوتاه ۵۹۳۵ کیلوهرتز پخش می‌شود.
+@BBCPersian
+</div>
+
+## alonews — post 118918
+
+<div align="center">
+  <a href="telegram/content/alonews_118918_1778347378.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ به شبکه LCI:
+ایران واقعا میخواهد به توافق برسد‌‌
+
+
+🔴انتظار داریم خیلی زود پاسخ ایران داده شود‌‌
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118917
+
+<div align="center">
+  <a href="telegram/content/alonews_118917_1778347378.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈روس‌اتم: نیروگاه بوشهر علی‌رغم تنش نظامی بین ایران و آمریکا، به فعالیت خود ادامه می‌دهد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/19 20:42
 ---
 
