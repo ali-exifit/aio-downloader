@@ -7,6 +7,42 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 03:03
+---
+
+## VahidOOnLine — post 239178
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239178_1778369605.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانال ۱۴ اسرائیل گزارش داد عربستان سعودی هشدار داده بود در صورت ادامه «پروژه آزادی» تنگه هرمز از سوی ترامپ، ریاض اجازه استفاده از حریم هوایی و پایگاه‌های خود را به آمریکا نخواهد داد، زیرا نگران تشدید تنش‌های منطقه‌ای بود. ترامپ، ۳۶ ساعت پس از آغاز این ماموریت، آن را متوقف کرد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## IranIntlTV — post 336369
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336369_1778369606.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانال ۱۴ اسرائیل گزارش داد عربستان سعودی هشدار داده بود در صورت ادامه «پروژه آزادی» تنگه هرمز از سوی ترامپ، ریاض اجازه استفاده از حریم هوایی و پایگاه‌های خود را به آمریکا نخواهد داد، زیرا نگران تشدید تنش‌های منطقه‌ای بود. ترامپ، ۳۶ ساعت پس از آغاز این ماموریت، آن را متوقف کرد.
+https://iranintl.com/202605096407
+</div>
+
+## IranIntlTV — post 336368
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336368_1778369607.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «نیویورک‌پست درباره حمله احتمالی هسته‌های خفته جمهوری اسلامی به جام جهانی فوتبال هشدار داد. جام جهانی قرار است به طور مشترک در امریکا ؛ مکزیک و کانادا برگزار شود.»
+@iranintltv
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 02:52
 ---
 
