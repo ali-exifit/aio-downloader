@@ -7,6 +7,233 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/19 18:13
+---
+
+## VahidOOnLine — post 239107
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239107_1778337822.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ ابراهیم عزیزی، رئیس کمیسیون امنیت ملی مجلس شورای اسلامی، روز شنبه ۱۹ اردیبهشت، با انتشار پیامی در شبکه اجتماعی ایکس کشورهای منطقه از جمله بحرین را تهدید کرد که در صورت همراهی با قطعنامه پیشنهادی آمریکا در شورای امنیت سازمان ملل، با «پیامدهای جدی» مواجه خواهد شد.
+
+عزیزی بحرین را «کشور ذره‌بینی» خواند و نوشت: «به دولت‌هایی همچون کشور ذره‌بینی بحرین که در حال همراهی با قطعنامه آمریکایی هستند، درباره پیامدهای جدی این اقدام هشدار می‌دهیم. درهای تنگه هرمز را برای همیشه به روی خود نبندید!»
+
+قطعنامه مذکور که با حمایت آمریکا و کشورهای حوزه خلیج فارس به شورای امنیت سازمان ملل ارائه شده، از ایران می‌خواهد که ضمن توقف حملات علیه شناورهایی که قصد عبور از تنگه هرمز را دارند، محل دقیق مین‌های کارگذاری شده را اعلام کند و از دریافت هرگونه عوارض عبور از شناورهای عبوری خودداری کند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239106
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239106_1778337823.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت خارجه عربستان سعودی در بیانیه‌ای حمایت کامل ریاض را از اقداماتی اعلام کرد که پادشاهی بحرین برای مقابله با آنچه «اقدام‌های صادرشده از سوی ایران» خوانده، اتخاذ کرده است.
+
+در این بیانیه آمده است این اقدام‌ها به گفته مقام‌های سعودی، امنیت ملی بحرین را تحت تاثیر قرار می‌دهد و با هدف بی‌ثبات کردن امنیت و ثبات این کشور انجام می‌شود.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239105
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239105_1778337823.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دانمارک؛ «پاینده ایران، جاوید شاه
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## pm_afshaa — post 90413
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+علم‌الگدا: گرانی ها ، کار پیاده‌نظام‌های
+دشمنه
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90412
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💰تعرفه
+💰
+
+1 گیگ    
+⬆️ 295 ت
+
+500 مگ 
+⬆️ 185 ت
+
+100 مگ 
+⬆️ 55 ت
+
+
+⭐️ اتصال پایدار در نت ملی
+
+⭐️ مناسب اینستاگرام و تلگرام و یوتیوب
+
+⭐️ دارای سایت استعلام باقی حجم
+
+⭐️ بدون محدودیت کاربر و بدون انقضا
+
+⭐️ ضمانت بازگشت وجه درصورت عدم رضایت
+
+
+🌟 تست هم موجود میباشد 
+🌟
+
+جهت خرید به آیدی زیر پیام دهید 
+⬆️
+
+Admin : @Four_Support 
+👨‍💻
+
+Channel : @Four_Vpn_4 
+🩵
+
+
+🎇داخل گروه زیر هر شب قرعه کشی ۱۰ اشتراک رایگان انجام میشود 
+⬆️
+https://t.me/+v8GFmLXjHa5jNDZk
+</div>
+
+## pm_afshaa — post 90411
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90411_1778337826.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴رئیس کمیسیون آموزش مجلس: به آسیب‌دیدگان جنگ سهمیهٔ کنکور تعلق میگیره.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 336312
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336312_1778337827.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سرخط خبرهای شنبه ۱۹ اردیبهشت
+@iranintltv
+</div>
+
+## IranIntlTV — post 336311
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336311_1778337828.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایرانیان مقیم لندن در حمایت از انقلاب ملی و در پاسخ به فراخوان شاهزاده رضا پهلوی در این شهر تجمع کردند.
+
+گفت‌وگوی تاج‌الدین سروش، خبرنگار ایران‌اینترنشنال، با شرکت‌کنندگان در این تجمع
+@iranintltv
+</div>
+
+## FarsiVOA — post 217268
+
+<div align="center">
+  <img src="telegram/content/FarsiVOA_217268_1778337830.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️وزارت ‌ امور خارجه عربستان سعودی روز شنبه ۱۹ اردبیهشت با صدور بیانیه‌ای اعلام کرد که از اقدامات امنیتی دولت بحرین در بازداشت یک گروه مرتبط با سپاه پاسداران به طور کامل حمایت می‌کند.
+
+در این بیانیه، وزارت‌ امور خارجه سعودی از عملکرد دستگاه‌های امنیتی بحرین و اقدامات آنها در شناسایی و کشف زودهنگام فعالیت ضد امنیتی این شبکه ستایش کرده است.
+
+وزارت کشور بحرین صبح شنبه اعلام کرد که ۴۱ تن اعضای یک شبکه مرتبط با سپاه پاسداران جمهوری اسلامی را بازداشت کرده است.
+</div>
+
+## FarsiVOA — post 217267
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺طرح اتهام علیه دو مظنون به تهیه «محتوای یهودستیزانه» در بریتانیا
+
+▪️بریتانیا می‌گوید دو مرد پس از ضبط ویدیوهایی یهودستیزانه برای انتشار شبکه اجتماعی تیک‌تاک، به «آزار شهروندان با انگیزه مذهبی» متهم شدند.
+
+⬇️ بیشتر بخوانید:
+
+https://ir.voanews.com/a/britain-antisemitic-london-police-/8148287.html/?nocach=1
+</div>
+
+## Persian_Trend_Official — post 13756
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_13756_1778337831.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴یکی از دلایل قطع بودن اینترنت تلاش برای القا روایت مورد پسند حاکمیت به فضای درونی جامعه است
+
+▪️در این ویدیو اعلام هدف قرار دادن ناو هواپیمابر امریکا از رسانه داخلی رو مشاهده میکنید
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 19838
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴دونالد ترامپ:
+
+اگر همه چیز امضاء و نهایی نشود، مسیر متفاوتی را پیش خواهیم گرفت.
+اگر اتفاقی حاصل نشود، ممکن است به پروژه آزادسازی تنگه هرمز بازگردیم، اما آن پروژه آزادی پلاس خواهد بود.
+پروژه آزادی به اضافه موارد دیگر.
+
+@IranianMinds
+</div>
+
+## Dirty_Kids — post 389167
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389167_1778337833.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ویدئویی که تو این روزهای بی‌نِتی وایرال شده؛
+
+دختره پشت فرمون داره مشروب میخوره و با افتخار فیلم هم می‌گیره! کاش اگه تصادف کردی حداقل فقط خودت آسیب ببینب و به بقیه آسیب نزنی...
+
+اینا همینایی هستن که بی‌حجاب میرن تجمعات عرزشیا
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 118895
+
+<div align="center">
+  <a href="telegram/content/alonews_118895_1778337834.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزارت دفاع هند از آزمایش موفق موشک پیشرفته «آگنی» مجهز به سامانه‌های مستقل هدف‌گیری‌شده چندگانه از جزیره خبر داد.
+ 
+
+🔴بنابر اعلام وزارت دفاع هند، این موشک به اهداف از پیش تعیین شده در منطقه اقیانوس هند با موفقیت برخورد کرد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/19 18:03
 ---
 
