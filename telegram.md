@@ -7,6 +7,174 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/19 22:13
+---
+
+## VahidOOnLine — post 239146
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239146_1778352182.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وال‌استریت ژورنال به نقل از مقام‌های آمریکایی نوشت که اسرائیل یک پایگاه نظامی مخفی در صحرای عراق ایجاد کرده تا از حملات هوایی به ایران پشتیبانی کند.
+
+بر اساس این گزارش، در اوایل جنگ ایران، نیروهای عراقی نزدیک بود آن را کشف کنند که اسرائیل حملات هوایی علیه آنان انجام داد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8766
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک رویه جدیدی که اخیراً در برخی کانال‌های زرد برای جذب مخاطب رواج پیدا کرده، انتشار خبرهایی است که به‌دروغ به رسانه‌ها و خبرگزاری‌های معتبر مانند فاکس‌نیوز، وال‌استریت ژورنال و… نسبت داده می‌شوند، در حالی که چنین اخباری اساساً توسط این رسانه‌ها منتشر نشده‌اند.
+
+هدف از این کار، ایجاد اعتبار جعلی برای خبر و فریب مخاطب است؛ روشی که متأسفانه باعث گمراهی افکار عمومی و تضعیف اعتماد به رسانه‌های رسمی می‌شود.
+
+@mwarmonitor
+</div>
+
+## pm_afshaa — post 90432
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90432_1778352183.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴کانال 13 اسرائیل:
+موساد معتقده که برگشتن به جنگ، روند فروپاشی رژیم ایران رو سرعت میبخشه و در نهایت منجر به سقوطش میشه.
+ارتش معتقده که وضعیت فعلی قدرت ایران، یه فرصت عملیاتی فراهم کرده؛ پس باید به جنگ برگشت و ماموریت رو تموم کرد.
+
+
+💧Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90431
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90431_1778352184.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴کانال 13 اسرائیل به نقل از یک منبع:
+ارتش و موساد تو جلسات اخیر، نقشه‌ها و پیشنهادهایی با رویکرد کاملاً تهاجمی درباره ایران به نتانیاهو ارائه دادن.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90430
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90430_1778352184.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴یک مقام مسئول به کانال 13 اسرائیل:
+ترامپ به اسرائیل قول داده که تو پرونده‌ی هسته‌ای ایران، به‌هیچ‌وجه عقب‌نشینی یا کوتاهی نمیکنه.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90429
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴فاکس نیوز: اگر پیشنهاد امشب تهران برای توافق با آمریکا منفی باشد جنگ به سرعت آغاز خواهد شد
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 336343
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336343_1778352185.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وال‌استریت ژورنال به نقل از مقام‌های آمریکایی نوشت که اسرائیل یک پایگاه نظامی مخفی در صحرای عراق ایجاد کرده تا از حملات هوایی به ایران پشتیبانی کند.
+
+بر اساس این گزارش، در اوایل جنگ ایران، نیروهای عراقی نزدیک بود آن را کشف کنند که اسرائیل حملات هوایی علیه آنان انجام داد.
+https://iranintl.com/202605091678
+</div>
+
+## Persian_Trend_Official — post 13778
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 گزارش ادعایی وال‌استریت ژورنال درباره یک پایگاه محرمانه
+
+💢روزنامه The Wall Street Journal به نقل از برخی مقام‌های آمریکایی مدعی شده است اسرائیل یک پایگاه نظامی محرمانه در صحرای Iraq ایجاد کرده است.
+
+بر اساس این ادعا:
+
+▪️ این پایگاه برای پشتیبانی عملیاتی از حملات هوایی علیه ایران استفاده شده است
+▪️ برخی عملیات‌های اطلاعاتی و پشتیبانی از همین موقعیت انجام گرفته
+▪️ در یک مورد، ارتش اسرائیل به اشتباه به نیروهای عراقی حمله کرده و همین موضوع باعث نزدیک شدن به افشای محل پایگاه شده است
+
+💢تا این لحظه، هیچ تأیید رسمی از سوی دولت‌های عراق، اسرائیل یا آمریکا درباره این ادعا منتشر نشده است.
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامیهه
+</div>
+
+## Persian_Trend_Official — post 13777
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_13777_1778352185.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ بررسی تصاویر ماهواره‌ای جدید نشان میدهد آلودگی اطراف جزیره خارک احتمالا نفتی بوده و لکه نفتی با سرعت حدود ۲ کیلومتر بر ساعت به سمت قطر در حرکت است؛ در صورت ثابت ماندن شرایط باد، طی ۳ تا ۴ روز آینده به سواحل قطر میرسد.
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## alonews — post 118933
+
+<div align="center">
+  <a href="telegram/content/alonews_118933_1778352186.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈پوتین می‌گوید ادامه دادن به درگیری بین ایران و ایالات متحده به نفع هیچ‌کس نیست و اضافه می‌کند که این وضعیت روسیه را در موقعیت دشواری قرار می‌دهد زیرا روابط خوبی با هر دو ایران و کشورهای خلیج دارد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118932
+
+<div align="center">
+  <a href="telegram/content/alonews_118932_1778352186.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈پوتین: نخست وزیر اسلواکی به من اطلاع داده که زلنسکی آمادگی برگزاری دیدار با من را دارد.
+
+
+🔴می‌توان با زلنسکی در یک کشور ثالث دیدار کرد، اما پس از حصول توافق صلح.
+
+
+🔴من معتقدم که مناقشه اوکراین به پایان خود نزدیک می‌شود.
+
+
+🔴امیدوارم که مناقشه ایران در کوتاهترین زمان ممکن پایان یابد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/19 22:03
 ---
 
