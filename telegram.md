@@ -7,6 +7,77 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/19 09:12
+---
+
+## VahidOOnLine — post 239029
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239029_1778305364.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️دونالد ترامپ، رئیس‌جمهوری ایالات متحده، در حاشیه یک گفتگوی مطبوعاتی در محوطه کاخ سفید، در پاسخ به پرسشی درباره مسئولیت حمله به مدرسه شجره طیبه میناب اعلام کرد، واشنگتن همچنان در حال بررسی این موضوع است و بعد از نهایی شدن تحقیقات، نتایج اعلام خواهد شد.
+ترامپ در پاسخ به پرسش یک خبرنگار درباره اینکه آیا پس از ۱۰ هفته مشخص شده است که کدام‌یک از طرف‌های درگیری دبستان میناب را هدف قرار داده است گفت: «این موضوع در حال حاضر تحت بررسی و مطالعه قرار دارد و به محض نهایی شدن تحقیقات، گزارش آن را ارائه خواهیم داد.»
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## IranIntlTV — post 336235
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336235_1778305365.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فرماندهی مرکزی ایالات متحده (سنتکام) اعلام کرد نیروهای آمریکا دو نفتکش با پرچم جمهوری اسلامی را در دریای عمان، پیش از رسیدن به بنادر ایران، متوقف کردند. بنا بر اعلام سنتکام، دو نفتکش خالی «سودا» و «سی‌استار۳» پس از نقض محاصره دریایی، با حمله جنگنده اف-۱۸ و شلیک مهمات هدایت‌شونده به دودکش آن‌ها از کار افتادند.
+
+گفت‌وگو با هوشنگ حسن‌یاری، کارشناس خاورمیانه و امور نظامی
+@iranintltv
+</div>
+
+## alonews — post 118798
+
+<div align="center">
+  <a href="telegram/content/alonews_118798_1778305367.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈یک منبع آگاه سعودی: پادشاهی عربستان سعودی اجازه استفاده از حریم هوایی خود برای هیچ عملیات نظامی تهاجمی را نخواهد داد.
+
+
+🔴طرف‌هایی به دلایل نامعلومی به دنبال تحریف تصویر موضع عربستان سعودی هستند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118797
+
+<div align="center">
+  <a href="telegram/content/alonews_118797_1778305367.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈روبیو: از تحریم‌های یک‌جانبه برای پیگرد ناقضان قطعنامه‌های شورای امنیت سازمان ملل درباره ایران استفاده می‌کنیم.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118796
+
+<div align="center">
+  <a href="telegram/content/alonews_118796_1778305367.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 خبرنگار: آقای رئیس‌جمهور تقریباْ ۱۰ هفته از اصابت یک موشک به یک مدرسه در میناب می‌گذرد. چه کسی آن موشک را شلیک کرد؟
+
+
+🔴 ترامپ: این موضوع الان تحت بررسی است و ما به محض اینکه گزارش را دریافت کنیم آن را در اختیار شما قرار خواهیم داد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/19 09:03
 ---
 
