@@ -7,6 +7,59 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 01:13
+---
+
+## VahidOOnLine — post 239169
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239169_1778362985.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ستاد فرماندهی مرکزی ایالات متحده، سنتکام، روز شنبه با انتشار تصاویری از فعالیت متخصصان فنی خود، بر تداوم آمادگی رزمی نیروهای آمریکایی در خاورمیانه تاکید کرد. سنتکام در حساب رسمی خود در اکس نوشت: «ملوانان آمریکایی مستقر در ناو هواپیمابر «یواس‌اس آبراهام لینکلن» که در حال حاضر در منطقه خاورمیانه فعالیت می‌کند، به صورت شبانه‌روزی عملیات نگهداری و تعمیرات را انجام می‌دهند تا جنگنده‌های مستقر در دریا را برای اجرای ماموریت در حالت آماده‌باش کامل نگه دارند.»
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## pm_afshaa — post 90444
+
+<div align="center">
+  <img src="telegram/content/pm_afshaa_90444_1778362986.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پست جدید ترامپ تو تروث سوشال :
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## kianmeli1 — post 87316
+
+<div align="center">
+  <img src="telegram/content/kianmeli1_87316_1778362987.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴پست جدید ترامپ
+
+[جنگ نزدیک است].
+https://t.me/kianmeli1
+</div>
+
+## IranianMinds — post 19859
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_19859_1778362988.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴توییت ترامپ:
+
+@IranianMinds
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 01:03
 ---
 
