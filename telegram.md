@@ -7,6 +7,258 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/19 23:32
+---
+
+## VahidOOnLine — post 239154
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239154_1778356974.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حساب فرماندهی نیروی دریایی سپاه پاسداران در شبکه ایکس نوشت: «هرگونه تعرض به شناورهای نفتکش و تجاری جمهوری اسلامی، تهاجم سنگین علیه یکی از مراکز آمریکایی در منطقه و کشتی‌های دشمن را در پی خواهد داشت.»
+
+سنتکام، فرماندهی مرکزی ایالات متحده، روز شنبه اعلام کرد که از زمان آغاز محاصره بنادر ایران تاکنون، ۵۸ کشتی تجاری تغییر مسیر داده‌اند و نیروهای آمریکایی چهار کشتی را از کار انداخته‌اند تا از ورود یا خروج آنها از این بنادر جلوگیری کنند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8767
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸هشدار جدید فرماندهی نیروی دریایی سپاه
+
+🔹 هرگونه تعرض به شناورهای نفتکش و تجاری جمهوری اسلامی ایران، تهاجم سنگین علیه یکی از مراکز آمریکایی در منطقه و کشتی‌های دشمن را در پی خواهد داشت.
+
+
+📝 واقعیت این است که واژه «تعرض» دیگر زیادی عفیفانه به نظر می‌رسد؛ چرا که وضعیت نفتکش‌های جمهوری اسلامی در دریاها از مرحله «مزاحمت خیابانی» گذشته و رسماً به یک «تفاهم‌نامه فیزیکی عمیق» با آمریکا تبدیل شده است. گویا استراتژی جدید این است که بگذاریم آن‌ها هر چقدر می‌خواهند «نزدیکی» کنند، و سپاه در عوض با صدور هشدارهای آتشین، دمای آب را برای شنای بهتر آن‌ها تنظیم می‌کند. این تهدید به «تهاجم سنگین» هم بیشتر شبیه به خط‌ونشان کشیدن‌های نوجوانی است که بعد از کتک خوردن مفصل، در حالی که خون دماغش را پاک می‌کند، فریاد می‌زند: «فقط دفعه بعد جرات داری دست بهم بزن!» دشمن هم که می‌بیند «صبر استراتژیک» رژیم مثل کشِ تنبانِ ساختِ چین هر چه کش می‌آید پاره نمی‌شود، با خیال راحت به این هم‌آغوشیِ پرهزینه ادامه می‌دهد. در این میان، تنها چیزی که واقعاً «سنگین» فرود می‌آید، بیانیه‌هایی است که روی کاغذ می‌مانند تا ماهی‌ها حوصله‌شان سر نرود.
+
+@mwarmonitor
+</div>
+
+## pm_afshaa — post 90435
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90435_1778356975.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴وال‌استریت ژورنال به نقل از مقام‌های آمریکایی:
+
+اسرائیل یک پایگاه نظامی مخفی در صحرای عراق ایجاد کرده تا از حملات هوایی به ایران پشتیبانی کنه؛ بر اساس این گزارش، در اوایل جنگ ایران، نیروهای عراقی نزدیک بود کشفش کنن که اسرائیل حملات هوایی علیه اونا انجام داد.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## kianmeli1 — post 87315
+
+<div align="center">
+  <img src="telegram/content/kianmeli1_87315_1778356975.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴با نزدیک شدن به پایان ضرب الاجل ترامپ، فرمانده هوافضا سپاه نوشت:
+
+موشک ها بر اهداف امریکایی قفل شده و فقط منتظر فرمان هستیم
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87312
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴پست جدید ترامپ
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87311
+
+<div align="center">
+  <img src="telegram/content/kianmeli1_87311_1778356976.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴رویترز: بحرین ۴۱ نفر از شهروندانش را به اتهام «ارتباط با سپاه پاسداران» بازداشت کرد
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87310
+
+<div align="center">
+  <img src="telegram/content/kianmeli1_87310_1778356976.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴سخنگو قرارگاه خاتم
+
+تنگه هرمز: ورود سگ‌ها یا آمریکایی‌ها ممنوع است
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87309
+
+<div align="center">
+  <img src="telegram/content/kianmeli1_87309_1778356977.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴سالار آبنوش: موساد با جن‌ها دنبال آقا مجتبی هست
+https://t.me/kianmeli1
+</div>
+
+## IranIntlTV — post 336348
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336348_1778356977.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حساب فرماندهی نیروی دریایی سپاه پاسداران در شبکه ایکس نوشت: «هرگونه تعرض به شناورهای نفتکش و تجاری جمهوری اسلامی، تهاجم سنگین علیه یکی از مراکز آمریکایی در منطقه و کشتی‌های دشمن را در پی خواهد داشت.»
+
+سنتکام، فرماندهی مرکزی ایالات متحده، روز شنبه اعلام کرد که از زمان آغاز محاصره بنادر ایران تاکنون، ۵۸ کشتی تجاری تغییر مسیر داده‌اند و نیروهای آمریکایی چهار کشتی را از کار انداخته‌اند تا از ورود یا خروج آنها از این بنادر جلوگیری کنند.
+https://iranintl.com/202605097644
+</div>
+
+## Shin_Persian — post 5909
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+↩️ Quoted tweet: U.S. Central Command ✓ @CENTCOM Sat, 09 May 2026 00:14:23 UTC A U.S. Air Force F-16 fighter jet flies in airspace over the Middle East. U.S. forces across the region remain mission ready. ↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.…
+</div>
+
+## Shin_Persian — post 5908
+
+<div align="center">
+  <img src="telegram/content/Shin_Persian_5908_1778356977.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+↩️ Quoted tweet:
+U.S. Central Command ✓ @CENTCOM
+Sat, 09 May 2026 00:14:23 UTC
+
+A U.S. Air Force F-16 fighter jet flies in airspace over the Middle East. U.S. forces across the region remain mission ready.
+
+↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.
+
+فارسی
+
+یک جنگنده اف-۱۶ نیروی هوایی ایالات متحده (USAF) در حریم هوایی خاورمیانه پرواز می‌کند. نیروهای ایالات متحده در سراسر منطقه در حالت آماده‌باش عملیاتی باقی می‌مانند.
+
+𝕏 · @shin_persian
+</div>
+
+## FarsiVOA — post 217301
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217301_1778356978.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️مارک لوین، چهره رسانه‌ای نزدیک به پرزیدنت ترامپ، می‌گوید که مردم ایران آماده مبارزه با رژیم جمهوری اسلامی هستند و باید آنها را مسلح کرد.
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 13788
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانال رسمی پرشین ترند pinned «https://youtube.com/live/qprUFpWNj80?feature=share»
+</div>
+
+## Persian_Trend_Official — post 13787
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+https://youtube.com/live/qprUFpWNj80?feature=share
+</div>
+
+## Persian_Trend_Official — post 13786
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_13786_1778356979.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ دستکم ۱۰۰ قایق تندرو سپاه و ارتش در تنگه هرمز در حال گشت هستند.
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 13785
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_13785_1778356979.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+علی حیاتی مدیرعامل پتروشیمی امیرکبیرتصاویری از قبل و بعد از حمله موشکی به پتروشیمی امیرکبیر در بندر ماهشهر را منتشر کرد و گفت:
+
+دوباره می‌سازیم؛ بهتر از قبل
+
+
+☆Phantom☆
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 19850
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پست های ترامپ:
+
+@IranianMinds
+</div>
+
+## Dirty_Kids — post 389183
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آقا کسی شماره میرحسین موسوی رو نداره ببینیم از سال ۸۸ تو خونه چیکار میکنه ؟
+حوصلمون سر رفت.
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 118949
+
+<div align="center">
+  <a href="telegram/content/alonews_118949_1778356980.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزارت خارجه قطر: وزیر امور خارجه قطر در تماس تلفنی با وزیر امور خارجه عربستان سعودی، درباره تلاش‌ها برای کاهش تنش در منطقه گفتگو کردند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118948
+
+<div align="center">
+  <a href="telegram/content/alonews_118948_1778356980.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈پوتین: برنامه‌های ارمنستان برای پیوستن به اتحادیه اروپا نیازمند «توجه ویژه» است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118947
+
+<div align="center">
+  <a href="telegram/content/alonews_118947_1778356980.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈تهدید فرماندهی نیروی دریایی سپاه: هرگونه تعرض به شناورهای نفتکش و تجاری ج ا ایران، تهاجم سنگین علیه یکی از مراکز آمریکایی در منطقه و کشتی‌های دشمن را در پی خواهد داشت
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/19 23:22
 ---
 
