@@ -7,6 +7,50 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 00:12
+---
+
+## Persian_Trend_Official — post 13789
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💢تصاویر منتشر شده توسط دونالد ترامپ جهت تمسخر نیروی نظامی جمهوری اسلامی ...
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## alonews — post 118960
+
+<div align="center">
+  <a href="telegram/content/alonews_118960_1778359376.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴فوووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووری
+</div>
+
+## alonews — post 118959
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴فوووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووری
+</div>
+
+## alonews — post 118958
+
+<div align="center">
+  <a href="telegram/content/alonews_118958_1778359376.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈پست جدید ترامپ که اشاره به نابودی ناوگان دریایی ایران دارد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 00:03
 ---
 
