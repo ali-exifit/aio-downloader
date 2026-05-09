@@ -7,6 +7,89 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 01:22
+---
+
+## IranIntlTV — post 336361
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+هم‌زمان با فراخوان شاهزاده رضا پهلوی برای حمایت از مردم ایران در پی خاموشی سراسری اینترنت، بازداشت‌های گسترده و اعدام‌های مداوم، گروهی از ایرانیان روز شنبه مقابل کاخ سفید، دفتر اتحادیه اروپا و دفتر حافظ منافع جمهوری اسلامی تجمع اعتراضی برگزار کردند.
+
+در این تجمع با برزو ارجمند، هنرمند ایرانی، گفت‌وگو شد؛ او از جمله افرادی است که پیش‌تر دستور توقیف اموالش در ایران صادر شده بود.
+@iranintltv
+</div>
+
+## IranianMinds — post 19862
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_19862_1778363570.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 کیم‌ جونگ اون هم وقتی دید خامنه ای و کشتن و مادورو رو دزدیدن احساس خطر کرد و سیاست های هسته ای خودشو تغییر داد
+
+از این پس اگه رهبر کره شمالی هدف عوامل یکی از کشور های دیگر قرار بگیره و اثبات بشه , کره شمالی استفاده از سلاح هسته ای علیه اون کشور خارجی رو مجاز میکنه.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19861
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فقط کافیه مرغ از خیابون رد کنی و‌پولت چند برابر کنی
+💵👌
+</div>
+
+## IranianMinds — post 19860
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_19860_1778363571.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بچه ها اسم این بازی عبور مرغ از خیابون  هست ویدئو نگاه کنید خیلی راحت 8 میلیون ازش سود گرفتیم😍
+
+
+😤اگ توم دوس داری خیلی راحت از بازی های انلاین پول در بیاری حتما عضو کازینو شبانه شو
+✅
+
+توی کازینو شبانه بهت اموزش میدیم از بازی های انلاین پول دربیاری👌
+
+کازینو شبانه راهی برای چند برابر کردن سرمایت 🤷‍♂
+
+کسب درامد انلاین با یه ادم حرفه ای یاد بگیر و‌ پول دربیار 
+💵
+ae19
+🎯همین حالا عضو شو و شروع کن👇
+https://t.me/+OS-QBvyDO4M2ZGY0
+https://t.me/+OS-QBvyDO4M2ZGY0
+</div>
+
+## alonews — post 118969
+
+<div align="center">
+  <a href="telegram/content/alonews_118969_1778363573.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈آسوشیتدپرس: به‌گفتهٔ کارشناسان کشتیرانی، نرخ بیمهٔ کشتی‌ها در تنگهٔ هرمز از 1 درصد ارزش کالاهای کشتی به 10 درصد جهش یافته است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118968
+
+<div align="center">
+  <a href="telegram/content/alonews_118968_1778363573.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈یک‌‌ ماه پیش در‌ چنین روزی آتش بس دو هفته ای بین ایران و آمریکا برقرار شد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 01:17
 ---
 
