@@ -7,6 +7,174 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/19 21:03
+---
+
+## VahidOOnLine — post 239136
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239136_1778347983.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+علی صفری، مشاور سخنگوی وزارت خارجه جمهوری اسلامی گفت که اولویت ما توقف جنگ، باز کردن تنگه هرمز و جلوگیری از «دزدی دریایی» آمریکا است.
+
+او افزود: «به همه اقدامات تحریک‌آمیز آمریکا در تنگه هرمز پاسخ داده است.»
+
+صفری همچنین گفت که پاسخ آمریکا به پیشنهاد جمهوری اسلامی دریافت شده و در حال بررسی است، اما نسبت به اقدامات «تحریک‌آمیز» واشینگتن در تنگه هرمز بدبینی وجود دارد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## pm_afshaa — post 90423
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90423_1778347983.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ در مصاحبه با شبکه LCI:
+مقامات ایرانی همچنان به‌شدت خواهان دستیابی به توافق هستن و انتظار دارم خیلی زود از جمهوری اسلامی پاسخ دریافت کنم.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90422
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90422_1778347984.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴سنتکام: محاصره دریایی آمریکا علیه ایران همچنان به‌طور کامل در حال اجراست.
+
+از 13 آوریل تاکنون، نیروهای سنتکام 58 کشتی تجاری رو تغییر مسیر داده و 4 شناور رو از کار انداختن تا مانع ورود یا خروج کشتی‌ها از بنادر ایران بشن.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## VahidOnline — post 75365
+
+<div align="center">
+  <a href="telegram/content/VahidOnline_75365_1778347985.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ویدیویی از تجمعات شبانه طرفداران جمهوری اسلامی منتشر شده که در آن فرد خواننده می‌گوید زنان «کم حجابی» که در تجمع طرفداری از حکومت شرکت می‌کنند «نور چشم» آن‌ها هستند و ظاهر افراد ملاک نیست.
+نظام جمهوری اسلامی پیش از این زنان بدون حجاب اجباری را بازداشت کرده و طی لایحه‌ای به نام «حجاب و عفاف» قصد ابلاغ جریمه‌های و محرومیت‌های سنگین علیه آنان را داشت.
+با این حال، در هفته‌های گذشته حکومت سعی کرده با انتشار ویدیوها و مصاحبه‌هایی از تعدادی زن بی‌حجاب در تجمعات حکومتی، پایگاه اجتماعی خود را گسترده نشان دهد.
+@VahidHeadline
+
+📡 @VahidOnline
+</div>
+
+## IranIntlTV — post 336337
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336337_1778347985.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+علی صفری، مشاور سخنگوی وزارت خارجه جمهوری اسلامی گفت که اولویت ما توقف جنگ، باز کردن تنگه هرمز و جلوگیری از «دزدی دریایی» آمریکا است.
+
+او افزود: «به همه اقدامات تحریک‌آمیز آمریکا در تنگه هرمز پاسخ داده است.»
+
+صفری همچنین گفت که پاسخ آمریکا به پیشنهاد جمهوری اسلامی دریافت شده و در حال بررسی است، اما نسبت به اقدامات «تحریک‌آمیز» واشینگتن در تنگه هرمز بدبینی وجود دارد.
+https://iranintl.com/202605097479
+</div>
+
+## Persian_Trend_Official — post 13774
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_13774_1778347986.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴نظر روح الله خمینی در مورد اقتصاد کشور
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## BBCPersian — post 280590
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻لکه نفتی نزدیک جزیره خارگ «از نظر بصری با نفت سازگار به نظر می‌رسد»
+
+یک موسسه زیست‌محیطی غیردولتی در بریتانیا اعلام کرد که زیرساخت‌های نفتی ایران ممکن است منشاء لکه نفتی مشکوکی در نزدیکی جزیره مهم خارگ باشد که پایانه اصلی صادرات نفت ایران است.
+
+هرچند تصاویر ماهواره‌ای نشان می‌دهد این لکه تا روز شنبه «به‌طور قابل توجهی کاهش یافته است» اما پیش‌تر، این لکه در حال گسترش به نظر می رسید.
+
+هنوز مشخص نیست چه عاملی باعث این نشت احتمالی در سواحل غربی این جزیره کوچک در خلیج فارس شده است.
+
+موسسه «رصد درگیری‌ها و وضعیت محیط زیست» به خبرگزاری فرانسه گفت: «علت و منشاء این لکه همچنان نامشخص است و فقط بر اساس تصاویر موجود نمی‌توان با قطعیت درباره آن اظهار نظر کرد.»
+
+لئون مورلند از این موسسه گفت: «اگرچه زیرساخت‌های فراساحلی در منطقه می‌توانند یکی از منابع احتمالی باشند، اما در حال حاضر نمی‌توان نقطه دقیق آغاز نشت یا علت مشخص آن را تعیین کرد.»
+
+او در عین حال گفت که بر اساس تحلیل برخی تصاویر ماهواره‌ای، این لکه «از نظر بصری با نفت سازگار به نظر می‌رسد.»
+
+برخی رسانه‌ها، از جمله فاکس‌نیوز، گزارش داده‌اند که تأسیسات ذخیره‌سازی نفت ایران ممکن است تحت فشار قرار گرفته باشند، چرا که محاصره دریایی آمریکا توانایی ایران برای صادرات یا ذخیره نفت خام را مختل کرده است.
+
+موسی احمدی، رئیس کمیسیون انرژی مجلس ایران امروز به خبرگزاری ایسنا گفت: «تا این لحظه هیچ گزارش رسمی‌ای مبنی بر نشت از تأسیسات نفتی ایران به دلیل فشار بر مخازن ذخیره‌سازی تأیید نشده است.»
+
+https://bbc.in/49lVpSe
+@BBCPersian
+</div>
+
+## alonews — post 118922
+
+<div align="center">
+  <a href="telegram/content/alonews_118922_1778347988.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈فارس: وقوع چند انفجار در اربیل عراق
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118921
+
+<div align="center">
+  <a href="telegram/content/alonews_118921_1778347988.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈بلومبرگ: یک کشتی قطری در حال عبور از تنگه هرمز است 
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118920
+
+<div align="center">
+  <a href="telegram/content/alonews_118920_1778347989.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: تمدید آتش‌بس بین روسیه و اوکراین کار خوبی خواهد بود
+
+
+🔴گزارش‌های مربوط به نقض آتش‌بس از سوی روسیه را نخوانده‌ام و در وقوع آن تردید دارم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118919
+
+<div align="center">
+  <a href="telegram/content/alonews_118919_1778347989.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈معاون وزیر ارتباطات: قطع اینترنت در بلندمدت خود به یک تهدید امنیتی برای زیرساخت‌های کشور تبدیل خواهد شد. تبدیل اینترنت ایران مثل چین، ممکن نیست.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/19 20:52
 ---
 
