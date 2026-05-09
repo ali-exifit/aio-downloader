@@ -7,6 +7,20 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 02:02
+---
+
+## FarsiVOA — post 217310
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217310_1778365974.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️شلیک به قصد «نیت خصمانه»؛ دستور جدید آمریکا در خلیج فارس
+@FarsiVOA
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 01:58
 ---
 
