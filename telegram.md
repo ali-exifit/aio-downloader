@@ -7,6 +7,160 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/19 13:43
+---
+
+## VahidOOnLine — post 239066
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ویدیوی رسیده به ایران اینترنشنال نشان می‌دهد ایرانیان استرالیا در شهر بریزبن روز شنبه تجمع برگزار کرده و در حمایت از انقلاب ملی شعار داده و تصاویری از جاویدنامان و زندانیان سیاسی را به دست گرفتند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## pm_afshaa — post 90398
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+المیادین:نیروهای مسلح جمهوری اسلامی ورود یک ناوشکن آمریکایی به آب‌های امارات را رصد کرده و تحرکات آن را دنبال می‌کند
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90397
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💰تعرفه
+💰
+
+1 گیگ    
+⬆️ 295 ت
+
+500 مگ 
+⬆️ 185 ت
+
+100 مگ 
+⬆️ 55 ت
+
+
+⭐️ اتصال پایدار در نت ملی
+
+⭐️ مناسب اینستاگرام و تلگرام و یوتیوب
+
+⭐️ دارای سایت استعلام باقی حجم
+
+⭐️ بدون محدودیت کاربر و بدون انقضا
+
+⭐️ ضمانت بازگشت وجه درصورت عدم رضایت
+
+
+🌟 تست هم موجود میباشد 
+🌟
+
+جهت خرید به آیدی زیر پیام دهید 
+⬆️
+
+Admin : @Four_Support 
+👨‍💻
+
+Channel : @Four_Vpn_4 
+🩵
+
+
+🎇داخل گروه زیر هر شب قرعه کشی ۱۰ اشتراک رایگان انجام میشود 
+⬆️
+https://t.me/+v8GFmLXjHa5jNDZk
+</div>
+
+## DEJradio — post 4531
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4531_1778321596.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨
+🔸 خبر ۲۱
+آدینه ۱۸ اردیبهشت ۱۴۰۵
+
+#خبر۲۱
+@DEJradio
+</div>
+
+## IranIntlTV — post 336273
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336273_1778321597.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+در فرانسه، مدل هوش مصنوعی «میسترال» با بازسازی سبک و جهان نمایشی مولیر، نویسنده‌ای که حدود چهار قرن پیش زندگی می‌کرد، نمایشنامه‌ای تازه خلق کرده است. این نمایش که در کاخ ورسای و در اپرای سلطنتی به روی صحنه رفت، حالا بحث تازه‌ای درباره مرز میان خلاقیت انسانی و هوش مصنوعی به راه انداخته است.
+
+گزارش فرزیا ثابتی، خبرنگار ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## IranIntlTV — post 336272
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ویدیوی رسیده به ایران اینترنشنال نشان می‌دهد ایرانیان استرالیا در شهر بریزبن روز شنبه تجمع برگزار کرده و در حمایت از انقلاب ملی شعار داده و تصاویری از جاویدنامان و زندانیان سیاسی را به دست گرفتند.
+</div>
+
+## IranianMinds — post 19827
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴العربیه:
+
+اسرائیل از آمریکا خواست که از طولانی کردن مذاکرات با ایران خودداری کند.
+
+@IranianMinds
+</div>
+
+## alonews — post 118850
+
+<div align="center">
+  <a href="telegram/content/alonews_118850_1778321600.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈کارشناس صداوسیما: آرایش نیروهای آمریکایی خبر از یک جنگ بزرگ می‌دهد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118849
+
+<div align="center">
+  <a href="telegram/content/alonews_118849_1778321600.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈نت‌بلاکس: قطعی اینترنت در ایران، وارد یازدهمین هفته شد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118848
+
+<div align="center">
+  <a href="telegram/content/alonews_118848_1778321600.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈سایت جماران در اقدامی قابل تامل از لقب آیت الله برای سید حسن خمینی استفاده کرد
+
+#دیسبک
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/19 13:33
 ---
 
