@@ -7,6 +7,32 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/19 08:22
+---
+
+## VahidOOnLine — post 239024
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239024_1778302357.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ در پاسخ به پرسش یک خبرنگار درباره اینکه آیا پس از ۱۰ هفته مشخص شده است که کدام‌یک از طرف‌های درگیری دبستان «شجریه طیبه» در میناب را هدف حمله قرار داده است، گفت: «این موضوع در حال بررسی است و وقتی نتیجه آماده شد، گزارش آن را ارائه خواهیم کرد.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## IranIntlTV — post 336232
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336232_1778302358.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ در پاسخ به پرسش یک خبرنگار درباره اینکه آیا پس از ۱۰ هفته مشخص شده است که کدام‌یک از طرف‌های درگیری دبستان «شجریه طیبه» در میناب را هدف حمله قرار داده است، گفت: «این موضوع در حال بررسی است و وقتی نتیجه آماده شد، گزارش آن را ارائه خواهیم کرد.»
+https://iranintl.com/202605098242
+</div>
+
+---
 📅 بروزرسانی: 1405/02/19 08:11
 ---
 
