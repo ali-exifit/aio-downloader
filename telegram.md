@@ -7,6 +7,87 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 00:32
+---
+
+## VahidOOnLine — post 239164
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239164_1778360560.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اکسیوس خبر داد که مارکو روبیو، وزیر خارجه آمریکا و استیو ویتکوف، فرستاده ویژه ترامپ، شنبه در میامی با محمد بن عبدالرحمن آل ثانی، نخست‌وزیر و وزیر خارجه قطر درباره مذاکرات با جمهوری اسلامی گفت‌وگو کردند.
+
+پیش‌تر اکسیوس گزارش داده بود که قطر در هفته‌های اخیر تلاش‌های میانجی‌گری پشت‌پرده میان آمریکا و جمهوری اسلامی را از سر گرفته و به یکی از دست‌کم سه کانال غیررسمی ارتباطی میان دو کشور تبدیل شده است.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## pm_afshaa — post 90440
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90440_1778360560.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴باراک راوید خبرنگار ارشد آکسیوس:
+مارکو روبیو و استیو ویتکاف امروز در میامی با نخست وزیر قطر دیدار کردن؛ نخست وزیر قطر ممکنه در مذاکرات بین آمریکا و ایران میانجی‌گری کنه
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90437
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پست‌های جدید ترامپ و دیس به بایدن و اوباما و جمهوری اسلامی
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 336358
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336358_1778360561.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اکسیوس خبر داد که مارکو روبیو، وزیر خارجه آمریکا و استیو ویتکوف، فرستاده ویژه ترامپ، شنبه در میامی با محمد بن عبدالرحمن آل ثانی، نخست‌وزیر و وزیر خارجه قطر درباره مذاکرات با جمهوری اسلامی گفت‌وگو کردند.
+
+پیش‌تر اکسیوس گزارش داده بود که قطر در هفته‌های اخیر تلاش‌های میانجی‌گری پشت‌پرده میان آمریکا و جمهوری اسلامی را از سر گرفته و به یکی از دست‌کم سه کانال غیررسمی ارتباطی میان دو کشور تبدیل شده است.
+https://iranintl.com/202605099539
+</div>
+
+## alonews — post 118963
+
+<div align="center">
+  <a href="telegram/content/alonews_118963_1778360562.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈مولانا عبدالحمید: تنگه هرمز و دریا متعلق به کشورهای حاشیه خلیج فارس هست و نباید گروگانگیری کرد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118962
+
+<div align="center">
+  <a href="telegram/content/alonews_118962_1778360563.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈آکسیوس: روبیو و ویتکاف با رئیس قطر درباره تلاش‌ها برای پایان دادن به جنگ با ایران صبحت کردن
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 00:22
 ---
 
