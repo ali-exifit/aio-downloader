@@ -7,6 +7,156 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 00:43
+---
+
+## VahidOOnLine — post 239165
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239165_1778361198.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ، رئیس‌جمهور آمریکا، در حساب خود در شبکه تروث سوشال تصویری منتشر کرد که در آن عملکرد دولت‌های اوباما و بایدن و ترامپ به‌صورت کنایه‌آمیز مقایسه شده است.
+
+در این تصویر، در بخش مربوط به «اوباما و بایدن»، شماری از کشتی‌ها روی سطح آب دیده می‌شوند، اما در بخش مربوط به «ترامپ»، کشتی‌ها در زیر آب نشان داده شده‌اند.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8774
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📝 سوالی دارید دایرکت جواب میدم
+</div>
+
+## pm_afshaa — post 90441
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90441_1778361199.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴آکسیوس: آمریکا هنوز در انتظار پاسخ ایران تا اوایل بعدازظهر یک‌شنبه است.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 336360
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/336360" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی چشم‌انداز: ترس مجتبی خامنه‌ای از شناسایی توسط اجنه موساد!
+@iranintlTV
+</div>
+
+## IranIntlTV — post 336359
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336359_1778361200.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت تجارت ترکیه اعلام کرد صادرات این کشور در ماه گذشته میلادی با بیش از ۲۲ درصد رشد به ۲۵ میلیارد و ۵۰۰ میلیون دلار رسیده است.
+
+بریتانیا بزرگ‌ترین مقصد صادرات ترکیه اعلام شده و پس از آن آمریکا، اسلواکی، چین و آلمان قرار دارند.
+
+گزارش نرگس هورخش، خبرنگار ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## ManotoTV — post 105218
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105218_1778361203.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ، رئیس‌جمهور آمریکا، در حساب خود در شبکه تروث سوشال تصویری منتشر کرد که در آن عملکرد دولت‌های اوباما و بایدن و ترامپ به‌صورت کنایه‌آمیز مقایسه شده است.
+
+در این تصویر، در بخش مربوط به «اوباما و بایدن»، شماری از کشتی‌ها روی سطح آب دیده می‌شوند، اما در بخش مربوط به «ترامپ»، کشتی‌ها در زیر آب نشان داده شده‌اند.
+</div>
+
+## FarsiVOA — post 217305
+
+<div align="center">
+  <img src="telegram/content/FarsiVOA_217305_1778361204.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️ناامن کردن تنگه هرمز و حمله به کشتی‌های تجاری از سوی جمهوری اسلامی، هزاران ملوان را هفته‌ها است که در آب‌های اطراف آن سرگردان کرده و مواد خوراکی آن‌ها نیز رو به اتمام است. وال‌استریت ژورنال در گزارشی تعداد ملوانان سرگردان را حدود ۲۰هزار نفر گزارش کرد.
+@FarsiVOA
+</div>
+
+## IranianMinds — post 19856
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 جمهوری اسلامی : آمریکا بخواد بیشتر اذیتمون بکنه یا کاری بکنه میزنیم کل کابل های اینترنت جهانی در خلیح فارس و زیر تنگه هرمز رو قطع میکنیم و اینترنت کل دنیارو مختل میکنیم @IranianMinds
+</div>
+
+## Dirty_Kids — post 389186
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389186_1778361204.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مزد خر چروندن، گوز خره.
+اینم تقدیم به دنیا برای مماشات با دیوانگان جمهوری اسلامی.
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389185
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آخرین‌بار قبل ج.ا، صدام حسین شیر نفتو تو دریا باز کرد!
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389184
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‏عصری رفتم لبنیاتی پرسیدم این ماسته شیرینه؟ گفت نه ترشه تقریبا. همه باورهام فرو ریخت، هرچی از بچگی شنیده بودم دود شد رفت هوا.
+اولین ماست‌بند تاریخ بود که گفت ماست من ترشه.
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## manototv — post 105218
+
+<div align="center">
+  <a href="telegram/content/manototv_105218_1778361205.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ، رئیس‌جمهور آمریکا، در حساب خود در شبکه تروث سوشال تصویری منتشر کرد که در آن عملکرد دولت‌های اوباما و بایدن و ترامپ به‌صورت کنایه‌آمیز مقایسه شده است.
+
+در این تصویر، در بخش مربوط به «اوباما و بایدن»، شماری از کشتی‌ها روی سطح آب دیده می‌شوند، اما در بخش مربوط به «ترامپ»، کشتی‌ها در زیر آب نشان داده شده‌اند.
+</div>
+
+## alonews — post 118964
+
+<div align="center">
+  <a href="telegram/content/alonews_118964_1778361206.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈شبکه 15 اسرائیل : تو واشنگتن هنوز منتظر جواب ایران هستن
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 00:32
 ---
 
