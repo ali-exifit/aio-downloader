@@ -7,6 +7,116 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 01:58
+---
+
+## pm_afshaa — post 90445
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سپاه:از این به بعد اگه به نفتکش‌ها یا کشتی‌های تجاری ایران حمله بشه جوابش رو به پایگاه‌ ها یا نیروهای آمریکا تو منطقه و حتی کشتی‌هاشون می‌دیم
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranianMinds — post 19863
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+قرارداد تبلیغاتی ۱ ماهه میبندم
+غیر اخلاقی چیزی نمیزارم
+دزدی و سیگنال ارز دیجیتال و این چیزا نمیزارم
+خواستید پیام بزارید
+اگر فیلترشکن میفروشید باید مدارک کامل بدید خیال راحتی باشه
+@AmirrPower
+</div>
+
+## Dirty_Kids — post 389195
+
+<div align="center">
+  <a href="https://t.me/Dirty_Kids/389195" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✅ اپلیکیشن اندروید سایت جهانی دربی بت
+
+💰اولین سایت جهانی با امکان شارژ و برداشت ریالی(کارت به کارت)
+
+🔗 برای ورود فیلترشکن روی کشور مناسب قرار دهید مانند فنلاند و المان و....
+
+😀Telegram Channel
+👇
+https://t.me/+bcynkEgSW2dlYTc0
+</div>
+
+## Dirty_Kids — post 389194
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389194_1778365729.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+😤دنبال یه سایت شرط بندی بین المللی بودی که به ایرانیا خدمات بده؟!
+⛔
+
+
+👍دربی بت همون انتخاب  100%
+
+
+💎ویژگی های سایت جهانی Derby Bet:
+
+⬅️امکان شارژ امن با کارت بانکی
+
+⬅️واریز اول دوبل شارژ می شوید(بونوس۱۰۰٪)
+
+⬅️پر اپشن ترین سایت فعال در ایران
+
+⬅️تسویه حساب کمتر از 5 دقیقه
+
+⬅️برگشت بخشی از باخت به صورت هفتگی
+
+
+🚨کد هدیه ثبت نام:GG007
+
+
+⚠️برای دانلود اپلکیشن کلیک کنید
+👉
+
+
+🔔کانال دربی بت :
+
+🪙https://t.me/+bcynkEgSW2dlYTc0
+</div>
+
+## Dirty_Kids — post 389193
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389193_1778365730.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+#بخوابیم
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389192
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389192_1778365731.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مردم نگرانن ترکیب زیبایی مُشتبا بهم بخوره ❌
+مردم میخوان سر به تن مُشتبا نباشه ✅
+
+عاشقتم عمو ویسی 😂😂
+
+
+@Dirty_Kids 👻
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 01:53
 ---
 
