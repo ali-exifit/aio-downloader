@@ -7,6 +7,89 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 01:03
+---
+
+## FarsiVOA — post 217306
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️سنتکام تصاویری از ملوانان آمریکایی مستقر در ناو هواپیمابر آبراهام لینکلن را که منتشر کرد که کار تعمیر و نگهداری هواگردهای مستقر در دریا را «به‌صورت شبانه‌روزی» انجام می‌دهند و آن‌ها را «در آمادگی کامل عملیاتی» نگه می‌دارند. این ناو در خاورمیانه فعالیت می‌کند.
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 13795
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_13795_1778362384.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ یکی هوش مصنوعی رو از ترامپ بگیره 🤦🏻‍♂️
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 13794
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_13794_1778362384.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ جمهوری اسلامی گفته در صورت اقدام آمریکا برای اذیت یا حمله، کابل‌های اینترنت جهانی در خلیج فارس و تنگه هرمز قطع و اینترنت جهان مختل می‌شود.
+
+پ.ن: خوبه دنیا بفهمه اینا چه حرو***یی هستن.
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 13793
+
+<div align="center">
+  <a href="https://t.me/persian_trend_official/13793" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فایل صوتی لایو اول
+نسخه کم حجم - 8.24 مگابایت
+
+اتاق جنگ شنبه 19 اردیبهشت | ترامپ: اگر توافق نشود پروژه آزادی پلاس اجرا می شود.
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## alonews — post 118967
+
+<div align="center">
+  <a href="telegram/content/alonews_118967_1778362385.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈آکسیوس: آمریکا هنوز در انتظار پاسخ ایران تا اوایل بعدازظهر یک‌شنبه است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118966
+
+<div align="center">
+  <a href="telegram/content/alonews_118966_1778362385.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈توییت جدید ترامپ
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 00:52
 ---
 
