@@ -7,6 +7,154 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/19 23:22
+---
+
+## VahidOOnLine — post 239153
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239153_1778356368.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اسماعیل سقاب اصفهانی، معاون مسعود پزشکیان و رییس سازمان بهینه‌سازی انرژی گفت: «واقع‌بینانه که نگاه کنیم آسیب‌هایی به زیرساخت‌های کشور و شبکه گاز و سوخت ما وارد شده و در کنار تلاش مسئولان چاره‌ای جز صرفه‌جویی در یک‌ونیم تا دو سال آینده نداریم.»
+
+او افزود: «قسمتی از ظرفیت تولید بنزین ما با مشکل مواجه شده و صنایع فولادی و پتروشیمی دچار خسارت شدند.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## kianmeli1 — post 87308
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴همزمان با ادامه خاموشی اینترنت در ایران، گزارش‌ها از توقیف اموال شهروندان، بازداشت‌ها، و افزایش فشارهای امنیتی حکایت دارد. منتقدان می‌گویند جمهوری اسلامی همزمان با مصادره اموال به نام «نفع ملت»، اینترنت مردم و کسب‌وکارها را هم زیر فشار برده است.
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87307
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴العربیه گزارش داد اسرائیل به آمریکا هشدار داده زمان به نفع جمهوری اسلامی در جریان است و هرگونه وقت‌کشی در مذاکرات و طولانی شدن آن، امنیت کل منطقه را به خطر می‌اندازد.
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87306
+
+<div align="center">
+  <img src="telegram/content/kianmeli1_87306_1778356369.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴تهدید جدید سپاه
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87305
+
+<div align="center">
+  <a href="telegram/content/kianmeli1_87305_1778356369.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴نظر «فرید زکریا» درباره وضعیت تنگه هرمز
+
+[فرید زکریا به خاطر تحلیل‌هایش دربارهٔ:
+_سیاست خارجی آمریکا
+_نظم جهانی
+اقتصاد و جهانی‌شدن
+_خاورمیانه و چین
+_دموکراسی و آیندهٔ قدرت جهانی شناخته می‌شود].
+https://t.me/kianmeli1
+</div>
+
+## IranIntlTV — post 336347
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336347_1778356371.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ گفت امیدوار است جمهوری اسلامی پاسخ خود به پیشنهاد آمریکا را تا پایان روز شنبه ارائه دهد.
+
+او همچنین هشدار داد در صورت نهایی نشدن توافق، ممکن است ایالات متحده رویکرد متفاوتی در پیش بگیرد.
+
+گفت‌وگو با میثم مهرانی، تحلیل‌گر سیاسی
+@iranintltv
+</div>
+
+## IranIntlTV — post 336346
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336346_1778356372.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایرانیان ساکن واشینگتن در حمایت از مردم ایران و در اعتراض به موج اعدام‌ها، سرکوب و قطع اینترنت تجمع اعتراضی برگزار کردند.
+
+گزارش اردوان روزبه، خبرنگار ایران‌اینترنشنال و گفت‌وگو با سیامک آرام، برگزارکننده
+@iranintltv
+</div>
+
+## IranIntlTV — post 336345
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336345_1778356374.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اسماعیل سقاب اصفهانی، معاون مسعود پزشکیان و رییس سازمان بهینه‌سازی انرژی گفت: «واقع‌بینانه که نگاه کنیم آسیب‌هایی به زیرساخت‌های کشور و شبکه گاز و سوخت ما وارد شده و در کنار تلاش مسئولان چاره‌ای جز صرفه‌جویی در یک‌ونیم تا دو سال آینده نداریم.»
+
+او افزود: «قسمتی از ظرفیت تولید بنزین ما با مشکل مواجه شده و صنایع فولادی و پتروشیمی دچار خسارت شدند.»
+https://iranintl.com/202605096101
+</div>
+
+## Persian_Trend_Official — post 13784
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_13784_1778356374.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فرماندهی نیروی دریایی سپاه: هشدار! هرگونه تعرض به شناورهای نفتکش و تجاری ج ا ایران، تهاجم سنگین علیه یکی از مراکز آمریکایی در منطقه و کشتی‌های دشمن را در پی خواهد داشت.....
+
+
+☆Phantom☆
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## BBCPersian — post 280596
+
+<div align="center">
+  <a href="telegram/content/BBCPersian_280596_1778356375.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️آخرین خبرهای مهم روز شنبه ۱۹ اردیبهشت ۱۴۰۵
+@BBCPersian
+</div>
+
+## alonews — post 118946
+
+<div align="center">
+  <a href="telegram/content/alonews_118946_1778356376.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈پوتین: روسیه به تماس‌های خود با هر دو طرف درگیری ایران و اسرائیل ادامه می‌دهد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118945
+
+<div align="center">
+  <a href="telegram/content/alonews_118945_1778356376.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈قبل و بعد از حمله موشکی به پتروشیمی امیرکبیر در بندر ماهشهر
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/19 23:12
 ---
 
