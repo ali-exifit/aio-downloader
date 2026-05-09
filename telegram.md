@@ -7,6 +7,35 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 03:22
+---
+
+## pm_afshaa — post 90449
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+علی صبوری بعد این که ویدیویی داد و فحش خار مادر به نظامو طرفداراش کشید الان این استوری رو گذاشته و گفته بیاید منو بگیرید ببرید 
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom 
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90448
+
+<div align="center">
+  <img src="telegram/content/pm_afshaa_90448_1778370776.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+علی صبوری بعد این که ویدیویی داد و فحش خار مادر به نظامو طرفداراش کشید
+
+الان این استوری رو گذاشته و گفته بیاید منو بگیرید ببرید
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 03:13
 ---
 
