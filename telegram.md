@@ -7,6 +7,63 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/19 16:23
+---
+
+## IranIntlTV — post 336291
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/336291" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی اخبار نیمروزی | شنبه ۱۹ اردیبهشت
+@iranintlTV
+</div>
+
+## Persian_Trend_Official — post 13749
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_13749_1778331190.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 حمله و ترور هدفمند جدید اسرائیل در لبنان
+
+💢منابع محلی از وقوع یک حمله هدفمند دیگر در منطقه Saadiyat خبر می‌دهند.
+
+💢جزئیات بیشتری درباره هدف حمله، تلفات احتمالی یا ماهیت عملیات تاکنون منتشر نشده است.
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## RadioFarda — post 157003
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸با آغاز تهاجم تمام‌عیار روسیه به اوکراین، لئونید و والنتینا استویانوف، دو دامپزشک در شهر اودسا، زندگی خود را وقف نجات حیوانات آسیب‌دیده و رهاشده جنگ کردند.
+
+🔸این زوج ابتدا حیوانات خانگی زخمی و جامانده را به کلینیک خود منتقل می‌کردند، اما خیلی زود سفر به خطوط مقدم جنگ را برای نجات حیوانات آغاز کردند.
+
+🔸آن‌ها در سال‌های اخیر حیوانات مختلفی، از جمله میمون‌ها و شیرهایی را که از باغ‌وحش‌ها نجات یافته بودند درمان کرده‌اند، پرندگان دریایی گرفتار در آلودگی نفتی را احیا کرده‌اند و برای صدها حیوان نیز در خارج از اوکراین خانه‌های جدید پیدا کرده‌اند.
+
+@RadioFarda
+</div>
+
+## alonews — post 118876
+
+<div align="center">
+  <a href="telegram/content/alonews_118876_1778331191.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈تاج: برای حضور در جام جهانی ۱۰ شرط برای فیفا گذاشتیم اگه قبول کنن میریم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/19 16:12
 ---
 
