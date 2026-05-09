@@ -7,6 +7,77 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/19 15:43
+---
+
+## pm_afshaa — post 90404
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90404_1778328810.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴العربیه: نتانیاهو به دولت آمریکا گفته روند مذاکره با جمهوری اسلامی نباید طولانی بشه.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 336287
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336287_1778328811.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایرانیان مقیم کپنهاگ و لندن در اعتراض به موج اعدام‌ها، سرکوب و قطع اینترنت در ایران، تجمع اعتراضی برگزار کردند.
+
+مهران عباسیان و تاج‌الدین سروش، خبرنگاران ایران‌اینترنشنال، گزارش می‌دهند
+@iranintltv
+</div>
+
+## FarsiVOA — post 217262
+
+<div align="center">
+  <img src="telegram/content/FarsiVOA_217262_1778328814.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خبرآنلاین در گزارشی نوشته اثر افزایش ۶۰ درصدی حداقل مزد سال ۱۴۰۵ تنها در ۴۵ روز از بین رفته و قدرت خرید کارگران دوباره به سطح پیش از افزایش مزد بازگشته است.
+
+بر اساس این گزارش، حداقل مزد پایه ماهانه امسال ۱۶ میلیون و ۶۲۵ هزار تومان تعیین شد؛ رقمی که در روز تصویب، با دلار ۱۴۳ هزار و ۷۰۰ تومانی حدود ۱۱۶ دلار ارزش داشت. اما با رسیدن دلار به حدود ۱۹۰ هزار تومان در نیمه اردیبهشت، ارزش دلاری مزد به حدود ۸۷.۵ دلار سقوط کرده است.
+
+خبرآنلاین نوشته قدرت خرید مزد بر اساس طلا هم افت کرده؛ حداقل حقوق که در اسفند معادل حدود یک گرم طلای ۱۸ عیار بود، حالا به ۰.۸۱ گرم رسیده است.
+
+این یعنی افزایش اسمی دستمزد، زیر فشار سقوط ریال، تورم و سیاست‌های اقتصادی جمهوری اسلامی عملاً خنثی شده و کارگران دوباره با شکافی عمیق میان درآمد و هزینه زندگی روبه‌رو شده‌اند.
+@FarsiVOA
+</div>
+
+## alonews — post 118869
+
+<div align="center">
+  <a href="telegram/content/alonews_118869_1778328815.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈تمام مادران ایرانی که از تاریخ یک فروردین ۱۴۰۵ به بعد صاحب فرزند می‌‌شوند، به مدت ۲ سال (تا ۲۴ ماهگی فرزند)، ماهانه مشمول دریافت ۲ میلیون تومان به ازای هر فرزند از طریق کارت امید خواهند بود.
+
+
+🔴پ.ن: ماهانه یه پوشک
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118868
+
+<div align="center">
+  <a href="telegram/content/alonews_118868_1778328815.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈در اقدامی عجیب نوحه برای تمجید از بی حجاب‌ها هم خوانده شد 
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/19 15:33
 ---
 
