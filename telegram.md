@@ -7,6 +7,207 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 16:33
+---
+
+## VahidOOnLine — post 239277
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239277_1778418213.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خبرگزاری ایرنا نوشت پاسخ جمهوری اسلامی به آخرین متن پیشنهادی آمریکا برای خاتمه جنگ، امروز از طریق میانجی پاکستانی ارسال شده است.
+
+بر اساس این گزارش، سخنگوی وزارت خارجه جمهوری اسلامی پیش‌تر گفته بود دیدگاه‌ها و ملاحظات تهران درباره پیشنهادهای آمریکا پس از تکمیل بررسی‌ها و جمع‌بندی نهایی ارسال می‌شود.
+
+ایرنا افزود در طرح پیشنهادی، مذاکرات در این مرحله بر موضوع خاتمه جنگ در منطقه متمرکز خواهد بود.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## pm_afshaa — post 90477
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90477_1778418213.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴صداوسیما: پاسخی که به آمریکا داده شده همچنان مطابق با مواضع قبلی ماست، از جمله آمادگی برای ادامه آتش‌بس در ازای بازگشایی متقابل تنگه هرمز و پیشبرد مذاکرات متمرکز بر پایان دادن به جنگ در منطقه.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90476
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90476_1778418214.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴حمید رسایی، نماینده مجلس: تمام تلاشم رو میکنم تا اینترنت بین الملل وصل نشه.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90475
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90475_1778418214.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایرنا:پاسخ جمهوری اسلامی به آخرین متن پیشنهادی آمریکا برای خاتمه جنگ، امروز به میانجی پاکستانی ارسال شد 
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom 
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 336461
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336461_1778418215.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، ایرانیان مقیم بریتانیا یکشنبه ۲۰ اردیبهشت در پی فراخوان شاهزاده رضا پهلوی، علیه اعدام‌های جمهوری اسلامی و قطع اینترنت در ایران، در شهر شفیلد تجمع کردند.
+</div>
+
+## IranIntlTV — post 336460
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336460_1778418216.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یکی از شرکت‌کنندگان در تجمع برلین به علی حسن‌پور، خبرنگار ایران‌اینترنشنال، گفت: «اینجا هستیم تا از سیاستمداران اروپایی بخواهیم چشم خود را بر اعدام‌ها در ایران نبندند و برای دسترسی مردم ایران به اینترنت تلاش کنند.»
+@iranintltv
+</div>
+
+## IranIntlTV — post 336459
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336459_1778418218.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رسانه‌های حکومتی در ایران از دیدار علی عبداللهی، فرمانده قرارگاه مرکزی خاتم‌الانبیا، با مجتبی خامنه‌ای خبر دادند.
+
+مرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال، جزییات این گزارش رسمی را ارزیابی می‌کند
+@iranintltv
+</div>
+
+## ManotoTV — post 105237
+
+<div align="center">
+  <img src="telegram/content/ManotoTV_105237_1778418220.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خبرگزاری ایرنا نوشت پاسخ جمهوری اسلامی به آخرین متن پیشنهادی آمریکا برای خاتمه جنگ، امروز از طریق میانجی پاکستانی ارسال شده است.
+
+بر اساس این گزارش، سخنگوی وزارت خارجه جمهوری اسلامی پیش‌تر گفته بود دیدگاه‌ها و ملاحظات تهران درباره پیشنهادهای آمریکا پس از تکمیل بررسی‌ها و جمع‌بندی نهایی ارسال می‌شود.
+
+ایرنا افزود در طرح پیشنهادی، مذاکرات در این مرحله بر موضوع خاتمه جنگ در منطقه متمرکز خواهد بود.
+</div>
+
+## FarsiVOA — post 217339
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217339_1778418221.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فرماندهی مرکزی ایالات متحده، سنتکام، ویدیویی از سوخت‌رسانی هوایی به یک جنگنده اف‌۱۸ نیروی دریایی آمریکا در آسمان خاورمیانه منتشر کرد.
+
+به گفته سنتکام، این جنگنده در حال گشت‌ بر فراز منطقه بود و سوخت مورد نیاز خود را از یک هواپیمای سوخت‌رسان کی-۱۳۵ نیروی هوایی آمریکا دریافت کرد.
+
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217338
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺هشدار قطر به جمهوری اسلامی: استفاده از تنگه هرمز به‌عنوان «ابزار فشار» بحران را عمیق‌تر می‌کند
+
+◾️وزارت امور خارجه قطر روز یکشنبه ۲۰ اردیبهشت اعلام کرد نخست‌وزیر این کشور در گفت‌وگو با وزیر امور خارجه جمهوری اسلامی به او گفته است که استفاده از تنگه هرمز به‌عنوان «ابزار فشار» تنها به عمیق‌تر شدن بحران در خلیج فارس منجر خواهد شد.
+
+⬇️ بیشتر بخوانید:
+
+https://ir.voanews.com/a/qatar-iran-hormuz-strait-closing-crisis-increase/8148473.html
+</div>
+
+## DW_Farsi — post 124522
+
+<div align="center">
+  <a href="telegram/content/DW_Farsi_124522_1778418221.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎥سه شهر و یک دنیا تاریخ؛ آلمان در آینه جنگ
+
+نام برخی شهرهای آلمان هم با تحولات تاریخی مثبت در دوران رشد و شکوفایی علم و اندیشه و سیاست گره خورده، هم با روزهای سیاه رژیم ترور رایش سوم به رهبری آدولف هیتلر.
+
+@dw_farsi
+</div>
+
+## BBCPersian — post 280658
+
+<div align="center">
+  <img src="telegram/content/BBCPersian_280658_1778418223.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻ایران می‌گوید پاسخش به «آخرین متن پیشنهادی آمریکا برای خاتمه جنگ» را امروز به پاکستان ارسال کرده است.
+
+وزارت خارجه ایران گفته بود که «بعد از تکمیل بررسی‌ها و جمع‌بندی نهایی» به پیشنهاد آمریکا پاسخ خواهد داد.
+
+ایرنا نوشت: «بر اساس طرح پیشنهادی، در این مرحله مذاکرات متمرکز بر موضوع خاتمه جنگ در منطقه خواهد بود.»
+
+آمریکا هفته پیش پیشنهاد دیگری به ایران داد و دونالد ترامپ بعد از آن چند بار گفته بود منتظر پاسخ تهران است.
+
+به گفته رسانه‌های آمریکا طرح آخر دولت دونالد ترامپ یک پیشنهاد یک صفحه‌ای در ۱۴ بند است.
+
+📸AFP via Getty Images
+
+https://bbc.in/42qUBrr
+@BBCPersian
+</div>
+
+## manototv — post 105237
+
+<div align="center">
+  <img src="telegram/content/manototv_105237_1778418224.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خبرگزاری ایرنا نوشت پاسخ جمهوری اسلامی به آخرین متن پیشنهادی آمریکا برای خاتمه جنگ، امروز از طریق میانجی پاکستانی ارسال شده است.
+
+بر اساس این گزارش، سخنگوی وزارت خارجه جمهوری اسلامی پیش‌تر گفته بود دیدگاه‌ها و ملاحظات تهران درباره پیشنهادهای آمریکا پس از تکمیل بررسی‌ها و جمع‌بندی نهایی ارسال می‌شود.
+
+ایرنا افزود در طرح پیشنهادی، مذاکرات در این مرحله بر موضوع خاتمه جنگ در منطقه متمرکز خواهد بود.
+</div>
+
+## alonews — post 119064
+
+<div align="center">
+  <a href="telegram/content/alonews_119064_1778418224.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ارتش اسرائیل : هفته قبل حدود ۷۰ هدف رو زدیم و بیش از ۳۰ نفر از حزب‌الله رو از بین بردیم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119063
+
+<div align="center">
+  <a href="telegram/content/alonews_119063_1778418226.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈صداوسیما: پاسخی که به آمریکا داده شده همچنان مطابق با مواضع قبلی ما است، از جمله آمادگی برای ادامه آتش‌بس در ازای بازگشایی متقابل تنگه هرمز و پیشبرد مذاکرات متمرکز بر پایان دادن به جنگ در منطقه
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 16:23
 ---
 
