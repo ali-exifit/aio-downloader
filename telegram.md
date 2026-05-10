@@ -7,6 +7,87 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 22:54
+---
+
+## VahidOOnLine — post 239371
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239371_1778441094.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️وزارت امور خارجه عربستان سعودی، روز یکشنبه ۲۰ اردیبهشت ماه با انتشار بیانیه‌ای رسمی، حملات به خاک و آب‌های سرزمینی کشورهای امارات متحده عربی، دولت قطر و دولت کویت را محکوم کرد. پادشاهی سعودی در این بیانیه ضمن ابراز همبستگی کامل، بر ایستادگی مجدد خود در کنار این کشورها تاکید کرد و حمایت قاطع را از تمامی اقدامات و تدابیری که «کشورهای برادر در حوزه خلیج فارس برای حفاظت از امنیت، ثبات و تمامیت ارضی خود اتخاذ می‌کنند»، ابراز داشت.
+ریاض در بخش دیگری از این بیانیه، خواستار توقف فوری و بدون قید و شرط این حملات شد. وزارت امور خارجه عربستان همچنین با هشدار در مورد وضعیت تنگه هرمز، بر مخالفت شدید خود با هرگونه تلاش برای بستن این آبراهه یا ایجاد اختلال در تردد کشتی‌ها در گذرگاه‌های آبی بین‌المللی تاکید کرد.
+وزارت امور خارجه عربستان سعودی در پایان اهمیت تعهد جهانی برای حفاظت از امنیت آبراه‌های دریایی بین‌المللی بر اساس قوانین و معاهدات مربوطه را یادآور شد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8848
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بوی حلوا میاد
+</div>
+
+## mwarmonitor — post 8847
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴«منابع به وال‌استریت ژورنال گفته‌اند که ایران در هرگونه گفت‌وگوی احتمالی آینده با آمریکا، برچیدن تأسیسات هسته‌ای خود را رد کرده است.» @mwarmonitor
+</div>
+
+## mwarmonitor — post 8846
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴پاسخ طولانی ایران به ایالات متحده همچنان شکاف‌هایی را باقی گذاشته است 📝نوشته: سامر سعید و بنوا فاکون، وال‌استریت ژورنال 🔸به گفته افراد آشنا با این موضوع، ایران رسماً پاسخی چند صفحه‌ای به آخرین پیشنهاد ایالات متحده برای پایان دادن به جنگ ارسال کرده است…
+</div>
+
+## farsi_fox_news — post 89206
+
+<div align="center">
+  <a href="telegram/content/farsi_fox_news_89206_1778441095.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ ایران طبق قانون دفاعی می‌تواند تا ۳۳۰۰ کیلومتر برد متعارف موشک داشته باشد
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89205
+
+<div align="center">
+  <a href="telegram/content/farsi_fox_news_89205_1778441097.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ تصاویر دوربین مداربسته از لحظهٔ بمباران در نزدیکی خانه کشتی
+🌐 @farsi_fox_news
+</div>
+
+## alonews — post 119145
+
+<div align="center">
+  <a href="telegram/content/alonews_119145_1778441099.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈مودی ، نخست وزیر هند: باید در مصرف بنزین و گازوئیل صرفه جویی کنیم... در شهرهایی که مترو دارند باید مردم از آن استفاده کنند و خودروهای شخصی استفاده نکنند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119144
+
+<div align="center">
+  <a href="telegram/content/alonews_119144_1778441099.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وال استریت ژورنال به نقل از منابع: پاسخ ایران خلأهایی ایجاد کرده و سرنوشت برنامه هسته ای را حل نکرده است 
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 22:44
 ---
 
