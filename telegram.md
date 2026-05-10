@@ -7,6 +7,74 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 19:54
+---
+
+## pm_afshaa — post 90493
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90493_1778430261.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ در مورد رابطه خود با رئیس‌جمهور چین شی جین‌پینگ پیش از دیدار پیش‌رو با او:
+
+رابطه من با رئیس‌جمهور شی بسیار خوب است. من رهبران دیگر را نمی‌شناسم، اما رئیس‌جمهور شی مرد خوبی است، مرد باهوشی است، چین را دوست دارد.
+
+و من منتظر حضورم هستم. ما قبلاً یک بار این کار را انجام دادیم و شگفت‌انگیز بود. قرار است یک سفر شگفت‌انگیز باشد، فکر می‌کنم قرار است یک سفر شگفت‌انگیز باشد.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## VahidOnline — post 75384
+
+<div align="center">
+  <img src="telegram/content/VahidOnline_75384_1778430262.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Afkham_minus
+
+📡 @VahidOnline
+</div>
+
+## IranIntlTV — post 336502
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336502_1778430262.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کی‌یر استارمر، نخست‌وزیر بریتانیا، پس از نتایج ضعیف حزب کارگر در انتخابات گفت پیام رای‌دهندگان را شنیده، اما تاکید کرد کنار نخواهد رفت. با این حال، فشارها در درون حزب افزایش یافته است و دست‌کم ۲۱ نماینده حزب کارگر خواستار کناره‌گیری او شده‌اند.
+
+گفت‌وگو با تاج‌الدین سروش، خبرنگار ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## IranIntlTV — post 336501
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336501_1778430264.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ویدیوهای رسیده به ایران اینترنشنال نشان می‌دهد ایرانیان مقیم پاریس روز ۲۰ اردیبهشت‌ماه در پاسخ به فراخوان شاهزاده رضا پهلوی، با برگزاری راهپیمایی و تجمع در این شهر حضور یافتند.
+@iranintltv
+</div>
+
+## alonews — post 119109
+
+<div align="center">
+  <a href="telegram/content/alonews_119109_1778430265.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈کارشناس صداوسیما: ‎
+موساد ساعتی ۳ دلار می‌دهد که دختران با تاپ و شلوار در میدان ولیعصر راه بروند. عدم ابلاغ قانون حجاب باعث جنگ شد!
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 19:41
 ---
 
