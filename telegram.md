@@ -7,6 +7,210 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 14:13
+---
+
+## mwarmonitor — post 8800
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_8800_1778409798.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇺🇸فرماندهی ترابری هوایی نیروی هوایی آمریکا (AMC) صبح امروز با جدیت در حال فعالیت است و ۱۳ فروند هواپیمای C-17A «گلوبمستر III» نیروی هوایی آمریکا و ۲ فروند هواپیمای C-5M «سوپر گالکسی» در آسمان اروپا و خاورمیانه در حال عملیات هستند.
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 8799
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📊طبق یک نظرسنجی جدید روزنامه فایننشال تایمز، تعرفه‌های رئیس‌جمهور و جنگ در ایران در حال آسیب زدن به چشم‌انداز انتخاباتی حزب او در انتخابات میان‌دوره‌ای هستند.
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 8798
+
+<div align="center">
+  <a href="telegram/content/mwarmonitor_8798_1778409798.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+❌ متلاشی شد: دو مسیر تونل زیرزمینی با مجموع طول حدود ۲ کیلومتر در شرق «خط زرد» در مرکز غزه.
+
+🔸در داخل این مسیرهای تونلی، چندین مخفیگاه و سلاح شناسایی شد. همچنین در جریان عملیات جست‌وجو در این منطقه، نیروها ده‌ها راکت و مواد منفجره را کشف کردند.
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 8797
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴سازمان UKMTO گزارشی از یک حادثه در ۲۳ مایل دریایی شمال شرقی دوحه، قطر دریافت کرده است. ناخدای یک کشتی فله‌بر گزارش داده است که کشتی مورد اصابت یک پرتابه ناشناس قرار گرفته است. آتش‌سوزی کوچکی رخ داده که مهار شده است؛ این حادثه تلفات جانی نداشته و هیچگونه اثرات…
+</div>
+
+## pm_afshaa — post 90463
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90463_1778409800.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴آرش نجفی، رییس کمیسیون انرژی اتاق بازرگانی: امسال به طور مستمر روزانه دو ساعت قطعی برق خانگی، تجاری و اداری خواهیم داشت!
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90462
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90462_1778409800.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴دبیر انجمن پیوند کلیه ایران:
+در حوزه آنتی‌بیوتیک‌ها با مشکلاتی مواجه هستیم و برخی از این داروها بسیار نایاب شدن!
+
+در حال حاضر کمبود برخی داروهای عمومی و در دسترس، به‌تدریج محسوس شده.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90461
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90461_1778409801.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴وای‌نت: ترامپ نباید منتظر تغییر رفتار حکومت ایران یا قیام مردم برای پایان تهدید جمهوری اسلامی بمونه. همون‌طور که حکومت آلمان نازی بدون مداخله نظامی خارجی سقوط نکرد.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 336442
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336442_1778409801.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سرخط خبرهای یکشنبه ۲۰ اردیبهشت
+@iranintltv
+</div>
+
+## FarsiVOA — post 217331
+
+<div align="center">
+  <img src="telegram/content/FarsiVOA_217331_1778409802.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت اطلاعات، از اصلی‌ترین بازوهای سرکوب جمهوری اسلامی، اعلام کرد دو هسته عملیاتی وابسته به موساد را در چند استان ایران شناسایی و منهدم کرده است.
+
+بر اساس ادعای این وزارتخانه، یک هسته چهار نفره در استان آذربایجان غربی پیش از اجرای آنچه «عملیات تروریستی علیه مراکز حساس» و «ترور فردی در تهران» خوانده شده، شناسایی و بازداشت شده است. در این اطلاعیه آمده یک نفر نیز در جریان درگیری با نیروهای وزارت اطلاعات کشته شده است.
+
+وزارت اطلاعات همچنین مدعی است هسته‌ای دیگر در استان‌های کرمان و البرز، پیش از انجام هرگونه اقدام، شناسایی و بازداشت شده است.
+
+به گفته این وزارتخانه، از افراد بازداشت‌شده شماری ریزپرنده، خودروی مخصوص حمل‌ونقل، سه قبضه کلت کمری با صداخفه‌کن، جلیقه ضدگلوله، تفنگ وینچستر، تفنگ دوربین‌دار، مهمات و تجهیزات استارلینک کشف شده است.
+
+در بخش دیگری از اطلاعیه، وزارت اطلاعات از بازداشت فردی با نام اختصاری «مسعود-ت» خبر داده که به گفته این نهاد قصد خروج اطلاعات طبقه‌بندی‌شده یک مرکز نظامی در قزوین از کشور را داشته است.
+@FarsiVOA
+</div>
+
+## DW_Farsi — post 124515
+
+<div align="center">
+  <img src="telegram/content/DW_Farsi_124515_1778409803.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸اسرائیل دو فعال حقوق بشری ناوگان کمک‌رسانی به غزه را اخراج کرد
+
+اسرائیل روز یکشنبه ۱۰ مه از اخراج دو فعال حقوق بشری خبر داد. به گفته وزارت خارجه اسرائیل، سیف ابو کِشِک، شهروند اسپانیا و تیاگو آویلا، شهروند برزیل که سوار بر یک ناوگان بین‌المللی سعی در شکستن محاصره نوار غزه از طریق دریا را داشتند، پس از بازداشت و انتقال به اسرائیل از این کشور اخراج شدند.
+
+طبق این گزارش، این دو نفر که بخشی از دومین "ناوگان همبستگی جهانی صمود" بودند ۱۲ آوریل از اسپانیا به سمت غزه راه افتاده بودند. این دو ۲۹ آوریل در آب‌های بین‌المللی بازداشت و به اسرائیل منتقل شده بودند.
+
+وزارت خارجه اسرائیل گفته است که سیف ابو کشک که اصالتا یک فلسطینی و مظنون به ارتباط با یک سازمان تروریستی است و تیاگو آویلا نیز مظنون به فعالیت غیرقانونی است.
+
+این افراد با رد اتهامات مطرح شده از سوی اسرائیل گفته‌اند که در چارچوب یک مأموریت بشردوستانه برای غیرنظامیان غزه فعالیت می‌کردند و بازداشتشان در آب‌های بین‌المللی غیرقانونی بوده است.
+
+اسپانیا پیش‌تر خواستار آزادی فوری ابو کشک شده بود.
+
+@dw_farsi
+</div>
+
+## IranianMinds — post 19873
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_19873_1778409804.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴این پرستوی حکومتی نمی‌دونه پرستوی نظام یعنی چی.
+
+@IranianMinds
+</div>
+
+## Hranews — post 112860
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بازداشت و ضبط تجهیزات استارلینک دستکم چهار شهروند در زاهدان
+
+
+❗️
+❗️
+❗️
+❗️
+❗️ – روز چهارشنبه ۱۶ اردیبهشت‌ماه، نیروهای امنیتی با مراجعه به منازل شماری از شهروندان در زاهدان، دستکم چهار شهروند را #بازداشت کردند. در جریان این اقدام، تجهیزات اینترنت ماهواره‌ای استارلینک و برخی وسایل الکترونیکی این افراد نیز ضبط شد.
+
+ادامه مطلب
+
+↘️
+@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑
+</div>
+
+## alonews — post 119038
+
+<div align="center">
+  <a href="telegram/content/alonews_119038_1778409805.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈فوربس: ثروت ترامپ از ۲.۳۴ به ۶.۵ میلیارد دلار رسید؛ او و اطرافیانش در جنگ اخیر با ایران بیش از ۲.۶ میلیارد دلار درآمد کسب کردند که بخشی از آن حاصل شرط‌بندی بود
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119037
+
+<div align="center">
+  <a href="telegram/content/alonews_119037_1778409805.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈سخنگوی کمیسیون امنیت ملی مجلس گفت: از امروز خویشتن‌داری ما تمام شد، هر تعرضی به شناورهای ما، با پاسخ سنگین و قاطع ایران به شناورها و پایگاه‌های آمریکایی مواجه خواهد شد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119036
+
+<div align="center">
+  <a href="telegram/content/alonews_119036_1778409805.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈اولین گروه از مسافران کشتی کروز آلوده به هانتاویروس تخلیه شدند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 14:03
 ---
 
