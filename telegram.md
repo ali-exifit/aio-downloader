@@ -7,6 +7,109 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 22:14
+---
+
+## FoxNewsTwitter — post 341510
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341510_1778438698.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+JUST IN: President Trump rips Obama and Biden for their handling of Iran and vows that Tehran will be "laughing no longer" under his administration.
+</div>
+
+## IranIntlTV — post 336520
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336520_1778438699.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مهدی مهدوی‌آزاد در برنامه «چشم‌انداز» گفت: «یک جریان جنگ‌طلب دیوانه در حال پیش بردن مسیری است که هیچ نسبتی با واقعیت ندارد. در عمل، بخش بزرگی از توان و ساختارشان نابود شده، اما همچنان ادعای پیروزی و قدرت می‌کنند.»
+
+او افزود: «به نظر می‌رسد در دل همان جریانی که پس از جنگ، مجتبی خامنه‌ای را در موقعیت قدرت قرار داد، گروهی تندروتر در حال قدرت گرفتن است؛ جریانی که جنگ را می‌خواهد طولانی‌تر کند و به‌دنبال نوعی "کودتا در کودتا" است.»
+@iranintltv
+</div>
+
+## DW_Farsi — post 124536
+
+<div align="center">
+  <a href="telegram/content/DW_Farsi_124536_1778438700.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎥نتانیاهو در گفت‌وگو با سی‌بی‌اس: "جنگ ایران هنوز تمام نشده است"
+
+بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در گفت‌وگو با شبکه سی‌بی‌اس گفت جنگ با جمهوری اسلامی ایران "تمام نشده" و تأکید کرد اورانیوم غنی‌شده باید از ایران خارج شود.
+
+نتانیاهو گفت هنوز سایت‌های غنی‌سازی، موشک‌های بالستیک و گروه‌های نیابتی مورد حمایت جمهوری اسلامی پابرجا هستند و "کارهای زیادی" باقی مانده است. او درباره احتمال اقدام نظامی یا زمان پایان این روند توضیحی نداد، اما خروج اورانیوم از ایران را "مأموریتی بسیار مهم" توصیف کرد.
+
+@dw_farsi
+</div>
+
+## Persian_Trend_Official — post 13849
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_13849_1778438702.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💢گرفتار شدن پهپاد FPV حزب الله داخل توری محافظ اسرائیل ❗️
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 19915
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 گزارش‌ها از فعال شدن پدافند در دزفول، شمال استان خوزستان.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19914
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 بنیامین نتانیاهو :
+
+ترامپ به ما گفت که برای گرفتن اورانیوم وارد ایران خواهند شد
+
+@IranianMinds
+</div>
+
+## alonews — post 119135
+
+<div align="center">
+  <a href="telegram/content/alonews_119135_1778438703.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈المیادین: تهران در نظر دارد گنجاندن آتش‌بس لبنان در پاسخ مذاکراتی خود را خط قرمز بداند و مفاهیم پیشنهادی را به تضمین‌هایی مرتبط با توقف تشدید در لبنان پیوند دهد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119134
+
+<div align="center">
+  <a href="telegram/content/alonews_119134_1778438703.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈طبق گزارش CNN و با استناد به داده‌های Flightradar24، ایالات متحده از اوایل فوریه حداقل ۲۵ پرواز جمع‌آوری اطلاعات در نزدیکی سواحل کوبا انجام داده است که از هر دو نوع هواپیماهای سرنشین‌دار و پهپادها استفاده شده است.
+
+
+🔴 بیشتر این ماموریت‌ها در نزدیکی هاوانا و سانتیاگو د کوبا انجام شده‌اند و برخی پروازها در فاصله ۴۰ مایلی از خط ساحلی کوبا فعالیت داشته‌اند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 22:05
 ---
 
