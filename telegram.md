@@ -7,6 +7,207 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 17:44
+---
+
+## VahidOOnLine — post 239292
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239292_1778422443.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، ایرانیان مقیم نروژ یکشنبه ۲۰ اردیبهشت در پی فراخوان شاهزاده رضا پهلوی، علیه اعدام‌های جمهوری اسلامی و قطع اینترنت در ایران، در شهر اسلو تجمع کردند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239291
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️مصطفی طاهری، عضو کمیسیون صنایع مجلس، روز یکشنبه ۲۰ اردیبهشت در گفتگویی تلویزیونی مدعی شد بر اساس پیش‌نویس مطرح‌شده، امکان ایجاد حدود ۱۵ میلیارد دلار درآمد برای کشور وجود دارد.
+او با اشاره به اینکه در شرایط عادی درآمد نفتی ایران می‌تواند به حدود ۴۰ میلیارد دلار برسد، گفت این رقم معادل بیش از یک‌سوم درآمد نفتی کشور است و می‌تواند «گشایش قابل‌توجهی» در اقتصاد ایجاد کند.
+طاهری همچنین تاکید کرد که اهمیت این درآمد به‌دلیل ارزی بودن آن است و می‌تواند در بهبود وضعیت بازار ارز، کاهش نوسانات و مدیریت عرضه و تقاضا نقش مؤثری داشته باشد.
+طاهری افزود، تزریق این منابع ارزی می‌تواند بخشی از مشکلات مربوط به چندنرخی بودن ارز و بی‌ثباتی بازار را کاهش دهد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8823
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_8823_1778422446.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✈️هواپیمای سوخت‌رسان هوایی KC-46A Pegasus متعلق به نیروی هوایی آمریکا امروز با دفعات بیشتری بر فراز عراق در حال عملیات بوده است.
+
+✈️در همین حال، یک فروند دیگر KC-135R Stratotanker که از پایگاه هوایی الظفره در ابوظبی پرواز کرده، اکنون در حال فعالیت بر فراز دریای عمان است.
+
+@mwarmonitor
+</div>
+
+## IranIntlTV — post 336472
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336472_1778422447.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، ایرانیان مقیم نروژ یکشنبه ۲۰ اردیبهشت در پی فراخوان شاهزاده رضا پهلوی، علیه اعدام‌های جمهوری اسلامی و قطع اینترنت در ایران، در شهر اسلو تجمع کردند.
+</div>
+
+## IranianMinds — post 19885
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_19885_1778422449.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ داره ویدیوهایی از مارک لوین منتشر می‌کنه که توش میگه فشار روی ایران باید ادامه پیدا کنه و حتی احتمال داره برای قوی‌تر کردن موضع آمریکا قبل از مذاکرات، یه دور دیگه درگیری و جنگ هم اجتناب‌ناپذیر باشه!
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19884
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ:
+
+من هیچوقت نگفتم که عملیات نظامی علیه ایران تمام شده است، اما گفتم که آنها شکست خوردند
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19883
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ:
+
+نیروی فضایی ما تمام منطقه رو زیر نظر داره اگه کسی به اورانیوم غنی شده ایران که زیر آوار مدفون شده نزدیک شود، از آن مطلع خواهیم شد و آن را بمباران و نابود خواهیم کرد.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19882
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ :
+
+در مقطعی به اورانیوم غنی شده ایران که در اعماق زمین و آوار مدفون شده است خواهیم رسید
+
+@IranianMinds
+</div>
+
+## BBCPersian — post 280662
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻قطر حمله به یک کشتی تجاری در آبهایش را تایید کرد
+
+وزارت دفاع قطر تایید کرد یک پهپاد کشتی تجاری که از امارات به سمت بندر مسیعید در حرکت بود، در آب‌های قطر هدف قرار گرفته است.
+
+بنابر اعلام وزارت دفاع قطر، در اثر اصابت این پهپاد آتش‌سوزی محدودی در کشتی رخ داد اما تلفات جانی نداشت.
+
+در این بیانیه به مبدا حرکت این پهپاد اشاره نشده است.
+
+بنابر این گزارش، پس از اطفای حریق این کشتی که از امارات حرکت کرده بود به سمت بندر مسیعید ادامه داد.
+
+برخی رسانه‌های ایران می‌گویند این کشتی فله‌بر متعلق به آمریکا بوده و با پرچم آمریکا حرکت می‌کرد.
+
+ایران تهدید کرده است شناورهای آمریکا را هدف قرار خواهد داد.
+
+https://bbc.in/4nljC0U
+@BBCPersian
+</div>
+
+## Hranews — post 112865
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+قتل و به آتش کشیدن پیکر یک کودک ۹ ساله در سراوان؛ متهم بازداشت شد
+
+
+❗️
+❗️
+❗️
+❗️
+❗️ – اواخر فروردین‌ماه امسال پیکر بی‌جان فاطمه‌ زهرا حسین‌بر، #کودک ۹ ساله اهل شهر گُشت از توابع شهرستان سراوان، پس از چند روز ناپدید شدن، در شرایطی خشونت‌بار در حاشیه شهر کشف شد. فرمانده انتظامی سراوان اکنون از بازداشت متهم این پرونده خبر داده است.
+
+ادامه مطلب
+
+#فاطمه_زهرا_حسین‌بر
+
+↘️
+@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑
+</div>
+
+## alonews — post 119082
+
+<div align="center">
+  <a href="telegram/content/alonews_119082_1778422450.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ کلیپ‌هایی از مارک لوین منتشر می‌کند که استدلال می‌کند فشار بر ایران باید ادامه یابد و پیشنهاد می‌دهد ممکن است یک دور دیگر مبارزه اجتناب‌ناپذیر باشد تا موقعیت آمریکا را پیش از مذاکرات تقویت کند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119081
+
+<div align="center">
+  <a href="telegram/content/alonews_119081_1778422450.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: نگفتم که عملیات نظامی علیه ایران تمام شده است، اما گفتم که آنها شکست خوردند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119080
+
+<div align="center">
+  <a href="telegram/content/alonews_119080_1778422451.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: اگر کسی به اورانیوم غنی‌شده ایران که زیر آوار دفن شده نزدیک شود، ما از آن مطلع خواهیم شد و آن را منفجر خواهیم کرد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119079
+
+<div align="center">
+  <a href="telegram/content/alonews_119079_1778422451.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: بالاخره به اورانیوم غنی‌شده ایران که زیر آوار مدفون شده، خواهیم رسید
+
+
+🔴ما اورانیوم غنی‌شده ایران را که زیر آوار دفن شده است، زیر نظر داریم و نیروی فضایی ایالات متحده آن را مدیریت می‌کند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119078
+
+<div align="center">
+  <a href="telegram/content/alonews_119078_1778422451.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈رئیس ستاد ارتش اسرائیل: ما در بالاترین سطح آماده باش برای بازگشت به جنگ ایران هستیم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 17:34
 ---
 
