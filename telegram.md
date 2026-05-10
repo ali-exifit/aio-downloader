@@ -7,6 +7,154 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 00:42
+---
+
+## VahidOOnLine — post 239391
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239391_1778447571.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+لیسبون | پرتغال؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239390
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239390_1778447573.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ، رئیس‌جمهوری آمریکا، در پیامی در شبکه اجتماعی «تروث سوشال» اعلام کرد پاسخ جمهوری اسلامی به پیشنهادهای اخیر واشینگتن را «کاملاً غیرقابل قبول» می‌داند.
+
+او نوشت: «من همین الان پاسخ به‌اصطلاح “نمایندگان” ایران را خواندم. از آن خوشم نمی‌آید — کاملاً غیرقابل قبول است!»
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239389
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239389_1778447574.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌
+باراک راوید، خبرنگار آکسیوس در شبکه اکس نوشت:
+«رئیس‌جمهوری ترامپ در تماس تلفنی به من گفت پاسخ اخیر ایران به پیش‌نویس توافق پایان جنگ را نمی‌پسندد. او گفت: این پاسخ قابل قبول نبود.»
+
+راوید در ادامه افزود ترامپ به او گفته در تماس تلفنی‌ با بنیامین نتانیاهو درباره پاسخ اخیر جمهوری اسلامی به پیش‌نویس توافق پایان جنگ گفت‌وگو کرده است.
+
+به گفته راوید ترامپ تأکید کرده موضوع ایران تنها بخش کوتاهی از این تماس بوده است.
+
+خبرنگار آکسیوس نوشت رئیس جمهوری آمریکا به او گفته که رابطه خوبی با نتانیاهو دارد اما «این موضوع (ایران) کار من است نه هیچ‌کس دیگر.»
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## IranIntlTV — post 336534
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336534_1778447575.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ پاسخ جمهوری اسلامی به پیشنهاد آمریکا را رد و آن را غیرقابل قبول توصیف کرد.
+
+او ساعاتی پیش نیز گفته بود اورانیوم غنی‌شده و برنامه هسته‌ای جمهوری اسلامی تحت نظر است و ایالات متحده در نهایت به آن دست پیدا خواهد کرد.
+
+گزارش مرضیه حسینی، خبرنگار ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## ManotoTV — post 105281
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105281_1778447577.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+لیسبون | پرتغال؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵
+</div>
+
+## ManotoTV — post 105280
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105280_1778447579.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ، رئیس‌جمهوری آمریکا، در پیامی در شبکه اجتماعی «تروث سوشال» اعلام کرد پاسخ جمهوری اسلامی به پیشنهادهای اخیر واشینگتن را «کاملاً غیرقابل قبول» می‌داند.
+
+او نوشت: «من همین الان پاسخ به‌اصطلاح “نمایندگان” ایران را خواندم. از آن خوشم نمی‌آید — کاملاً غیرقابل قبول است!»
+</div>
+
+## ManotoTV — post 105279
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105279_1778447579.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌
+باراک راوید، خبرنگار آکسیوس در شبکه اکس نوشت:
+«رئیس‌جمهوری ترامپ در تماس تلفنی به من گفت پاسخ اخیر ایران به پیش‌نویس توافق پایان جنگ را نمی‌پسندد. او گفت: این پاسخ قابل قبول نبود.»
+
+راوید در ادامه افزود ترامپ به او گفته در تماس تلفنی‌ با بنیامین نتانیاهو درباره پاسخ اخیر جمهوری اسلامی به پیش‌نویس توافق پایان جنگ گفت‌وگو کرده است.
+
+به گفته راوید ترامپ تأکید کرده موضوع ایران تنها بخش کوتاهی از این تماس بوده است.
+
+خبرنگار آکسیوس نوشت رئیس جمهوری آمریکا به او گفته که رابطه خوبی با نتانیاهو دارد اما «این موضوع (ایران) کار من است نه هیچ‌کس دیگر.»
+</div>
+
+## FarsiVOA — post 217375
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217375_1778447580.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️گزارش‌های شبکه‌های اجتماعی می‌گویند فردی که یک پرچم جمهوری اسلامی با خود داشت، روز یکشنبه ۲۰ اردیبهشت با خودرو خود به یک تجمع اعتراضی ایرانیان مخالف جمهوری اسلامی در ریچموند هیل کانادا کوبید.
+@FarsiVOA
+</div>
+
+## manototv — post 105281
+
+<div align="center">
+  <a href="telegram/content/manototv_105281_1778447581.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+لیسبون | پرتغال؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵
+</div>
+
+## manototv — post 105280
+
+<div align="center">
+  <a href="telegram/content/manototv_105280_1778447583.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ، رئیس‌جمهوری آمریکا، در پیامی در شبکه اجتماعی «تروث سوشال» اعلام کرد پاسخ جمهوری اسلامی به پیشنهادهای اخیر واشینگتن را «کاملاً غیرقابل قبول» می‌داند.
+
+او نوشت: «من همین الان پاسخ به‌اصطلاح “نمایندگان” ایران را خواندم. از آن خوشم نمی‌آید — کاملاً غیرقابل قبول است!»
+</div>
+
+## manototv — post 105279
+
+<div align="center">
+  <a href="telegram/content/manototv_105279_1778447584.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌
+باراک راوید، خبرنگار آکسیوس در شبکه اکس نوشت:
+«رئیس‌جمهوری ترامپ در تماس تلفنی به من گفت پاسخ اخیر ایران به پیش‌نویس توافق پایان جنگ را نمی‌پسندد. او گفت: این پاسخ قابل قبول نبود.»
+
+راوید در ادامه افزود ترامپ به او گفته در تماس تلفنی‌ با بنیامین نتانیاهو درباره پاسخ اخیر جمهوری اسلامی به پیش‌نویس توافق پایان جنگ گفت‌وگو کرده است.
+
+به گفته راوید ترامپ تأکید کرده موضوع ایران تنها بخش کوتاهی از این تماس بوده است.
+
+خبرنگار آکسیوس نوشت رئیس جمهوری آمریکا به او گفته که رابطه خوبی با نتانیاهو دارد اما «این موضوع (ایران) کار من است نه هیچ‌کس دیگر.»
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 00:35
 ---
 
