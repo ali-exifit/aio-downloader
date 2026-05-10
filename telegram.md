@@ -7,6 +7,84 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 01:02
+---
+
+## DEJradio — post 4555
+
+<div align="center">
+  <img src="telegram/content/DEJradio_4555_1778448750.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🛩️
+⭕️ براساس گزارش منابع محلی یکشنبه شب ۲۰ اردیبهشت ۱۴۰۵ توپ‌های پدافند در اندیمشک و دزفول برای مقابله با پهپادهای ناشناس فعال شدند.
+
+#پهپاد #دزفول #اندیمشک
+@DEJradio
+</div>
+
+## IranIntlTV — post 336535
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336535_1778448750.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+همزمان با تشدید فضای امنیتی در ایران، مقام‌های حکومتی بار دیگر بر برخورد با پوشش اختیاری زنان تاکید کرده‌اند.
+یکی از طراحان قانون عفاف و حجاب مدعی شد موساد ساعتی سه دلار به زنان ایران می‌دهد تا با «تاپ و شلوار» در میدان ولیعصر قدم بزنند.
+
+گفت‌وگو با پگاه بنی‌هاشمی، پژوهشگر حقوق
+@iranintltv
+</div>
+
+## ManotoTV — post 105282
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105282_1778448752.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌
+خبرگزاری‌های حکومتی گزارش دادند ارتش جمهوری اسلامی ساعتی پیش «یک فروند پهپادشناسایی دشمن متجاوز» را در منطقه جنوب غرب منهدم کرده است.
+</div>
+
+## FarsiVOA — post 217377
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️پاسخ جمهموری اسلامی به پیشنهاد آمریکا؛ جنگ یا توافق در گفتگو با ابراهیم روشندل دیپلمات پیشین
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217376
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️هشدار درباره نایاب شدن آنتی‌بیوتیک در ایران و شکل‌گیری بازار سیاه تلگرامی
+@FarsiVOA
+</div>
+
+## manototv — post 105282
+
+<div align="center">
+  <a href="telegram/content/manototv_105282_1778448753.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌
+خبرگزاری‌های حکومتی گزارش دادند ارتش جمهوری اسلامی ساعتی پیش «یک فروند پهپادشناسایی دشمن متجاوز» را در منطقه جنوب غرب منهدم کرده است.
+</div>
+
+## alonews — post 119171
+
+<div align="center">
+  <a href="telegram/content/alonews_119171_1778448753.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ابوالفظل اقبالی از نزدیکان جلیلی: اگر خانم‌ها حجاب را رعایت میکردند، جنگ نمیشد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 00:52
 ---
 
