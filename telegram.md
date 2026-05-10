@@ -7,6 +7,32 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 05:03
+---
+
+## VahidOOnLine — post 239192
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239192_1778376795.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مارکو روبیو، وزیر خارجه آمریکا، در پستی در ایکس با اشاره به دیدارش با نخست‌وزیر و وزیر خارجه قطر گفت در این دیدار درباره حمایت آمریکا از توان دفاعی قطر گفت‌وگو کرده است. او افزود: «شراکت ما برای بازدارندگی در برابر تهدیدها و تقویت ثبات در خاورمیانه اهمیت دارد.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## IranIntlTV — post 336380
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336380_1778376796.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مارکو روبیو، وزیر خارجه آمریکا، در پستی در ایکس با اشاره به دیدارش با نخست‌وزیر و وزیر خارجه قطر گفت در این دیدار درباره حمایت آمریکا از توان دفاعی قطر گفت‌وگو کرده است. او افزود: «شراکت ما برای بازدارندگی در برابر تهدیدها و تقویت ثبات در خاورمیانه اهمیت دارد.»
+https://iranintl.com/202605108121
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 04:53
 ---
 
