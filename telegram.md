@@ -7,6 +7,168 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 14:03
+---
+
+## VahidOOnLine — post 239256
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239256_1778409220.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خبرگزاری صداوسیمای جمهوری اسلامی اعلام کرد علی عبداللهی، فرمانده قرارگاه مرکزی خاتم‌الانبیا، با مجتبی خامنه‌ای دیدار کرده و گزارشی از وضعیت نیروهای مسلح جمهوری اسلامی به او ارائه داده است.
+
+بنا بر این گزارش، او به مجتبی خامنه‌ای گفته در صورت هرگونه خطای راهبردی، تعرض و تجاوز از سوی دشمنان با سرعت عمل، پرشدت و پرقدرت با آن برخورد خواهد شد.
+
+خبرگزاری صداوسیما همچنین نوشت که مجتبی خامنه‌ای در این دیدار، از عملکرد نیروهای مسلح جمهوری اسلامی «قدردانی» کرده است.
+
+این خبر در حالی منتشر شده که از زمان انتصاب مجتبی خامنه‌ای به‌عنوان سومین رهبر جمهوری اسلامی، هیچ تصویر، فایل صوتی یا ویدیویی از او منتشر نشده و پیش‌تر نیز خبری از دیدار او با مسعود پزشکیان، با شک و تردیدهای بسیاری همراه بود.
+iranintl
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8796
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇵🇰نخست وزیر پاکستان:
+
+🔸خوشحالم که امروز در تماس تلفنی با برادرم، جناب شیخ محمد بن عبد الرحمن بن جاسم آل ثانی، نخست‌وزیر و وزیر امور خارجه دولت قطر، گفتگو کردم.
+
+🔸در این تماس، دیدگاه‌هایمان را درباره تحولات اوضاع منطقه تبادل کردیم و بار دیگر بر تعهد مشترک خود برای حمایت از همه تلاش‌های جاری در جهت تقویت صلح پایدار، ثبات و گفت‌وگوی سازنده در سراسر منطقه تأکید کردیم.
+
+🔸همچنین صمیمانه از برادرم، جناب شیخ تمیم بن حمد آل ثانی، امیر دولت قطر، به خاطر رهبری حکیمانه‌اش و حمایت مستمر قطر از تلاش‌های صادقانه پاکستان برای تقویت صلح و ثبات منطقه‌ای از طریق گفت‌وگو و دیپلماسی، قدردانی کردم.
+
+🔸و مشتاقانه در انتظار سفر قریب‌الوقوع برادرم، امیر محترم دولت قطر، به پاکستان در آینده‌ای بسیار نزدیک هستم.
+
+@mwarmonitor
+</div>
+
+## pm_afshaa — post 90460
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رویترز : مجتبی خامنه‌ای به نیروهای ایرانی دستور داده عملیات‌ها رو ادامه بدن
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90459
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شنیده شدن انفجار در اربیل عراق
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## kianmeli1 — post 87321
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‏🔴کویت از مقابله با پهپادهای پرتاب شده به این کشور در صبح یکشنبه خبر داد
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87320
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‏🔴وزارت دفاع قطر تایید کرد که صبح یکشنبه یک کشتی تجاری باری در آب‌های این کشور هدف یک پهپاد قرار گرفته است
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87319
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‏🔴مهر به نقل از فرمانداری چابهار: شنیده شدن صدای انفجار مربوط به خنثی‌سازی مهمات عمل نکرده است
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87318
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴مدیرعامل آرامکو عربستان: حتی با صلح نفت گران می‌ماند
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87317
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴یک طلافروشی در بلوار اندرزگوی تهران هدف سرقت مسلحانه قرار گرفت و سارقان پس از آن، از محل متواری شدند
+https://t.me/kianmeli1
+</div>
+
+## IranIntlTV — post 336441
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336441_1778409221.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خبرگزاری صداوسیمای جمهوری اسلامی اعلام کرد علی عبداللهی، فرمانده قرارگاه مرکزی خاتم‌الانبیا، با مجتبی خامنه‌ای دیدار کرده و گزارشی از وضعیت نیروهای مسلح جمهوری اسلامی به او ارائه داده است.
+
+بنا بر این گزارش، او به مجتبی خامنه‌ای گفته در صورت هرگونه خطای راهبردی، تعرض و تجاوز از سوی دشمنان با سرعت عمل، پرشدت و پرقدرت با آن برخورد خواهد شد.
+
+خبرگزاری صداوسیما همچنین نوشت که مجتبی خامنه‌ای در این دیدار، از عملکرد نیروهای مسلح جمهوری اسلامی «قدردانی» کرده است.
+
+این خبر در حالی منتشر شده که از زمان انتصاب مجتبی خامنه‌ای به‌عنوان سومین رهبر جمهوری اسلامی، هیچ تصویر، فایل صوتی یا ویدیویی از او منتشر نشده و پیش‌تر نیز خبری از دیدار او با مسعود پزشکیان، با شک و تردیدهای بسیاری همراه بود.
+iranintl.com/202605101882
+</div>
+
+## alonews — post 119035
+
+<div align="center">
+  <a href="telegram/content/alonews_119035_1778409222.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 حمله‌ی سپاه پاسداران به اربیل عراق
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119034
+
+<div align="center">
+  <a href="telegram/content/alonews_119034_1778409224.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈رویترز به نقل از مدیرعامل آرامکوی عربستان: شوک عرضه جهانی ناشی از جنگ، جهان را در ۲ ماه گذشته از حدود یک میلیارد بشکه نفت محروم کرده است
+
+
+🔴حتی اگر جریان انرژی از سر گرفته شود، بازگشت سیستم به حالت عادی زمان خواهد برد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119033
+
+<div align="center">
+  <a href="telegram/content/alonews_119033_1778409224.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴بعد از ۱۵ سال در سوریه اولین تراکنش‌ها با «ویزا» و «مسترکارد» انجام شد.
+
+
+🤔جزو ساده‌ترین‌های روزمره در جهان، که مردم ایران دهه‌هاست ازش محروم‌اند.
+
+
+✅@AloNews
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 13:53
 ---
 
