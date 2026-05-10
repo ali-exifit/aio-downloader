@@ -7,6 +7,194 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 13:53
+---
+
+## pm_afshaa — post 90458
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شنیده شدن صدای جنگنده در شیراز
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90457
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مهر:دقایقی پیش صدای یک انفجار شدید در شهر چابهار شنیده شده است.
+هنوز جزئیات بیشتری از علت یا محل دقیق انفجار منتشر نشده
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 336440
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336440_1778408614.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اشکان اسدیان، شهروند ایرانی از حضورش در محل حادثه و درگیری با ضارب در حمله تروریستی به یهودیان در لندن می‌گوید.
+
+گفت‌وگوی رضا محدث، خبرنگار ایران‌اینترنشنال، با اشکان اسدیان، شاهد این حادثه
+@iranintltv
+</div>
+
+## Shin_Persian — post 5920
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Sun, 10 May 2026 10:19:32 UTC
+
+Explosions in Erbil, unknown nature.
+KRI, #Iraq 🇮🇶
+
+فارسی
+
+انفجارهایی در اربیل، ماهیت نامشخص.
+اقلیم کردستان عراق (KRI)، #Iraq 🇮🇶
+
+𝕏 · @shin_persian
+</div>
+
+## FarsiVOA — post 217330
+
+<div align="center">
+  <img src="telegram/content/FarsiVOA_217330_1778408617.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مدیر عامل شرکت هواپیمایی سوئیس اینترنشنال می‌گوید فعلاً با کمبود فوری سوخت جت مواجه نیست، اما برنامه‌های اضطراری سوخت را بررسی می‌کند.
+
+ینس فهلینگر در ادامه گفته است این شرکت برای شش هفته آینده ذخایر کافی سوخت جت در اختیار دارد و پیش‌بینی‌های تأمین‌کنندگان سوخت این شرکت در حال حاضر مثبت است.
+
+بیش از ۷۰ درصد سوخت هواپیمای مصرفی اروپا از کشورهای عرب حاشیه خلیج فارس تامین می‌شود که به خاطر انسداد تنگه هرمز توسط جمهوری اسلامی مختل و قیمت آن در بازارهای اروپایی دو برابر شده است.
+@FarsiVOA
+</div>
+
+## Dirty_Kids — post 389212
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389212_1778408618.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Mother's Day 2026
+
+روزت مبارک مامان ♥️
+#محمدرضاقربانی
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389211
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389211_1778408620.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+«بچه شیعه باخت نمیده»
+چون نزدیک جام‌جهانی هستیم این مدلیشم ببینید
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389210
+
+<div align="center">
+  <a href="https://t.me/Dirty_Kids/389210" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✅ اپلیکیشن اندروید سایت جهانی دربی بت
+
+💰اولین سایت جهانی با امکان شارژ و برداشت ریالی(کارت به کارت)
+
+🔗 برای ورود فیلترشکن روی کشور مناسب قرار دهید مانند فنلاند و المان و....
+
+😀Telegram Channel
+👇
+https://t.me/+bcynkEgSW2dlYTc0
+</div>
+
+## Dirty_Kids — post 389209
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389209_1778408622.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+😤دنبال یه سایت شرط بندی بین المللی بودی که به ایرانیا خدمات بده؟!
+⛔
+
+
+👍دربی بت همون انتخاب  100%
+
+
+💎ویژگی های سایت جهانی Derby Bet:
+
+⬅️امکان شارژ امن با کارت بانکی
+
+⬅️واریز اول دوبل شارژ می شوید(بونوس۱۰۰٪)
+
+⬅️پر اپشن ترین سایت فعال در ایران
+
+⬅️تسویه حساب کمتر از 5 دقیقه
+
+⬅️برگشت بخشی از باخت به صورت هفتگی
+
+
+🚨کد هدیه ثبت نام:GG007
+
+
+⚠️برای دانلود اپلکیشن کلیک کنید
+👉
+
+
+🔔کانال دربی بت :
+
+🪙https://t.me/+bcynkEgSW2dlYTc0
+</div>
+
+## Hranews — post 112859
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت اطلاعات از بازداشت شماری از افراد و کشته شدن یک تن خبر داد
+
+
+❗️
+❗️
+❗️
+❗️
+❗️ – وزارت اطلاعات در اطلاعیه ای از شناسایی و #بازداشت شماری از افراد در استان‌هایی از جمله آذربایجان‌‌غربی، کرمان و البرز خبر داد. این نهاد امنیتی، اتهامات مطروحه این افراد را #جاسوسی عنوان کرد و اظهار داشت که در جریان این عملیات یک تن کشته شده است.
+
+ادامه مطلب
+
+↘️
+@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑
+</div>
+
+## alonews — post 119032
+
+<div align="center">
+  <a href="telegram/content/alonews_119032_1778408623.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 رییس کمیسیون انرژی اتاق بازرگانی:
+سال گذشته هر هفته ۳ تا ۴ روز خاموشی ۲ ساعته داشتیم ولی امسال تمامی روزهای هفته ۲ ساعت قطعی برق خانگی، تجاری و اداری داریم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 13:43
 ---
 
