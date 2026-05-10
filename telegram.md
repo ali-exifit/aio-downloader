@@ -7,6 +7,38 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 05:33
+---
+
+## Shin_Persian — post 5915
+
+<div align="center">
+  <img src="telegram/content/Shin_Persian_5915_1778378606.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+↩️ Quoted tweet: Ali Vaez ✓ @AliVaez Sat, 09 May 2026 18:15:52 UTC Israel Built and Defended a Secret Iran War Base in Iraq https://www.wsj.com/world/middle-east/israel-built-and-defended-a-secret-iran-war-base-in-iraq-3590851a ↩️ توییت نقل‌قول شده — برای…
+</div>
+
+## Shin_Persian — post 5914
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+↩️ Quoted tweet:
+Ali Vaez ✓ @AliVaez
+Sat, 09 May 2026 18:15:52 UTC
+
+Israel Built and Defended a Secret Iran War Base in Iraq https://www.wsj.com/world/middle-east/israel-built-and-defended-a-secret-iran-war-base-in-iraq-3590851a
+
+↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.
+
+فارسی
+
+اسرائیل یک پایگاه جنگی مخفی علیه ایران در عراق ساخته و از آن دفاع کرده است https://www.wsj.com/world/middle-east/israel-built-and-defended-a-secret-iran-war-base-in-iraq-3590851a
+
+𝕏 · @shin_persian
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 05:22
 ---
 
