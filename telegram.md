@@ -7,6 +7,221 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 19:04
+---
+
+## VahidOOnLine — post 239316
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239316_1778427278.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️مایک والتز، سفیر ایالات متحده در سازمان ملل متحد، روز یکشنبه اعلام کرد دونالد ترامپ، رئیس‌جمهوری آمریکا، پیش از بازگشت به حملات نظامی علیه ایران، به مسیر دیپلماسی «هر فرصتی» خواهد داد.
+
+والتز در گفتگو با برنامه «این هفته» شبکه ای‌بی‌سی نیوز گفت تصمیم‌گیری درباره این‌که چه اقدامی نقض آتش‌بس محسوب می‌شود و چه زمانی باید به اقدام نظامی بازگشت، بر عهده ترامپ است.
+
+او افزود: «وقتی میانجی‌ها، در این مورد پاکستان، از ما می‌خواهند پیش از بازگشت به بمباران ایران، به این مذاکرات فرصت دیگری بدهیم، فکر می‌کنم این انتخاب کاملا مناسبی برای رئیس‌جمهوری ترامپ است.»
+
+والتز تاکید کرد ترامپ «پیش از بازگشت به خصومت‌ها، هر فرصتی را که ممکن باشد به دیپلماسی می‌دهد.»
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239315
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239315_1778427279.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+هانوفر | آلمان؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239314
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239314_1778427281.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ویدیوی رسیده به ایران‌اینترنشنال حاکی است گروهی از ایرانیان ساکن بریتانیا یکشنبه ۲۰ اردیبهشت در پی فراخوان شاهزاده رضا پهلوی در لندن تجمع کردند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239313
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239313_1778427283.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+هامبورگ | آلمان؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239312
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239312_1778427286.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌
+مالمو | سوئد؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## IranIntlTV — post 336492
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336492_1778427289.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ویدیوی رسیده به ایران‌اینترنشنال حاکی است گروهی از ایرانیان ساکن بریتانیا یکشنبه ۲۰ اردیبهشت در پی فراخوان شاهزاده رضا پهلوی در لندن تجمع کردند.
+</div>
+
+## IranIntlTV — post 336491
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336491_1778427292.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+معترضان ایرانی در بانکوک، پایتخت تایلند، هم‌صدا با کارزار جهانی «یک ملت در گروگان»، خواستار توجه جامعه بین‌المللی به وضعیت بحرانی داخل ایران شدند.
+@iranintltv
+</div>
+
+## ManotoTV — post 105251
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105251_1778427294.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+هانوفر | آلمان؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵
+</div>
+
+## ManotoTV — post 105250
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105250_1778427296.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+هامبورگ | آلمان؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵
+</div>
+
+## ManotoTV — post 105249
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105249_1778427299.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌
+مالمو | سوئد؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵
+</div>
+
+## Persian_Trend_Official — post 13833
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مستند رضاشاه، پدر ایران نوین 🔥
+</div>
+
+## Persian_Trend_Official — post 13832
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مستند رضاشاه، پدر ایران نوین 🔥
+</div>
+
+## Persian_Trend_Official — post 13831
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ رئیس انرژی: پارسال 9 هزار مگاوات کمبود برق داشتیم و امسال 24 هزارمگاوات؛ مردم برای قطعی های برق در هر 7 روز هفته خودشونو آماده کنن. 📝 Nick 📌 @persian_trend_official پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## RadioFarda — post 157035
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ: اهداف دیگری در ایران باقی مانده که می‌توانیم به آنها حمله کنیم
+
+🔸رئیس‌جمهور آمریکا می‌گوید عملیات نظامی در ایران تمام نشده و ارتش ایالات متحده می‌تواند اهداف دیگری را نیز هدف قرار دهد.
+
+🔸دونالد ترامپ در گفت‌وگویی با شریل اتکیسون، مجری آمریکایی، که هفته گذشته ضبط و روز یکشنبه ۲۰ اردیبهشت پخش شده است، در پاسخ به این سوال که آیا عملیات رزمی در ایران تمام شده است، گفت: «نه، من چنین چیزی نگفتم. من گفتم آن‌ها شکست خورده‌اند، اما این به آن معنا نیست که کارشان تمام شده است. ما می‌توانیم به مدت دو هفته بیشتر هم وارد عمل شویم و تک‌تک اهداف را هدف قرار دهیم.»
+
+🔸او با اشاره به این که در حملات آمریکا و اسرائیل طی جنگ اخیر «احتمالا ۷۰ درصد» اهداف مورد اصابت قرار گرفتند، افزود: «ما اهداف دیگری هم داریم که احتمالاً می‌توانیم به آن‌ها حمله کنیم. اما حتی اگر این کار را نکنیم، سال‌ها طول می‌کشد تا آن‌ها دوباره بازسازی شوند.»
+
+🔸به نظر می‌رسد اظهارات آقای ترامپ پیش از ارسال پاسخ ایران به آخرین پیشنهاد آمریکا برای این توافق انجام شده است. هرچند که او پیشنهادات قبلی ایران را رد کرده بود.
+
+🔸رئیس‌جمهور آمریکا در مصاحبه با شریل اتکیسون همچنین دربارهٔ اورانیوم غنی‌شده ایران که در عمق زمین و در تأسیسات هدف قرار گرفته در جنگ ۱۲ روزه سال گذشته مدفون شده‌اند، گفت: «ما در مقطعی آن را به دست خواهیم آورد… ما آنجا را تحت نظارت داریم.»
+
+🔸ترامپ اضافه کرد: «من چیزی به نام نیروی فضایی ایجاد کردم و آن‌ها آنجا را زیر نظر دارند… اگر کسی به آن محل نزدیک شود، ما مطلع خواهیم شد و آن‌ها را نابود خواهیم کرد.»
+
+🔸او بارها اشاره کرده است که توافق با ایران باید شامل تحویل ذخایر اورانیوم غنی‌شده ایران به آمریکا باشد. تهران چنین درخواستی را رد کرده است.
+
+@RadioFarda
+</div>
+
+## manototv — post 105251
+
+<div align="center">
+  <a href="telegram/content/manototv_105251_1778427301.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+هانوفر | آلمان؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵
+</div>
+
+## manototv — post 105250
+
+<div align="center">
+  <a href="telegram/content/manototv_105250_1778427303.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+هامبورگ | آلمان؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵
+</div>
+
+## manototv — post 105249
+
+<div align="center">
+  <a href="telegram/content/manototv_105249_1778427306.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌
+مالمو | سوئد؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵
+</div>
+
+## alonews — post 119103
+
+<div align="center">
+  <a href="telegram/content/alonews_119103_1778427308.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈هیمتی:
+مشکلات اقتصادی و تورم بخاطر جنگ هست
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119102
+
+<div align="center">
+  <a href="telegram/content/alonews_119102_1778427309.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈امیرعباس فخرآور: من هم لایق پادشاهی هستم چون سواد کافی و نفوذ خوبی در کاخ سفید دارم اما دنبال پادشاهی نیستم و دنبال ایران آزادم و پیش خیلی از مردم ایران هم اعتبارم زیاده
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 18:54
 ---
 
