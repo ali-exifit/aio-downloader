@@ -7,6 +7,281 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 02:22
+---
+
+## VahidOOnLine — post 239408
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239408_1778453551.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گردهمایی ایرانیان سانفرانسیسکو
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239407
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239407_1778453552.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گردهمایی ایرانیان هامبورگ
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239406
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239406_1778453554.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نیکوزیا|قبرس؛ راهپیمایی و گردهمایی ایرانیان
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239405
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239405_1778453555.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+جیسون برادسکی، مدیر سیاست‌گذاری اتحاد علیه ایران هسته‌ای، در مورد تماس تلفنی دونالد ترامپ و بنیامین نتانیاهو در مورد پاسخ جمهوری اسلامی نوشت: «تغییر وضع موجود ضروری است. محاصره لازم است، اما کافی نیست.»
+
+او در شبکه اجتماعی ایکس تاکید کرد ترکیب محاصره با اقدام نظامی مهم خواهد بود.
+
+برادسکی همچنین اشاره کرد: «برخلاف تصوری که رسانه‌ها و برخی مفسران ایجاد کرده‌اند، رییس‌جمهور همچنان نشان می‌دهد که به هیچ توافقی با رژیم ایران، صرف نظر از شرایط، مشتاق نیست. اگر او واقعا برای هر توافقی مشتاق بود، مدت‌ها پیش توافقی حاصل شده بود.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## pm_afshaa — post 90513
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفینگ با سرعت موشک گیر اوردم
+فقط 10 گیگ و 5 گیگ موجوده هر کی خواست بیاد دایرکت چنل
+</div>
+
+## IranIntlTV — post 336547
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336547_1778453555.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+جیسون برادسکی، مدیر سیاست‌گذاری اتحاد علیه ایران هسته‌ای، در مورد تماس تلفنی دونالد ترامپ و بنیامین نتانیاهو در مورد پاسخ جمهوری اسلامی نوشت: «تغییر وضع موجود ضروری است. محاصره لازم است، اما کافی نیست.»
+
+او در شبکه اجتماعی ایکس تاکید کرد ترکیب محاصره با اقدام نظامی مهم خواهد بود.
+
+برادسکی همچنین اشاره کرد: «برخلاف تصوری که رسانه‌ها و برخی مفسران ایجاد کرده‌اند، رییس‌جمهور همچنان نشان می‌دهد که به هیچ توافقی با رژیم ایران، صرف نظر از شرایط، مشتاق نیست. اگر او واقعا برای هر توافقی مشتاق بود، مدت‌ها پیش توافقی حاصل شده بود.»
+https://iranintl.com/202605105974
+</div>
+
+## IranIntlTV — post 336546
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336546_1778453556.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «سفر ترامپ به پکن می‌تواند پیام هشدار جدی‌تری برای تهران داشته باشد. به‌ویژه با توجه به تهدید دوباره ترامپ به بمباران شدیدتر در صورت عدم توافق. اعلام مذاکره ترامپ و شی جین‌ پینگ درباره جمهوری اسلامی، احتمال شکل‌گیری معامله و بده‌بستان میان واشینگتن و پکن بر سر پرونده ایران را پررنگ‌تر کرده است.»
+@iranintltv
+</div>
+
+## Shin_Persian — post 5950
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Sun, 10 May 2026 22:45:03 UTC
+
+NOW @ 2244Z -
+AA activity over northwestern Tehran, Tehran Province, #Iran
+
+فارسی
+
+هم‌اکنون در ۲۲۴۴ زولو (۰۲:۱۴ به وقت تهران) -
+فعالیت پدافند هوایی در شمال غرب تهران، استان تهران، #Iran
+
+𝕏 · @shin_persian
+</div>
+
+## ManotoTV — post 105286
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105286_1778453557.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گردهمایی ایرانیان سانفرانسیسکو
+</div>
+
+## ManotoTV — post 105285
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105285_1778453558.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گردهمایی ایرانیان هامبورگ
+</div>
+
+## ManotoTV — post 105284
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105284_1778453560.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نیکوزیا|قبرس؛ راهپیمایی و گردهمایی ایرانیان
+</div>
+
+## Dirty_Kids — post 389251
+
+<div align="center">
+  <a href="https://t.me/Dirty_Kids/389251" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✅ اپلیکیشن اندروید سایت جهانی دربی بت
+
+💰اولین سایت جهانی با امکان شارژ و برداشت ریالی(کارت به کارت)
+
+🔗 برای ورود فیلترشکن روی کشور مناسب قرار دهید مانند فنلاند و المان و....
+
+😀Telegram Channel
+👇
+https://t.me/+bcynkEgSW2dlYTc0
+</div>
+
+## Dirty_Kids — post 389250
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389250_1778453562.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+😤دنبال یه سایت شرط بندی بین المللی بودی که به ایرانیا خدمات بده؟!
+⛔
+
+
+👍دربی بت همون انتخاب  100%
+
+
+💎ویژگی های سایت جهانی Derby Bet:
+
+⬅️امکان شارژ امن با کارت بانکی
+
+⬅️واریز اول دوبل شارژ می شوید(بونوس۱۰۰٪)
+
+⬅️پر اپشن ترین سایت فعال در ایران
+
+⬅️تسویه حساب کمتر از 5 دقیقه
+
+⬅️برگشت بخشی از باخت به صورت هفتگی
+
+
+🚨کد هدیه ثبت نام:GG007
+
+
+⚠️برای دانلود اپلکیشن کلیک کنید
+👉
+
+
+🔔کانال دربی بت :
+
+🪙https://t.me/+bcynkEgSW2dlYTc0
+</div>
+
+## Dirty_Kids — post 389249
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389249_1778453562.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+#بخوابیم
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389248
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389248_1778453562.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+محصول مشترک الجزایر، فرانسه، ادیداس کرج و کردستان: @Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389247
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389247_1778453563.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بلایی که یه پریود ساده ممکنه سرت بیاره.
+
+این خانوم لارن وسر مدل آمریکاییه که بخاطر استفاده از تامپون تو سن ۲۴ سالگی دچار TSS یا سندروم شوک مسمومیت میشه و هر دو پاش رو از دست میده.
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389246
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389246_1778453563.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نه داداش تو نمیدونی جمهوری اسلامی خیلی خوب داره دووم میاره جلو آمریکا و اسرائیل :
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389245
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389245_1778453563.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دیگه نمیشه یبار مصرف کرد
+باید بعد استفاده بشوریمش رو بند آویزون کنیم
+
+
+@Dirty_Kids 👻
+</div>
+
+## manototv — post 105286
+
+<div align="center">
+  <a href="telegram/content/manototv_105286_1778453563.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گردهمایی ایرانیان سانفرانسیسکو
+</div>
+
+## manototv — post 105285
+
+<div align="center">
+  <a href="telegram/content/manototv_105285_1778453564.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گردهمایی ایرانیان هامبورگ
+</div>
+
+## manototv — post 105284
+
+<div align="center">
+  <a href="telegram/content/manototv_105284_1778453566.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نیکوزیا|قبرس؛ راهپیمایی و گردهمایی ایرانیان
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 02:12
 ---
 
