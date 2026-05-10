@@ -7,6 +7,78 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 17:03
+---
+
+## mwarmonitor — post 8817
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رئیس‌جمهور ترامپ از خطوط قرمز خود عقب‌نشینی نکرده است. او خطوط قرمز خود را حفظ کرده که این نکته مثبتی برای اوست. اما من فکر می‌کنم ما باید فشارهای اقتصادی را حفظ کنیم، محاصره را ادامه دهیم؛ اقتصاد آن‌ها در حال فروپاشی است و آن‌ها نمی‌توانند این حجم از فشار…
+</div>
+
+## IranIntlTV — post 336466
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336466_1778420032.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+انتشار تصاویر ماهواره‌ای تازه از احتمال نشت نفت در آب‌های اطراف جزیره خارک، توجه جهانی را جلب کرده است. هم‌زمان، تهدید رسانه‌های نزدیک به سپاه پاسداران درباره کنترل کابل‌های اینترنتی زیر دریا، نگرانی‌ها درباره امنیت انرژی و آسیب‌پذیری زیرساخت‌های حیاتی در تنگه هرمز را افزایش داده است.
+
+عادله بورنگ، عضو تحریریه ایران‌اینترنشنال، از واکنش کاربران رسانه‌های اجتماعی به این موضوع‌ها گزارش می‌دهد
+@iranintltv
+</div>
+
+## IranIntlTV — post 336465
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336465_1778420035.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کارزار همبستگی ایرانیان خارج از کشور با «ملت در گروگان» در ایران ادامه دارد. این تجمع‌ها با فراخوان شاهزاده رضا پهلوی و در اعتراض به تشدید اعدام‌‌ها، سرکوب و قطع اینترنت در ایران، برگزار می‌شود.
+
+علی حسن‌پور، خبرنگار ایران‌اینترنشنال، از تجمع شهر برلین گزارش می‌دهد
+@iranintltv
+</div>
+
+## Shin_Persian — post 5930
+
+<div align="center">
+  <img src="telegram/content/Shin_Persian_5930_1778420037.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Dubai Media Office ✓ @DXBMediaOffice Sun, 10 May 2026 11:25:48 UTC توضيح: الدخان الملاحظ في منطقة الجداف ناتج عن حريق في قارب متوقف في خور دبي. ولم ينتج عن الحريق اي إصابات، وتعود كثافة الدخان إلى مادة الفيبرجلاس المستخدمة في تصنيع القارب. وتدعو الجهات المعنية…
+</div>
+
+## Shin_Persian — post 5929
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Dubai Media Office ✓ @DXBMediaOffice
+Sun, 10 May 2026 11:25:48 UTC
+
+توضيح: الدخان الملاحظ في منطقة الجداف ناتج عن حريق في قارب متوقف في خور دبي. ولم ينتج عن الحريق اي إصابات، وتعود كثافة الدخان إلى مادة الفيبرجلاس المستخدمة في تصنيع القارب. وتدعو الجهات المعنية الجمهور إلى الحصول على المعلومات من المصادر الرسمية وعدم تداول الشائعات أو المعلومات
+
+English
+
+Clarification: The smoke observed in the Al Jaddaf area is resulting from a fire in a boat docked in Dubai Creek. The fire has not resulted in any injuries, and the density of the smoke is due to the fiberglass material used in the boat's manufacturing. Concerned authorities urge the public to obtain information from official sources and to avoid circulating rumors or misinformation.
+
+𝕏 · @shin_persian
+</div>
+
+## alonews — post 119068
+
+<div align="center">
+  <a href="telegram/content/alonews_119068_1778420038.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ایسنا: تمرکز اصلی پاسخ ایران به طرح پیشنهادی آمریکا بر «خاتمه جنگ و امنیت دریانوردی» در خلیج فارس و تنگه هرمز است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 16:53
 ---
 
