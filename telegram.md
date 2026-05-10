@@ -7,6 +7,106 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 13:13
+---
+
+## mwarmonitor — post 8790
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایرانی‌ها می‌گویند: «بیایید فقط دندان روی جگر بگذاریم (صبر کنیم). اگر دموکرات‌ها مجلس نمایندگان را بگیرند، این خودش یک "تغییر رژیم" در آمریکاست.» و اگر دموکرات‌ها ریاست‌جمهوری را هم به دست بیاورند، وای... آن وقت دیگر دست‌مان برای هر کاری باز است. سه سال بعد،…
+</div>
+
+## pm_afshaa — post 90456
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴صدای انفجار در چابهار شنیده شده
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## Shin_Persian — post 5918
+
+<div align="center">
+  <img src="telegram/content/Shin_Persian_5918_1778406199.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Sun, 10 May 2026 09:38:47 UTC
+
+State-affiliated Mehr News:
+
+Loud explosion heard in the city of Chabahar. No details on cause or exact location yet.
+Sistan and Baluchestan Province, #Iran
+
+فارسی
+
+خبرگزاری دولتی مهر:
+
+صدای انفجار مهیبی در شهر چابهار شنیده شد. هنوز جزئیاتی از علت یا محل دقیق آن در دست نیست.
+استان سیستان و بلوچستان، #Iran_
+
+𝕏 · @shin_persian
+</div>
+
+## alonews — post 119025
+
+<div align="center">
+  <a href="telegram/content/alonews_119025_1778406199.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ایلان ماسک:
+
+🔴دخترها
+
+🔴پول
+
+🔴بدون مالیات
+
+🔴جشن
+
+
+🔴(واقعا بیخیال خودتون نشید، بچه‌ها)
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119024
+
+<div align="center">
+  <a href="telegram/content/alonews_119024_1778406199.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 این پایگاه هوایی سری اسرائیل در عراق است.
+
+
+🔴تصاویر ماهواره‌ای نشان می‌دهند که یک باند فرودگاهی به طول تقریبی ۱.۶ کیلومتر در بستر یک دریاچه خشک شده، حدود ۱۸۰ کیلومتر جنوب غربی نجف/کربلا در بیابان غربی عراق، پاکسازی شده است.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119023
+
+<div align="center">
+  <a href="telegram/content/alonews_119023_1778406200.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈دقایقی پیش صدای یک انفجار شدید در شهر چابهار شنیده شده است.
+
+
+🔴هنوز جزئیات بیشتری از علت یا محل دقیق انفجار منتشر نشده است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 13:03
 ---
 
