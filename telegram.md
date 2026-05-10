@@ -7,6 +7,179 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 20:35
+---
+
+## VahidOOnLine — post 239344
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239344_1778432702.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ویدیوهای رسیده نشان می‌دهند یکشنبه ۲۰ اردیبهشت ایرانیان مقیم شهرهای بارسلون در اسپانیا، کپنهاگ دانمارک و لاهه در هلند علیه جمهوری اسلامی تجمع کردند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239343
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239343_1778432705.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+احمد مرادی، عضو کمیسیون انرژی مجلس گفت: کشورهای منطقه نباید «فریب» دونالد ترامپ و بنیامین نتانیاهو را بخورند و برای دستیابی به آرامش باید با تهران هماهنگ باشند و قدرت جمهوری اسلامی را درک کنند.
+
+او افزود: تنگه هرمز دیگر به وضعیت گذشته بازنخواهد گشت و جمهوری اسلامی بر حفظ این موقعیت راهبردی تاکید دارد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## pm_afshaa — post 90495
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90495_1778432706.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴وزیر انرژی آمریکا در مصاحبه با CBS:
+اهداف نظامی محقق شدن اما پایان دادن به برنامه هسته‌ای ایران هنوز باید محقق بشه؛ به احتمال زیاد این از طریق مذاکره محقق میشه، اما لزوماً اینگونه نخواهد شد!
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90494
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90494_1778432706.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ابوالفضل اقبالی، از طراحان «قانون عفاف و حجاب»:
+
+موساد برای راه رفتن با تاپ و شلوار در میدان ولیعصر ساعتی 3 دلار میده.
+عدم ابلاغ قانون حجاب باعث شده جنگ بشه
+یه شکافی ایجاد شده و حکومت دیگه نمیتونه بزور مردم رو به حجاب وادار کنه
+
+
+💧Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## DEJradio — post 4549
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4549_1778432709.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨
+👑 بولونیا؛ تظاهرات ایرانیان میهن‌دوست در پاسخ به فراخوان شاهزاده رضا پهلوی، ۲۰ اردیبهشت ۱۴۰۵
+
+#بولونیا #همبستگی #انقلاب_شیروخورشید
+@DEJradio
+</div>
+
+## DEJradio — post 4548
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4548_1778432711.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎥📢 اعتراض یک شهروندان به افزایش شدید قیمت کالاها
+
+#گرانی #فروپاشی
+@DEJradio
+</div>
+
+## IranIntlTV — post 336510
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336510_1778432714.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ویدیوهای رسیده نشان می‌دهند یکشنبه ۲۰ اردیبهشت ایرانیان مقیم شهرهای بارسلون در اسپانیا، کپنهاگ دانمارک و لاهه در هلند علیه جمهوری اسلامی تجمع کردند.
+</div>
+
+## IranIntlTV — post 336509
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336509_1778432717.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+احمد مرادی، عضو کمیسیون انرژی مجلس گفت: کشورهای منطقه نباید «فریب» دونالد ترامپ و بنیامین نتانیاهو را بخورند و برای دستیابی به آرامش باید با تهران هماهنگ باشند و قدرت جمهوری اسلامی را درک کنند.
+
+او افزود: تنگه هرمز دیگر به وضعیت گذشته بازنخواهد گشت و جمهوری اسلامی بر حفظ این موقعیت راهبردی تاکید دارد.
+https://iranintl.com/202605101132
+</div>
+
+## ManotoTV — post 105265
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105265_1778432718.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نیس | فرانسه؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵
+</div>
+
+## FarsiVOA — post 217358
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217358_1778432721.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رضا تقی‌زاده، چهره شناخته‌شده پادشاهی‌خواهان مشروطه‌طلب در عمق میدان در پاسخ به این پرسش که دستاورد رضا پهلوی چه بوده؛ گفت: تقویت و باز کردن دست جمهوری اسلامی بر کشتار و سرکوب
+</div>
+
+## BBCPersian — post 280682
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻پاکستان: پاسخ ایران پس از دریافت به طرف آمریکایی منتقل شد
+
+وزارت خارجه پاکستان اعلام کرد که پاسخ ایران به پیشنهاد ایالات متحده درباره جنگ دریافت و به آمریکا منتقل شده است.
+
+این خبر در حالی منتشر می‌شود که پاکستان به عنوان میانجی گفتگوهای ایران و آمریکا مسئولیت تبادل پیام‌ها میان دو کشور را بر عهده گرفته است.
+
+ایران ساعتی پیش گفت پاسخ خود به آمریکا را به مقام‌های پاکستان ارسال کرده است.
+
+https://bbc.in/4tqsDXS
+</div>
+
+## manototv — post 105267
+
+<div align="center">
+  <a href="telegram/content/manototv_105267_1778432722.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ در مصاحبه با برنامه فول مژر با شریل اتکیسن گفت آمریکا مواد هسته‌ای و اورانیوم غنی‌شده ایران را زیر نظر دارد و در صورت نزدیک شدن افراد به محل آن، واشنگتن مطلع خواهد شد.
+
+او گفت عملیات رزمی علیه ایران را پایان‌یافته نمی‌داند، هرچند به گفته او ایران «شکست خورده» است. ترامپ افزود آمریکا حدود ۷۰ درصد اهداف مورد نظر خود را زده و اهداف دیگری هم وجود دارد که ممکن است هدف قرار بگیرد.
+
+ترامپ همچنین گفت واشنگتن نباید اجازه دهد ایران به سلاح هسته‌ای برسد و مدعی شد اگر حمله بمب‌افکن‌های بی‌دو آمریکا به تاسیسات هسته‌ای ایران انجام نمی‌شد، جمهوری اسلامی ظرف دو هفته به سلاح هسته‌ای دست پیدا می‌کرد.
+</div>
+
+## manototv — post 105266
+
+<div align="center">
+  <a href="telegram/content/manototv_105266_1778432724.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فرانکفورت | آلمان؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵
+</div>
+
+## manototv — post 105265
+
+<div align="center">
+  <a href="telegram/content/manototv_105265_1778432727.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نیس | فرانسه؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 20:24
 ---
 
