@@ -7,6 +7,237 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 18:13
+---
+
+## VahidOOnLine — post 239300
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239300_1778424236.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مایک والتز، نماینده آمریکا در سازمان ملل متحد، به فاکس نیوز گفت: عملیات خشم اقتصادی در حال حاضر اقتصاد ایران را ویران می‌کند. پول آنها در حال سقوط آزاد است، ذخایر ارزی آنها نزدیک به صفر است.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239299
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239299_1778424237.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اینسبروک | اتریش؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239298
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239298_1778424238.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ژنو | سوئیس؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8829
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📝این آخرین تلاش‌هایِ دولتِ اِستامر قبل از کله‌پا شدنِ
+</div>
+
+## mwarmonitor — post 8828
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ: «برای من لازم بود که مداخله نظامی انجام دهم، زیرا با اطمینان می‌دانستم که ایران در مسیر دستیابی به سلاح هسته‌ای قرار دارد.» @mwarmonitor
+</div>
+
+## kianmeli1 — post 87325
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ: «ما می‌توانیم دو هفته دیگر ادامه دهیم و تک تک اهداف را هدف قرار دهیم، ما اهداف مشخصی داریم که می‌خواستیم به آنها برسیم و ۷۰ درصد آنها را انجام داده‌ایم.
+
+احتمالاً اهداف بیشتری هم وجود دارد که می‌توانیم به آنها ضربه بزنیم.»
+https://t.me/kianmeli1
+</div>
+
+## IranIntlTV — post 336481
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336481_1778424240.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یکی از شرکت‌کنندگان در تجمع لندن در گفت‌وگو با آیدین مقیمی، خبرنگار ایران‌اینترنشنال، گفت: «تا وقتی که اینترنت مردم ایران قطع باشد، صدای ایرانیان داخل کشور در سراسر جهان هستیم.»
+@iranintltv
+</div>
+
+## IranIntlTV — post 336480
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336480_1778424241.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سرخط خبرهای یکشنبه ۲۰ اردیبهشت
+@iranintltv
+</div>
+
+## IranIntlTV — post 336479
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336479_1778424242.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مایک والتز، نماینده آمریکا در سازمان ملل متحد، به فاکس نیوز گفت: عملیات خشم اقتصادی در حال حاضر اقتصاد ایران را ویران می‌کند. پول آنها در حال سقوط آزاد است، ذخایر ارزی آنها نزدیک به صفر است.
+https://iranintl.com/202605109384
+</div>
+
+## Shin_Persian — post 5932
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Sun, 10 May 2026 14:37:49 UTC
+
+State-run YJC citing Al Jazeera:
+"Pakistan delivered [Islamic Regime of] Iran's response to the United States on the ceasefire terms"
+
+فارسی
+
+خبرگزاری دولتی YJC به نقل از الجزیره:
+«پاکستان پاسخ [رژیم اسلامی] ایران درباره شرایط آتش‌بس را به ایالات متحده تحویل داد»
+
+𝕏 · @shin_persian
+</div>
+
+## Shin_Persian — post 5931
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📦 mhrv-rs v1.9.19 released
+
+• **UI accessibility
+• Also rolling up the exit_node Content-Encoding fix (#964)
+
+Files (Android APKs, Windows, macOS, Linux, OpenWRT) on the files channel:
+
+👉 v1.9.19 — all files with SHA-256
+
+Channel:
+https://t.me/mhrv_rs
+or: https://t.me/+R1OyoHX2boA1ZDgx
+
+#v1919
+</div>
+
+## FarsiVOA — post 217347
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217347_1778424243.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ارتش اسرائیل اعلام کرد در هفته گذشته حدود ۷۰ موضع حزب‌الله را هدف قرار داده و بیش از ۳۰ نیروی حزب‌الله را حذف کرده است. این ارتش همچنین از رهگیری و انهدام چند موشک شلیک شده به سمت نیروهای اسرائیل در جنوب لبنان خبر داد.
+</div>
+
+## RadioFarda — post 157034
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸یک هفته پس از سخنان امام جمعه رشت درباره لزوم برخورد با «بی‌حجابی»، یکی از مداحان حکومتی در تجمعی، زنان« کم‌حجابی» را که «به میدان آمده‌اند» «دختران این کشور» توصیف کرد.
+
+🔸پیش‌تر امام جمعه رشت خواستار برخورد با زنانی شده بود که از حجاب اجباری تبعیت نمی‌کنند.
+
+🔸جمهوری اسلامی سابقه‌ای طولانی در محدود کردن حقوق زنان دارد و طی دهه‌های گذشته قوانین سخت‌گیرانه‌ای درباره پوشش زنان اعمال کرده است.
+
+🔸با این حال، از زمان اعتراض‌های «زن، زندگی، آزادی» تاکنون، زنان با حضور و نافرمانی مدنی، حکومت را برای کاهش محدودیت‌ها تحت فشار قرار داده‌اند.
+
+@RadioFarda
+</div>
+
+## BBCPersian — post 280664
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔹چند خبر کوتاه از ایران
+
+▪️وزارت خارجه ایران رافائل گروسی، مدیرکل آژانس بین‌المللی انرژی اتمی، را به سیاسی‌کاری متهم کرد. سخنگوی وزارت خارجه ایران در شبکه اجتماعی ایکس نوشت وظیفه آژانس «راستی‌آزمایی است، نه ارسال پیام‌های سیاسی در مورد تنگه هرمز، موشک‌های ایران یا نحوه رفتار تهران.» به گفته اسماعیل بقایی «وقتی بی‌طرفی حرفه‌ای قربانی رفتارهای سیاسی یا جاه‌طلبی‌های شخصی بشود، اعتبار نهادها دچار فرسایش می‌شود و بعد از چندی اثربخشی آنها نیز مخدوش می‌گردد.» آقای گروسی هفته گذشته در مصاحبه‌ای گفته بود توافق آمریکا و ایران نیازمند اراده سیاسی در تهران است.»
+
+▪️نایب رئیس مجلس ایران گفت: «تنگه هرمز با عملیات نظامی باز نمی‌شود.» علی نیکزاد در نطق پیش از دستور در جلسه اینترنتی امروز مجلس گفت: «سال‌ها بود که تنگه هرمز با نجابت ملت ایران مورد استفاده شما قرار می‌گرفت. این شما بودید که جنگ‌افروزی کردید و امروز باید به نظم جدید این آبراه استراتژیک عادت کنید.»
+
+▪️مسعود پزشکیان در جلسه کارگروه بازسازی پس از جنگ گفت که «اگر «سخنی از گفت‌وگو یا مذاکره مطرح می‌شود، معنای آن تسلیم یا عقب‌نشینی نیست» و هدف «احقاق حقوق ملت ایران و دفاع مقتدرانه از منافع ملی است.»
+
+https://bbc.in/4u0SGG1
+@BBCPersian
+</div>
+
+## alonews — post 119093
+
+<div align="center">
+  <a href="telegram/content/alonews_119093_1778424244.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: حتی اگر به اهداف باقی‌مانده در ایران حمله نکنیم، بازسازی آنها سال‌ها طول خواهد کشید.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119092
+
+<div align="center">
+  <a href="telegram/content/alonews_119092_1778424244.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: ما اکنون نفت و گازی بیشتر از مجموع روسیه و عربستان سعودی تولید می‌کنیم.
+
+
+🔴 تا پایان امسال، این عدد احتمالاً دو برابر خواهد شد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119091
+
+<div align="center">
+  <a href="telegram/content/alonews_119091_1778424245.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 ترامپ: ناتو ثابت کرده که یک ببر کاغذی است. آن‌ها برای کمک آنجا نبودند.
+
+
+🔴جالب این است که بسیاری از کشورهای ناتو از تنگه هرمز استفاده می‌کنند — ما از تنگه استفاده نمی‌کنیم.
+
+
+🔴ما به تنگه نیاز نداریم. ما این کار را برای کمک به اسرائیل و عربستان سعودی و قطر و امارات متحده عربی و دیگران انجام دادیم.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119090
+
+<div align="center">
+  <a href="telegram/content/alonews_119090_1778424246.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 ترامپ درباره جمهوري اسلامي: رهبران آن‌ها رفته‌اند، تیم A رفته، تیم B رفته و احتمالاً تیم C رفته است.
+
+
+🔴ما با افرادی طرف هستیم که قدرتی خاص دارند. بسیار جالب است — آن‌ها توافق می‌کنند و سپس آن را نقض می‌کنند.
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 18:04
 ---
 
