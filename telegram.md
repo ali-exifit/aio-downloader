@@ -7,6 +7,101 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 02:12
+---
+
+## pm_afshaa — post 90511
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ پست جدیدی در تروث خود از صحبت های مارک لوین با محتوای ضرورت آموزش نظامی مردم ایران ( گارد جاویدان ) را منتشر کرد.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90510
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴مارک فاکس، معاون سابق فرماندهی مرکزی آمریکا : آتش‌بس با ایران به اسرائیل اجازه داد تا ذخایر مهمات خودشو دوباره پر کنه و اطلاعات بیشتری جمع‌آوری کنه
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 336545
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336545_1778452956.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ پاسخ جمهوری اسلامی به پیشنهاد آمریکا را غیرقابل قبول دانست.
+
+او پیش‌تر گفته بود جمهوری اسلامی ۴۷ سال با آمریکا و جهان بازی کرده و با تاخیر، زمان خریده است، اما این اتفاق دیگر نخواهد افتاد.
+
+گفت‌وگو با شایان سمیعی، کارشناس امنیت ملی
+@iranintltv
+</div>
+
+## Shin_Persian — post 5949
+
+<div align="center">
+  <a href="telegram/content/Shin_Persian_5949_1778452958.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Sun, 10 May 2026 22:36:12 UTC
+
+Earlier @ 1800Z -
+AA activity,
+ring road near Ziba Shahr in Dezful.
+Khuzestan Province, #Iran
+(Via @mamlekate)
+
+فارسی
+
+پیش‌تر در ساعت ۱۸۰۰ زولو (۲۱:۳۰ به وقت تهران) -
+فعالیت پدافند هوایی،
+کمربندی نزدیک زیباشهر در دزفول.
+استان خوزستان، #Iran
+(از طریق @mamlekate)
+
+𝕏 · @shin_persian
+</div>
+
+## FarsiVOA — post 217385
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️در جلسه مجلس شورای اسلامی برای گرانی چه گذشت؟
+@FarsiVOA
+</div>
+
+## BBCPersian — post 280699
+
+<div align="center">
+  <img src="telegram/content/BBCPersian_280699_1778452959.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻تیم فوتبال بارسلونا با شکست دو بر صفر رئال مادرید، با وجود سه مسابقه باقی‌مانده، قهرمان شد و برای ۲۹مین بار جام قهرمانی باشگاه‌های اسپانیا - لالیگا - را تصاحب کرد.
+
+دو تیم عصر یکشنبه در مهمترین الکلاسیکو سال و در قالب هفته سی و پنجم لالیگا روبروی هم قرار گرفتند که شاگردان فلیک در همان دقایق ابتدایی - دقیقه ۹ - با کاشته زیبا رشفورد جلو افتادند.
+
+تورس تنها ۹ دقیقه بعد - در دقیقه ۱۸ - گل دوم بارسلونا را زد تا هانسی فلیک در همان نیمه اول برق قهرمانی در چشمانش ثبت شود.
+
+این قهرمانی برای بارسلونا ارزش مضاعفی داشت چرا که آنها با شکست مستقیم رقیب سنتی خود جام را کسب کردند.
+
+📸 Getty
+
+@BBCPersian
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 02:02
 ---
 
