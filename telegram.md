@@ -7,6 +7,153 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 01:32
+---
+
+## VahidOOnLine — post 239400
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239400_1778450542.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+راهپیمایی ایرانیان وین
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239399
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239399_1778450543.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️خبرگزاری صداوسیما روز یکشنبه، ۲۰ اردیبهشت‌ماه، گزارش داد، طرح تهران که ترامپ آن را «غیرقابل قبول» خواند، بر «ضرورت پایان تحریم‌ها، آزادسازی اموال توقیف شده، پرداخت خسارت‌های جنگ و حاکمیت جمهوری اسلامی بر تنگه هرمز» تاکید دارد. براساس این گزارش، جمهوری اسلامی همچنین بر «یکپارچگی جبهه مقاومت تاکید دارد». پیش از این، ترامپ با انتشار پیامی در «تروث سوشال» پاسخ تهران به پیشنهاد واشنگتن را «کاملا غیرقابل قبول» خواند و اعلام کرد که «از پاسخ به‌اصطلاح نمایندگان ایران خوشم نیامد».
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## pm_afshaa — post 90506
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90506_1778450544.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴نتانیاهو: وقتشه خودمون رو از کمک‌های مالی و نظامی بقیه بی‌نیاز کنیم.
+
++ این حرفش بوی جنگ بدون حضور آمریکا میده.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90505
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90505_1778450544.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴دونالد ترامپ به اکسیوس: با نتانیاهو درباره پاسخ ایران گفتوگو کردم.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90504
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90504_1778450545.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴سناتور لیندزی گراهام:
+برای من آشکار است که ایران معتقده که رئیس جمهور ترامپ در مورد گزینه‌های نظامی آینده بلوف میزنه.
+
+به درک من از اوضاع، این میتونه یک اشتباه فاجعه‌بار از سوی رهبری ایران باشه. منتظر باشید.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 336540
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336540_1778450545.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «سخنان تند ترامپ، درست در روزی که جمهوری اسلامی پاسخ خود را به پیشنهاد آمریکا تحویل داده، می‌تواند نشانه نارضایتی واشینگتن از محتوای این پاسخ باشد. استفاده ترامپ از عباراتی مثل سال‌ها ما را بازی دادند و دیگر اجازه نمی‌دهیم به ما بخندند نشان می‌دهد صبر آمریکا نسبت به روند فعلی به شدت کاهش پیدا کرده است.»
+@iranintltv
+</div>
+
+## Shin_Persian — post 5947
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Sun, 10 May 2026 21:53:45 UTC
+
+Explosions heard in Soran district, Erbil province
+#Iraq 🇮🇶
+
+فارسی
+
+صدای انفجارهایی در شهرستان سوران، استان اربیل شنیده شد
+#Iraq 🇮🇶
+
+𝕏 · @shin_persian
+</div>
+
+## ManotoTV — post 105283
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105283_1778450546.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+راهپیمایی ایرانیان وین
+</div>
+
+## FarsiVOA — post 217381
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺اقدام جمهوری اسلامی در «قطع اینترنت» باعث اخراج صدها نفر از کارکنان شرکت‌های فناوری در ایران شده است
+
+◾️روزنامه «نیویورک تایمز» روز یکشنبه ۲۰ اردیبهشت در گزارشی نوشت که تشدید بحران اقتصادی در ایران، در پی عملیات نظامی آمریکا و اسرائیل و همچنین محاصره دریایی تنگه هرمز، و قطعی اینترنت باعث اخراج گسترده کارکنان در بخش‌های مختلف اقتصادی شده است.
+
+⬇️ بیشتر بخوانید:
+https://ir.voanews.com/a/nytimes-report-iranian-loss-of-job-and-income-economic-fury/8148531.html
+@FarsiVOA
+</div>
+
+## manototv — post 105283
+
+<div align="center">
+  <a href="telegram/content/manototv_105283_1778450548.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+راهپیمایی ایرانیان وین
+</div>
+
+## alonews — post 119173
+
+<div align="center">
+  <a href="telegram/content/alonews_119173_1778450549.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈مارک فاکس، معاون سابق فرماندهی مرکزی آمریکا :
+آتش‌بس با ایران به اسرائیل اجازه داد تا ذخایر مهمات خودشو دوباره پر کنه و اطلاعات بیشتری جمع‌آوری کنه
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 01:22
 ---
 
