@@ -7,6 +7,91 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 23:42
+---
+
+## VahidOOnLine — post 239379
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239379_1778443958.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️روزنامه وال‌استریت ژورنال، شامگاه یکشنبه ۲۰ اردیبهشت ماه، به نقل از منابعی آگاه، جزئیاتی از پاسخ ایران به پیشنهاد صلح آمریکا را منتشر کرد.
+به گزارش این روزنامه، پاسخ ایران که از طریق پاکستان به‌عنوان میانجی به واشنگتن منتقل شده، همچنان اختلاف‌های مهمی میان دو طرف باقی گذاشته است.
+به گفته منابع وال‌استریت ژورنال، تهران حاضر نشده از پیش درباره سرنوشت برنامه هسته‌ای خود و ذخایر اورانیوم با غنای بالا تعهد بدهد. ایران پیشنهاد کرده مسائل هسته‌ای طی ۳۰ روز آینده مورد مذاکره قرار گیرد. مقامام‌های ایران همچنین برای رقیق‌سازی بخشی از اورانیوم غنی‌شده و انتقال بخش دیگری از آن به یک کشور ثالث اعلام آمادگی کرده‌اند.
+وال‌استریت ژورنال گزارش داد تهران با برچیدن تاسیسات هسته‌ای خود مخالفت کرده، اما در عین حال آمادگی‌اش را برای تعلیق غنی‌سازی اورانیوم اعلام کرده است؛ تعلیقی که به گفته این روزنامه، مدت آن کوتاه‌تر از توقف ۲۰ ساله پیشنهادی آمریکا خواهد بود.
+بر اساس این گزارش، ایران در پاسخی چندصفحه‌ای به تازه‌ترین پیشنهاد آمریکا برای پایان دادن به جنگ، خواستار پایان درگیری‌ها و لغو محاصره کشتی‌ها و بنادر ایرانی شده و پیشنهاد داده است تنگه هرمز به‌تدریج به روی رفت‌وآمد تجاری باز شود.
+وال‌استریت ژورنال نوشت ایران در مقابل، خواستار تضمین‌هایی شده است که اگر مذاکرات شکست بخورد یا آمریکا در آینده از توافق خارج شود، اورانیوم منتقل‌شده دوباره به ایران بازگردانده شود.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8854
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ما همین حالا موفق شدیم آزادی سه زندانی لهستانی و دو زندانی مولداویایی را از بازداشتگاه‌های بلاروس و روسیه تضمین کنیم. با تشکر از فرستاده ویژه ریاست‌جمهوری من، «جان کول»، ما توانستیم با فشار زیاد این آزادی را محقق کنیم.
+دوست من، کارول ناوروکی، رئیس‌جمهور لهستان، سپتامبر گذشته با من دیدار کرد و از من خواست تا برای آزادی «آندژی پوچوبوت» از زندان بلاروس کمک کنم. امروز، پوچوبوت به دلیل تلاش‌های ما آزاد است.
+ایالات متحده به وعده‌های خود در قبال متحدان و دوستانش عمل می‌کند. با تشکر از رئیس‌جمهور الکساندر لوکاشنکو برای همکاری و دوستی‌اش. بسیار عالی!
+
+رئیس‌جمهور دونالد جی. ترامپ
+
+@mwarmonitor
+</div>
+
+## pm_afshaa — post 90500
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴رسانه های اسرائیلی : نتانیاهو بعدِ تماس تلفنی، جلسه‌ای با کابینه امنیتی گذاشته‌
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## Shin_Persian — post 5942
+
+<div align="center">
+  <img src="telegram/content/Shin_Persian_5942_1778443959.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn Sun, 10 May 2026 20:10:37 UTC President Trump @POTUS: "Exclusive — Kurdish Leader: Trump Is ‘Master of the Deal,’ Can Land Major Deal to End Iran War and Create Worldwide Economic Boom: https://www.breitbart.com/politics/2026/05/10/exclusive…
+</div>
+
+## Shin_Persian — post 5941
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Sun, 10 May 2026 20:10:37 UTC
+
+President Trump @POTUS:
+"Exclusive — Kurdish Leader: Trump Is ‘Master of the Deal,’ Can Land Major Deal to End Iran War and Create Worldwide Economic Boom: https://www.breitbart.com/politics/2026/05/10/exclusive-kurdish-leader-trump-is-master-of-the-deal-can-land-major-deal-to-end-iran-war-and-create-worldwide-economic-boom/"
+
+فارسی
+
+رئیس‌جمهور ترامپ @POTUS:
+
+«اختصاصی — رهبر کرد: ترامپ "استادِ معامله" است، او می‌تواند برای پایان دادن به جنگ ایران و ایجاد شکوفایی اقتصادی در سراسر جهان، به توافقی بزرگ دست یابد: https://www.breitbart.com/politics/2026/05/10/exclusive-kurdish-leader-trump-is-master-of-the-deal-can-land-major-deal-to-end-iran-war-and-create-worldwide-economic-boom/»
+
+𝕏 · @shin_persian
+</div>
+
+## Dirty_Kids — post 389239
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وال‌استریت‌ژورنال در گزارش جدید خود به نقل از منابع آمریکایی نوشت: «پاسخ ایران، خواسته‌های آمریکا در مورد ذخایر اورانیوم غنی‌شده را نیز برآورده نمی‌کند. ایران پیشنهاد داده است که همزمان با رفع کامل تحریم‌های ایران از سوی آمریکا، گام به گام به درگیری‌ها پایان داده و تنگه هرمز را بازگشایی کند. حکومت ایران همچنین پیشنهاد داده است بخشی از اورانیوم غنی‌شده خود را رقیق کرده و مابقی را به کشوری غیر از آمریکا منتقل کند. حکومت ایران با توقف غنی‌سازی اورانیوم تا ۲۰ سال آینده نیز مخالفت کرده است. از سوی دیگر در پاسخ ایران، صراحتا با برچیدن تاسیسات هسته‌ای مخالفت شده است.»
+
+
+
+@Dirty_Kids 👻
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 23:39
 ---
 
