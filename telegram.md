@@ -7,6 +7,160 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 08:52
+---
+
+## VahidOOnLine — post 239210
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239210_1778390579.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ابوالفضل شکارچی، سخنگوی ارشد نیرو‌های مسلح جمهوری اسلامی گفت: «هر کشوری که علیه ما اقدام کند با واکنش قاطع نیروهای مسلح مواجه خواهد شد.»
+
+او افزود: «با وجود شیطنت‌های آمریکا، الحمدلله ابتکار عمل در دست نیرو‌های مسلح ماست و توانمندی رزمندگان در سطح بسیار خوبی قرار دارد.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239209
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239209_1778390580.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ابوالفضل شکارچی، سخنگوی ارشد نیرو‌های مسلح جمهوری اسلامی گفت: «هر کشوری که علیه ما اقدام کند با واکنش قاطع نیروهای مسلح مواجه خواهد شد.»
+
+او افزود: «با وجود شیطنت‌های آمریکا، الحمدلله ابتکار عمل در دست نیرو‌های مسلح ماست و توانمندی رزمندگان در سطح بسیار خوبی قرار دارد.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239208
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239208_1778390581.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ابوالفضل شکارچی، سخنگوی ارشد نیرو‌های مسلح جمهوری اسلامی گفت: «هر کشوری که علیه ما اقدام کند با واکنش قاطع نیروهای مسلح مواجه خواهد شد.»
+
+او افزود: «با وجود شیطنت‌های آمریکا، الحمدلله ابتکار عمل در دست نیرو‌های مسلح ماست و توانمندی رزمندگان در سطح بسیار خوبی قرار دارد.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## IranianMinds — post 19869
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_19869_1778390581.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 گاردین:
+
+ترامپ برای پایان دادن به جنگ ایران خیلی عجله داره
+
+و اون تصمیم گرفته تا قبل از سفرش به چین به یه نتیجه ای با ایران برسه.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19868
+
+<div align="center">
+  <a href="https://t.me/IranianMinds/19868" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📲#اپلیکیشن اندروید سایت جهانی دربی بت
+
+👍اسپانسر لیگ انگلیس
+👍
+🔥امکان شارژ امن از طریق کارت بانکی
+➖➖➖➖➖➖➖➖➖
+
+🪙همین حالا عضو شوید 👇
+https://t.me/+aCbq7yy8QY80NzQ0
+</div>
+
+## IranianMinds — post 19867
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_19867_1778390582.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+😤دنبال یه سایت شرط بندی بین المللی بودی که به ایرانیا خدمات بده؟!
+⛔
+
+
+👍دربی بت همون انتخاب  100%
+
+
+💎ویژگی های سایت جهانی Derby Bet:
+
+⬅️امکان شارژ امن با کارت بانکی
+
+⬅️واریز اول دوبل شارژ می شوید(بونوس۱۰۰٪)
+
+⬅️پر اپشن ترین سایت فعال در ایران
+
+⬅️تسویه حساب کمتر از 5 دقیقه
+
+⬅️برگشت بخشی از باخت به صورت هفتگی
+
+
+🚨کد هدیه ثبت نام:GG007
+
+⚠️برای دانلود اپلکیشن کلیک کنید
+👉
+re20
+
+🔔کانال دربی بت :
+
+🪙https://t.me/+aCbq7yy8QY80NzQ0
+</div>
+
+## alonews — post 118976
+
+<div align="center">
+  <a href="telegram/content/alonews_118976_1778390583.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزارت دفاع هند در بیانیه‌ای اعلام کرد که این کشور پرتاب آزمایشی یک موشک پیشرفته آگنی-۵ مجهز به فناوری «سیستم هدف‌گیری مستقل چندگانه» (MIRV) را با موفقیت انجام داده است.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118975
+
+<div align="center">
+  <a href="telegram/content/alonews_118975_1778390583.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 آتش‌سوزی مهیب در نزدیکی فرودگاه شارل دوگل پاریس و آماده‌باش گسترده تیم‌های آتش‌نشانی
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118974
+
+<div align="center">
+  <a href="telegram/content/alonews_118974_1778390584.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈آسوشیتدپرس: براساس گزارش «لویدز لیست»، از زمان شروع جنگ آمریکا با ایران تا ۴ می (۶ روز پیش)، ۵۳۴ کشتی از تنگهٔ هرمز عبور کرده‌اند که بسیاری از آن‌ها حامل نفت ایران بوده‌اند.
+
+
+🔴در شرایط عادی، برآورد می‌شد که در همین بازه زمانی، حدود ۶,۵۰۰ تا ۸,۴۵۰ کشتی از تنگه عبور کنند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 08:43
 ---
 
