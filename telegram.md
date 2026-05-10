@@ -7,6 +7,197 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 23:32
+---
+
+## mwarmonitor — post 8853
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_8853_1778443373.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✈️تصویر امروز از یک فروند بمب‌افکن B-52H Stratofortress در پایگاه هوایی RAF Fairford مسلح در انتظار مأموریت بعدی خود است و به موشک‌های کروز AGM-158 مجهز شده است.
+
+@mwarmonitir
+</div>
+
+## mwarmonitor — post 8852
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_8852_1778443373.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📌موقعیت احتمالی یک پایگاه نظامی محرمانه اسرائیل در صحرای عراق در مختصات 31.66697°N, 42.44864°E که دارای یک باند خاکی حدود ۱.۷ کیلومتری است. 🔸این محل که تنها ۷۰ کیلومتر با مرز عربستان فاصله دارد، به نظر می‌رسد چند روز پیش از آغاز جنگ با ایران ساخته شده باشد.…
+</div>
+
+## mwarmonitor — post 8851
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایران ۴۷ سال است که با ایالات متحده و بقیه جهان بازی می‌کند (تاخیر، تاخیر، تاخیر!) و در نهایت زمانی که باراک حسین اوباما رئیس‌جمهور شد، به «گنج» رسیدند. او نه‌تنها با آن‌ها خوب بود، بلکه عالی بود؛ در واقع به سمت آن‌ها رفت، اسرائیل و سایر متحدان را رها کرد…
+</div>
+
+## iaghapour — post 2597
+
+<div align="center">
+  <img src="telegram/content/iaghapour_2597_1778443374.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ آپدیت ورژن 0.10.0 سانگبرد منتشر شد
+
+🔹با این اسکریپت میتونید در سرور ایران خودتون یک مسنجر شخصی بالا بیارید و با دوستان خودتون چت کنید.
+
+- 📡 قابلیت Remote channel
+- 🔗 ساده سازی سیستم Invite link
+- 🎨 بازطراحی بخش ساخت/تغییر کانال و گروه در UI
+- ✨انیمیشن build-up پیام ها در چت ها
+- 🔔 بهبود عملکرد push notifications
+- تغییرات گرافیکی اسکریپت نصب آسان
+- 🐳 پشتیانی از TLS با سرتیفیکیت self-signed در Docker
+- 🔧 رفع باگ های گزارش شده
+- 📄 اضافه شدن نسخه فارسی فایل readme
+
+🔘اگه به هر مشکلی خوردین، حتما تو گیت هاب یک issue باز کنید و گزارش بدید.
+⭐️ اگه از پروژه راضی بودین، با ستاره دادن تو گیت هاب از پروژه حمایت کنید.
+🔹چنل پروژه
+
+🔗 لینک گیت‌هاب پروژه
+
+🆔 @iaghapour
+</div>
+
+## iaghapour — post 2596
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ ساده‌ترین راه برای دور زدن فیلترینگ با تانل DNS
+
+اگه خانواده‌ شما هم داخل ایران برای اتصال به اینترنت مشکل دارند، این پیام ممکن است به شما کمک کند.
+
+این برنامه یک برنامه‌ی گرافیکیست که کار با آن بسیار ساده است و برای اتصال به اینترنت هر دو روش MasterDNS و VayDNS را پشتیبانی می‌کند.
+
+👈 لینک گیت‌هاب
+👈 دانلود اپ
+
+
+📖 آموزش کامل MasterDNS و VayDNS
+
+▶️ آموزش روی یوتیوب
+
+📱 آموزش KevinNet DNS
+
+▶️ آموزش روی یوتیوب
+
+🔄 آپدیت‌های جدید برنامه
+
+
+در صورت وجود هرگونه مشکل یا سوالات مرتبط با KevinNetDNS میتوانید با آدرس ایمیل زیر در تماس باشید:
+
+©️ متن تهیه شده توسط نویسنده اسکریپت KevinDNS
+
+🆔 @iaghapour
+</div>
+
+## IranIntlTV — post 336527
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336527_1778443375.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+در پی فراخوان شاهزاده رضا پهلوی برای اعتراض به خاموشی سراسری اینترنت در ایران، بازداشت‌های گسترده و اعدام بی‌وقفه، گروهی از ایرانیان در برابر کاخ سفید در واشینگتن تجمع کردند.
+
+گزارش اردوان روزبه، خبرنگار ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## ManotoTV — post 105276
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105276_1778443377.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+روزنامه وال‌استریت ژورنال گزارش داد جمهوری اسلامی پیشنهاد داده بخشی از ذخایر اورانیوم غنی‌شده خود را رقیق و بخش دیگر را به یک کشور ثالث منتقل کند.
+
+بر اساس این گزارش، تهران همچنین خواستار تضمین شده است که در صورت شکست مذاکرات یا خروج دوباره آمریکا از توافق، اورانیوم منتقل‌شده به خاک ایران بازگردانده شود.
+
+به نوشته وال‌استریت ژورنال، این پیشنهاد بخشی از پاسخ چندصفحه‌ای جمهوری اسلامی به طرح اخیر آمریکا برای پایان دادن به جنگ و آغاز مذاکرات جدید بوده است.
+</div>
+
+## Persian_Trend_Official — post 13855
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴سقوط یک «هدف متخاصم» توسط پدافند هوایی ایران در آسمان استان خوزستان در جنوب کشور گزارش شده است|نایا
+</div>
+
+## manototv — post 105276
+
+<div align="center">
+  <a href="telegram/content/manototv_105276_1778443378.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+روزنامه وال‌استریت ژورنال گزارش داد جمهوری اسلامی پیشنهاد داده بخشی از ذخایر اورانیوم غنی‌شده خود را رقیق و بخش دیگر را به یک کشور ثالث منتقل کند.
+
+بر اساس این گزارش، تهران همچنین خواستار تضمین شده است که در صورت شکست مذاکرات یا خروج دوباره آمریکا از توافق، اورانیوم منتقل‌شده به خاک ایران بازگردانده شود.
+
+به نوشته وال‌استریت ژورنال، این پیشنهاد بخشی از پاسخ چندصفحه‌ای جمهوری اسلامی به طرح اخیر آمریکا برای پایان دادن به جنگ و آغاز مذاکرات جدید بوده است.
+</div>
+
+## alonews — post 119156
+
+<div align="center">
+  <a href="telegram/content/alonews_119156_1778443379.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ادعای العربیه: انتظار می‌رود که گشایشی بین آمریکا و ایران حاصل شود
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119155
+
+<div align="center">
+  <img src="telegram/content/alonews_119155_1778443379.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💱
+💵نرخ لحظه ای طلا، دلار و سکه
+
+
+🔴دقیق، سریع، همیشه آنلاین
+
+🔴بدون حاشیه و فقط اطلاعات معتبر
+
+🔴برای کسانی که بازار را حرفه ای دنبال می کنند.
+
+
+⬇️
+⬇️
+⬇️
+⬇️
+⬇️
+⬇️
+⬇️
+
+💢https://t.me/+rDFdMU4_p3ZkNWJl
+
+💢https://t.me/+rDFdMU4_p3ZkNWJl
+</div>
+
+## alonews — post 119154
+
+<div align="center">
+  <a href="telegram/content/alonews_119154_1778443380.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 وزیر خارجه ایتالیا: وارد جنگ علیه ایران نمی‌شویم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 23:22
 ---
 
