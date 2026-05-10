@@ -7,6 +7,56 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 09:23
+---
+
+## VahidOOnLine — post 239213
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239213_1778392392.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سازمان دریانوردی تجاری بریتانیا خبر داد که یک پرتابه به سمت یک کشتی باری در ۲۳ مایلی سواحل قطر شلیک شده است.
+بر اساس این گزارش، آتش‌سوزی در این کشتی مهار شده و هیچ مصدومی گزارش نشده است.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## IranIntlTV — post 336400
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336400_1778392392.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سرخط خبرهای یکشنبه ۲۰ اردیبهشت
+@iranintltv
+</div>
+
+## IranIntlTV — post 336399
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336399_1778392394.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سازمان دریانوردی تجاری بریتانیا خبر داد که یک پرتابه به سمت یک کشتی باری در ۲۳ مایلی سواحل قطر شلیک شده است.
+بر اساس این گزارش، آتش‌سوزی در این کشتی مهار شده و هیچ مصدومی گزارش نشده است.
+https://iranintl.com/202605106386
+</div>
+
+## alonews — post 118981
+
+<div align="center">
+  <a href="telegram/content/alonews_118981_1778392394.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈سخنگوی ارتش: از این پس کشورهایی که از آمریکا در اعمال تحریم علیه جمهوری اسلامی ایران تبعیت کنند، حتماً در عبور از تنگه هرمز با مشکل مواجه می‌شوند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 09:13
 ---
 
