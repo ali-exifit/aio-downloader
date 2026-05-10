@@ -7,6 +7,382 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 21:24
+---
+
+## VahidOOnLine — post 239357
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239357_1778435699.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پادشاهی بحرین اعلام کرد که ادامه حملات «آشکار و گستاخانه» جمهوری اسلامی علیه امارات متحده عربی را به‌شدت محکوم می‌کند.
+
+پیش‌تر نیز دبیرکل شورای همکاری خلیج‌فارس حملات جمهوری اسلامی به امارات متحده عربی و کویت را محکوم کرد و گفت که این اقدامات را «تجاوزکارانه و غیرقابل قبول» می‌داند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## CNNfarsiCHANNEL — post 51273
+
+<div align="center">
+  <img src="telegram/content/CNNfarsiCHANNEL_51273_1778435699.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ : هیچ هدف مهمی تو ایران باقی نمونده
+
+💢 @CNNfarsiCHANNEL | Король
+</div>
+
+## CNNfarsiCHANNEL — post 51272
+
+<div align="center">
+  <img src="telegram/content/CNNfarsiCHANNEL_51272_1778435700.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💢 به گزارش از نتبلاکس قطعی اینترنت به ۲۶۴ ساعت رسید:
+
+قطعی اینترنت در ایران وارد دوازدهمین روز خود شده است؛ پس از گذشت ۲۶۴ ساعت، میزان اتصال به شبکه همچنان در سطح ۱ درصد از حد معمول قرار دارد.
+
+در همین حال، سخنگوی رژیم، مشاهدات و گزارشها مبنی بر اعمال سیستم "فهرست سفید" (whitelisting) را تأیید کرده و اعلام داشته که تنها "افراد یا نهادهای مورد تأیید" اجازه دسترسی به اینترنت و حق اظهار نظر دارند.
+
+
+💢 @CNNfarsiCHANNEL | MDZ
+</div>
+
+## CNNfarsiCHANNEL — post 51271
+
+<div align="center">
+  <a href="telegram/content/CNNfarsiCHANNEL_51271_1778435701.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حملات پهپادی امشب به ایست بازرسی‼️
+
+💢 @CNNfarsiCHANNEL | Король
+</div>
+
+## CNNfarsiCHANNEL — post 51270
+
+<div align="center">
+  <img src="telegram/content/CNNfarsiCHANNEL_51270_1778435701.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ؛
+ما که نمیخوایم زود ول کنیم و بریم درسته؟ باید کار رو کامل تموم کنیم.
+طی ۱۱ روز گذشته ارتش ما تقریباً ایران رو نابود کرده ، ما نمیخوایم هر دو سال یه بار دوباره برگردیم و همین کار رو بكنيم.
+
+چون یه روزی میرسه که من دیگه رئیس جمهور نیستم و شاید اون موقع به آدم ضعیف و بی عرضه مثل بعضی از رئیس جمهورهای قبلی سر کار بیاد.
+قیمت نفت الان داره پایین میاد و باز هم پایین تر میاد.، ولی ما تا وقتی کار کامل تموم نشه نمیریم
+خیلی سریع تموم میشه،وخیلی سريع ولی نمیتونیم مطمئن باشیم که در آینده همیشه رئیس جمهورهای کاربلد سر کار باشن
+
+
+💢 @CNNfarsiCHANNEL | Король
+</div>
+
+## CNNfarsiCHANNEL — post 51269
+
+<div align="center">
+  <img src="telegram/content/CNNfarsiCHANNEL_51269_1778435702.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴فوری | فاکسنیوز:
+
+ایالات متحده در حال مشارکت با اسراییل در حملات علیه ایران است.
+
+@CNNfarsiCHANNEL
+</div>
+
+## CNNfarsiCHANNEL — post 51268
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴فوری | ترامپ:
+
+🔸️ما تازه عملیات رزمی گسترده در ایران را آغاز کردهایم.
+
+@CNNfarsiCHANNEL
+</div>
+
+## CNNfarsiCHANNEL — post 51267
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴فوری | نیویورک تایمز به نقل از یک مقام آمریکایی:
+
+🔸️حملات فعلی آمریکا بر دستگاه نظامی ایران متمرکز است.
+
+@CNNfarsiCHANNEL
+</div>
+
+## CNNfarsiCHANNEL — post 51266
+
+<div align="center">
+  <img src="telegram/content/CNNfarsiCHANNEL_51266_1778435702.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴تصویر اطلاعیهای که در سایتهای هک شده خبرگزاری های داخلی و دولتی ایران نشان داده میشود.
+
+
+@CNNfarsiCHANNEL
+</div>
+
+## CNNfarsiCHANNEL — post 51265
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴رادیو اسرائیل:
+
+🔸️نتانیاهو تصمیم گرفته است نام حمله اسرائیل به ایران را به «غرش شیر» تغییر دهد.
+
+@CNNfarsiCHANNEL
+</div>
+
+## CNNfarsiCHANNEL — post 51264
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴فوری | کانال ۱۲ اسرائیل به نقل از یک منبع:
+
+🔸️همه مقامات حکومت ایران هدف حمله هستند.
+
+@CNNfarsiCHANNEL
+</div>
+
+## CNNfarsiCHANNEL — post 51263
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴یک مقام آمریکایی به الجزیره:
+
+🔸️حملات هوایی با هدف از بین بردن دستگاه امنیتی ایران انجام میشود
+
+🔸️ حملات آمریکا و اسرائیل علیه ایران اهداف گسترده و ملموسی دارد
+
+🔸️ما انتظار داریم حملات هوایی علیه ایران گسترده باشد
+
+🔸️ما حملات هوایی گستردهای را علیه ایران از هوا و دریا آغاز میکنیم.
+
+@CNNfarsiCHANNEL
+</div>
+
+## CNNfarsiCHANNEL — post 51262
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴نیویورک تایمز، به نقل از مقامات آمریکایی:
+
+🔸️ما انتظار داریم حمله به ایران بسیار گستردهتر از حملات ژوئن گذشته باشد.
+
+🔸️دهها حمله توسط هواپیماهای آمریکایی از پایگاههای سراسر خاورمیانه و از یک ناو هواپیمابر انجام میشود.
+
+@CNNfarsiCHANNEL
+</div>
+
+## CNNfarsiCHANNEL — post 51261
+
+<div align="center">
+  <a href="telegram/content/CNNfarsiCHANNEL_51261_1778435703.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴گله موشکهای کروز شلیک شده توسط اسرائیل و آمریکا به سمت ایران در آسمان عراق مشاهده شدند.
+
+
+@CNNfarsiCHANNEL
+</div>
+
+## CNNfarsiCHANNEL — post 51260
+
+<div align="center">
+  <a href="telegram/content/CNNfarsiCHANNEL_51260_1778435705.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴فوری| لحظه حمله به بیت رهبری
+
+
+@CNNfarsiCHANNEL
+</div>
+
+## CNNfarsiCHANNEL — post 51259
+
+<div align="center">
+  <img src="telegram/content/CNNfarsiCHANNEL_51259_1778435707.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وضعیت گوشیم:
+
+💢 @CNNfarsiCHANNEL | 𝓝𝓪𝓝𝓪
+</div>
+
+## CNNfarsiCHANNEL — post 51258
+
+<div align="center">
+  <img src="telegram/content/CNNfarsiCHANNEL_51258_1778435707.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👀گزارش اولیه از تلاش برای ترور رئیسجمهور ایران، مسعود پزشکیان‼️
+
+💢 @CNNfarsiCHANNEL | Король
+</div>
+
+## CNNfarsiCHANNEL — post 51257
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+طبق ادعای یک منبع ارشد اسرائیلی: تعداد زیادی ترور هدفمند در ایران انجام شده است. هر موشک یک داشت‼️‼️
+
+💢 @CNNfarsiCHANNEL | Король
+</div>
+
+## CNNfarsiCHANNEL — post 51256
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨چندین سکوی پهبادی سپاه پاسداران قبل از شلیک منهدم شدند.‼️‼️
+
+💢 @CNNfarsiCHANNEL | 𝓝𝓪𝓝𝓪
+</div>
+
+## CNNfarsiCHANNEL — post 51255
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💢 مراکز مورد هدف قرار گرفته در تهران
+
+🔴وزارت اطلاعات
+🔴وزارت دفاع
+🔴بین رهبری
+🔴آژانس انرژی اتمی
+🔴پارچین
+
+💢 @CNNfarsiCHANNEL | MDZ
+</div>
+
+## CNNfarsiCHANNEL — post 51254
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💢 نیویورک تایمز:
+
+تا دقایقی دیگر حملات ارتش امریکا نیز اغاز خواهد شد.‼️‼️
+
+💢 @CNNfarsiCHANNEL | Noll
+</div>
+
+## IranIntlTV — post 336513
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336513_1778435708.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پادشاهی بحرین اعلام کرد که ادامه حملات «آشکار و گستاخانه» جمهوری اسلامی علیه امارات متحده عربی را به‌شدت محکوم می‌کند.
+
+پیش‌تر نیز دبیرکل شورای همکاری خلیج‌فارس حملات جمهوری اسلامی به امارات متحده عربی و کویت را محکوم کرد و گفت که این اقدامات را «تجاوزکارانه و غیرقابل قبول» می‌داند.
+https://iranintl.com/202605102416
+</div>
+
+## Persian_Trend_Official — post 13842
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_13842_1778435709.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 مکرون: فرانسه هرگز قصد اعزام نیرو به تنگه هرمز را نداشت
+
+امانوئل مکرون، رئیس‌جمهور فرانسه، اعلام کرد پاریس «هرگز» قصد اعزام نیروهای دریایی به تنگه هرمز را نداشته و از یک رویکرد هماهنگ امنیتی با مشارکت ایران حمایت می‌کند.
+
+مکرون در نشست خبری خود در نایروبی گفت:
+
+▪️ فرانسه با هرگونه محاصره تنگه هرمز مخالف است؛ چه از سوی آمریکا و چه ایران
+▪️ پاریس با دریافت عوارض برای عبور کشتی‌ها نیز مخالفت می‌کند
+▪️ آزادی ناوبری باید حفظ شود
+
+او این اظهارات را در واکنش به هشدار ایران درباره «پاسخ فوری و قاطع» به هرگونه استقرار نظامی فرانسه یا بریتانیا در تنگه هرمز مطرح کرد.
+
+مکرون همچنین گفت:
+
+▪️ فرانسه به همراه بریتانیا یک مأموریت مشترک دریایی تشکیل داده‌اند
+▪️ حدود ۵۰ کشور و سازمان بین‌المللی در این طرح مشارکت دارند
+▪️ هدف این مأموریت، بازگرداندن امنیت کشتیرانی با هماهنگی ایران، کشورهای منطقه و آمریکا است
+
+رئیس‌جمهور فرانسه تأکید کرد:
+«موضوع هرگز اعزام نیرو نبود، اما ما آماده هستیم.»
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## BBCPersian — post 280686
+
+<div align="center">
+  <a href="telegram/content/BBCPersian_280686_1778435709.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ویدیوهایی که به دست بی‌بی‌سی رسیده تجمعات گروهی از مخالفان حکومت ایران در شهرهای واشنگتن دی‌سی در آمریکا، زوریخ در سوئیس، اوکلند در نیوزیلند، لاهه در هلند و کلن و هانوفر در آلمان را نشان می‌دهد.
+ 
+حاضران در این تجمعات که اغلب تصاویری از رضا پهلوی و پرچم شیر و خورشید به همراه داشتند، خواستار توقف اعدام مخالفان و پایان قطعی اینترنت در ایران بودند و شعارهایی علیه حکومت ایران و در حمایت از ولیعهد سابق ایران سر می‌دادند.
+ 
+حاضران در تجمع نیوزیلند هم که در مقابل ساختمان رادیو تلویزیون دولتی این کشور در اوکلند تجمع کردند، نسبت به عدم پوشش اعتراضات و نقض حقوق بشر در ایران در این رسانه معترض بودند.
+ 
+با گذشت بیش از هفتاد روز از فرو رفتن ایران در تاریکی دیجیتال، حکومت ایران همچنان یکی از طولانی‌ترین قطعی‌های سراسری اینترنت را که تاکنون در جهان ثبت شده، ادامه می‌دهد.
+
+@bbcpersian
+</div>
+
+## Dirty_Kids — post 389232
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389232_1778435711.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+امروز با فراخوان شاهزاده، ایرانیای تمام کشورا اومدن بیرون و برای کشته‌ها، اینترنت و حکم اعدامیا فریاد زدن.
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 119123
+
+<div align="center">
+  <a href="telegram/content/alonews_119123_1778435712.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈قطر: امنیت دریانوردی در آبراه‌های بین‌المللی رکن اصلی ثبات و امنیت است
+
+
+🔴 وزارت امور خارجه قطر در بیانیه‌ای در واکنش به حمله به یک کشتی باری تجاری در آب‌های سرزمینی این کشور، تأکید کرد که امنیت دریانوردی در آبراه‌های بین‌المللی رکن اصلی ثبات و امنیت است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119122
+
+<div align="center">
+  <a href="telegram/content/alonews_119122_1778435712.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈العربیه به نقل از منابع عبری:نتانیاهو امشب با ترامپ تماس خواهد گرفت
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119121
+
+<div align="center">
+  <a href="telegram/content/alonews_119121_1778435712.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 غضنفری: آمریکا قصد تصرف جزایر جنوب را دارد/ آمریکایی‌ها می‌خواهند غنی‌سازی و موشکی و مقاومت را بگذاریم کنار، اورانیوم را تحویل دهیم و تنگه هرمز را هم باز کنیم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 21:15
 ---
 
