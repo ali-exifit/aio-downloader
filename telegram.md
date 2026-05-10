@@ -7,6 +7,46 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 10:23
+---
+
+## pm_afshaa — post 90450
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴وزیر دفاع لهستان :ما آمادگی داریم سربازای آمریکایی بیشتری رو تو کشورمون مستقر کنیم
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## alonews — post 118988
+
+<div align="center">
+  <a href="telegram/content/alonews_118988_1778395983.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈علی صبوری بلاگر معروف بعد اینکه فحش به نظام کشید، گفت بیایید منو به جرم فعالیت علیه نظام بگیرید
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118987
+
+<div align="center">
+  <a href="telegram/content/alonews_118987_1778395984.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ در پیشنهاد جدیدش، بودجه حمایت نظامی آمریکا از کردهای پیشمرگه‌ عراق در سال آینده را به صفر دلار کاهش داد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 10:13
 ---
 
