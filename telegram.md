@@ -7,6 +7,661 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 21:15
+---
+
+## farsi_fox_news — post 89200
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ ادعاهای تکراری ترامپ: من نگفتم عملیات نظامی علیه ایران پایان یافته است، اما گفتم آنها شکست خورده‌اند
+
+🔹 ایران از نظر نظامی شکست خورده است و شاید خودشان هم متوجه نباشند، اما فکر می‌کنم متوجه شده باشند.
+🔹 این در حالی است که حتی نهادهای اطلاعاتی آمریکایی نیز این اظهارات را رد کرده‌اند و بر توانایی ایران برای پاسخ به تجاوزات نظامی تأکید نموده‌اند.
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89199
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ ادعای ترامپ: ممکن است حملات را دو هفته ادامه دهیم/ بالاخره اورانیوم ایران را می‌گیریم، آن منطقه را زیر نظر داریم
+
+🔹 نیروی فضایی ما مراقب هستند. اگر کسی به آن مکان نزدیک شود، ما متوجه خواهیم شد و آنها را منفجر خواهیم کرد.
+🔹 ایران شکست خورده، اما این به معنای نابودی کامل آن نیست.
+🔹 ممکن است اقدام نظامی علیه ایران را برای دو هفته دیگر ادامه دهیم و به هر یک از اهداف از پیش تعیین شده ضربه بزنیم.
+🔹 ما اهداف مشخصی داشتیم که در ایران به دنبال تحقق آن‌ها بودیم و شاید حدود ۷۰ درصد از آن‌ها را انجام داده باشیم.
+🔹 حتی اگر به اهداف باقی‌مانده در ایران ضربه نزنیم، باز هم سال‌ها زمان نیاز خواهد داشت تا بازسازی کند.
+🔹 اگر ایران به سلاح هسته‌ای دست می‌یافت، از آن علیه اسرائیل و خاورمیانه استفاده می‌کرد.
+🔹 چاره‌ای جز مداخله نظامی نداشتم، زیرا یقین داشتم که ایران در مسیر دستیابی به سلاح هسته‌ای قرار دارد.
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89198
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ ترامپ: اگر سلیمانی را نکشته بودم، ایران کشور توانمندتری می‌بود
+
+🔹 رئیس‌جمهور آمریکا دونالد ترامپ: من توافق هسته‌ای افتضاح در دوران باراک حسین اوباما را در دور اول ریاست‌جمهوری لغو کردم.
+🔹 من سلیمانی را کشتم. خیلی مهم بود. اگر او را نمی‌کشتم، فکر می‌کنم ایران کشور متفاوتی می‌بود. ایران بسیار توانمندتر می‌شد.
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89197
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ ترامپ: اگر سلیمانی را نکشته بودم، ایران کشور توانمندتری می‌بود
+
+🔹 رئیس‌جمهور آمریکا دونالد ترامپ: من توافق هسته‌ای افتضاح در دوران باراک حسین اوباما را در دور اول ریاست‌جمهوری لغو کردم.
+🔹 من سلیمانی را کشتم. خیلی مهم بود. اگر او را نمی‌کشتم، فکر می‌کنم ایران کشور متفاوتی می‌بود. ایران بسیار توانمندتر می‌شد.
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89196
+
+<div align="center">
+  <a href="telegram/content/farsi_fox_news_89196_1778435102.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ ادعای ترامپ دربارهٔ پایش محل اورانیوم‌های ایران
+
+🔹 من نهادی به‌نام «نیروی فضایی» ایجاد کردم و آن‌ها لحظه‌به‌لحظه آن‌جا را رصد می‌کنند.
+🔹 اگر کسی وارد آن محدوده شود، آن‌ها می‌توانند نام، آدرس و مشخصات او را به ما بگویند.
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89195
+
+<div align="center">
+  <a href="telegram/content/farsi_fox_news_89195_1778435103.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ نتانیاهو: جنگ با ایران تمام نشده است
+
+🔹 هنوز مواد هسته‌ای و اورانیوم غنی‌شده‌ای وجود دارد که باید از ایران خارج شود.
+🔹 هنوز سایت‌های غنی‌سازی‌ هستند که باید برچیده شوند. هنوز گروه‌های نیابتی وجود دارند که ایران از آن‌ها حمایت می‌کند.
+🔹 همچنین موشک‌های بالستیکی وجود دارند که آن‌ها همچنان خواهان تولیدشان هستند.
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89194
+
+<div align="center">
+  <img src="telegram/content/farsi_fox_news_89194_1778435105.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ معاون دفتر پزشکیان: عقل حکم می‌کند نیروهای آمریکا زودتر به خانه‌ برگردند
+
+🔹 طباطبایی: ‏امن‌ترین محل برای هر کسی خانه اوست. عقل حکم می‌کند زودتر به خانه‌هایشان برگردند.
+🔹 تاریخ گواهی می‌دهد مردم ایران همان قدر که میهمان‌نواز و خون‌گرمند، در دفع متجاوز جدی و سختگیرند. چرا عاقل کند کاری که باز آرد پشیمانی؟
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89193
+
+<div align="center">
+  <a href="telegram/content/farsi_fox_news_89193_1778435105.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ تمجید پوتین از شهید لاریجانی
+
+🔹 رئیس جمهور روسیه:
+🔹 آقای لاریجانی که متأسفانه درگذشت، نزد من آمد. واقعاً تأسف‌برانگیز است؛ او فردی بود که می‌شد گفت‌وگویی سازنده با او داشت، خوب گوش می‌داد و واکنش نشان می‌داد.
+🔹 ما هم موضع خود را تغییر داده‌ایم و دیگر حاضر نیستیم این اورانیوم غنی‌شده را به جایی منتقل کنیم.
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89192
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایرنا: پاسخ ایران به متن پیشنهادی آمریکا ارسال شد
+
+🔹پاسخ جمهوری اسلامی ایران به آخرین متن پیشنهادی آمریکا برای خاتمه جنگ، امروز به میانجی پاکستانی ارسال شد.
+@farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89191
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ادعای آلودگی نفتی در خارک واقعیت ندارد
+
+مدیرعامل شرکت پایانه‌های نفتی ایران:
+
+🔹طبق اعلام مرکز بین‌المللی «میمک» به نمایندگی از سازمان بین المللی دریانوردی هیچ‌گونه نشتی در زیرساخت‌ها، مخازن ذخیره‌سازی، سیستم‌های اندازه‌گیری، اسکله‌ها، خطوط لوله این منطقه و کشتی‌های در حال بارگیری وجود ندارد.
+
+🔹افزون بر نظارت‌های ماهواره‌ای، در فرآیند عملیاتی پایانه، همه مراحل پهلودهی و بارگیری ازسوی همکارانمان از ابتدا تا انتها بررسی می‌شود تا از نبود وجود کوچک‌ترین نشتی اطمینان حاصل شود و به محض انتشار این اخبار، گروه‌های متخصص اچ‌اس‌ئی و اداره شیمیایی و آزمایشگاه، همه منطقه را پایش کردند اما حتی کوچکترین موردی یافت نشد.
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89190
+
+<div align="center">
+  <a href="telegram/content/farsi_fox_news_89190_1778435106.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✅ وقتی مجری من‌وتو اعتراف میکنه اسکل تشریف داره!
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89189
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+امارات: با احتساب 2 پهپادی که امروز به مل شلیک شده، مجموع پهپادهای شلیک شده به سمت امارات به 2265 رسید!
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89188
+
+<div align="center">
+  <img src="telegram/content/farsi_fox_news_89188_1778435108.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ سخنگوی کمیسیون امنیت ملی: از امروز خویشتن‌داری ما تمام شد
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89187
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ادعای وزارت دفاع امارات: حمله با دو پهپاد به امارات و مقابله با آن/انتخاب
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89186
+
+<div align="center">
+  <img src="telegram/content/farsi_fox_news_89186_1778435108.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ آخرین برگ کیم؛ ماشه‌ای که خودش شلیک می‌کند
+
+🔹 در پی جنایات اخیر رژیم صهیونیستی و آمریکا در خاک ایران، کره شمالی قانون اساسی خود را برای انجام خودکار حمله اتمی در صورت ترور رهبر این کشور به روز کرد.
+🔹 گزارش‌ رسانه‌ها همچون شبکه آمریکایی «فاکس‌نیوز» نشان می‌دهد که کره شمالی قانون اساسی خود را به‌ روز کرده است تا در صورت ترور رهبرش، کیم جونگ اون، یک حمله تلافی‌جویانه هسته‌ای را الزامی کند.
+🔹 در بند به‌روز شده این قانون آمده است: «اگر سیستم فرماندهی و کنترل نیروهای هسته‌ای کشور بر اثر حملات نیروهای متخاصم در معرض خطر قرار گیرد... یک حمله هسته‌ای باید به‌طور خودکار و فوری آغاز شود.»
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89185
+
+<div align="center">
+  <img src="telegram/content/farsi_fox_news_89185_1778435109.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ عضو شورای شهر اصفهان: پس از تهران،اصفهان بیشترین آسیب را در جنگ رمضان دیده امااین موضوع درسطح ملی آن‌گونه که بایدمورد توجه قرار نگرفت
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89184
+
+<div align="center">
+  <a href="telegram/content/farsi_fox_news_89184_1778435109.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+زیرگرفتن هواداران فوتبال در ترکیه
+
+شب گذشته فردی با خودروی شخصی به‌صورت وحشیانه تماشاگران تیم فوتبال گالاتاسرای را هنگام جشن قهرمانی زیرگرفت.
+
+طبق گزارش رسانهٔ ترکیه، درپی این اتفاق ۵ نفر مصدوم شد‌ند؛ فردی که تماشاگران را زیرگرفت نیز از محل حادثه فرار کرد.
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89183
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ سخنگوی ارتش: F-۵ های عملیات کننده در کویت سالم به ایران بازگشتند
+
+🔷 در روزهای آغازین جنگ که شدت درگیری‌ها بیشتر بود، نیروی هوایی با چندین سورتی پرواز، جنگنده‌های خود را به پایگاه‌های آمریکا در کویت، قطر و اربیل که مرکز ضد انقلاب و عناصر تجزیه‌طلب بود اعزام کرد
+🔷 این عملیات‌ها با موفقیت انجام شد و هواپیماهای ما، چه در عراق و اربیل و چه در کویت، سالم به پایگاه‌های خود بازگشتند.
+🔷جنگنده‌های اف-۵ ما هم سالم به کشور بازگشتند، اما هواپیماهای سوخو۲۴، پس از انجام عملیات و در راه بازگشت، مورد اصابت قرار گرفت. دلیل این امر، تقویت سامانه‌های پدافندی اسرائیل و آمریکا پس از گذشت چند روز از عملیات‌های قبلی بود.
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89182
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ سخنگوی ارتش:
+
+🔹 از این پس کشورهایی که از آمریکا در اعمال تحریم علیه جمهوری اسلامی ایران تبعیت کنند، حتماً در عبور از تنگه هرمز با مشکل مواجه می‌شوند.
+🔹 تصور دشمن این بود که نیروهای مسلح در جنگ توان مقابله و انجام عملیات رزمی ندارند، اما تا روز ۴۰ جنگ، ما توان نظامی خود را حفظ کردیم، جنگ را به‌گونه‌ای هنرمندانه مدیریت کردیم و توانستیم مقاومت کنیم، عملیات تهاجمی و تدافعی انجام دهیم و دشمن مشاهده کرد که واقعاً نمی‌تواند این مقاومت را بشکند و در نهایت مجبور به آتش‌بس شد.
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89181
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ نایب رئیس مجلس : ایران رسماً به چهارمین ابرقدرت جهان تبدیل شده است
+
+🔹 حاجی بابایی :
+🔹 امروز تنگه هرمز برای همیشه از آن ملت بزرگ ایران است و هیچ کشتی و نفتکشی بدون اجازه ایران از آنجا عبور نمی کند.
+🔹 جلسه فوق‌العاده مجلس با موضوع بررسی گرانی‌های امروز برگزار می‌شود و با عوامل گرانی به عنوان حرکتی هماهنگ با آمریکا و رژیم صهیونی برخورد می‌شود.
+🌐 @farsi_fox_news
+</div>
+
+## FoxNewsTwitter — post 341509
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341509_1778435111.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+First Lady Melania Trump is wishing mothers across America a Happy Mother’s Day — with a special spotlight on military moms and the sacrifices they make.
+
+“At the very heart of America’s strength lies the boundless love and quiet power of mothers.”
+</div>
+
+## FoxNewsTwitter — post 341508
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341508_1778435113.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+A Michigan nursing home gets an unexpected visitor dashing through the halls.
+
+Video shows a herd of deer gathered outside before one suddenly bolts inside — briefly getting stuck between wheelchairs as a staffer scrambles to open the doors.
+
+The deer ran back outside and no injuries were reported. The nursing home even joked about the incident online, writing:
+
+"Our ‘Jane Doe’ was safely discharged back to the Barry County woods. We pride ourselves on being welcoming... but this might be our most unexpected guest yet."
+</div>
+
+## FoxNewsTwitter — post 341507
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341507_1778435118.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+Second Lady Usha Vance shares a heartfelt message in celebration of Mother's Day, as she and Vice President Vance look forward to the birth of their fourth child this summer.
+
+"It's the greatest privilege of my life... Everything is just more exciting with my children around and everything is more meaningful."
+</div>
+
+## FoxNewsTwitter — post 341506
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341506_1778435119.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+A motorcycle is seen dangling from a traffic light as bystanders capture the aftermath of a violent collision near Vancouver, Canada.
+
+The motorcycle driver reportedly sustained serious but non-life threatening injuries and was transported to a hospital, while the vehicle driver did not get hurt.
+</div>
+
+## FoxNewsTwitter — post 341505
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341505_1778435121.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+Newly released video gives an inside look at what the Artemis II crew saw as the hatch door swung open after splashing down to Earth following their historic moon mission.
+
+Commander Reid Wiseman praised the team of Navy divers and medical personnel for the crew’s safe recovery:
+
+“Watching the helicopter pass over their shoulders and hearing all the joy, it was as good as it gets.”
+</div>
+
+## FoxNewsTwitter — post 341504
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341504_1778435123.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+"My ambition is to change this country."
+
+AOC opens up about her political future after being asked whether she's considering running for president.
+</div>
+
+## FoxNewsTwitter — post 341503
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341503_1778435124.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+Retired FBI profiler Jim Clemente says blood splatter on Nancy Guthrie's front porch shows she was still alive and coerced out of her home by a lone abductor — who isn't a "sophisticated criminal."
+
+"He was sort of bumbling his way through this, and he made other mistakes, and I believe those mistakes will directly lead to his capture."
+</div>
+
+## FoxNewsTwitter — post 341502
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341502_1778435125.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+.@MrsErikaKirk encourages young Americans to get married and raise families during her commencement address at Hillsdale College:
+
+"To the men, you are called to provide, you are called to lead, to anchor your families in strength and consistency. To the women, you are called to nurture, to build, to shape lives with wisdom and endurance."
+</div>
+
+## FoxNewsTwitter — post 341501
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341501_1778435127.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+RT @foxandfriends: Erika Kirk tells Hillsdale College grads to love their country and challenge their beliefs “like Charlie did,” while urging young men to marry young and take pride in providing for their families.
+</div>
+
+## FoxNewsTwitter — post 341500
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341500_1778435128.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+JUST IN: At least 17 Americans are among the passengers being evacuated from the cruise ship linked to a deadly hantavirus outbreak.
+
+The World Health Organization confirmed three people onboard died due to the outbreak.
+</div>
+
+## FoxNewsTwitter — post 341499
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341499_1778435130.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+The gloves are off.
+
+UFC boss Dana White exposes the "rudest" celebrity he has ever met in his career — disgraced music mogul Sean "Diddy" Combs.
+</div>
+
+## FoxNewsTwitter — post 341498
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341498_1778435130.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+.@MrsErikaKirk called on the graduating class of Hillsdale College to embrace her late husband Charlie Kirk's "blueprint" for life.
+
+"God made us purposeful beings... Life is not defined by the abundance of options, but by the weight of the choices that you make within them."
+</div>
+
+## FoxNewsTwitter — post 341497
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341497_1778435132.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+RT @Outkick: "Girls are being threatened."
+
+A furious protester accuses Gavin Newsom of failing female athletes at trans athlete AB Hernandez's competition.
+📹:@AlejandroAveela
+</div>
+
+## FoxNewsTwitter — post 341496
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341496_1778435134.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+A massive fire broke out at a plastic recycling factory in Henry County, Tennessee, prompting a shelter-in-place order and a large emergency response.
+
+The cause of the fire has not yet been released, and it remains unclear whether there were any injuries or fatalities. Crews remain at the scene battling remaining flames.
+</div>
+
+## FoxNewsTwitter — post 341495
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341495_1778435134.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+Spectators cheer as President Trump arrives to watch a LIV Golf tournament at Trump National Golf Club Washington D.C.
+</div>
+
+## FoxNewsTwitter — post 341494
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341494_1778435136.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+Legendary baseball manager Bobby Cox passed away at the age of 84.
+
+Cox won 2,504 games, guided Atlanta to 14 straight division titles, and was inducted into the Baseball Hall of Fame in 2014.
+</div>
+
+## FoxNewsTwitter — post 341493
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341493_1778435137.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH LIVE: DHS Secretary Mullin holds a news conference https://twitter.com/i/broadcasts/1jxXgeRDaWvJZ
+</div>
+
+## FoxNewsTwitter — post 341492
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341492_1778435137.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH LIVE: Turning Point USA CEO Erika Kirk delivers commencement address
+https://twitter.com/i/broadcasts/1lKQRvVonvkGE
+</div>
+
+## FoxNewsTwitter — post 341491
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341491_1778435138.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+EXCLUSIVE: Pima County Sheriff Chris Nanos, who is leading the investigation into the suspected abduction of Nancy Guthrie, told FOX News Digital that the task force handling the case is making progress nearly 100 days after she vanished from her home in Arizona.
+</div>
+
+## FoxNewsTwitter — post 341490
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341490_1778435139.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: 6 states are now monitoring passengers — and others — who may have crossed paths with people aboard the cruise ship linked to the hantavirus outbreak.
+
+Virginia, Georgia, California, Arizona, and Texas are tracking both passengers and potential contacts. New Jersey is monitoring individuals who may have interacted with someone from the ship.
+
+The outbreak, which originated aboard the MV Hondius, has been linked to at least 3 deaths and 8 reported cases as of May 8, according to reports citing the World Health Organization.
+</div>
+
+## FarsiVOA — post 217362
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اعتراض نماینده پارلمان بریتانیا به استارمر به دلیل «سکوت» در برابر «جنایات» جمهوری اسلامی
+</div>
+
+## DW_Farsi — post 124534
+
+<div align="center">
+  <img src="telegram/content/DW_Farsi_124534_1778435140.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶حملات پهپادی جمهوری اسلامی به امارات، کویت و قطر
+
+امارات متحده عربی، کویت و قطر از حملات پهپادی در روز یکشنبه ۱۰ مه (۲۰ اردیبهشت) به خاک خود خبر دادند که به ایران نسبت داده می‌شود. اینطور به نظر می‌رسد که تهران با وجود آتش‌بس شکننده، حملات خود را به برخی کشورهای منطقه از سر گرفته است.
+
+وزارت دفاع امارات اعلام کرد ایران روز یکشنبه دو پهپاد به سمت این کشور شلیک کرده و "هر دو با موفقیت هدف قرار گرفته‌اند".
+
+ایران هرگونه حمله به امارات متحده عربی در روزهای اخیر را تکذیب کرده اما هشدار داده است که امارات در صورت هرگونه اقدامی، "پاسخ کوبنده‌ای" دریافت خواهد کرد.
+
+این حملات باعث شد امارات متحده عربی هفته گذشته به آموزش از راه دور برای مدارس روی آورد، اما مقامات روز یکشنبه اعلام کردند که آموزش حضوری از دوشنبه ۱۱ مه (۲۱ اردیبهشت) از سر گرفته خواهد شد.
+
+ارتش کویت همچنین روز یکشنبه اعلام کرد که چندین پهپاد متخاصم را شناسایی و با آنها مقابله کرده است.
+
+@dw_farsi
+</div>
+
+## DW_Farsi — post 124533
+
+<div align="center">
+  <img src="telegram/content/DW_Farsi_124533_1778435140.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶تهدید غریب‌آبادی: حضور ناوهای فرانسوی و انگلیسی با پاسخ قاطع ایران مواجه خواهد شد
+
+کاظم غریب‌آبادی، معاون حقوقی و بین‌الملل وزارت خارجه ایران، به ماموریت دریایی مشترک فرانسه و بریتانیا در تنگه هرمز و اعزام نیروی نظامی برای تامین امنیت دریایی در منطقه واکنش نشان داد.
+
+او در پستی در شبکه اجتماعی ایکس نوشت: «هرگونه اعزام و استقرار ناوشکن‌های فرامنطقه‌ای در اطراف تنگه هرمز، با ادعای حفاظت از کشتیرانی، چیزی جز تشدید بحران در منطقه نیست.»
+
+غریب‌آبادی ضمن هشدار به این کشورها برای خودداری از "پیچیده‌تر کردن اوضاع" نوشت: «حضور ناوهای فرانسوی و انگلیسی و یا هر کشور دیگری برای همراهی احتمالی با اقدامات غیرقانونی و خلاف حقوق بین الملل آمریکا در تنگه هرمز، با پاسخ قاطع و فوری نیروهای مسلح جمهوری اسلامی ایران مواجه خواهد شد.»
+
+پیش از این در روز ۶ مه (۱۶ اردیبهشت) امانوئل مکرون، رئیس جمهور فرانسه، خبر داده بود که ارتش فرانسه در حال آماده‌سازی برای یک ماموریت احتمالی مشترک فرانسه و بریتانیا در تنگه هرمز است تا امنیت رفت‌وآمد کشتی‌ها در این آبراه بین‌المللی را دوباره برقرار کند.
+
+@dw_farsi
+</div>
+
+## Persian_Trend_Official — post 13841
+
+<div align="center">
+  <a href="https://t.me/persian_trend_official/13841" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فایل صوتی لایو اول
+نسخه کم حجم - 6.71 مگابایت
+
+اتاق جنگ یکشنبه 20 اردیبهشت | افشای پایگاه مخفی اسرائیل در غرب عراق
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## BBCPersian — post 280685
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻هشدار تند ایران به بریتانیا و فرانسه درباره استقرار نیرو در تنگه هرمز
+
+ایران به فرانسه و بریتانیا هشدار داد که استقرار نیروهای این دو کشور در تنگه هرمز با واکنش فوری ایران مواجه خواهد شد.
+
+در روزهای گذشته، فرانسه و بریتانیا از اعزام ناوشکن‌هایشان به مقصد تنگه هرمز خبر داده‌اند.
+
+این کشورهای اروپایی می‌گویند که اعزام این نیروها با هدف مشارکت در یک ماموریت چندملیتی برای تامین امنیت کشتیرانی در تنگه هرمز است. این دو کشور می‌گویند آغاز این ماموریت پس از خاتمه جنگ خواهد بود.
+
+در هفته‌های گذشته پس از آنکه ایران تنگه هرمز را بست، تنش‌ها بر سر امنیت این آبراه افزایش یافته است.
+
+تهران پیش‌تر هم هشدار داده بود که هرگونه حضور نظامی خارجی در نزدیکی این آبراه را یک «اقدام خصمانه» تلقی خواهد کرد.
+
+https://bbc.in/4ezglZx
+@BBCPersian
+</div>
+
+## BBCPersian — post 280684
+
+<div align="center">
+  <img src="telegram/content/BBCPersian_280684_1778435141.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺امانوئل مکرون، رئیس‌جمهور فرانسه، روز یکشنبه گفت که کشورش «هرگز» درصدد استقرار نیروی دریایی در تنگه هرمز نبوده است، بلکه به‌دنبال یک ماموریت برای حفظ امنیت است که با ایران «هماهنگ شده باشد.»
+
+او در یک کنفرانس خبری در نایروبی گفت که پس از هشدار ایران درباره «پاسخ قاطع و فوری» به هرگونه استقرار نیرو از سوی فرانسه یا بریتانیا در این آبراه راهبردی، همچنان بر این موضع خود تاکید دارد.
+
+موضع مکرون پیش‌تر نیز بر انجام یک ماموریت «صرفا دفاعی» متمرکز بوده که مبتنی بر هماهنگی و کاهش تنش با ایران باشد و نه مشارکت در عملیات نظامی مستقیم در جریان درگیری‌ها.
+
+ناوگروه شارل دوگل فرانسه در راه خلیج فارس است.
+
+📸Reuters
+
+https://bbc.in/49q6SAd
+@BBCPersian
+</div>
+
+## Dirty_Kids — post 389231
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389231_1778435142.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خلاصه ایی از تجمعات شبانه عرزشیا
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 119120
+
+<div align="center">
+  <a href="telegram/content/alonews_119120_1778435143.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈عراق وجود پایگاه‌های نظامی اسرائیلی در خاک خود را تکذیب کرد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119119
+
+<div align="center">
+  <a href="telegram/content/alonews_119119_1778435144.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ایندیپندنت: روابط چین با ایران، سفر ترامپ به پکن را پرتنش می‌کند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119118
+
+<div align="center">
+  <a href="telegram/content/alonews_119118_1778435144.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ولکر : آیا آمریکا به خاطر ترس از واکنش نظامی بیشتر ایران، از پروژه آزادی عقب کشید؟
+
+
+🔴کریس رایت : آمریکا فقط موقتاً پروژه آزادی رو به خاطر نگرانی‌های ایران متوقف کرد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 21:04
 ---
 
