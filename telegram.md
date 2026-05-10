@@ -7,6 +7,24 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 03:43
+---
+
+## Persian_Trend_Official — post 13801
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_13801_1778371982.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ استوری علی صبوری
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 03:33
 ---
 
