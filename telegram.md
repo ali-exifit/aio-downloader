@@ -7,6 +7,105 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 19:41
+---
+
+## VahidOOnLine — post 239334
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239334_1778429472.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، ایرانیان ساکن هلند و جمهوری چک، یکشنبه ۲۰ اردیبهشت با فراخوان شاهزاده رضا پهلوی و در اعتراض به اعدام‌های جمهوری اسلامی، در شهرهای آمستردام و پراگ تجمع کردند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOnline — post 75383
+
+<div align="center">
+  <img src="telegram/content/VahidOnline_75383_1778429476.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رحیم نادعلی، معاون فرهنگی سپاه «محمد رسول‌الله» تهران گفت: «در جشن بزرگ پیوند آسمانی زوج‌های جان‌فدا، خودروهای جیپ جنگی برای جابه‌جایی عروس و دامادها در نظر گرفته شده که با گل‌آرایی، پرچم جمهوری اسلامی و تصاویر رهبری تزئین شده و زوج‌ها در این خودروها در مراسم حضور خواهند یافت.»
+
+او افزود زوج‌های شرکت‌کننده قرار است با «ماشین‌های عروسی به شکل جیپ نظامی» و «خودروهای نظامی گل‌کاری‌شده» در سطح شهر حضور پیدا کنند تا «فضای شهر را به یک شکل هنری و نظامی» درآورند.
+
+به گفته او، هدف این است که نشان داده شود این «زوج‌های جانفدا» جان خود را «زیر پرچم جمهوری اسلامی تقدیم این نظام خواهند کرد» و «از هیچ چیز نمی‌ترسند.»
+@VahidOOnLine
+
+📡 @VahidOnline
+</div>
+
+## IranIntlTV — post 336500
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336500_1778429476.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، ایرانیان ساکن هلند و جمهوری چک، یکشنبه ۲۰ اردیبهشت با فراخوان شاهزاده رضا پهلوی و در اعتراض به اعدام‌های جمهوری اسلامی، در شهرهای آمستردام و پراگ تجمع کردند.
+</div>
+
+## IranIntlTV — post 336499
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/336499" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی اخبار نیم‌روزی | یکشنبه ۲۰ اردیبهشت
+@iranintlTV
+</div>
+
+## FarsiVOA — post 217353
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺دونالد ترامپ: شکست نظامی رژیم ایران به معنای پایان کامل عملیات رزمی نیست
+
+◾️دونالد ترامپ، رئیس جمهوری ایالات متحده، در گفت‌وگویی اختصاصی با برنامه «فول مژر» به میزبانی شریل اتکیسون، گفت حکومت ایران از نظر نظامی «شکست خورده» است و توان بازسازی سریع ظرفیت‌های نظامی و هسته‌ای خود را ندارد.
+
+⬇️ بیشتر بخوانید:
+
+https://ir.voanews.com/a/national-desk-sharyl-attkisson-president-trump-interview/8148497.html?withmediaplayer=1
+</div>
+
+## Persian_Trend_Official — post 13837
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تصمیم گرفتم لایو های شبانه رو از این به بعد، حدود ساعت 20 به وقت ایران اجرا کنم .
+</div>
+
+## alonews — post 119108
+
+<div align="center">
+  <a href="telegram/content/alonews_119108_1778429480.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈حاکم امارات:
+امان از روزی که خشم عربی ما بیدار شود
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119107
+
+<div align="center">
+  <a href="telegram/content/alonews_119107_1778429480.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈پوتین در سال ۲۰۲۲: یک فرد معتاد به مواد مخدر و نئونازی‌.
+
+
+🔴پوتین در سال ۲۰۲۶: آقای زلنسکی.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 19:35
 ---
 
