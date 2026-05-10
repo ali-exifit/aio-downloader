@@ -7,6 +7,123 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 01:12
+---
+
+## VahidOOnLine — post 239396
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239396_1778449339.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️پس از بیش از ۱۵ سال توقف فعالیت به دلیل تحریم‌های بین‌المللی، غول‌های پرداخت جهانی، «ویزا» و «مسترکارت»، به طور رسمی فعالیت خود را در سوریه آغاز کردند. در تصاویر منتشر شده در شبکه‌های اجتماعی، احمد الشرع، رئیس جمهوری سوریه، با کارت بانکی بین‌المللی، قهوه سفارش می‌دهد. این بازگشت که از آن به عنوان بزرگ‌ترین گام برای ادغام مجدد مالی سوریه در نظام جهانی یاد می‌شود، از اوایل ماه مه کلید خورد. بر اساس گزارش‌ها، مسترکارت در روز جمعه، هشتم مه (۱۸ اردیبهشت‌ماه) مراحل فنی خود را تکمیل کرد و تنها دو روز بعد، بانک ملی قطر (QNB) به عنوان نخستین پیشگام، خدمات پذیرش کارت و پرداخت‌های دیجیتال را در خاک سوریه فعال کرد. این تحول بزرگ، انزوای بانکی سوریه را که از اوایل دهه ۲۰۱۰ آغاز شده بود، پایان داد و اکنون کارت‌های صادر شده در این کشور در سطح جهانی و کارت‌های بین‌المللی در داخل سوریه قابل استفاده هستند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239395
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239395_1778449339.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ویدیوهای دریافت‌شده نشان می‌دهد جمعی از ایرانیان مقیم اورلاندو در ایالت فلوریدا، روز یک‌شنبه ۲۰ اردیبهشت‌ماه، در پی فراخوان شاهزاده رضا پهلوی، در اعتراض به اعدام‌های جمهوری اسلامی و قطع اینترنت در ایران تجمع کردند و خطاب به دونالد ترامپ شعار «اعتماد نکنید، معامله نکنید» سر دادند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239394
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239394_1778449341.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌
+خبرگزاری‌های حکومتی گزارش دادند ارتش جمهوری اسلامی ساعتی پیش «یک فروند پهپادشناسایی دشمن متجاوز» را در منطقه جنوب غرب منهدم کرده است.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## IranIntlTV — post 336538
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336538_1778449341.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ در تروث سوشال نوشت پاسخ نمایندگان جمهوری اسلامی را خوانده و آن را «کاملا غیرقابل قبول» می‌داند.
+
+ترامپ پیش‌تر تاکید کرده بود واشینگتن نباید اجازه دهد ایران به سلاح هسته‌ای دست پیدا کند و آمریکا در صورت نیاز، به اهداف دیگری در ایران حمله خواهد کرد.
+
+گفت‌وگو با کامیار بهرنگ، عضو تحریریه ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## IranIntlTV — post 336537
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336537_1778449342.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «خشم ترامپ از طولانی شدن مذاکرات با جمهوری اسلامی در سخنان یکشنبه‌اش آشکار بود؛ او گفت جمهوری اسلامی ۴۷ سال آمریکا و جهان را بازی داده است. حالا که ترامپ پاسخ جمهوری اسلامی را غیرقابل قبول خوانده، همه منتظرند ببینند مسیر بعدی واشینگتن تلاش دوباره برای توافق است یا آغاز حملات نظامی.»
+@iranintltv
+</div>
+
+## IranIntlTV — post 336536
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336536_1778449344.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ویدیوهای دریافت‌شده نشان می‌دهد جمعی از ایرانیان مقیم اورلاندو در ایالت فلوریدا، روز یک‌شنبه ۲۰ اردیبهشت‌ماه، در پی فراخوان شاهزاده رضا پهلوی، در اعتراض به اعدام‌های جمهوری اسلامی و قطع اینترنت در ایران تجمع کردند و خطاب به دونالد ترامپ شعار «اعتماد نکنید، معامله نکنید» سر دادند.
+</div>
+
+## FarsiVOA — post 217379
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️تازه‌ترین واکنش‌های کنگره به تحولات تنگه هرمز
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217378
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️موضع سخت آمریکا در برابر پاسخ مبهم جمهوری اسلامی؛ مسیر بحران به چه سمتی می‌رود؟
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 13866
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_13866_1778449345.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مستند رضاشاه، پدر ایران نوین 🔥
+</div>
+
+## BBCPersian — post 280698
+
+<div align="center">
+  <img src="telegram/content/BBCPersian_280698_1778449346.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻کانال تلگرامی وحید آنلاین عصر یکشنبه مجموعه‌ای پیام‌های دریافتی خود از مخاطبانش در دزفول و اندیمشک را منتشر کرده که حکایت از فعالیت پدافند ضدهوایی در این دو شهر جنوبی ایران دارد.
+
+بیشتر پیغام‌ها حوالی ساعت ۱۰ شب به وقت محلی گزارش شده و از فعالیت پدافندی برای «حدود ۲۰ دقیقه» حکایت دارد.
+
+در همین حال، خبرگزاری فارس - نزدیک به سپاه پاسداران - به نقل از منابع ارتش ایران نوشته است: «یک فروند پهپاد دشمن متجاوز، ساعتی پیش توسط شبکۀ یکپارچۀ پدافند هوایی در منطقۀ جنوب غرب منهدم شد.»
+
+عکس آرشیوی از رویترز
+
+https://bbc.in/4tY60Lv
+@BBCPersian
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 01:02
 ---
 
