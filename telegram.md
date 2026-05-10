@@ -7,6 +7,256 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 20:14
+---
+
+## VahidOOnLine — post 239342
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239342_1778431484.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ابوالفضل اقبالی، از طراحان «قانون عفاف و حجاب»، در تلویزیون جمهوری اسلامی گفت: «اتاق فرمان دشمن، موساد است. همان‌جایی حمله نظامی را تصویب می‌کند، تحریم اقتصادی را سازمان می‌دهد و زیرساخت را می‌زند. همان‌جا هم ساعتی ۳ دلار پول می‌دهد می‌گوید برو میدان ولیعصر با تاپ و شلوار قدم بزن.»
+
+
+او گفت: «جنگ با جمهوری اسلامی ابعاد مختلف دارد. همان کس که حلقه‌های آشوب سازماندهی کرده، ارز دیجیتال توزیع می‌کند تا یک عده بیایند وضعیت اباحه‌گری را سامان بدهند.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239341
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239341_1778431485.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، گروهی از ایرانیان مقیم بریتانیا، یکشنبه ۲۰ اردیبهشت در اعتراض به اعدام‌های جمهوری اسلامی، در بیرمنگام تجمع کردند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239340
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239340_1778431488.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بولونیا | ایتالیا؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239339
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239339_1778431489.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️عبدالرضا رحمانی فضلی، سفیر و نماینده ویژه رئیس‌جمهوری ایران در چین، روز یکشنبه اعلام کرد هرگونه توافق احتمالی باید با ضمانت قدرت‌های بزرگ همراه باشد و چین می‌تواند به عنوان ضامن چنین توافقی مطرح شود.
+رحمانی فضلی در پیامی در شبکه اجتماعی ایکس نوشت هر توافق احتمالی باید در شورای امنیت سازمان ملل نیز مطرح شود و از حمایت قدرت‌های بزرگ برخوردار باشد.
+او افزود چین و روسیه دو قدرت بزرگ و تاثیرگذار هستند و با توجه به جایگاه چین برای ایران و کشورهای منطقه خلیج فارس، پکن می‌تواند به عنوان ضامن هرگونه توافق احتمالی ایفای نقش کند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## IranIntlTV — post 336507
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336507_1778431490.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ابوالفضل اقبالی، از طراحان «قانون عفاف و حجاب»، در تلویزیون جمهوری اسلامی گفت: «اتاق فرمان دشمن، موساد است. همان‌جایی حمله نظامی را تصویب می‌کند، تحریم اقتصادی را سازمان می‌دهد و زیرساخت را می‌زند. همان‌جا هم ساعتی ۳ دلار پول می‌دهد می‌گوید برو میدان ولیعصر با تاپ و شلوار قدم بزن.»
+
+
+او گفت: «جنگ با جمهوری اسلامی ابعاد مختلف دارد. همان کس که حلقه‌های آشوب سازماندهی کرده، ارز دیجیتال توزیع می‌کند تا یک عده بیایند وضعیت اباحه‌گری را سامان بدهند.»
+https://iranintl.com/202605104362
+</div>
+
+## IranIntlTV — post 336506
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336506_1778431491.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، گروهی از ایرانیان مقیم بریتانیا، یکشنبه ۲۰ اردیبهشت در اعتراض به اعدام‌های جمهوری اسلامی، در بیرمنگام تجمع کردند.
+</div>
+
+## IranIntlTV — post 336505
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/336505" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی اخبار شبانگاهی | یکشنبه ۲۰ اردیبهشت
+@iranintlTV
+</div>
+
+## IranIntlTV — post 336504
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336504_1778431495.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تیتر اول با نیوشا صارمی، یکشنبه ۲۰ اردیبهشت
+@iranintltv
+</div>
+
+## Shin_Persian — post 5934
+
+<div align="center">
+  <img src="telegram/content/Shin_Persian_5934_1778431497.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+U.S. Central Command ✓ @CENTCOM Sun, 10 May 2026 14:46:41 UTC USS John Finn (DDG 113) sails behind USS Milius (DDG 69), USNS Carl Brashear (T-AKE-7), and USS George H.W. Bush (CVN 77) in the Arabian Sea. Over 20 U.S. warships are enforcing the blockade…
+</div>
+
+## Shin_Persian — post 5933
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+U.S. Central Command ✓ @CENTCOM
+Sun, 10 May 2026 14:46:41 UTC
+
+USS John Finn (DDG 113) sails behind USS Milius (DDG 69), USNS Carl Brashear (T-AKE-7), and USS George H.W. Bush (CVN 77) in the Arabian Sea.
+
+Over 20 U.S. warships are enforcing the blockade against Iran. CENTCOM forces have redirected 61 commercial vessels and disabled 4 to
+
+فارسی
+
+ناو یو‌اس‌اس جان فین (USS John Finn - DDG 113) در دریای عرب در پشت ناوهای یو‌اس‌اس میلیوس (DDG 69)، یو‌اس‌ان‌اس کارل براشیر (T-AKE-7) و یو‌اس‌اس جورج اچ.دبلیو. بوش (CVN 77) در حال دریانوردی است.
+
+بیش از ۲۰ ناو جنگی ایالات متحده در حال اجرای محاصره علیه ایران هستند. نیروهای سنتکام (CENTCOM - فرماندهی مرکزی ایالات متحده) مسیر ۶۱ کشتی تجاری را تغییر داده و ۴ فروند را از کار انداخته‌اند تا...
+
+𝕏 · @shin_persian
+</div>
+
+## ManotoTV — post 105264
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105264_1778431497.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بولونیا | ایتالیا؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵
+</div>
+
+## FarsiVOA — post 217356
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217356_1778431499.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بنیامین نتانیاهو، نخست وزیر اسرائیل، روز یکشنبه ۲۰ اردیبهشت، در گفت‌وگو با برنامه ۶۰ دقیقه سی‌بی‌اس نیوز، گفت: جنگ با جمهوری اسلامی ایران «تمام نشده است.»
+
+او افزود که اورانیوم غنی‌شده با غلظت بالا باید از ایران خارج شود و تأسیسات غنی‌سازی نیز باید برچیده شود.
+
+نتانیاهو، با اشاره به قابلیت‌های هسته‌ای جمهوری اسلامی، و همچنین نیروهای نیابتی آن در کشورهای دیگر و ظرفیت ساخت موشک نیز گفت: «اکنون، ما مقدار زیادی از آن را تخریب کرده‌ایم.» او افزود اما مواردی هنوز باقی مانده است و «کارهایی باید انجام شود.»
+
+ناظران بین‌المللی تخمین می‌زنند که جمهوری اسلامی هنوز حدود ۹۷۰ پوند اورانیوم تقریباً در سطح بمب دارد.
+
+گزارش کامل را در وب‌سایت صدای آمریکا بخوانید.
+
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217355
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺وزیر انرژی آمریکا: فشار اقتصادی بر رژیم ایران را افزایش می‌دهیم تا آن‌ها را وادار به مذاکره کنیم
+
+◾️کریس رایت، وزیر انرژی ایالات متحده، یکشنبه ۲۰ اردیبهشت گفت فشار اقتصادی آمریکا بر رژیم ایران به‌طور قابل‌توجهی در حال افزایش است، و واشنگتن از ابزارهای مالی و اقتصادی مختلفی برای وادار کردن جمهوری اسلامی به بازگشت به میز مذاکره استفاده می‌کند.
+
+⬇️ بیشتر بخوانید:
+
+https://ir.voanews.com/a/chris-wright-cbs-inerview-iran-economic-pressure-increasing/8148505.html
+</div>
+
+## Persian_Trend_Official — post 13838
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+https://youtube.com/live/KXs-so7OROY?feature=share راس ساعت 20 به وقت تهران لایو آغاز میشه حتما تشریف بیارید چندتا اتفاق جالب رو میخوایم در موردش صحبت کنیم
+</div>
+
+## IranianMinds — post 19905
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_19905_1778431501.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ ویوئویی را بازنشر کرده که مربوط به برنامه مارک لوین بود، جایی‌که مهمان برنامه میگه؛ از سرگیری اقدام نظامی، بهترین گزینه برای مقابله با ایران هست.
+
+@IranianMinds
+</div>
+
+## BBCPersian — post 280680
+
+<div align="center">
+  <img src="telegram/content/BBCPersian_280680_1778431502.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در بخشی از یک مصاحبه که قرار است ساعاتی دیگر مشروح آن پخش شود، گفت که ذخایر اورانیوم غنی‌شده ایران باید از بین برود تا بتوان گفت جنگ آمریکا و اسرائیل با ایران به پایان رسیده است.
+
+او در بخشی از گفت‌وگو با برنامه «۶۰ دقیقه» شبکه سی‌بی‌اس گفت: «این [جنگ] هنوز تمام نشده است، چون مواد هسته‌ای، اورانیوم غنی‌شده، باید از ایران خارج شود. تاسیسات غنی‌سازی هم که وجود دارد باید برچیده شوند.»
+
+او همچنین گفت: «ایران هنوز از نیروهای نیابتی حمایت و موشک‌ بالستیک تولید می‌کند. بخش عمده‌ای از اینها نابود شده‌اند اما کارهایی باقی است.»
+
+آقای نتانیاهو در پاسخ به این پرسش که این اورانیوم چگونه باید خارج شود، گفت: «وارد می‌شوید و آن را خارج می‌کنید.»
+
+📸AFP via Getty Images
+
+https://bbc.in/4uZmwv1
+@BBCPersian
+</div>
+
+## Hranews — post 112868
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گزارشی از بازداشت سه شهروند توسط ماموران اطلاعات سپاه
+
+
+❗️
+❗️
+❗️
+❗️
+❗️ – سه شهروند از جمله دو زن به دلیل “حمایت از کشورهای خارجی در جنگ و انتشار تصاویر مکان‌های مورد اصابت موشک‌ها در شبکه اجتماعی ایکس”، توسط ماموران سازمان اطلاعات سپاه در تهران #بازداشت شدند. همزمان ویدیویی از #اعترافات_اجباری دو تن از این شهروندان نیز منتشر شده که شرایط ضبط آن مشخص نیست.
+
+ادامه مطلب
+
+↘️
+@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑
+</div>
+
+## manototv — post 105264
+
+<div align="center">
+  <a href="telegram/content/manototv_105264_1778431503.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بولونیا | ایتالیا؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵
+</div>
+
+## alonews — post 119111
+
+<div align="center">
+  <a href="telegram/content/alonews_119111_1778431505.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈کریس رایت، وزیر انرژی ایالات متحده، به شبکه ان‌بی‌سی گفت که یک توافق مرحله‌ای ممکن است برای حل تمام نگرانی‌ها در مورد برنامه هسته‌ای ایران کافی نباشد.
+
+
+🔴ما هیچ گزینه‌ای را در مورد ایران در مرحله پیش‌رو، از جمله اقدام نظامی، رد نمی‌کنیم.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 20:04
 ---
 
