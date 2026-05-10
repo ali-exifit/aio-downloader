@@ -7,6 +7,182 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 17:14
+---
+
+## VahidOOnLine — post 239282
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239282_1778420645.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️وزارت خارجه قطر، روز یکشنبه اعلام کرد شیخ محمد بن عبدالرحمن آل ثانی، نخست‌وزیر و وزیر خارجه این کشور، در تماس تلفنی با فیصل بن فرحان، وزیر خارجه عربستان سعودی، درباره تحولات مربوط به آتش‌بس میان آمریکا و ایران گفتگو کرده است.
+بر اساس بیانیه وزارت خارجه قطر، دو طرف همچنین درباره تلاش‌ها برای کاهش تنش‌ها «به گونه‌ای که به تقویت امنیت و ثبات منطقه کمک کند» رایزنی کردند.
+شیخ محمد بن عبدالرحمن آل ثانی، پیش از این تماس، با عباس عراقچی درباره بحران منطقه‌ای و انسداد تنگه هرمز گفتگو کرده بود. وزیر امور خارجه قطر در این گفتگو از تهران خواسته بود آبراهه هرمز را به عنوان «اهرم فشار» به کار نگیرد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8818
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📝در دنیایی که کانال‌های چندصد هزار نفری، اطلاع‌رسانی را به «کاسه گدایی» تبدیل کرده‌اند، مسیر ما متفاوت است.
+
+🔸 اینجا نه خبری از تبلیغاتِ سایت‌های بت و فروشندگان VPN است و نه بساطِ گلریزان به حساب‌های پی‌پال پهن شده؛ اینجا خبری از «کاسبی از جهل» نیست.
+
+🔸تمام آنچه در این فضا منتشر می‌شود، به صورت تک‌نفره، دلی و با هدف رساندن اخبار صحیح به ایرانیان داخل و خارج از کشور است. ما بدون هیچ چشم‌داشتی، بر لبه‌ی حقیقت ایستاده‌ایم تا تفاوت میان «رسانه مستقل» و «دکان‌های مجازی» بیش از پیش آشکار شود.
+
+تعهد ما فقط به حقیقت است، نه به جیب مخاطب.
+
+@mwarmonitor
+</div>
+
+## pm_afshaa — post 90479
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90479_1778420645.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴رئیس انرژی: پارسال 9 هزار مگاوات کمبود برق داشتیم و امسال 24 هزارمگاوات؛ مردم برای قطعی های برق در هر 7 روز هفته خودشونو آماده کنن.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90478
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90478_1778420646.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ایسنا: تمرکز اصلی پاسخ جمهوری اسلامی به طرح پیشنهادی آمریکا بر «خاتمه جنگ و امنیت دریانوردی در خلیج فارس و تنگه هرمزه.»
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 336467
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336467_1778420647.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یکی از شرکت‌کنندگان در تجمع برلین در گفت‌وگو با علی حسن‌پور، خبرنگار ایران‌اینترنشنال، برای فاطمه سپهری پیام فرستاد و گفت: «مادر عزیزم طاقت بیار، ایران آزاد می‌شود و ما آزادی را در کنارت جشن می‌گیریم.»
+@iranintltv
+</div>
+
+## IranianMinds — post 19879
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_19879_1778420649.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴یک فروند KC-135 امریکا در حال پرواز در آسمان خاورمیانه و درحال سوخت‌رسانی به یک F/A-18 سوپر‌هورنت.
+
+@IranianMinds
+</div>
+
+## BBCPersian — post 280660
+
+<div align="center">
+  <a href="telegram/content/BBCPersian_280660_1778420651.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️سرخط خبرها، یکشنبه ۲۰ اردیبهشت ۱۴۰۵
+@BBCPersian
+</div>
+
+## Hranews — post 112864
+
+<div align="center">
+  <img src="telegram/content/Hranews_112864_1778420654.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رومینا گلی، شهروند بهائی در ساری بازداشت و تفهیم اتهام شد
+
+
+❗️
+❗️
+❗️
+❗️
+❗️ – رومینا گلی، شهروند بهائی ساکن ساری، روز گذشته #بازداشت شد و امروز یکشنبه، جلسه بازپرسی وی در دادسرای این شهرستان برگزار شد. در پایان این جلسه، قرار بازداشت موقت یک‌ماهه برای وی صادر شده است.
+
+به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، رومینا گلی بازداشت شد و مورد تفهیم اتهام قرار گرفت.
+
+بر اساس اطلاعات دریافتی هرانا، امروز یکشنبه ۲۰ اردیبهشت‌ماه، جلسه بازپرسی خانم گلی در دادسرای ساری برگزار شد. در جریان این جلسه، وی بر اساس ماده ۵۰۰ و ماده ۵۰۰ مکرر قانون مجازات اسلامی، از بابت اتهامات “تبلیغ علیه نظام” و “فعالیت تبلیغی مغایر با شرع اسلام” مورد تفهیم اتهام قرار گرفت. همچنین، برای این شهروند بهائی قرار بازداشت موقت یک‌ ماهه صادر شده است.
+
+ادامه مطلب
+
+#رومینا_گلی
+
+↘️
+@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑
+</div>
+
+## alonews — post 119072
+
+<div align="center">
+  <a href="telegram/content/alonews_119072_1778420654.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈بوئینگ 747 غول‌پیکر از کالیتا ایر اومد نشست پایگاه فِرفورد انگلستان
+
+
+🔴پر از بار برای پشتیبانی استقرار بمب‌افکن‌های آمریکا تو این پایگاه
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119071
+
+<div align="center">
+  <a href="telegram/content/alonews_119071_1778420657.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈رئیس‌جمهور ترامپ مصاحبه‌ای از نیوزمکس با وزیر امور خارجه اسرائیل، گیدئون ساعر، را به اشتراک می‌گذارد که در آن از ترامپ به خاطر «نشان دادن رهبری قابل توجه در رسیدگی به برنامه هسته‌ای ایران» تمجید می‌کند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119070
+
+<div align="center">
+  <a href="telegram/content/alonews_119070_1778420658.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈رئیس ستاد ارتش اسرائیل (IDF) می‌گوید هیچ هدفی برای خلع سلاح حزب‌الله تعیین نشده است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119069
+
+<div align="center">
+  <a href="telegram/content/alonews_119069_1778420658.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈حزب‌الله فیلمی از دو حمله پهپاد FPV منتشر کرد که به یک باتری گنبد آهنین در سایت جال العالم اسرائیل در مرز هدف گرفته شده‌اند.
+
+
+🔴 پهپاد FPV به طور مستقیم به یک باتری گنبد آهنین حمله کرده و آن را نابود می‌کند (۷ مه)
+
+
+🔴 پهپاد FPV به طور مستقیم به گروهی از شش سرباز اسرائیلی که در حال تعویض باتری هدف‌گرفته شده گنبد آهنین بودند حمله می‌کند (۸ مه)
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 17:03
 ---
 
