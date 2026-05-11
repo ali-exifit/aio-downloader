@@ -7,6 +7,261 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 19:53
+---
+
+## mwarmonitor — post 8914
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸 مشاور رهبر ایران: ترامپ نباید تصور کند که می‌تواند با سوءاستفاده از آرامش امروز ما، به چین سفر کند و خود را پیروز جلوه دهد. الجزیره
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 8913
+
+<div align="center">
+  <a href="telegram/content/mwarmonitor_8913_1778516635.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸خبرنگار: آقای رئیس‌جمهور، آیا هنوز فکر می‌کنید راه حل دیپلماتیک با ایران امکان‌پذیر است یا فقط گزینه‌های نظامی دارید؟
+🔹دونالد ترامپ: نه، فکر می‌کنم خیلی امکان‌پذیر است. ببینید، من چهار یا پنج بار با آن‌ها سر و کار داشته‌ام. آن‌ها نظرشان را عوض می‌کنند. آن‌ها افراد بسیار بی شرافت (ناشریفی) هستند، یعنی رهبران‌شان.
+فراموش نکنید که این سطح سوم است. سطح اول خداست، آن‌ها غیرمنطقی بودند. سطح دوم منطقی‌تر است. در سطح سوم هیچ‌کس نمی‌خواهد رئیس‌جمهور شود، می‌دانید؟
+آن‌ها می‌گویند «چه کسی می‌خواهد رئیس‌جمهور شود؟» و هیچ‌کس دستش را بالا نمی‌برد. اما ما... آن‌ها فقط نظرشان را عوض می‌کنند. من بارها در تجارت با این موضوع روبرو شده‌ام، می‌دانید، تغییر عقیده.
+این آدم‌ها، شما با آن‌ها توافق می‌کنید و بعد روز بعد سندی برای شما می‌فرستند که ۵ روز طول می‌کشد تا به دستتان برسد، در حالی که باید در عرض ۲۰ دقیقه می‌رسید. می‌دانید، سند خیلی ساده‌ای است.
+آن‌ها هرگز سلاح هسته‌ای نخواهند داشت.
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341544
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341544_1778516637.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: President Trump tells reporters that he's "willing to take a bullet" for the country while vowing to prevent Iran from obtaining nuclear weapons.
+
+"I'm willing to, it's a terrible expression, take a bullet. It's a terrible expression, especially when it's used by me. But I am I'm willing to take a bullet for the country."
+</div>
+
+## pm_afshaa — post 90569
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90569_1778516640.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ: اگه توافقی حاصل نشه، ما ایران رو به گونه‌ای هدف قرار خواهیم داد که قبلاً ندیدن.
+
+ایران اگه به سلاح هسته‌ای دست پیدا کنه یک ساعت بعد از اون استفاده میکنه.
+
+
+💧Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90568
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ: آتش‌بس بسیار شکننده‌اس و داره می‌میره، بهش اکسیژن وصل کردیم تا زنده بمونه، اما یک درصد ممکنه زنده بمونه!
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90567
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90567_1778516641.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ: پیشنهاد ایران خیلی بد بود، من حتی تا آخرش نخوندم!
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90566
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90566_1778516642.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ: ما چند روز منتظر موندیم تا پاسخ ایران رو دریافت کنیم درحالی که میتونستن در 10 دقیقه آماده کنن.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90565
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90565_1778516642.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ: واسه مردم ایران اسلحه فرستادم ولی کُردها اونارو دزدیدن و منو مأیوس کردن. مردم ایران عالی مبارزه کردن ولی تفنگ نداشتن.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90564
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90564_1778516643.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ:
+ایران به من گفت: «تو گرد و غبار هسته‌ای رو خواهی گرفت، اما باید خودت برداریش. تنها تو و چین هستید که میتونید بردارینش، چون تأسیسات کاملاً نابود شدن..
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 336676
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336676_1778516644.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ساعاتی پس از نارضایتی کامل رییس‌جمهور آمریکا از پاسخ تهران به پیشنهاد واشینگتن برای توافق، سخنگوی وزارت خارجه گفت جمهوری اسلامی فعلا درباره برنامه هسته‌ای‌اش مذاکره نمی‌کند. همزمان نخست‌وزیر اسرائیل تدارک برگزاری یک نشست امنیتی را دیده است.
+
+گزارشی از مجتبا پورمحسن
+@iranintltv
+</div>
+
+## IranIntlTV — post 336675
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336675_1778516648.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ساعاتی پس از نارضایتی کامل رییس‌جمهور آمریکا از پاسخ تهران به پیشنهاد واشینگتن برای توافق، سخنگوی وزارت خارجه گفت جمهوری اسلامی فعلا درباره برنامه هسته‌ای‌اش مذاکره نمی‌کند. همزمان نخست‌وزیر اسرائیل تدارک برگزاری یک نشست امنیتی را دیده است.
+
+گزارشی از مجتبا پورمحسن
+@iranintltv
+</div>
+
+## DW_Farsi — post 124569
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎥 برگزاری نمایشگاه عکس "حکومت اعدام" در شهر کلن
+
+نمایشگاه عکس "حکومت اعدام" روز یکشنبه ۱۰ مه در شهر کلن آلمان برگزار شد. هدف از برگزاری این نمایشگاه، بیدارسازی افکار عمومی اروپا نسبت به نقض گسترده حقوق بشر و موج اعدام‌ها در ایران بود.
+@dw_farsi
+</div>
+
+## Persian_Trend_Official — post 13930
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+https://youtube.com/live/rsDox1i9jQs?feature=share
+</div>
+
+## Persian_Trend_Official — post 13929
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_13929_1778516650.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ: آتش‌بس تو وضعیت حیاتیه
+
+💢 این وضعیت به طرز باورنکردنی ضعیفه. بعد از خوندن اون مزخرفات "پیشنهاد ایران" حتی وقت نکردم کاملش رو بخونم
+
+💢 این پیشنهاد خیلی ضعیفه و عملاً امید زیادی به ادامه آتش‌بس وجود نداره
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 13928
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_13928_1778516652.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ: ما ۴ روز برای سندی از ایران منتظر ماندیم که تنظیم آن بیش از ۱۰ دقیقه زمان نمی‌برد
+
+🔹آن‌ها ۲ روز پیش با خارج‌کردن اورانیوم‌ها موافقت کردند اما بعداً نظرشان تغییر کرد، چون آن را در پیام ارسالی به ما نیاوردند.
+
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 19967
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_19967_1778516655.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ درباره ایران:
+
+رهبران ایران آدم‌های بسیار بی‌ناموس و غیرمورد اعتماد هستند.
+
+@IranianMinds
+</div>
+
+## alonews — post 119331
+
+<div align="center">
+  <a href="telegram/content/alonews_119331_1778516658.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ : من این هفته قراره رو در رو با رئیس‌جمهور چین،شی جین‌پینگ،درباره ایران حرف بزنم
+
+
+🔴 ایران کشور خیلی قشنگیه،ولی یه سری آدم‌ها اون رو اداره می‌کنن که شاید اصلاً نباید اونجا باشن
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119330
+
+<div align="center">
+  <a href="telegram/content/alonews_119330_1778516661.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈تسنیم به نقل از یک منبع نزدیک به تیم مذاکرات: برخلاف ادعای برخی رسانه‌های غربی، در متن ایران چیزی به عنوان پذیرش خروج مواد غنی شده هسته‌ای از کشور، وجود ندارد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119329
+
+<div align="center">
+  <a href="telegram/content/alonews_119329_1778516661.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: امیدوارم ایران توسط انسان های خوبی در آینده رهبری شود!
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 19:43
 ---
 
