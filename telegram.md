@@ -7,6 +7,234 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 19:23
+---
+
+## VahidOOnLine — post 239547
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239547_1778514792.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ در گفت‌وگو با سی‌بی‌اس نیوز درباره پاسخ اخیر تهران به پیشنهاد صلح آمریکا گفت که جمهوری اسلامی در برنامه هسته‌ای خود امتیازاتی داده اما «کافی نبوده» و هنوز «پیشنهاد آن‌ها بسیار ضعیف و غیرقابل قبول» است.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239546
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️اسماعیل بقایی، سخنگوی وزارت امور خارجه جمهوری اسلامی در نشست خبری گفت ایران هم‌زمان با حفظ آمادگی در همه حوزه‌ها، از دیپلماسی نیز برای پیشبرد منافع ملی استفاده می‌کند و این مسیر را بر اساس تشخیص خود و منافع ملت دنبال خواهد کرد.
+او گفت: «ما هر وقت لازم باشد می‌جنگیم و هر وقت تشخیص دهیم از سلاح دیپلماسی استفاده می‌کنیم تا منافع ملت ایران را تحقق بخشیم. رضایت دیگران برای ما مهم نیست.»
+بقایی با اشاره به قواعد حاکم بر مذاکرات و روندهای دیپلماتیک گفت هر روند دیپلماتیک چارچوب‌های مشخص خود را دارد و طرف‌های درگیر باید بر اساس منافع ملی خود تصمیم‌گیری کنند.
+او افزود جمهوری اسلامی در پیگیری حقوق و منافع خود جدی است و در عین حال با حسن‌نیت و به‌صورت معقول در روندهای دیپلماتیک شرکت می‌کند، اما این موضوع به معنای انتظار برای اثبات جدیت از سوی طرف مقابل است.
+سخنگوی وزارت امور خارجه در ادامه با انتقاد از عملکرد آمریکا گفت این کشور در هر روند دیپلماتیکی که در دو دهه اخیر حضور داشته، دچار بدعهدی شده است؛ از جمله خروج از برجام در سال ۲۰۱۸ و همچنین «حمله به میز دیپلماسی» در یک سال اخیر.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8909
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨 ترامپ: آتش‌بس با ایران در وضعیت «حیاتِ بسیار بحرانی» قرار دارد / در آستانه فروپاشی است.
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 8908
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایشون خیلی طولانی صحبت نخواهند کرد چون یک گروه بزرگ از ژنرال‌ها منتظر من هستن و این هم موضوع خیلی مهمیه، می‌دونید، (موضوعی) مربوط به کشور کاملاً دوست‌داشتنیِ ایرون (ایران)؛ اینجوری تلفظش می‌کنن.» @mwarmonitor
+</div>
+
+## IranIntlTV — post 336672
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336672_1778514792.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ در گفت‌وگو با سی‌بی‌اس نیوز درباره پاسخ اخیر تهران به پیشنهاد صلح آمریکا گفت که جمهوری اسلامی در برنامه هسته‌ای خود امتیازاتی داده اما «کافی نبوده» و هنوز «پیشنهاد آن‌ها بسیار ضعیف و غیرقابل قبول» است.
+https://iranintl.com/202605110573
+</div>
+
+## FarsiVOA — post 217448
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺تحریم‌های بریتانیا علیه ۱۲ فرد و نهاد مرتبط با جمهوری اسلامی
+
+▪️دولت بریتانیا روز دوشنبه ۲۱ اردیبهشت ۱۲ فرد و نهاد مرتبط با رژیم ایران را به فهرست تحریمی خود اضافه و آنها را به مشارکت در «فعالیت خصمانه» از جمله طراحی حملات و «ارائه خدمات مالی به گروه‌ها» برای بی‌ثبات‌سازی بریتانیا و سایر کشورها متهم کرد.
+
+⬇️ بیشتر بخوانید:
+
+https://ir.voanews.com/a/iran-islamic-republic-sanctions-britain/8148823.html/?nocach=1
+</div>
+
+## Persian_Trend_Official — post 13926
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ: گروه بزرگی از ژنرال‌ها منتظرند تا در مورد ایران با من ملاقات کنند 🔹ما در حال حاضر نمی‌دانیم چگونه می‌توانیم ایران را برای ادامه حذف بقایای هسته‌ای متقاعد کنیم و این موضوع را به مذاکرات بیشتر موکول خواهیم کرد. ▪️اگر توافقی حاصل نشود، ما ایران را به…
+</div>
+
+## IranianMinds — post 19960
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_19960_1778514793.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ درباره ایران:
+
+در ایران هم آدم‌های میانه‌رو و دیوانه وجود دارند.
+
+میانه‌روها بیشتر مورد احترام‌اند. دیوانه‌ها می‌خواهند تا آخر بجنگند.
+
+ما هم در کشور خودمان دیوانه داریم.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19959
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ : بعد این پیشنهاد مزخرفی که ایران دیروز برای ما فرستاد آتش بس به شدت شکننده است @IranianMinds
+</div>
+
+## IranianMinds — post 19958
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ:
+
+از کردها خیلی ناامیدم، کسانی که به آن‌ها سلاح دادیم تا آن را به داخل ایران تحویل دهند، اما آن را برای خودشان نگه داشتند.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19957
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ :
+
+بعد این پیشنهاد مزخرفی که ایران دیروز برای ما فرستاد آتش بس به شدت شکننده است
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19956
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ :
+
+ایرانیا اول میان به ما میگن ما موافقیم و همه چیزو میدیم ولی بعد یهو تمام حرفاشونو عوض میکنن و کنار میکشن دوباره
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19955
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ:
+
+ایران احتمالا در این زمان کوتاه خودشو کمی بازسازی کرده، ولی ما این را تقریبا در یک روز نابود خواهیم کرد، نمی‌توانیم اجازه دهیم ایران به سلاح هسته‌ای دست پیدا کند.
+
+@IranianMinds
+</div>
+
+## alonews — post 119319
+
+<div align="center">
+  <a href="telegram/content/alonews_119319_1778514795.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ درباره ایران: آنها چقدر احمق هستند؟ آدم‌های احمق. آنها فکر می‌کنند که خب، من از این خسته می‌شوم، حوصله‌ام سر می‌رود، تحت فشار قرار می‌گیرم.
+
+
+🔴هیچ فشاری وجود ندارد. ما پیروزی کامل خواهیم داشت. ما از نظر نظری، از دیدگاه نظامی، قبلاً پیروزی کامل را داریم.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119318
+
+<div align="center">
+  <a href="telegram/content/alonews_119318_1778514795.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ درباره ایران: خیلی‌ها می‌گویند، آیا او برنامه‌ای دارد؟ البته که برنامه دارم. بهترین برنامه‌ای که تا به‌حال بوده را دارم!
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119317
+
+<div align="center">
+  <a href="telegram/content/alonews_119317_1778514796.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: آتش‌بس با ایران در بخش مراقبت‌های ویژه (ICU) است!
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119316
+
+<div align="center">
+  <a href="telegram/content/alonews_119316_1778514796.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: ایرانی‌ها در مورد مسائلی با ما به توافق می‌رسند و سپس عقب‌نشینی می‌کنند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119315
+
+<div align="center">
+  <a href="telegram/content/alonews_119315_1778514796.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: طرح من برای مهار ایران یک طرح نظامی درخشان بود، درست مثل طرح ونزوئلا.
+
+
+🔴ایران هم مثل آمریکا میانه‌رو و تندرو دارد.
+
+
+🔴 ما چندین روز منتظر پاسخ ایران بودیم و می‌توانست ظرف ۱۰ دقیقه آماده شود
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119314
+
+<div align="center">
+  <a href="telegram/content/alonews_119314_1778514797.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ : اون محاصره، اول از همه، یه نبوغ نظامی بود؛ درست مثل ونزوئلا،ما پر از مهمات فوق‌العاده‌ایم
+
+
+🔴الان خیلی چیزهای بهتری نسبت به دو ماه پیش داریم، وقتی اولین حمله رو انجام دادیم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 19:13
 ---
 
