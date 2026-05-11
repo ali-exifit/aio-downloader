@@ -7,6 +7,131 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 15:23
+---
+
+## mwarmonitor — post 8884
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_8884_1778500382.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚢تانکر LPG با پرچم پاناما به نام XIN MING LONG (شماره IMO: 9196450) که از بندر الحمیریه در امارات متحده عربی حرکت کرده است، به نظر می‌رسد در حال آماده‌سازی برای عبور از تنگه هرمز باشد.
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 8883
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇮🇱 کانال ۱۲ به نقل از منابع نظامی اسرائیلی: ارتش در حال آماده‌سازی برای گسترش عملیات خود در لبنان است تا به رهبری سیاسی امکان اتخاذ تصمیم را بدهد.
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341517
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341517_1778500383.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: President Trump is heading to China for a high-stakes meeting with Chinese President Xi as tensions with Iran continue to simmer in the Middle East.
+
+@markpmeredith breaks down why President Trump’s visit to China is happening as Iran continues pushing back against U.S. pressure, complicating the broader geopolitical picture.
+</div>
+
+## IranIntlTV — post 336643
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336643_1778500386.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مروری بر رسانه‌ها و خبرگزاری‌ها در ایران، دوشنبه ۲۱ اردیبهشت، با مجتبی هاشمی، روزنامه‌نگار
+
+@iranintltv
+</div>
+
+## IranIntlTV — post 336642
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336642_1778500388.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اطلاعات رسیده به ایران‌اینترنشنال، جزییات تازه‌ای از کشته شدن جاویدنام پوریا میربهروزیان در جریان انقلاب ملی ایرانیان در مشهد روایت می‌کند.
+گفت‌وگو با فرنوش فرجی، عضو تحریریه ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## FarsiVOA — post 217426
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217426_1778500391.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پس از آنکه تصور می‌شد نسل خرس قهوه‌ای در برخی مناطق ایران منقرض شده است، رسانه‌های داخل ایران با انتشار تصاویری از مشاهده این گونه ارزشمند در کوه‌های سبلان خبر دادند.
+
+خرس‌های قهوه‌ای در این منطقه همراه توله‌های خود ظاهر شده‌اند که نشان‌دهنده زاد و ولد موفق و حیات دوباره این گونه در سبلان است.
+
+بازگشت این خرس‌ها که پیشتر در لیست مناطق «گونه‌های منقرض شده» قرار داشتند، سبب امیدواری برای حفظ تنوع زیستی در کوهستان‌های شمال غرب ایران شده است.
+@FarsiVOA
+</div>
+
+## DW_Farsi — post 124558
+
+<div align="center">
+  <img src="telegram/content/DW_Farsi_124558_1778500393.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶 سفر وزیر امور خارجه ترکیه به قطر برای گفت‌وگو در باره جنگ ایران
+
+به گزارش خبرگزاری رویترز به نقل از یک منبع دیپلماتیک در آنکارا، هاکان فیدان، وزیر خارجه ترکیه، قرار است روز سه‌شنبه، ۱۲ مه (۲۲ اردیبهشت) برای گفت‌وگو درباره جنگ ایران، پیامدهای آن برای منطقه خلیج فارس و وضعیت تنگه هرمز به قطر سفر کند.
+
+طبق این گزارش، ترکیه که عضو ناتو و همسایه ایران است، از زمان آغاز درگیری‌ها در تماس نزدیک با آمریکا، ایران و همچنین پاکستان به‌عنوان میانجی بوده است.
+
+هاکان فیدان که آخرین بار در ماه مارس به دوحه سفر کرده بود، در آخر هفته نیز دو تماس تلفنی جداگانه با عباس عراقچی، وزیر خارجه ایران، داشته است.
+
+به گفته منبع مورد استناد رویترز، فیدان در سفر خود حمایت ترکیه از متحدش قطر را در برابر حملات ایران مورد تأکید قرار خواهد داد.
+
+@dw_farsi
+</div>
+
+## IranianMinds — post 19938
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴موج گسترده‌ای از حملات هوایی اسرائیل در سراسر جنوب لبنان در حال انجام شدن است.
+
+@IranianMinds
+</div>
+
+## alonews — post 119274
+
+<div align="center">
+  <a href="telegram/content/alonews_119274_1778500394.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈چین: محدودیت‌های اعمال شده بر شرکت‌های چینی از سوی آمریکا با ادعای اینکه پاسخ نظامی ایران را تقویت کرده‌اند، غیر قانونی استآماده همکاری و حل اختلافات با واشنگتن هستیم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119273
+
+<div align="center">
+  <a href="telegram/content/alonews_119273_1778500394.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ارتش اسرائیل در حال آماده‌سازی برای گسترش عملیات زمینی خود در لبنان در پی ادامه نقض‌های حزب‌الله است و موقعیت نظامی را برای امکان تصمیم‌گیری رهبری سیاسی فراهم می‌کند، به گزارش کانال ۱۲ و به نقل از منابع نظامی اسرائیلی
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 15:13
 ---
 
