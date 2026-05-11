@@ -7,6 +7,185 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 13:33
+---
+
+## VahidOOnLine — post 239495
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239495_1778493796.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+قیمت نفت روز دوشنبه پس از آن بیش از سه‌ونیم درصد افزایش یافت که دونالد ترامپ، رئیس‌جمهور آمریکا، پاسخ جمهوری اسلامی به پیشنهاد واشینگتن برای پایان جنگ را «کاملا غیرقابل قبول» خواند.
+
+رویترز نوشت تهران در پاسخ خود خواستار پایان جنگ، رفع انسداد دریایی، تضمین نشدن حمله تازه، لغو تحریم‌ها و آزادسازی فروش نفت ایران شده است.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239494
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239494_1778493797.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ویدیوهای ارسال‌شده به ایران‌اینترنشنال در دوشنبه ۲۱ اردیبهشت، ستون دود ناشی از انفجار را در شیراز نشان می‌دهد. هنوز علت این انفجار مشخص نیست.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239493
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239493_1778493798.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ویدیوهای ارسال‌شده به ایران‌اینترنشنال در دوشنبه ۲۱ اردیبهشت، برخاستن دود ناشی از انفجار را در شیراز نشان می‌دهد. هنوز علت این انفجار مشخص نیست.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239492
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239492_1778493800.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نخست‌وزیر بریتانیا تاکید کرد که از جنگ ایران حمایت نمی‌کند و افزود که شهروندان این کشور نگران افزایش قیمت بنزین و تاثیرات اقتصادی آن هستند.
+
+کی‌یر استارمر تاکید کرد کشورهای دیگر می خواستند بریتانیا را جنگ ایران بکشانند اما او هرگز این کار را نخواهد کرد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8877
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_8877_1778493800.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✈️ساعت ۱۰:۲۰ به وقت گرینویچ DRAGON 02 هواپیمای U-2/S نیروی هوایی آمریکا (USAF) با نام Dragon Lady
+از پایگاه RAF Fairford برای یک پرواز آزمایشی در ارتفاع بالا (High-altitude MX Airtest) به پرواز درآمده است.
+
+✈️این هواپیما قصد دارد حدود ۱۰۰ مایل از نقطه مسیر ROPAL در حالت انتظار (Holding) برای چند ساعت باقی بماند و سپس به پایگاه بازگردد (RTB = بازگشت به پایگاه).
+
+@mwarmonitor
+</div>
+
+## pm_afshaa — post 90537
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴به گفته GB News، نخست‌وزیر بریتانیا کیر استارمر به نظر می‌رسد این هفته استعفا دهد 
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom 
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 336623
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336623_1778493801.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ویدیوهای ارسال‌شده به ایران‌اینترنشنال در دوشنبه ۲۱ اردیبهشت، ستون دود ناشی از انفجار را در شیراز نشان می‌دهد. هنوز علت این انفجار مشخص نیست.
+</div>
+
+## IranIntlTV — post 336622
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336622_1778493802.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال از گرانی چندین برابری روغن خوراکی خبر می‌دهد و می‌گوید: «سپاه ما را به خواری و ذلت انداخته است.»
+</div>
+
+## IranIntlTV — post 336621
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336621_1778493804.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ویدیوهای ارسال‌شده به ایران‌اینترنشنال در دوشنبه ۲۱ اردیبهشت، برخاستن دود ناشی از انفجار را در شیراز نشان می‌دهد. هنوز علت این انفجار مشخص نیست.
+</div>
+
+## IranIntlTV — post 336620
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336620_1778493806.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نخست‌وزیر بریتانیا تاکید کرد که از جنگ ایران حمایت نمی‌کند و افزود که شهروندان این کشور نگران افزایش قیمت بنزین و تاثیرات اقتصادی آن هستند.
+
+کی‌یر استارمر تاکید کرد کشورهای دیگر می خواستند بریتانیا را جنگ ایران بکشانند اما او هرگز این کار را نخواهد کرد.
+https://iranintl.com/202605116217
+</div>
+
+## ManotoTV — post 105298
+
+<div align="center">
+  <img src="telegram/content/ManotoTV_105298_1778493806.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+قیمت نفت روز دوشنبه پس از آن بیش از سه‌ونیم درصد افزایش یافت که دونالد ترامپ، رئیس‌جمهور آمریکا، پاسخ جمهوری اسلامی به پیشنهاد واشینگتن برای پایان جنگ را «کاملا غیرقابل قبول» خواند.
+
+رویترز نوشت تهران در پاسخ خود خواستار پایان جنگ، رفع انسداد دریایی، تضمین نشدن حمله تازه، لغو تحریم‌ها و آزادسازی فروش نفت ایران شده است.
+</div>
+
+## FarsiVOA — post 217419
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217419_1778493806.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سخنگوی ارتش اسرائیل از شناسایی و انهدام چهار مسیر زیرزمینی استراتژیک در منطقه جنوب نوار غزه خبر داد.
+
+نیروهای تیپ ۱۸۸ با همکاری یگان مهندسی ویژه، مجموعه‌ای از تونل‌ها به طول ۴ کیلومتر را در منطقه شرق «خط زرد» نابود کردند.
+
+طبق بیانیه ارتش، یکی از این مسیرها بخشی از یک شبکه پیچیده بوده که پیش از این برای نگهداری گروگان‌های اسرائیلی استفاده می‌شد.
+
+در جریان بازرسی از این تونل‌ها، اتاق‌هایی کشف شد که در اختیار مقامات ارشد نظامی خان‌یونس وابسته به گروه تروریستی حماس قرار داشت.
+
+ارتش اسرائیل تأکید کرد که نیروهای فرماندهی جنوب مطابق با چارچوب توافق آتش‌بس در منطقه مستقر هستند، اما برای رفع هرگونه «تهدید فوری» به فعالیت‌های عملیاتی خود ادامه می‌دهند.
+
+این عملیات بخشی از تلاش‌های مستمر برای پاکسازی زیرساخت‌های زیرزمینی در نوار غزه توصیف شده است.
+@FarsiVOA
+</div>
+
+## manototv — post 105298
+
+<div align="center">
+  <img src="telegram/content/manototv_105298_1778493808.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+قیمت نفت روز دوشنبه پس از آن بیش از سه‌ونیم درصد افزایش یافت که دونالد ترامپ، رئیس‌جمهور آمریکا، پاسخ جمهوری اسلامی به پیشنهاد واشینگتن برای پایان جنگ را «کاملا غیرقابل قبول» خواند.
+
+رویترز نوشت تهران در پاسخ خود خواستار پایان جنگ، رفع انسداد دریایی، تضمین نشدن حمله تازه، لغو تحریم‌ها و آزادسازی فروش نفت ایران شده است.
+</div>
+
+## alonews — post 119231
+
+<div align="center">
+  <a href="telegram/content/alonews_119231_1778493809.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈بلومبرگ به نقل از منابع خود نوشت:
+تهران خواستار لغو محاصره دریایی، کاهش تحریم‌ها و حفظ برخی کنترل‌ها بر ناوبری در تنگه هرمز شد.
+
+
+🔴ایران اصرار دارد که هرگونه توافقی باید به توقف فوری خصومت‌ها در لبنان منجر شود.
+
+
+🔴خواسته‌های ایران شامل آزادسازی دارایی‌های مسدود شده‌اش و لغو تحریم‌های آمریکا علیه صادرات نفت این کشور بود
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 13:23
 ---
 
