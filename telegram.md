@@ -7,6 +7,129 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 16:33
+---
+
+## VahidOOnLine — post 239520
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239520_1778504589.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ انتشار تصاویر انفجار در «خانه کشتی» تهران
+
+♦️رسانه‌های داخلی تصاویری از لحظه وقوع انفجار ناشی از بمباران‌ها در «خانه کشتی مصطفی صدرزاده» را منتشر کردند، تصاویری که در آن افراد حاضر در سالن، همزمان با شنیده شدن صدای انفجارها، با اضطراب تلاش می‌کنند خود را به نقاط امن برسانند.
+
+در جریان حدود ۴۰ روز درگیری میان اسرائیل و ایالات متحده با جمهوری اسلامی، گزارش‌های متعددی درباره حمله به برخی زیرساخت‌ها و مراکز نظامی و امنیتی ایران منتشر شده است.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341520
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341520_1778504591.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+Newly released video shows the moment a person runs onto the runway at Denver International Airport and is fatally struck by a Frontier Airlines plane during takeoff.
+
+An airport spokesperson says the individual jumped a perimeter fence and entered the airfield two minutes later before the incident occurred.
+
+The person has not been identified and is not believed to be an airport employee.
+
+The incident triggered an engine fire, injuring 12 passengers, and sending five people to the hospital.
+</div>
+
+## DEJradio — post 4567
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4567_1778504592.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺🎥 نمایشگاه سالیانه خودروهای کلاسیک و لوکس در برلین که همه‌ساله به مدت ۲ روز در خیابان «کودام» برگزار می‌شود، زیر تاثیر جنگ خاورمیانه قرار گرفت.
+
+رانندگان ماشین‌های قدیمی به دلیل افزایش بهای بنزین بعد از جنگ ۴۰ روزه ایران، کمتر گشت‌زنی می‌کردند و ایرانی‌های بازدیدکننده از نمایشگاه می‌گفتند با توجه به شرایط ایران حس و حالی برای خوش بودن نیست و دور از وطن با این جور نمایشگاه‌ها وقت تلف می‌کنیم.
+
+#خودروهای_کلاسیک #جنگ۴۰روزه
+@DEJradio
+</div>
+
+## IranIntlTV — post 336654
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336654_1778504593.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک شهروند با ارسال پیامی به ایران‌اینترنشنال از اصفهان می‌گوید که با هزار زحمت کاسبی خود را انداخته ولی حالا سه ماه است که بیکار شده؛ «همه‌چیز گران شده و کسی پول ندارد.»
+</div>
+
+## Persian_Trend_Official — post 13914
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_13914_1778504595.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ مطهری نماینده مجلس: ما دنیارو از شر نتانیاهو و ترامپ نجات میدیم.
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 13913
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ عارف معاون پزشکیان و رئیس کارگروه بنزین:
+
+در جلسه کارگروه بنزین تصمیماتی در مورد اصلاح مصرف بنزین گرفته شد که از اول خرداد اجرایی می‌شود.
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 19940
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴میزان، خبرگزاری وابسته به قوه قضاییه:
+
+به دستور مقامات قضایی، ۲ واحد تجاری و ۴ واحد مسکونی منتسب به علی کریمی توقیف و مصادره شد.
+
+@IranianMinds
+</div>
+
+## alonews — post 119291
+
+<div align="center">
+  <a href="telegram/content/alonews_119291_1778504596.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈مطهری نماینده مجلس: ما دنیارو از شر نتانیاهو و ترامپ نجات میدیم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119290
+
+<div align="center">
+  <a href="telegram/content/alonews_119290_1778504596.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزیر امور خارجه عمان: برای آزادی کشتی‌های توقیف شده در خلیج فارس، به یک ابتکار بشردوستانه با همکاری کشورهای ساحلی نیاز است.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 16:23
 ---
 
