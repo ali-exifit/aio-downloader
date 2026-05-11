@@ -7,6 +7,254 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 19:03
+---
+
+## VahidOOnLine — post 239542
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239542_1778513635.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+راهپیمایی ایرانیان ونکوور
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239541
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239541_1778513637.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ، رئیس‌جمهوری آمریکا، به فاکس‌نیوز گفت واشینگتن در حال بررسی ازسرگیری عملیاتی برای بازگشایی تنگه هرمز است.
+
+او افزود واشینگتن فشار بر جمهوری اسلامی را تا زمان دستیابی به توافق ادامه خواهد داد.
+
+ترامپ همچنین گفت هنوز تصمیم نهایی درباره ازسرگیری «پروژه آزادی» را نگرفته است.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239540
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239540_1778513638.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+قوه قضائیه جمهوری اسلامی از توقیف بخشی از املاک علی کریمی خبر داد.
+
+بر اساس اعلام قوه قضائیه، ۲ واحد تجاری و ۴ واحد مسکونی متعلق به علی کریمی در استان البرز شناسایی و توقیف شده‌اند.
+
+در این گزارش ادعا شده این املاک پس از «استعلام از سازمان ثبت اسناد و املاک» و با «اقدامات حقوقی و اطلاعاتی» شناسایی شده‌اند.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239539
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ تاثیر جنگ ایران بر بازار نوشابه در هند؛
+قوطی‌های «دایت کوک» به کالای کمیاب تبدیل شد
+
+♦️کمبود قوطی‌های نوشابه «دایت کوک» در هند که گزارش‌ها آن را به اختلال در زنجیره تامین ناشی از جنگ ایران و مشکلات حمل‌ونقل دریایی در تنگه هرمز مرتبط می‌دانند، به موجی از واکنش‌های گسترده در شبکه‌های اجتماعی و حتی برگزاری مهمانی‌هایی با محوریت این نوشیدنی منجر شده است.
+بر اساس گزارش رویترز، «دایت کوک» در هند تنها در قوطی‌های آلومینیومی عرضه می‌شود و همین موضوع باعث شده اختلال در مسیرهای کشتیرانی و گیر افتادن بخشی از محموله‌ها، بازار این نوشیدنی را با کمبود مواجه کند.
+در روزهای اخیر، کاربران شبکه‌های اجتماعی در هند با انتشار تصاویر و ویدیوهایی از ذخیره‌سازی این نوشابه، به کمبود آن واکنش نشان داده‌اند و موجی از شوخی‌ها و تصاویر طنز درباره کمیاب شدن «دایت کوک» شکل گرفته است.
+در همین حال، برخی کافه‌ها و برگزارکنندگان رویدادها از این موج رسانه‌ای برای جذب مخاطب استفاده کرده‌اند و حتی «مهمانی دایت کوک» برگزار شده است؛ در برخی برنامه‌ها نیز قوطی‌های این نوشابه به عنوان جایزه قرعه‌کشی در نظر گرفته شده است.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8905
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴غنی‌سازی اورانیوم ایران و توسعه فناوری هسته‌ای، در هر توافقی با آمریکا غیرقابل مذاکره است؛ این را رئیس سازمان انرژی اتمی ایران به نقل از صدا و سیمای جمهوری اسلامی ایران (IRIB) اعلام کرده است.
+
+@mwarmonitor
+</div>
+
+## farsi_fox_news — post 89227
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ توافق نهایی [ میان ایران و آمریکا] منوط به رسیدن به یک تفاهم اولیه برای پایان قطعی جنگ است
+
+🔹 در گام نخست یک تفاهم‌نامه مکتوب میان دو طرف امضا خواهد شد که بر اساس آن انتظارات و شرایط دو طرف برای توافق نهایی در آن مورد پذیرش هر دو طرف قرار می‌گیرد.
+🔹 پس از امضای تفاهم‌نامه در یک فرصت ۳۰ روزه و احتمالاً قابل تمدید برای مدت پیش‌بینی شده، مذاکرات برای جزئیات و نکات کارشناسی توافقنامه نهایی انجام می‌شود.
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89226
+
+<div align="center">
+  <img src="telegram/content/farsi_fox_news_89226_1778513639.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ اسلامی در کمیسیون امنیت ملی: غنی‌سازی قابل مذاکره نیست
+
+🔹 سخنگوی کمیسیون امنیت ملی به نقل از رئیس سازمان انرژی اتمی: موضوع فناوری هسته‌ای در دستور کار مذاکرات قرار ندارد.
+🔹 غنی‌سازی قابل مذاکره نیست.
+🔹 فعالیت‌های صنعت هسته‌ای ایران صلح‌آمیز بوده و صلح‌آمیز باقی خواهد ماند.
+🔹 تمهیدات لازم برای حفاظت از مراکز و دارایی‌های هسته‌ای پیش‌بینی و انجام شده است.
+🌐 @farsi_fox_news
+</div>
+
+## FoxNewsTwitter — post 341536
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341536_1778513640.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+JUST NOW: President Trump announces a new rule from the Department of Labor to help expand fertility benefits for millions of Americans:
+
+"This is a new benefit or an option that will be a major help for millions of American moms that will result in more beautiful American babies."
+</div>
+
+## pm_afshaa — post 90558
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سرور های پر سرعت شارژ شد
+
+در 2 حجم 5 گیگ و 10 گیگ موجوده
+
+5 گیگ 1440
+
+10 گیگ 2560
+
+برای خرید ارزی و ریالی دایرکت چنل میتونین پیام بدین
+</div>
+
+## ManotoTV — post 105312
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105312_1778513642.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+راهپیمایی ایرانیان ونکوور
+</div>
+
+## ManotoTV — post 105311
+
+<div align="center">
+  <img src="telegram/content/ManotoTV_105311_1778513645.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ، رئیس‌جمهوری آمریکا، به فاکس‌نیوز گفت واشینگتن در حال بررسی ازسرگیری عملیاتی برای بازگشایی تنگه هرمز است.
+
+او افزود واشینگتن فشار بر جمهوری اسلامی را تا زمان دستیابی به توافق ادامه خواهد داد.
+
+ترامپ همچنین گفت هنوز تصمیم نهایی درباره ازسرگیری «پروژه آزادی» را نگرفته است.
+</div>
+
+## ManotoTV — post 105310
+
+<div align="center">
+  <img src="telegram/content/ManotoTV_105310_1778513646.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+قوه قضائیه جمهوری اسلامی از توقیف بخشی از املاک علی کریمی خبر داد.
+
+بر اساس اعلام قوه قضائیه، ۲ واحد تجاری و ۴ واحد مسکونی متعلق به علی کریمی در استان البرز شناسایی و توقیف شده‌اند.
+
+در این گزارش ادعا شده این املاک پس از «استعلام از سازمان ثبت اسناد و املاک» و با «اقدامات حقوقی و اطلاعاتی» شناسایی شده‌اند.
+</div>
+
+## Persian_Trend_Official — post 13925
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ: گروه بزرگی از ژنرال‌ها منتظرند تا در مورد ایران با من ملاقات کنند
+
+🔹ما در حال حاضر نمی‌دانیم چگونه می‌توانیم ایران را برای ادامه حذف بقایای هسته‌ای متقاعد کنیم و این موضوع را به مذاکرات بیشتر موکول خواهیم کرد.
+
+▪️اگر توافقی حاصل نشود، ما ایران را به گونه‌ای هدف قرار خواهیم داد که قبلاً ندیده‌اند
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 19950
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ :
+
+مذاکره‌ کنندگان ایرانی به من گفتن ‌ که آمریکا باید مواد رادیواکتیو و «گرد هسته‌ای» را از سایت‌های هسته‌ای تخریب‌شده ایران خارج کند، چون ما فناوری لازم برای استخراج آن را نداریم.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19949
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_19949_1778513646.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ:
+
+گروه بزرگی از ژنرال‌ها منتظر من هستند تا درباره کشور فوق‌العاده‌ی ایران صحبت کنیم.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19948
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 پاکستان :
+
+تمام تلاشمونو‌ میکنیم که بن بست مذاکرات ایران و آمریکا رو از بین ببریم و کاری کنیم به توافق برسن.
+
+@IranianMinds
+</div>
+
+## manototv — post 105312
+
+<div align="center">
+  <a href="telegram/content/manototv_105312_1778513649.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+راهپیمایی ایرانیان ونکوور
+</div>
+
+## manototv — post 105311
+
+<div align="center">
+  <img src="telegram/content/manototv_105311_1778513652.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ، رئیس‌جمهوری آمریکا، به فاکس‌نیوز گفت واشینگتن در حال بررسی ازسرگیری عملیاتی برای بازگشایی تنگه هرمز است.
+
+او افزود واشینگتن فشار بر جمهوری اسلامی را تا زمان دستیابی به توافق ادامه خواهد داد.
+
+ترامپ همچنین گفت هنوز تصمیم نهایی درباره ازسرگیری «پروژه آزادی» را نگرفته است.
+</div>
+
+## manototv — post 105310
+
+<div align="center">
+  <img src="telegram/content/manototv_105310_1778513653.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+قوه قضائیه جمهوری اسلامی از توقیف بخشی از املاک علی کریمی خبر داد.
+
+بر اساس اعلام قوه قضائیه، ۲ واحد تجاری و ۴ واحد مسکونی متعلق به علی کریمی در استان البرز شناسایی و توقیف شده‌اند.
+
+در این گزارش ادعا شده این املاک پس از «استعلام از سازمان ثبت اسناد و املاک» و با «اقدامات حقوقی و اطلاعاتی» شناسایی شده‌اند.
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 18:53
 ---
 
