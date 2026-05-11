@@ -7,6 +7,299 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 20:03
+---
+
+## VahidOOnLine — post 239550
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️دونالد ترامپ، رئیس جمهوری آمریکا روز دوشنبه ۲۱ اردیبهشت، در پاسخ به پرسش خبرنگاران درباره آنچه او تغییر رژیم در ایران خوانده بود گفت: «در ایران میانه‌رو و دیوانه‌ها را دارید. دیوانه‌ها می‌خواهند تا آخر بجنگند.»
+
+رئیس جمهوری آمریکا گفت جنگ خیلی کوتاهی در پیش خواهد بود. ترامپ تاکید کرد که میانه‌روها در جمهوری اسلامی از دیوانه‌ها می‌ترسند.
+
+دونالد ترامپ از پایان هفته سوم جنگ می‌گوید با توجه به کشته شدن دو صف اول رهبران جمهوری اسلامی، تغییر رژیم در ایران پیشاپیش روی داده است.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8916
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_8916_1778517227.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✈️نیروی دریایی آمریکا (US Navy)
+
+✈️۱ فروند هواپیمای Boeing E-6B Mercury
+شناسه: AE2927 – 162784 (THAW 64)
+
+✈️یک فروند E-6B Mercury، که به‌عنوان پست فرماندهی هوابرد و رله ارتباطی عمل می‌کند، از پایگاه نیروی هوایی تینکر (Tinker Air Force Base) اوکلاهاما پرواز کرده و در حال حرکت به سمت اشتوتگارت، آلمان است.
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 8915
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بعد از خوندن اون تیکه آشغالی که برامون فرستادن... حتی تمومش هم نکردم. گفتم وقتم رو برای خوندنش تلف نمی‌کنم.
+</div>
+
+## FoxNewsTwitter — post 341547
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341547_1778517227.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: President Trump praises the "coolest guys" behind the scenes who take out incoming enemy missiles:
+
+"They got like about 13 seconds to make a decision. It's not like, 'gee, let's figure it out.' They make a wrong calculation, you know you lose a lot of men."
+</div>
+
+## FoxNewsTwitter — post 341546
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341546_1778517230.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: President Trump prepares for a high-stakes summit with President Xi, signaling that the future of U.S. weapons sales to Taiwan is on the negotiating table.
+
+"I'm going to have that discussion with President XI. President XI would like us not to, and I'll have that discussion. That's one of the many things I'll be talking about."
+
+"He and I have gotten along well... he runs 1.4 billion people with a pretty iron fist. He's, he loves his country, I can tell you that."
+</div>
+
+## FoxNewsTwitter — post 341545
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341545_1778517232.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: President Trump addresses growing concerns about the hantavirus in the United States:
+
+"The one thing with this one is that it's much harder to catch... It's been around for a long time, people are very familiar with it."
+
+"I hope it's fine... It seems like it is not easy to spread."
+
+“We think we're in very good shape."
+</div>
+
+## pm_afshaa — post 90572
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90572_1778517234.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ: من این هفته قراره رو در رو با رئیس‌جمهور چین درباره ایران حرف بزنم.
+
+ایران کشور خیلی قشنگیه، ولی یه سری آدم‌ها اون رو اداره میکنن که شاید اصلاً نباید اونجا باشن.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90571
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90571_1778517234.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ: هیچ‌کس فکر نمیکرد عربستان، قطر، امارات، کویت و بحرین هدف قرار بگیرن.
+
+این یک اشتباه استراتژیک بزرگ بود و آنها موشک‌ها رو هدر دادن. ما سامانه‌های پاتریوت داریم که هر بار آنها رو سرنگون کردن.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90570
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90570_1778517235.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ: در ایران، افراد میانه‌رو و دیوانه‌ها وجود دارن. میانه‌روها محترم‌تر هستن و دیوانه‌ها میخوان تا آخر بجنگن؛ در کشور ما هم دیوانه‌هایی وجود دارن.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## Shin_Persian — post 5958
+
+<div align="center">
+  <a href="telegram/content/Shin_Persian_5958_1778517236.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Rapid Response 47 ✓ @RapidResponse47
+Mon, 11 May 2026 15:48:50 UTC
+
+.@POTUS on the ceasefire in Iran: "After reading that piece of garbage they sent us... It's on life support."
+
+فارسی
+
+.@POTUS در مورد آتش‌بس در ایران: «بعد از خواندن آن زباله‌ای که برای ما فرستادند... با دستگاه زنده مانده است.»
+
+𝕏 · @shin_persian
+</div>
+
+## Persian_Trend_Official — post 13931
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانال رسمی پرشین ترند pinned «https://youtube.com/live/rsDox1i9jQs?feature=share»
+</div>
+
+## RadioFarda — post 157061
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸حسین افشین، معاون علمی و فناوری مسعود پزشکیان، روز دوشنبه در مصاحبه‌ای به طور تلویحی وجود دلایل امنیتی برای قطعی کامل اینترنت در ایران را رد کرد.
+
+🔸او در این مصاحبه می‌گوید که «حتی در شرایط جنگی هم بستن اینترنت راهکار درستی نیست، چرا که دیدیم وقتی اینترنت کامل بسته بود هم ترورها ادامه داشت».
+
+🔸مقام‌های جمهوری اسلامی در پی آغاز حملات مشترک آمریکا و اسرائیل به ایران دسترسی مردم به اینترنت در کشور را به طور کامل قطع کردند؛ محدودیتی که پس از بیش از دو ماه هم‌چنان ادامه دارد.
+
+🔸نت‌بلاکس که میزان دسترسی به اینترنت در سراسر جهان را رصد می‌کند روز دوشنبه یادآوری کرد که ۷۳ روز از قطعی اینترنت در ایران می‌گذرد بدون آن که چشم‌اندازی از بازگشت آن برای مردم وجود داشته باشد.
+
+@RadioFarda
+</div>
+
+## Dirty_Kids — post 389272
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فکر میکردم تو این سن قراره شکفته بشم،
+شکافته شدم
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389271
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پسرا بعد از اینکه مختو میزنن رابطه رو می سپرن به دست حضرت ابولفضل که اونم دست نداره.
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389270
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389270_1778517238.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+صدا سیما اومده الکلاسیکو که کلا تبلیغی نداشته تبلیغاشو گذاشته
+حالا چی تبلیغ کرده؟سایت بت
+انقد بی پول شدید؟
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389269
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بچه ها اسم این بازی عبور مرغ از خیابون  هست ویدئو نگاه کنید خیلی راحت 8 میلیون ازش سود گرفتیم😍 
+😤اگ توم دوس داری خیلی راحت از بازی های انلاین پول در بیاری حتما عضو کازینو شبانه شو
+✅ توی کازینو شبانه بهت اموزش میدیم از بازی های انلاین پول دربیاری👌 کانال کازینو…
+</div>
+
+## Dirty_Kids — post 389268
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389268_1778517238.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بچه ها اسم این بازی عبور مرغ از خیابون  هست ویدئو نگاه کنید خیلی راحت 8 میلیون ازش سود گرفتیم😍
+
+
+😤اگ توم دوس داری خیلی راحت از بازی های انلاین پول در بیاری حتما عضو کازینو شبانه شو
+✅
+
+توی کازینو شبانه بهت اموزش میدیم از بازی های انلاین پول دربیاری👌
+
+کانال کازینو شبانه راهی برای چند برابر کردن سرمایت 🤷‍♂
+
+کسب درامد انلاین با یه ادم حرفه ای یاد بگیر و‌ پول دربیار 
+💵
+G21
+🎯همین حالا عضو شو و شروع کن👇N
+https://t.me/+6ckCmywafrxiYzk0
+https://t.me/+6ckCmywafrxiYzk0
+</div>
+
+## Dirty_Kids — post 389267
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389267_1778517240.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پیام‌رسان داخلی عالیه، حتما نصب کنین
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 119334
+
+<div align="center">
+  <a href="telegram/content/alonews_119334_1778517241.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ده‌ها تانکر سوخت‌رسانی آمریکا هنوز در فرودگاه بن گوریون اسرائیل مستقر هستند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119333
+
+<div align="center">
+  <a href="telegram/content/alonews_119333_1778517244.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ درباره ایران: فکر می‌کنم رسیدن به توافق بسیار ممکن است.
+
+
+🔴ببینید، من چهار یا پنج بار مجبور شده‌ام با آنها سر و کار داشته باشم. آنها نظرشان را عوض می‌کنند. آنها بسیار بی‌انصاف هستند، بخصوص رهبری‌شان.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119332
+
+<div align="center">
+  <a href="telegram/content/alonews_119332_1778517245.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ تو پاسخ به سؤال درباره فروش سلاح به تایوان : من قراره این موضوع رو با رئیس‌جمهور شی جین‌پینگ صحبت کنم. خودِ شی دوست داره ما این کار رو نکنیم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 19:53
 ---
 
