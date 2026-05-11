@@ -299,43 +299,6 @@ jobs:
           echo "========================================"
           echo "Creating ZIP archive(s)..."
 
-          # Generate 5 random words (from a hardcoded list to avoid dependency on system dictionaries)
-          WORDS=(apple banana cherry date elderberry fig grape honey ice jam kiwi lemon mango nut olive pear quince raspberry strawberry tomato)
-          RANDOM_WORDS=""
-          for i in {1..5}; do
-            RANDOM_WORDS+="${WORDS[$RANDOM % ${#WORDS[@]}]}-"
-          done
-          RANDOM_WORDS="${RANDOM_WORDS%-}"   # remove trailing hyphen
-
-          if [ "$ZIP_TOGETHER" = "true" ]; then
-            # Bundle all files into one ZIP
-            if [ -n "$(ls -A leecher-content 2>/dev/null)" ]; then
-              echo "→ Bundling all files into leeched-${RANDOM_WORDS}.zip"
-              cd leecher-content
-              # Use find to safely pass only files (no directories) to zip
-              find . -maxdepth 1 -type f -print0 | xargs -0 zip -j "../leecher/leeched-${RANDOM_WORDS}.zip"
-              cd ..
-            else
-              echo "No files to zip (leecher-content is empty)."
-            fi
-          else
-            # Individual ZIP per file (original behaviour)
-            cd leecher-content
-            for file in *; do
-              if [ -f "$file" ]; then
-                echo "→ Zipping $file"
-                zip -j -s 99m "../leecher/${file}.zip" "$file"
-              fi
-            done
-            cd ..
-          fi
-
-          echo "ZIP creation finished."
-
-          # ── ZIP everything ─────────────────────────────────
-          echo "========================================"
-          echo "Creating ZIP archive(s)..."
-
           if [ "$ZIP_TOGETHER" = "true" ]; then
             # Bundle all files into one ZIP with a random 5‑character name
             if [ -n "$(ls -A leecher-content 2>/dev/null)" ]; then
