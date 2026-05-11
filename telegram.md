@@ -7,6 +7,197 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 17:03
+---
+
+## VahidOOnLine — post 239524
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239524_1778506390.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گردهمایی ایرانیان گلاسگو
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239523
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239523_1778506392.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+امانوئل ماکرون، رئیس‌جمهور فرانسه، روز دوشنبه ۲۱ اردیبهشت، در جریان نشست «آفریقا فوروارد» در نایروبی، هنگام یک پنل فرهنگی سخنان خود را متوقف کرد و از حاضران خواست سکوت کنند.
+
+در ویدئوهای منتشرشده از این نشست، ماکرون با لحنی معترض گفت با این میزان سر و صدا «صحبت کردن درباره فرهنگ» و گوش دادن به سخنان افراد حاضر روی صحنه ممکن نیست. او این وضعیت را «بی‌احترامی کامل» خواند و از کسانی که قصد گفت‌وگوهای جانبی دارند خواست سالن را ترک کنند.
+
+نشست «آفریقا فوروارد» روزهای ۲۱ و ۲۲ اردیبهشت در پایتخت کنیا برگزار می‌شود و فرانسه و کنیا به طور مشترک میزبان آن هستند. این نشست با حضور ماکرون و هیات‌هایی از بیش از ۳۰ کشور آفریقایی برگزار شده و محور آن جذب سرمایه‌گذاری و بازنگری در نگاه جهانی به ریسک اقتصادی در آفریقا است.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8892
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇮🇳نخست‌وزیر هند، نارندرا مودی، از شهروندان خواست مصرف بنزین و گازوئیل را به حداقل برسانند.
+🔸مودی همچنین خواهان احیای اقدامات دوران کووید-۱۹ شد؛ از جمله در اولویت قرار دادن دورکاری، کنفرانس‌های آنلاین و جلسات مجازی.
+
+🔸او علاوه بر این از مردم درخواست کرد برای حفظ ذخایر ارزی کشور، به مدت یک سال از سفرهای خارجی و خرید طلا خودداری کنند تا فشار کاهش یابد.
+
+🔸از خانواده‌ها نیز خواسته شد مصرف روغن خوراکی را کاهش دهند.
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 8891
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_8891_1778506393.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇺🇸ناوشکن USS Delbert D. Black (DDG-119) در حال عبور از دریای عرب، در چارچوب اجرای محاصره ایالات متحده علیه ایران، بر آب‌های منطقه‌ای نظارت می‌کند. نیروهای فرماندهی مرکزی آمریکا (سنتکام) برای اطمینان از رعایت این محاصره، مسیر ۶۲ کشتی تجاری را تغییر داده و ۴ کشتی را از کار انداخته‌اند.
+
+@mwarmonitor
+</div>
+
+## Shin_Persian — post 5956
+
+<div align="center">
+  <img src="telegram/content/Shin_Persian_5956_1778506394.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+U.S. Central Command ✓ @CENTCOM
+Mon, 11 May 2026 13:22:29 UTC
+
+USS Delbert D. Black (DDG 119) monitors regional waters as it transits the Arabian Sea during enforcement of the U.S. blockade against Iran. CENTCOM forces have redirected 62 commercial ships and disabled 4 to ensure compliance.
+
+فارسی
+
+کشتی یو‌اس‌اس دلبرت دی. بلک (DDG 119) هنگام عبور از دریای عرب در جریان اجرای محاصره ایالات متحده علیه ایران، آب‌های منطقه را زیر نظر دارد. نیروهای سنتکام (فرماندهی مرکزی ایالات متحده) برای اطمینان از انطباق، مسیر ۶۲ کشتی تجاری را تغییر داده و ۴ کشتی را از کار انداخته‌اند.
+
+𝕏 · @shin_persian
+</div>
+
+## ManotoTV — post 105305
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105305_1778506395.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گردهمایی ایرانیان گلاسگو
+</div>
+
+## FarsiVOA — post 217438
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گزارش‌های رسیده به صدای آمریکا نشان می‌دهد پس از افزایش رسمی قیمت نان در همدان، نان در برخی شهرها با نرخ‌های تازه عرضه می‌شود.
+
+بر اساس این گزارش‌ها، در استان‌ها و شهرهایی از جمله اصفهان، یزد، مشهد و قم، نانوایی‌ها در روزهای اخیر نان را با قیمت‌های جدید عرضه کرده‌اند.
+
+در تهران نیز گزارش‌های میدانی حاکی است که قیمت‌های مصوب رعایت نمی‌شود و در برخی مناطق، نانوایی‌های سنگک و بربری عملاً آزادپز شده‌اند و دیگر نان را با نرخ دولتی عرضه نمی‌کنند.
+
+عصر ایران در گزارشی درباره گران‌فروشی نان نوشته یک نانوایی سنگک، نانی را که باید با آرد دولتی ۷ هزار و ۶۰۰ تومان عرضه کند، ۲۰ هزار تومان فروخته است.
+
+گزارش کامل را در وب‌سایت صدای آمریکا بخوانید.
+
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 13920
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+لینک داخلی برای افراد داخل ایران: https://dl.persiantrend.com/Mostanad/RezaShah.mp4
+</div>
+
+## Persian_Trend_Official — post 13919
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مستند رضاشاه، پدر ایران نوین 🔥
+</div>
+
+## Persian_Trend_Official — post 13918
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_13918_1778506397.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️فارس: نفتکش قطری در تنگه هرمز متوقف شد.
+
+نفتکش قطری «محمزم» حامل محموله‌ گاز مایع، وارد منطقهٔ تحت کنترل ایران شد و پس از دور زدن متوقف شد.
+
+سیگنال‌های این نفتکش که مقصد خود را پاکستان اعلام کرده است، نشان می‌دهد که اجازهٔ عبور از تنگه هرمز را از ایران دریافت نکرده است.
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## BBCPersian — post 280763
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻دومین نفتکش حامل گاز طبیعی مایع قطر از تنگه هرمز عبور کرد
+
+بر اساس داده‌های کشتیرانی، یک روز پس از عبور اولین نفتکش قطر از تنگه هرمز با هماهنگی ایران و میانجیگری پاکستان، دومین نفتکش ال‌ان‌جی قطری در حال عبور از تنگه هرمز است.
+
+رویترز با استناد به داده‌های شرکت ال‌اس‌ای‌جی گزارش داد که نفتکش مهزم، با ظرفیت ۱۷۴۰۰۰ مترمکعب، بندر راس لفان قطر را ترک کرد و در حال عبور از تنگه هرمز و حرکت به سمت بندر قاسم در پاکستان است.
+
+انتظار می‌رود این نفتکش فردا به پاکستان برسد.
+
+روز گذشته خبرگزاری فارس اعلام کرد که نفتکش قطری «الخریطیات» حامل گاز طبیعی مایع با «اجازه ایران» از تنگه هرمز گذر کرد و به سمت پاکستان رفت.
+
+فارس نوشته بود که این نفتکش «نخستین نفتکش غیرمرتبط با ایران است که از نیروی دریایی سپاه اجازه عبور از تنگه هرمز دریافت کرده است.»
+
+https://bbc.in/4wEUd6L
+@BBCPersian
+</div>
+
+## BBCPersian — post 280762
+
+<div align="center">
+  <a href="telegram/content/BBCPersian_280762_1778506398.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻‌ اسرائیل در یک سلسله حملات هوایی چندین شهر در جنوب لبنان را بمباران کرد. براساس گزارش‌ها، شهرهای کفر تبنیت و شوكين هدف حملات اسرائیل قرار گرفته است.
+
+صبح ۱۱ مه، آویخای ادرعی، سخنگوی عرب زبان ارتش اسرائیل، هشدار جدیدی برای جنوب لبنان صادر کرد و به ساکنان ۹ منطقه گفت که پیش از حملات اسرائیل، از این مناطق خارج شوند.
+
+پیشتر حزب‌الله گفته بود که محل تجمع سربازان اسرائیلی را در منطقه طیبه در جنوب لبنان هدف قرار داده است و نیروهای اسرائیلی برای تخلیه مجروحان از هلیکوپتر استفاده کرده‌اند.
+
+اسرائیل نیز اعلام کرده است بر اثر حملات پهپادی سه سربازش زخمی و یک نفر کشته شده است.در همین حال خبرگزاری ملی لبنان گزارش داده است که اسرائیل صبح امروز به روستای شمالی عبا حمله هوایی کرده است که دو کشته و پنج زخمی برجا گذاشته است.
+
+@‌‌BBCPersian
+</div>
+
+## manototv — post 105305
+
+<div align="center">
+  <a href="telegram/content/manototv_105305_1778506400.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گردهمایی ایرانیان گلاسگو
+</div>
+
+## alonews — post 119295
+
+<div align="center">
+  <a href="telegram/content/alonews_119295_1778506403.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈معاون رئیس‌جمهور: حتی در شرایط جنگی هم بستن اینترنت راهکار درستی نیست، چرا که دیدیم وقتی اینترنت کامل بسته بود هم ترورها ادامه داشت
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 16:53
 ---
 
