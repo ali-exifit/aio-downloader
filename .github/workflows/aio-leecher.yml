@@ -311,3 +311,40 @@ jobs:
             fi
           done
           cd ..
+
+      # ── Upload all ZIP parts ───────────────────────────────
+      - name: Upload to leecher folder
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git config http.postBuffer 524288000
+
+          FILES=(leecher/*)
+          if [ ${#FILES[@]} -eq 0 ]; then
+            echo "No files to upload."
+            exit 0
+          fi
+
+          git add leecher/
+          git commit -m "Add leeched parts [skip ci]" || echo "Nothing to commit"
+
+          RETRIES=5
+          for i in $(seq 1 $RETRIES); do
+            echo "Push attempt $i..."
+            git pull --rebase --autostash origin "$BRANCH"
+            if git push origin "$BRANCH"; then
+              echo "Push succeeded."
+              break
+            else
+              if [ $i -lt $RETRIES ]; then
+                echo "Push rejected, retrying in 3 seconds..."
+                sleep 3
+              else
+                echo "Push failed after $RETRIES attempts."
+                exit 1
+              fi
+            fi
+          done
+          echo "All files uploaded to the 'leecher' folder."
