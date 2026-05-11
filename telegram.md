@@ -7,6 +7,108 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 14:48
+---
+
+## IranIntlTV — post 336634
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+روزنامه اعتماد در گزارشی از ناراحتی مقامات ورزشی و برخی نهادهای جمهوری اسلامی از سفر مهدی تاج به کانادا برای شرکت در کنگره فیفا خبر داد.
+
+گفت‌وگو با آیدین مقیمی، عضو تحریریه ایران‌اینترنشنال
+
+@iranintltv
+</div>
+
+## IranIntlTV — post 336633
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سرخط خبرهای دوشنبه ۲۱ اردیبهشت
+
+@iranintltv
+</div>
+
+## FarsiVOA — post 217424
+
+<div align="center">
+  <img src="telegram/content/FarsiVOA_217424_1778498303.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت صنعت ژاپن گزارش داد یک نفتکش حامل نفت خام جمهوری آذربایجان، احتمالاً از روز سه‌شنبه وارد بندر یوکوهاما می‌شود. این نخستین محموله نفتی از این مسیر برای ژاپن از زمان آغاز جنگ ایران در فوریه است.
+
+ژاپن پیش از جنگ آمریکا و اسرائیل با جمهوری اسلامی، حدود ۹۵ درصد نفت خام وارداتی خود را از خاورمیانه تأمین می‌کرد. اما بسته شدن بخش عمده تردد نفتکش‌ها در تنگه هرمز از سوی ایران، جریان این واردات را محدود کرده و توکیو را به جست‌وجوی منابع جایگزین واداشته است.
+
+این محموله برای شرکت انئوس ارسال می‌شود. ژاپن همچنین از آمریکا نفت وارد کرده و یک محموله نفت خام از پروژه ساخالین-۲ روسیه را که از تحریم‌ها معاف بوده، دریافت کرده است.
+
+توکیو برای کنترل بحران عرضه، بخشی از ذخایر نفتی خود را نیز آزاد کرده است.
+@FarsiVOA
+</div>
+
+## IranianMinds — post 19935
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴مهر:
+
+یک ساختمان در اراک منفجر شد و چندین نفر مجروح شدند.
+
+@IranianMinds
+</div>
+
+## alonews — post 119263
+
+<div align="center">
+  <a href="telegram/content/alonews_119263_1778498304.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزیر رفاه: مشکلی در تأمین نیازهای دارویی کشور وجود ندارد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119262
+
+<div align="center">
+  <a href="telegram/content/alonews_119262_1778498305.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈قیمت بنزین در آمریکا به روایت ان‌بی‌سی
+
+
+🔴گران‌ترین ایالت: کالیفرنیا 6.15 دلار
+
+
+🔴ارزان‌ترین ایالت: اوکلاهما 3.96 دلار
+
+
+🔴گران‌ترین شهرستان:مونو، کالیفرنیا 7.04 دلار
+
+
+🔴ارزان‌ترین شهرستان: فیشر، تگزاس 3.60 دلار
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119261
+
+<div align="center">
+  <a href="telegram/content/alonews_119261_1778498305.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ایلان ماسک تأیید کرد که تمام‌قد وارد میدان می‌شود و جمهوری‌خواهان را در انتخابات میان‌دوره‌ای (Midterms) تأمین مالی می‌کند تا به ترامپ کمک کند.
+
+
+🔴این یک پیروزی بزرگ برای آمریکاست!
+
+
+✅@AloNews
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 14:42
 ---
 
