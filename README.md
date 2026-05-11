@@ -337,7 +337,8 @@ https://soundcloud.com/artist/track a 320
 
 1. به **Actions** → **leecher** بروید
 2. ورودی‌ها را وارد کنید (می‌توانید ترکیبی از لینک‌های میانبر و خام را با هم استفاده کنید)
-3. خروجی‌ها در پوشه **`leecher/`** قرار می‌گیرند
+3. میتوانید با فعال کردن تیک گزینه **`leecher/`** همه فایلهای لیچ شده را در یک فایل زیپ دریافت کنید درغیر این صورت جداگانه آپلود میشوند.
+4. خروجی‌ها در پوشه **`leecher/`** قرار می‌گیرند
 
 ---
 
@@ -784,7 +785,8 @@ https://soundcloud.com/artist/track a 320
 
 1. Go to **Actions** → **leecher**
 2. Enter your inputs (you can mix shortcut and raw links in the same run)
-3. Outputs appear in the **`leecher/`** folder
+3. You can toggle the - zip all downloads into one archive? (If disabled, each file is zipped individually)
+4. Outputs appear in the **`leecher/`** folder
 
 ---
 
