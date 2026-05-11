@@ -7,6 +7,62 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 00:53
+---
+
+## mwarmonitor — post 8934
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_8934_1778534629.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✈️📡 هواپیمای RC-135V Rivet Joint هواپیمای شناسایی و شنود الکترونیکی (جمع‌آوری اطلاعات سیگنالی و ارتباطی).(شماره 64-14848 از پایگاه سودا بی یونان) بر فراز عربستان سعودی مشاهده شد؛ در حال بازگشت از خلیج فارس. (تداخل شدید GPS در منطقه میان ریاض، امارات متحده…
+</div>
+
+## FoxNewsTwitter — post 341560
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341560_1778534630.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: President Trump is met with 'Hoosiers' chants as he reflects on the team's historic National Championship run during their visit to the White House:
+
+"This was a year that will live forever in the hearts of Indiana football fans."
+
+"You're the biggest story. There's no story like this."
+
+"The Hoosiers delivered the program's first-ever undefeated, untied season and capped it off with their first-ever national title. That's amazing."
+</div>
+
+## FoxNewsTwitter — post 341559
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341559_1778534632.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: President Trump receives an honorary ‘Trump’ jersey from the reigning CFP National Champions, the Indiana Hoosiers, during their White House celebration ceremony.
+</div>
+
+## alonews — post 119398
+
+<div align="center">
+  <a href="telegram/content/alonews_119398_1778534632.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈شیخ منصور، معاون رئیس امارات: ایرانی ها در حد امارات متحده عربی نیستند و بهتر است اراده ما را محک نزنند زیرا ما خود آتش هستیم
+
+
+🔴آنها باید جزایر ما را پس دهند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 00:44
 ---
 
