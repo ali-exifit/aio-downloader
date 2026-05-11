@@ -7,6 +7,41 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 05:42
+---
+
+## FoxNewsTwitter — post 341513
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341513_1778465568.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+A violent "teen takeover" resulted in 22 arrests, mostly of individuals under the age of 18, in Tampa, Florida.
+
+Police seized two guns during the operation.
+</div>
+
+## BBCPersian — post 280712
+
+<div align="center">
+  <img src="telegram/content/BBCPersian_280712_1778465570.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻خبرگزاری تسنیم - نزدیک به سپاه پاسداران - در واکنش به گزارش وال استریت ژونال که در آن پاسخ ایران به پیشنهادات آمریکا بررسی شده، نوشته است که یک منبع رسمی گفته «بخش‌هایی از آن - گزارش وال استریت ژورنال - ناظر بر واقعیت نیست».
+
+تسنیم به نقل از این مقام که نام و سمت او منتشر نشده نوشته است: «متن ایران بر ضرورت پایان فوری جنگ و تضمین عدم تعرض مجدد به ایران، ضرورت لغو تحریمهای آمریکا، پایان جنگ در همه جبهه‌ها و مدیریت ایرانی تنگه هرمز در صورت انجام برخی تعهدات از طریق آمریکا تاکید دارد.»
+
+تسنیم به بازه زمانی ۳۰ روزه‌ای در پیشنهاد ایران اشاره کرده که در آن تهران خواستار «آزادی دارایی های بلوکه شده با تفاهم اولیه» شده و همچنین پایان محاصره دریایی «بلافاصله بعد از امضای تفاهم اولیه» مطرح شده است.
+
+📸 Getty
+
+https://bbc.in/4d3t59I
+@BBCPersian
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 05:32
 ---
 
