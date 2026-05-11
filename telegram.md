@@ -7,6 +7,36 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 08:22
+---
+
+## IranIntlTV — post 336581
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336581_1778475143.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻در حالی که مقام‌های آمریکایی اعلام کردند عناصر وابسته به سپاه پاسداران به‌عنوان هیات همراه تیم ملی فوتبال حق حضور در آمریکا را ندارند، مهدی تاج، رییس فدراسیون فوتبال، در گفت‌وگو با صداوسیمای جمهوری اسلامی از شروط خود برای فیفا پیش از اعزام به جام جهانی گفت.
+
+🔹توضیحات مزدک میرزایی، ایران اینترنشنال در برنامه هت‌تریک
+
+🔹تماشای نسخه کامل هت‌تریک؛👇
+https://youtu.be/lCFOAQeAUng
+
+@iranintltvsport
+</div>
+
+## IranIntlTV — post 336580
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336580_1778475144.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سرخط خبرهای دوشنبه ۲۱ اردیبهشت
+@iranintltv
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 08:12
 ---
 
