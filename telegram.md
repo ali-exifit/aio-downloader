@@ -7,6 +7,167 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 14:22
+---
+
+## VahidOOnLine — post 239502
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239502_1778496769.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ولودیمیر زلنسکی گفت که حدود ۲۰ کشور به توافق‌های خرید پهپاد با اوکراین علاقه‌مند هستند و تاکنون چهار توافق امضا شده است.
+
+اوکراین توافق‌های دفاعی و پهپادی با آلمان، نروژ و هلند امضا کرده و در اواخر مارس توافق‌های امنیتی بلندمدت با عربستان سعودی، قطر و امارات متحده عربی امضا کرد.
+iranintl
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## IranIntlTV — post 336629
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336629_1778496770.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ولودیمیر زلنسکی گفت که حدود ۲۰ کشور به توافق‌های خرید پهپاد با اوکراین علاقه‌مند هستند و تاکنون چهار توافق امضا شده است.
+
+اوکراین توافق‌های دفاعی و پهپادی با آلمان، نروژ و هلند امضا کرده و در اواخر مارس توافق‌های امنیتی بلندمدت با عربستان سعودی، قطر و امارات متحده عربی امضا کرد.
+iranintl.com/202605114647
+</div>
+
+## IranIntlTV — post 336628
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336628_1778496770.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بریتانیا و فرانسه قرار است سه‌شنبه میزبان نشستی آنلاین با حضور وزیران دفاع بیش از ۴۰ کشور جهان باشند. محور این نشست، بررسی برنامه‌های نظامی برای بازگرداندن جریان تجارت در تنگه هرمز عنوان شده است.
+
+گفت‌وگو با مهدی بیگی، خبرنگار ایران‌اینترنشنال
+
+@iranintltv
+</div>
+
+## IranIntlTV — post 336627
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336627_1778496772.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+هاکان فیدان، وزیر خارجه ترکیه، با عباس عراقچی و بدر عبدالعاطی، وزیران خارجه جمهوری اسلامی و مصر، درباره تحولات مربوط به مذاکرات صلح میان تهران و واشینگتن تلفنی گفت‌وگو کرد.
+
+گفت‌وگو با نرگس هورخش، خبرنگار ایران‌اینترنشنال
+
+@iranintltv
+</div>
+
+## DW_Farsi — post 124554
+
+<div align="center">
+  <img src="telegram/content/DW_Farsi_124554_1778496774.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶 تنش در واشنگتن بر سر بحران ذخایر موشکی و هزینه‌های جنگ ایران
+مارک کلی، سناتور دموکرات آمریکایی، اعلام کرد که جنگ ایران باعث تضعیف ایالات متحده شده و ذخایر مهمات و موشک‌های ارتش این کشور به‌شدت کاهش یافته است.
+
+این سناتور دموکرات در برنامه‌ای در شبکه تلویزیونی "سی‌بی‌اس" گفت: «شوکه‌کننده است که تا چه حد این
+
+مارک کلی، در برنامه‌ای در شبکه تلویزیونی "سی‌بی‌اس" گفت: «شوکه‌کننده است که تا چه حد این ذخایر را مصرف کرده‌ایم.»
+
+این فضانورد پیشین و کهنه‌سرباز جنگ عراق افزود که دونالد ترامپ، رئیس جمهور آمریکا، ایالات متحده را وارد جنگی "بدون هدف راهبردی، بدون برنامه و بدون جدول زمانی" کرده است.
+
+به گفته این سناتور از ایالت آریزونا، پنتاگون او را در مقام عضو کمیته نیروهای مسلح سنا، در جریان وضعیت برخی انواع مهمات این کشور قرار داده است.
+
+به گفته او، این اطلاعات شامل موشک‌هایی مانند تاماهاک، اتاکمز، اس‌ام−۳ و موشک‌های سامانه پاتریوت بوده است. کلی بدون اشاره به جزئیات گفت که بازسازی این ذخایر "سال‌ها" زمان خواهد برد.
+
+@dw_farsi
+</div>
+
+## Persian_Trend_Official — post 13894
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_13894_1778496775.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+از ساعاتي قبل دسته‌ای جنگنده فرانسوی با همراهی یک یا چند سوخت‌رسان متعلق به نیروی هوایی فرانسه، بسوی خاورمیانه می آید.
+
+پایگاه{صلح ابوظبی امارات} میزبان چند اسکادران رافائل های فرانسوی میباشد.
+
+☆Phantom☆
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 13893
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_13893_1778496776.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 انفجار در اراک؛ یک خانه مسکونی تخریب شد
+
+در پی وقوع انفجار در یک منزل مسکونی واقع در خیابان جهانگیری اراک، ساختمان به‌طور گسترده تخریب شد.
+
+بر اساس گزارش‌ها:
+
+▪️ نیروهای امدادی و آتش‌نشانی در محل حادثه حضور دارند
+▪️ عملیات آواربرداری و ایمن‌سازی آغاز شده است
+▪️ علت دقیق انفجار هنوز مشخص نیست
+▪️ آمار احتمالی مصدومان و میزان خسارات در دست بررسی است
+
+💢خبرگزاری مهر اعلام کرده کارشناسان در حال بررسی منشأ حادثه هستند.
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 19933
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_19933_1778496776.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴عباس عراقچی ۲۰ سال در مذاکره، از مونیخ ۲۰۰۶ تا تهران ۲۰۲۶.
+
+@IranianMinds
+</div>
+
+## alonews — post 119253
+
+<div align="center">
+  <a href="telegram/content/alonews_119253_1778496777.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈سفر فیدان به قطر برای رایزنی درباره حل درگیری در خلیج فارس
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119252
+
+<div align="center">
+  <a href="telegram/content/alonews_119252_1778496777.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وقوع انفجاری در یکی از منازل مسکونی واقع در خیابان جهانگیری اراک، منجر به تخریب ساختمان مسکونی شد.
+
+
+🔴تیم‌های امدادی در حال حاضر در محل حادثه حضور دارند و عملیات ایمن‌سازی و آواربرداری را آغاز کرده‌اند.
+
+
+🔴علت دقیق این انفجار و همچنین تعداد احتمالی مصدومان و خسارات وارده، در دست بررسی کارشناسان است.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 14:13
 ---
 
