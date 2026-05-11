@@ -110,7 +110,7 @@ jobs:
           BASE_YT_DLP_ARGS="--js-runtimes deno --remote-components ejs:npm"
           mkdir -p leecher-content leecher
 
-          # ── Helper: progress display (used only in shortcut mode) ──
+          # ── Helper: progress display ──────────────────────
           download_with_progress() {
             local yt_args="$1"
             local output_template="$2"
@@ -143,6 +143,40 @@ jobs:
             fi
           }
 
+          # ── Reusable audio download (also used as fallback) ──
+          download_audio() {
+            local link="$1"
+            local video_json="$2"
+            local val1="$3"   # "max", "min", or bitrate (kbps)
+
+            local audio_formats=$(echo "$video_json" | jq '[.formats[] | select(.vcodec == "none" and .acodec != "none")]')
+            if [ "$(echo "$audio_formats" | jq length)" -eq 0 ]; then
+              echo "ERROR: No audio-only formats, skipping."
+              return 1
+            fi
+
+            case "$val1" in
+              max)
+                local format_id=$(echo "$audio_formats" | jq -r 'max_by(.abr // .tbr) | .format_id') ;;
+              min)
+                local format_id=$(echo "$audio_formats" | jq -r 'min_by(.abr // .tbr) | .format_id') ;;
+              *)
+                local bitrate="$val1"
+                local bitrates=$(echo "$audio_formats" | jq '[.[].abr // .tbr] | unique | sort')
+                local chosen_bitrate=$(echo "$bitrates" | jq --argjson b "$bitrate" 'map({br:., d:(. - $b | abs)}) | sort_by(.d, .br) | first.br')
+                local format_id=$(echo "$audio_formats" | jq -r --argjson br "$chosen_bitrate" 'map(select((.abr // .tbr) == $br)) | first.format_id')
+                ;;
+            esac
+
+            local total_size=$(echo "$video_json" | jq -r ".formats[] | select(.format_id == \"$format_id\") | .filesize // .filesize_approx // 0")
+            local abr_info=$(echo "$video_json" | jq -r ".formats[] | select(.format_id == \"$format_id\") | .abr // .tbr // 0")
+            local output_template="leecher-content/%(title)s-${abr_info}kbps.%(ext)s"
+
+            echo "Downloading audio format $format_id → $output_template"
+            download_with_progress "-f $format_id" "$output_template" "$total_size" "$link"
+          }
+
+          # ── Main loop ──────────────────────────────────────
           count=$(echo "$ENTRIES_JSON" | jq length)
           for ((idx=0; idx<count; idx++)); do
             entry=$(echo "$ENTRIES_JSON" | jq ".[$idx]")
@@ -154,7 +188,7 @@ jobs:
             echo "Processing entry $((idx+1))/$count: $link"
 
             if [ "$raw" = "true" ]; then
-              # ── Raw yt-dlp mode: pass arguments directly ──
+              # ── Raw yt-dlp mode ───────────────────────────
               readarray -t raw_args < <(echo "$entry" | jq -r '.args[]')
               echo "→ Running raw yt-dlp command with: ${raw_args[*]}"
               output_template="leecher-content/%(title)s.%(ext)s"
@@ -196,12 +230,19 @@ jobs:
               }
 
               if [ "$type" = "v" ]; then
+                # ── Video branch ────────────────────────────
                 combined=$(echo "$video_json" | jq '[.formats[] | select(.vcodec != "none" and .acodec != "none")]')
                 if [ "$(echo "$combined" | jq length)" -eq 0 ]; then
-                  echo "ERROR: No combined video+audio formats, skipping."
+                  echo "→ No combined video+audio formats. Falling back to audio (max)."
+                  if download_audio "$link" "$video_json" "max"; then
+                    echo "Audio download succeeded."
+                  else
+                    echo "Audio fallback also failed, skipping."
+                  fi
                   continue
                 fi
 
+                # Normal video selection (unchanged) ─────────
                 case "$val1" in
                   max)
                     format_id=$(echo "$combined" | jq -r 'max_by(.height, .fps) | .format_id') ;;
@@ -250,31 +291,8 @@ jobs:
                 cd ..
 
               elif [ "$type" = "a" ]; then
-                audio_formats=$(echo "$video_json" | jq '[.formats[] | select(.vcodec == "none" and .acodec != "none")]')
-                if [ "$(echo "$audio_formats" | jq length)" -eq 0 ]; then
-                  echo "ERROR: No audio-only formats, skipping."
-                  continue
-                fi
-
-                case "$val1" in
-                  max)
-                    format_id=$(echo "$audio_formats" | jq -r 'max_by(.abr // .tbr) | .format_id') ;;
-                  min)
-                    format_id=$(echo "$audio_formats" | jq -r 'min_by(.abr // .tbr) | .format_id') ;;
-                  *)
-                    bitrate="$val1"
-                    bitrates=$(echo "$audio_formats" | jq '[.[].abr // .tbr] | unique | sort')
-                    chosen_bitrate=$(echo "$bitrates" | jq --argjson b "$bitrate" 'map({br:., d:(. - $b | abs)}) | sort_by(.d, .br) | first.br')
-                    format_id=$(echo "$audio_formats" | jq -r --argjson br "$chosen_bitrate" 'map(select((.abr // .tbr) == $br)) | first.format_id')
-                    ;;
-                esac
-
-                total_size=$(echo "$video_json" | jq -r ".formats[] | select(.format_id == \"$format_id\") | .filesize // .filesize_approx // 0")
-                abr_info=$(echo "$video_json" | jq -r ".formats[] | select(.format_id == \"$format_id\") | .abr // .tbr // 0")
-
-                output_template="leecher-content/%(title)s-${abr_info}kbps.%(ext)s"
-                echo "Downloading audio format $format_id → $output_template"
-                download_with_progress "-f $format_id" "$output_template" "$total_size" "$link" || {
+                # ── Audio branch (uses the same function) ────
+                download_audio "$link" "$video_json" "$val1" || {
                   echo "Audio download failed, skipping."
                   continue
                 }
@@ -293,40 +311,3 @@ jobs:
             fi
           done
           cd ..
-
-      # ── Upload all ZIP parts ───────────────────────────────
-      - name: Upload to leecher folder
-        env:
-          BRANCH: ${{ github.ref_name }}
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git config http.postBuffer 524288000
-
-          FILES=(leecher/*)
-          if [ ${#FILES[@]} -eq 0 ]; then
-            echo "No files to upload."
-            exit 0
-          fi
-
-          git add leecher/
-          git commit -m "Add leeched parts [skip ci]" || echo "Nothing to commit"
-
-          RETRIES=5
-          for i in $(seq 1 $RETRIES); do
-            echo "Push attempt $i..."
-            git pull --rebase --autostash origin "$BRANCH"
-            if git push origin "$BRANCH"; then
-              echo "Push succeeded."
-              break
-            else
-              if [ $i -lt $RETRIES ]; then
-                echo "Push rejected, retrying in 3 seconds..."
-                sleep 3
-              else
-                echo "Push failed after $RETRIES attempts."
-                exit 1
-              fi
-            fi
-          done
-          echo "All files uploaded to the 'leecher' folder."
