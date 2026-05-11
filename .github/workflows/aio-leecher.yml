@@ -332,6 +332,35 @@ jobs:
 
           echo "ZIP creation finished."
 
+          # ── ZIP everything ─────────────────────────────────
+          echo "========================================"
+          echo "Creating ZIP archive(s)..."
+
+          if [ "$ZIP_TOGETHER" = "true" ]; then
+            # Bundle all files into one ZIP with a random 5‑character name
+            if [ -n "$(ls -A leecher-content 2>/dev/null)" ]; then
+              RANDOM_STR=$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 5 | head -n 1)
+              echo "→ Bundling all files into leeched-${RANDOM_STR}.zip"
+              cd leecher-content
+              find . -maxdepth 1 -type f -print0 | xargs -0 zip -j "../leecher/leeched-${RANDOM_STR}.zip"
+              cd ..
+            else
+              echo "No files to zip (leecher-content is empty)."
+            fi
+          else
+            # Individual ZIP per file
+            cd leecher-content
+            for file in *; do
+              if [ -f "$file" ]; then
+                echo "→ Zipping $file"
+                zip -j -s 99m "../leecher/${file}.zip" "$file"
+              fi
+            done
+            cd ..
+          fi
+
+          echo "ZIP creation finished."
+
       # ── Upload all ZIP parts ───────────────────────────────
       - name: Upload to leecher folder
         env:
