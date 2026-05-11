@@ -104,31 +104,61 @@
 
 ## 📦 راهنمای کامل هر گردش کار
 
-### ۱. دانلودر یوتیوب (yt‑dlp ساده)
+### ۱. دانلودر یوتیوب (yt‑dlp + ۱۰ لایه پشتیبان) 🛡️
 
-> ℹ️ نکته: می‌توانید بدون افزودن کوکی یوتوب ویدئو ها را توسط لیچر دانلود کنید و مشابه همین روش اما بدون کوکی بهره ببرید!
+⚡ **مخزن‌تانک YouTube!** این گردش‌کار فراتر از یک yt‑dlp ساده است — با **۱۰ استراتژی پشتیبان (Fallback)** طراحی شده تا حتی اگر متد اصلی شکست خورد، خودبه‌خود راه‌های جایگزین را امتحان کند.
 
-مخصوص **یوتیوب** — فقط با متغیرهای از پیش تعریف‌شده (رزولوشن، fps). از `yt-dlp` استفاده می‌کند اما **دستورات خام/پیشرفته را قبول نمی‌کند**.  
-برای حالت خام و پیشرفته، از **لیچر (بخش ۷)** استفاده کنید.
+#### ✨ ویژگی‌های جدید و قدرتمند:
+
+| ویژگی | توضیح |
+|--------|--------|
+| 🟢 **بدون نیاز به کوکی** | حتی اگر `YOUTUBE_COOKIES` را تنظیم نکرده باشید، گردش‌کار با yt‑dlp بدون کوکی و ۹ متد دیگر تلاش می‌کند |
+| 🔄 **۱۰ لایه پشتیبان خودکار** | اگر دانلود اصلی شکست خورد، یکی‌یکی ۱۰ استراتژی مختلف را امتحان می‌کند (نیازی به دخالت شما نیست!) |
+| 📊 **نمایش پیشرفت زنده** | درصد و حجم دانلود را در لحظه می‌بینید |
+| 🎯 **انتخاب هوشمند کیفیت** | نزدیک‌ترین رزولوشن و FPS موجود را پیدا می‌کند (حتی اگر دقیقاً مقدار درخواستی وجود نداشته باشد) |
+| 🔧 **Remux خودکار** | فایل‌های دانلودی با ffmpeg بازسازی می‌شوند تا قابل پخش باشند |
+| 📦 **ZIP چندبخشی** | فایل‌های >۹۹MB خودکار تقسیم می‌شوند |
+| 🌐 **لینک‌های غیر یوتیوب** | URLهای مستقیم (غیر یوتیوب) را نیز با wget دانلود می‌کند |
+
+#### 🧠 ۱۰ لایه پشتیبان — اگر yt‑dlp معمولی جواب نداد:
+
+| # | استراتژی | توضیح |
+|---|-----------|--------|
+| 1 | `yt-dlp اندروید` | با شبیه‌سازی کلاینت اندروید (player_client=android) |
+| 2 | `yt-dlp iOS` | با شبیه‌سازی کلاینت iOS |
+| 3 | `yt-dlp بدون کوکی` | تلاش بدون هیچ کوکی (حتی اگر کوکی تنظیم کرده باشید) |
+| 4 | `youtube-dl` | ابزار کلاسیک youtube-dl |
+| 5 | `pytube (best)` | کتابخانه pytube پایتون — بهترین کیفیت |
+| 6 | `pytube (resolution)` | pytube با رزولوشن درخواستی |
+| 7 | `API loader.to` | سرویس خارجی loader.to |
+| 8 | `API vevioz` | سرویس خارجی api.vevioz.com |
+| 9 | `cobalt.tools` | سرویس cobalt.tools (کیفیت 720p) |
+| 10 | `yt-dlp IPv4 + retry` | yt‑dlp با اجبار IPv4 و ۱۰ تلاش مجدد |
+
+> 💡 **یعنی چی؟** یعنی اگر یوتیوب متد اصلی را بلاک کند، گردش‌کار بی‌صدا ۱۰ راه مختلف را امتحان می‌کند تا فایل شما دانلود شود — بدون اینکه شما کاری انجام دهید. **این قوی‌ترین دانلودر یوتیوب رایگانی است که روی GitHub Actions خواهید دید!**
+
+#### 📝 نحوه استفاده (مثل قبل):
 
 1. به **Actions** → **youtube-downloader** بروید
 2. روی **Run workflow** کلیک کنید
-3. یک یا چند ورودی وارد کنید (هر خط جداگانه یا با کاما).  
-   **فرمت:** `URL v/a رزولوشن fps` (fps اختیاری)
+3. ورودی‌ها را وارد کنید. **فرمت:** `URL v/a رزولوشن fps` (fps اختیاری)
 
 **مثال‌ها:**
-```
-https://www.youtube.com/watch?v=VIDEO_ID v max
-https://www.youtube.com/watch?v=VIDEO_ID v 1080 60
-https://www.youtube.com/watch?v=VIDEO_ID a max
++++
+https://www.youtube.com/watch?v=dfdXGw1xY9A v 480
+https://www.youtube.com/watch?v=dfdXGw1xY9A v 1080 60
+https://www.youtube.com/watch?v=dfdXGw1xY9A a max
 https://www.youtube.com/watch?v=VIDEO_ID v 4k, https://www.youtube.com/watch?v=VIDEO_ID a 128
-```
++++
+
 - `v` = ویدیو، `a` = صدا
 - رزولوشن: `max`, `min`, `1080`, `2k`, `4k` و غیره
 - FPS: اختیاری (مثلاً `60`, `30`)
 - اگر `v/a` را وارد نکنید، پیش‌فرض **حداکثر کیفیت ویدیو** انتخاب می‌شود
 
-4. روی **Run workflow** کلیک کنید → خروجی در پوشه **`youtube/`** قرار می‌گیرد
+4. روی **Run workflow** کلیک کنید → خروجی در پوشه **`youtube/`** (با ZIP چندبخشی برای فایل‌های بزرگ)
+
+> 🟢 **کوکی اختیاری است!** اگر `YOUTUBE_COOKIES` را در Secrets تنظیم نکرده باشید، گردش‌کار بدون آن و با ۱۰ لایه پشتیبان کار می‌کند. البته افزودن کوکی شانس موفقیت در لایه‌های ۱ و ۲ را افزایش می‌دهد.
 
 ---
 
@@ -521,31 +551,61 @@ Click the **Fork** button at the top‑right of this page.
 
 ## 📦 Complete Workflow Guide
 
-### 1. YouTube Downloader (yt‑dlp Simple)
+### 1. YouTube Downloader (yt‑dlp + 10 Fallback Layers) 🛡️
 
-> ℹ️ Note: You can download YouTube videos via Leecher without adding YouTube cookies — same method, no cookies needed!
+⚡ **Tank-mode YouTube!** This workflow is far more than a simple yt‑dlp call — it's built with **10 automatic fallback strategies** so if the primary method fails, it silently cycles through alternatives until something works.
 
-Dedicated **YouTube downloader** using only predefined quality variables (resolution, fps). Uses `yt-dlp` but **does not accept raw/advanced options**.  
-For raw mode and advanced control, use **Leecher (section 7)**.
+#### ✨ New Powerful Features:
+
+| Feature | Description |
+|---------|-------------|
+| 🟢 **Cookieless Operation** | Even without `YOUTUBE_COOKIES` set, the workflow tries yt‑dlp cookieless + 9 other methods |
+| 🔄 **10 Automatic Fallbacks** | If the main download fails, it tries 10 different strategies one by one — no user intervention needed! |
+| 📊 **Real-time Progress** | See download percentage and byte count as it downloads |
+| 🎯 **Smart Quality Matching** | Finds the closest available resolution and FPS (even if your exact request doesn't exist) |
+| 🔧 **Auto Remux** | Downloaded files are remuxed with ffmpeg for guaranteed playability |
+| 📦 **Multi-part ZIP** | Files >99MB are automatically split into ZIP parts |
+| 🌐 **Non-YouTube Links** | Direct URLs (non-YouTube) are also handled via wget |
+
+#### 🧠 The 10 Fallback Layers — if plain yt‑dlp doesn't work:
+
+| # | Strategy | Description |
+|---|----------|-------------|
+| 1 | `yt-dlp Android` | Simulates Android client (player_client=android) |
+| 2 | `yt-dlp iOS` | Simulates iOS client |
+| 3 | `yt-dlp No Cookies` | Attempts without any cookies at all |
+| 4 | `youtube-dl` | Classic youtube-dl tool |
+| 5 | `pytube (best)` | Python pytube library — best quality |
+| 6 | `pytube (resolution)` | pytube with your requested resolution |
+| 7 | `API loader.to` | External loader.to service |
+| 8 | `API vevioz` | External api.vevioz.com service |
+| 9 | `cobalt.tools` | cobalt.tools API (720p quality) |
+| 10 | `yt-dlp IPv4 + retry` | yt‑dlp with forced IPv4 + 10 retries |
+
+> 💡 **What does this mean?** If YouTube blocks the primary method, the workflow silently tries 10 completely different approaches until your file is downloaded — all without you lifting a finger. **This is the most resilient free YouTube downloader you'll see on GitHub Actions!**
+
+#### 📝 How to Use (same as before):
 
 1. Go to **Actions** → **youtube-downloader**
 2. Click **Run workflow**
-3. Enter one or more entries, each on a new line (or comma‑separated).  
-   **Format:** `URL v/a resolution fps` (fps optional)
+3. Enter your inputs. **Format:** `URL v/a resolution fps` (fps optional)
 
 **Examples:**
-```
-https://www.youtube.com/watch?v=VIDEO_ID v max
-https://www.youtube.com/watch?v=VIDEO_ID v 1080 60
-https://www.youtube.com/watch?v=VIDEO_ID a max
++++
+https://www.youtube.com/watch?v=dfdXGw1xY9A v 480
+https://www.youtube.com/watch?v=dfdXGw1xY9A v 1080 60
+https://www.youtube.com/watch?v=dfdXGw1xY9A a max
 https://www.youtube.com/watch?v=VIDEO_ID v 4k, https://www.youtube.com/watch?v=VIDEO_ID a 128
-```
++++
+
 - `v` = video, `a` = audio
 - Resolution: `max`, `min`, `1080`, `2k`, `4k`, etc.
 - FPS: optional (e.g., `60`, `30`)
 - If `v/a` is omitted, defaults to **video max quality**
 
-4. Click **Run workflow** → output appears in the **`youtube/`** folder
+4. Click **Run workflow** → output appears in **`youtube/`** folder (split ZIP for large files)
+
+> 🟢 **Cookies are optional!** If you haven't set up `YOUTUBE_COOKIES` in Secrets, the workflow still works with cookieless yt‑dlp + all 9 other fallback layers. Adding cookies does improve success rates for layers 1 & 2 though.
 
 ---
 
