@@ -7,6 +7,107 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 23:13
+---
+
+## pm_afshaa — post 90596
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90596_1778528599.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴مدیرعامل آرامکو: جنگ ایران و بسته‌ موندن تنگه هرمز باعث شده که یک میلیارد بشکه نفت صادر نشه.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90595
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90595_1778528600.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴آمریکا تحریم‌های جدیدی علیه 3 فرد و 9 نهاد مرتبط با جمهوری اسلامی اعمال کرد؛ نهادهایی در هنگ‌کنگ، امارات و عمان.
+
+طبق این گزارش، محمدرضا اشرفی، صمد فتحی سلامی و احمد محمدی‌زاده به دلیل ارتباط با سپاه پاسداران تحریم شدن.
+
+
+💧Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 336700
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/336700" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی چشم‌انداز: وخیم‌ترین اوضاع اقتصاد ایران بعد از قحطی جنگ جهانی
+@iranintlTV
+</div>
+
+## FarsiVOA — post 217477
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217477_1778528601.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️نازیلا گلستان در برنامه تفسیر خبر: آزادی زندانیان سیاسی باید به یک مطالبه ملی تبدیل شود
+@FarsiVOA
+</div>
+
+## BBCPersian — post 280790
+
+<div align="center">
+  <a href="telegram/content/BBCPersian_280790_1778528601.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻آخرین خبرهای مهم روز دوشنبه ۲۱ اردیبهشت ۱۴۰۵
+
+@BBCPersian
+</div>
+
+## alonews — post 119376
+
+<div align="center">
+  <a href="telegram/content/alonews_119376_1778528603.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈دیدار معاون وزیر خارجه نروژ و سفیر فرانسه با غریب‌آبادی
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119375
+
+<div align="center">
+  <a href="telegram/content/alonews_119375_1778528603.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈اسکای نیوز:اکنون ۶۰ نماینده حزب کارگر خواستار کناره‌گیری کیر استارمر شده‌اند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119374
+
+<div align="center">
+  <a href="telegram/content/alonews_119374_1778528604.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ شاه چارلز امسال رفت استیت ویزیت از آمریکا! چنین استقبالی از ایشون شد؟!
+
+
+✅@AloNews
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 23:04
 ---
 
