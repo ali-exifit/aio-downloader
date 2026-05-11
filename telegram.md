@@ -7,6 +7,182 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 19:33
+---
+
+## VahidOOnLine — post 239548
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239548_1778515419.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️دونالد ترامپ، رئیس جمهوری ایالات متحده یک روز پس از مخالفت با پاسخ پیشنهادی جمهوری اسلامی به طرح آمریکا برای پایان جنگ، به فاکس نیوز گفت که ایران فنآوری لازم برای بیرون کشیدن ذخایر اورانیوم غنی‌شده مدفون زیر خاک را ندارد.
+
+ترامپ در این گفتگو تاکید کرد که اورانیوم غنی شده ایران آنچنان در اعماق خاک تاسیسات هسته‌ای دفن شده که آمریکا باید آن را خارج کند.
+
+براساس آخرین گزارش‌های آژانس بین‌المللی انرژی اتمی، ایران دست‌کم ۴۶۰ کیلوگرم اورانیوم با غنای ۶۰ درصد دارد که گمان می‌رود در تاسیسات هسته‌ای اصفهان مدفون شده‌اند. این تاسیسات در جنگ ۱۲ روزه و جنگ اخیر اسرائیل و آمریکا بارها بمباران شدند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8912
+
+<div align="center">
+  <a href="telegram/content/mwarmonitor_8912_1778515420.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سطح شدت اعتراضات... می‌دونید، مردم دارن تماشا می‌کنن، اونا می‌خوان بیان توی خیابون‌ها، اونا هیچ سلاحی ندارن، اونا هیچ تفنگی ندارن. ما فکر می‌کردیم کردها قراره بهمون سلاح بدن، اما کردها ناامیدمون کردن. کردها فقط می‌گیرن، می‌گیرن، می‌گیرن. اونا شهرت خیلی خوبی در کنگره دارن. کنگره می‌گه: «اوه، اونا خیلی سخت می‌جنگن!» نه، اونا وقتی پول می‌گیرن، سخت می‌جنگن. بنابراین من از کردها خیلی ناامید شدم، اما به اونا داده شد... من گفتم این کار جواب نمی‌ده. به هر حال، فقط باید بگم که با کاری که اونا کردن مخالف بودم. اونا دادنش، من گفتم اونا هرگز به اونجا نمی‌رسن. و حق با من بود. من دوست دارم حق با من باشه، در این مورد متأسفانه، اما ما تعدادی تفنگ با مهمات فرستادیم و قرار بود تحویل داده بشن، اما اونا پیش خودشون نگه داشتن. من گفتم اونا پیش خودشون نگه می‌دارن، اما خب، من چی می‌دونم؟ من فقط یه مدت کوتاهه که دارم این کارو انجام می‌دم!»
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 8911
+
+<div align="center">
+  <a href="telegram/content/mwarmonitor_8911_1778515422.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨 ترامپ: آتش‌بس با ایران در وضعیت «حیاتِ بسیار بحرانی» قرار دارد / در آستانه فروپاشی است. @mwarmonitor
+</div>
+
+## mwarmonitor — post 8910
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨ترامپ: کردها ما را ناامید کردند؛ با سلاح‌هایی که برایشان فرستادیم هیچ کاری انجام ندادند.
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341541
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341541_1778515424.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: President Trump explains why he rejected the latest PEACE proposal from Iran, citing the regime's "unacceptable" violence against its own citizens and its pursuit of nuclear capabilities.
+
+"It was just unacceptable.”
+
+“Iran has been defeated militarily; totally. They have a little left they probably built up during this period of time."
+</div>
+
+## FoxNewsTwitter — post 341540
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341540_1778515426.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: "It's a very simple plan. Iran cannot have a nuclear weapon and they won't have a nuclear weapon."
+
+"How stupid! Are they stupid people? ...they think that, 'Well, I'll get tired of this or I'll get bored, or I'll have some pressure.' But there's no pressure. There's no pressure at all. We're going to have a complete victory." –President Trump
+</div>
+
+## DW_Farsi — post 124568
+
+<div align="center">
+  <img src="telegram/content/DW_Farsi_124568_1778515428.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶 نتانیاهو در دفتر خود نشست امنیتی برگزار می‌کند
+
+بر اساس گزارش تایمز اسرائیل، بنیامین نتانیاهو، نخست وزیر اسرائیل، هم‌اکنون در دفتر خود در اورشلیم (بیت‌المقدس) یک نشست امنیتی برگزار می‌کند.
+
+این نشست پس از آن برگزار می‌شود که دونالد ترامپ، رئیس جمهور آمریکا، پاسخ جمهوری اسلامی به پیشنهاد آتش‌بس او را رد کرد.
+
+این نشست همچنین پیش از گفت‌وگوهای مستقیم اسرائیل و لبنان انجام می‌شود که قرار است اواخر این هفته در واشنگتن برگزار شود.
+@dw_farsi
+</div>
+
+## IranianMinds — post 19962
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_19962_1778515429.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## IranianMinds — post 19961
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ :
+
+پیشنهاد ایران واقعا زباله بود یکمشو‌ خوندم و دیگه حتی ادامه هم‌ ندادم.
+
+@IranianMinds
+</div>
+
+## idfinfarsi — post 11564
+
+<div align="center">
+  <a href="telegram/content/idfinfarsi_11564_1778515432.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مستندسازی: نیروهای لشکر ۹۱ یک گروه شلیک را که پس از اجرای حمله موشکی به سوی نیروهای ما در حال انتقال یک پرتابگر موشکی بر روی کامیون بود، به هلاکت رساندند
+
+تیپ آتش لشکر ۹۱ یک گروه شلیک را شناسایی کرد که پس از شلیک راکت به سوی نیروهای ارتش اسرائیل در جنوب لبنان، در حال انتقال یک پرتابگر موشکی بر روی یک کامیون بود.
+
+پس از شناسایی، نیروی هوایی با هدایت نیروهای زمینی، تروریست ها را هدف قرار داده و پرتابگر موشکی را منهدم کرد. این حادثه بدون تلفات برای نیروهای ما به پایان رسید.
+
+ارتش اسرائیل به اقدام برای رفع تهدیدها علیه نیروهای خود و شهروندان این کشور ادامه خواهد داد.
+</div>
+
+## alonews — post 119323
+
+<div align="center">
+  <a href="telegram/content/alonews_119323_1778515433.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ درباره چین : هیچ کشتی‌ای دیگه وارد نمی‌شه، هیچ کشتی مزخرفی هم نمیاد که آخرش باهاش درگیر بشیم امیدوارم رئیس‌جمهور شی به من احترام بزاره
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119322
+
+<div align="center">
+  <a href="telegram/content/alonews_119322_1778515436.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: ایران اگر به سلاح هسته ای دست پیدا کند یک ساعت بعد از آن استفاده میکند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119321
+
+<div align="center">
+  <a href="telegram/content/alonews_119321_1778515436.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ درباره ایران: آنها در هفته گذشته چندین نفر را کشتند، اما یک ماه و نیم پیش ۴۲٬۰۰۰ نفر را کشتند — آنها معترضان غیرمسلح بودند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119320
+
+<div align="center">
+  <a href="telegram/content/alonews_119320_1778515438.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴فوری/ ترامپ: اگر توافقی حاصل نشود، ما ایران را به گونه‌ای هدف قرار خواهیم داد که قبلاً ندیده‌ اند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 19:23
 ---
 
