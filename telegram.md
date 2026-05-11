@@ -7,6 +7,284 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 19:43
+---
+
+## VahidOOnLine — post 239549
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️دونالد ترامپ، رئیس جمهوری آمریکا روز دوشنبه ۲۱ اردیبهشت گفت پاسخ تهران به طرح پیشنهادی صلح آمریکا احمقانه بوده است و او از ادامه جنگ و فشار بر ایران خسته نمی‌شود.
+
+ترامپ در یک برنامه عمومی در کاخ سفید و در پاسخ به پرسش‌های خبرنگاران درباره طولانی شدن مسدودیت تنگه هرمز گفت: «احمق‌ها
+نمی‌خواستند قبول کنند. فکر می‌کردند من خسته می‌شوم یا حوصله‌ام سر می‌رود یا تحت فشار قرار می‌گیرم اما هیچ فشاری وجود ندارد. ما به یک پیروزی کامل خواهیم رسید.»
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341543
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341543_1778516030.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: President Trump reveals what it's like to negotiate with Iran's fractured leadership:
+
+"They have the moderates, they're dying to make a deal, and then you have the lunatics."
+
+"The lunatics want to fight till the end."
+</div>
+
+## FoxNewsTwitter — post 341542
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341542_1778516033.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+REPORTER: “For the time being, the ceasefire remains in place?”
+
+PRESIDENT TRUMP: “It's unbelievably weak. I would call it the weakest right now.”
+
+“After reading that piece of garbage they sent us. I didn't even finish reading it.”
+
+“I would say the ceasefire is on massive life support.”
+</div>
+
+## pm_afshaa — post 90563
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90563_1778516037.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ: در این زمان آتش‌بس احتمالا در ایران مقداری خودشون رو بازسازی کردن که مهم نیست، ما تو یک روز از بین میبریشمون.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90562
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90562_1778516037.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴دونالد ترامپ:
+آنها چقدر احمق‌ هستن؟ آدم‌های احمق. فکر میکنن من از این قضیه خسته میشن، حوصله‌ام سر میره یا تحت فشار قرار میگیرم.
+
+هیچ فشاری در کار نیست و ما به یک پیروزی کامل خواهیم رسید. از نظر نظامی، همین حالا هم عملاً به یک پیروزی کامل رسیدیم.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90560
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90560_1778516041.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ در کاخ سفید: گروه بزرگی از ژنرال‌ها در ارتباط با کشور دوست‌داشتنی ایران منتظر دیدار من در جلسه هستن.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 336674
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336674_1778516043.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ با «آشغال» خواندن پیشنهاد توافق تهران گفت آتش‌بس به‌شدت شکننده است. او در ادامه گفت: «آتش‌بس در اغما قرار دارد، به آن اکسیژن وصل کرده‌اند و تنها یک درصد شانس بقا دارد.»
+@iranintltv
+</div>
+
+## IranIntlTV — post 336673
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336673_1778516045.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ، رییس‌جمهوری آمریکا، درباره مقامات جمهوری اسلامی گفت: «آن‌ها فکر می‌کنند من خسته خواهم شد، اما هیچ فشاری روی من نیست.» او همچنین پیشنهاد توافق جمهوری اسلامی را «احمقانه» توصیف کرد.
+@iranintltv
+</div>
+
+## FarsiVOA — post 217449
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217449_1778516048.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ارتش اسرائیل اعلام کرد نیروهای لشکر ۹۱ «یک گروه شلیک» را که بعد از حمله موشکی به نیروهای اسرائیل در حال انتقال کامیون حامل پرتابگر موشک بود شناسایی کردند.
+
+نیروی هوایی ارتش اسرائیل با هدایت نیروهای زمینی، «تروریست‌ها را هدف قرار داده و پرتابگر موشک» را منهدم کردند.
+</div>
+
+## Persian_Trend_Official — post 13927
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_13927_1778516051.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 اوکراین و آلمان تولید مشترک پهپادهای دوربرد را آغاز می‌کنند
+
+💢اوکراین و آلمان از آغاز همکاری مشترک برای تولید پهپادهای تهاجمی دوربرد خبر دادند.
+
+بر اساس گزارش‌ها:
+
+▪️ برد این پهپادها تا حدود ۱۵۰۰ کیلومتر خواهد بود
+
+▪️ هدف از این همکاری، افزایش توان حملات عمقی و دوربرد عنوان شده است
+
+▪️ این پروژه بخشی از گسترش همکاری‌های نظامی و صنعتی میان برلین و کی‌یف محسوب می‌شود
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 19966
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 وای نت :
+
+بنیامین نتانیاهو‌ به ترامپ پیشنهاد داده که برای فشار بیشتر بر روی جمهوری اسلامی برای قبول کردم پیشنهادات حملات خودشون به ایران رو از سر بگیرن
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19965
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ : پیشنهاد ایران واقعا زباله بود یکمشو‌ خوندم و دیگه حتی ادامه هم‌ ندادم. @IranianMinds
+</div>
+
+## IranianMinds — post 19964
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ درباره هانتاویروس:
+
+این یکی خیلی سخت‌تر منتقل می‌شود و مدت‌هاست وجود داشته است.
+
+امیدوارم مشکلی پیش نیاید.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19963
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ :
+
+کردها سلاح هارو فقط گرفتن و گرفتن و گرفتن ولی به هیچ معترضی یا کسی تحویل ندادن !
+
+@IranianMinds
+</div>
+
+## Hranews — post 112885
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایمان معماریان با تودیع وثیقه آزاد شد
+ 
+
+❗️
+❗️
+❗️
+❗️
+❗️ – #ایمان_معماریان، دامپزشک و فعال حوزه محیط زیست که در تهران بازداشت شده بود، روز جاری با تودیع وثیقه آزاد شد.
+ 
+ادامه مطلب
+
+#ایمان_معماریان
+
+↘️
+@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑
+</div>
+
+## alonews — post 119328
+
+<div align="center">
+  <a href="telegram/content/alonews_119328_1778516052.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: کاملا میدونستم که ایران تنگه رو میبنده
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119327
+
+<div align="center">
+  <a href="telegram/content/alonews_119327_1778516058.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: هیچ‌کس فکر نمی‌کرد عربستان سعودی، قطر، امارات، کویت یا بحرین هدف قرار بگیرند.
+
+
+🔴این یک اشتباه استراتژیک بزرگ بود و آنها آن موشک‌ها را هدر دادند. ما سامانه‌های پاتریوت داریم که هر بار آنها را سرنگون کردند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119326
+
+<div align="center">
+  <a href="telegram/content/alonews_119326_1778516070.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: ما ۴ روز برای سندی از ایران منتظر ماندیم که تنظیم آن بیش از ۱۰ دقیقه زمان نمی‌برد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119325
+
+<div align="center">
+  <a href="telegram/content/alonews_119325_1778516071.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈توصیف ترامپ از پیشنهاد ایران: آنها یک برگه آشغال فرستادند که حتی کامل نخوندمش
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119324
+
+<div align="center">
+  <a href="telegram/content/alonews_119324_1778516071.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ درباره ایران: من با آنها سر و کار دارم. به آنها می‌گویم: «شما مردم دیوانه‌اید. شما دیوانه‌اید. شما دیوانه‌اید. شما سلاح هسته‌ای نخواهید داشت.»
+
+
+🔴آنها می‌دانند که من چه احساسی دارم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 19:33
 ---
 
