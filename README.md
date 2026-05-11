@@ -184,8 +184,15 @@ https://example.com/path/to/large-file.zip, https://example.com/another-file.mp4
 
 ### ۵. آرشیو کانال تلگرام
 
+
 کانال‌های **عمومی** تلگرام را اسکن کرده و پیام‌ها، عکس‌ها و ویدیوها را به صورت بایگانی Markdown ذخیره می‌کند.  
 به‌صورت **خودکار (هر ۱۵ دقیقه)** یا **دستی** اجرا می‌شود.
+
+> 📡 **مشاهده نمونه زنده:**  
+> مخزن اصلی این پروژه، یک **بایگانی زنده از کانال‌های خبری تلگرام** را نگهداری می‌کند که هر **۱۰ دقیقه** به‌صورت خودکار به‌روزرسانی می‌شود.  
+> برای دیدن آخرین اخبار و رسانه‌های آن، می‌توانید همین حالا این فایل را باز کنید:  
+> **[telegram.md در مخزن اصلی](https://github.com/ProAlit/aio-downloader/blob/main/telegram.md)**  
+> *این فایل در فورک شما به‌روزرسانی نمی‌شود؛ برای دریافت خودکار اخبار، اجرای گردش‌کار تلگرام را در فورک خود فعال کنید.*
 
 > 🟢 **بدون نیاز به API Key یا کوکی!**
 
@@ -531,6 +538,12 @@ https://example.com/path/to/large-file.zip, https://example.com/another-file.mp4
 
 Scrapes **public Telegram channels** and stores messages, photos, videos, and documents as a Markdown archive.  
 Runs **automatically every 15 minutes** or **manually on demand**.
+
+> 📡 **Live Example:**  
+> The original repository maintains a **live archive of Telegram news channels**, refreshed automatically **every 10 minutes**.  
+> To view the latest news and media, open the file here:  
+> **[telegram.md on the original repo](https://github.com/ProAlit/aio-downloader/blob/main/telegram.md)**  
+> *This file is not updated in your fork unless you activate the Telegram workflow on your own copy.*
 
 > 🟢 **No API key or cookies needed!**
 
