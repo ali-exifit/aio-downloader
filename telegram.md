@@ -7,6 +7,212 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 22:53
+---
+
+## VahidOOnLine — post 239578
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239578_1778527410.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تماسی از رشت:
+«از رضا سمیع‌پور گفت…
+۵۱ ساله، مردی نجیب و حامی حیوانات که جلوی خانه‌اش از پشت هدف گلوله قرار گرفت.
+و از آیدین دولت‌خواه…
+جوان ۲۲ ساله‌ای که با چهار گلوله کشته شد.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239577
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239577_1778527412.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایالات متحده تحریم‌های جدیدی مرتبط با جمهوری اسلامی علیه سه فرد و ۹ نهاد، از جمله چهار نهاد مستقر در هنگ‌کنگ، ۴ نهاد در امارات متحده عربی و یک نهاد در عمان وضع کرد.
+
+طبق این گزارش، محمدرضا اشرفی، صمد فتحی سلامی و احمد محمدی‌زاده به دلیل ارتباط با سپاه پاسداران تحریم شده‌اند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## farsi_fox_news — post 89237
+
+<div align="center">
+  <img src="telegram/content/farsi_fox_news_89237_1778527412.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ قالیباف: برای تمام گزینه‌ها آماده‌ایم، شگفت‌زده خواهند شد
+
+🔹 نیروهای مسلح ما آمادهٔ پاسخگویی درس‌آموز به هر تجاوزی هستند؛ استراتژی اشتباه و تصمیم‌های اشتباه، همیشه نتیجهٔ اشتباه خواهد داشت، همهٔ دنیا قبلاً این را فهمیده‌اند.
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89236
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ مقام ایرانی: تهران مخالف انتقال اورانیوم به خارج از خاک خود است
+
+🔹 شبکه خبری الجزیره امروز دوشنبه گزارش داد که واشنگتن در پیشنهاد خود خواستار دستیابی به اورانیوم غنی‌سازی شده با غنای ۶۰ درصد شده است.
+🔹 این مقام همچنین گفت که آمریکا با انتقال اورانیوم غنی‌سازی شده ایران به روسیه مخالفت کرده و کشور ثالثی را برای انتقال آن پیشنهاد داده است.
+🔹 وی با بیان اینکه ایران با انتقال اورانیوم به خارج از خاک خود مخالفت کرده، در عین حال خبر داد تهران آماده است اورانیوم مذکور را تحت نظارت آژانس بین‌المللی انرژی اتمی رقیق کند.
+🔹 این مقام با تأکید بر اینکه ایران آماده است اورانیوم با غنای بالا را به سطح ۳.۷ درصد و ۲۰ درصد رقیق کند، تصریح کرد: آمریکا خواستار توقف ۲۰ ساله غنی‌سازی اورانیوم شده، اما ایران این درخواست را رد کرده است.
+🔹 وی در پایان گفت که آمریکا پیشنهاد پرداخت غرامت به ایران در ازای خسارت‌های جنگ را رد کرده است.
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89235
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ آمریکا در اقدامی عجیب مکان یکی از زیردریایی‌های مجهز به سلاح هسته‌ای خود را افشا کرد!
+
+🔹 نیروی دریایی ایالات متحده تأیید کرد که یک زیردریایی موشک‌بالستیک کلاس اوهایو مجهز به تسلیحات هسته‌ای در جبل‌الطارق پهلو گرفته است – این افشایی غیرعادی از یکی از مخفی‌ترین دارایی‌های آمریکا محسوب می‌شود.
+🔹 این اعلامیه ساعتی پس از آن منتشر شد که ترامپ آخرین پیشنهاد آتش‌بس ایران را «کاملاً غیرقابل قبول» خواند و آن را رد کرد.
+🌐 @farsi_fox_news
+</div>
+
+## pm_afshaa — post 90589
+
+<div align="center">
+  <img src="telegram/content/pm_afshaa_90589_1778527412.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔔فقط با 190 هزار تومن 💸! 🛍
+
+🚨اشتراک ویژه و پرسرعت با قیمتی استثنایی💎
+
+📉 بدون هیچ‌گونه ضریب
+
+🚩پشتیبانی 4️⃣2️⃣ ساعته فعال⚙️
+
+⚡️خرید مستقیم، بدون واسطه⚡️
+
+✅تضمین بازگشت وجه در صورت عدم رضایت
+
+⚠️فرصت محدود — همین حالا اقدام کنید🔔
+
+
+✔️ برای خرید ربات رو استارت کنید ⬇️
+
+✅ @Zeus_networkrobot
+</div>
+
+## IranIntlTV — post 336699
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336699_1778527413.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایالات متحده تحریم‌های جدیدی مرتبط با جمهوری اسلامی علیه سه فرد و ۹ نهاد، از جمله چهار نهاد مستقر در هنگ‌کنگ، ۴ نهاد در امارات متحده عربی و یک نهاد در عمان وضع کرد.
+
+طبق این گزارش، محمدرضا اشرفی، صمد فتحی سلامی و احمد محمدی‌زاده به دلیل ارتباط با سپاه پاسداران تحریم شده‌اند.
+https://iranintl.com/202605111289
+</div>
+
+## ManotoTV — post 105322
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105322_1778527413.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تماسی از رشت:
+«از رضا سمیع‌پور گفت…
+۵۱ ساله، مردی نجیب و حامی حیوانات که جلوی خانه‌اش از پشت هدف گلوله قرار گرفت.
+و از آیدین دولت‌خواه…
+جوان ۲۲ ساله‌ای که با چهار گلوله کشته شد.
+</div>
+
+## FarsiVOA — post 217472
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پنتاگون اعلام کرد سربازان لشکر ۲۵ پیاده‌نظام در پایگاه فورت ماگسایسای در فیلیپین، تمرین انتقال تجهیزات سنگین با بالگرد را برگزار کردند.
+
+به گفته وزارت جنگ آمریکا، هدف از این تمرین افزایش سرعت و دقت در پشتیبانی از عملیات نظامی در میدان نبرد است.
+
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217471
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️علی جوانمردی: چالش مذاکره و گزینه‌های پیش رو
+@FarsiVOA
+</div>
+
+## IranianMinds — post 19974
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_19974_1778527415.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+درود قهرمان.
+
+@IranianMinds
+</div>
+
+## manototv — post 105322
+
+<div align="center">
+  <a href="telegram/content/manototv_105322_1778527415.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تماسی از رشت:
+«از رضا سمیع‌پور گفت…
+۵۱ ساله، مردی نجیب و حامی حیوانات که جلوی خانه‌اش از پشت هدف گلوله قرار گرفت.
+و از آیدین دولت‌خواه…
+جوان ۲۲ ساله‌ای که با چهار گلوله کشته شد.
+</div>
+
+## alonews — post 119370
+
+<div align="center">
+  <a href="telegram/content/alonews_119370_1778527417.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈شلیک موشک به سمت جنوب اسرائیل شناسایی شده
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119369
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اخبار جنگ الونیوز AloNews pinned a photo
+</div>
+
+## alonews — post 119368
+
+<div align="center">
+  <img src="telegram/content/alonews_119368_1778527417.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔥
+🔝از اول جنگ کانفیگ های اینجا وصله بدون قطعی، سروراش تضمین بازگشت وجه داره، درجه یک با کیفیت. قیمت خیلی مناسب گیگی 250 پرداخت ارزی و تومن داره
+
+
+🖥آیدی خود عسل @Asal_vpn021
+
+آیدی کانالش
+⬇️
+
+👑
+⭐️https://t.me/+wXrSv4IM6p9kNGQ0
+
+👑
+⭐️https://t.me/+wXrSv4IM6p9kNGQ0
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 22:43
 ---
 
