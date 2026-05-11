@@ -142,7 +142,7 @@ jobs:
 
             local audio_formats=$(echo "$video_json" | jq '[.formats[] | select(.vcodec == "none" and .acodec != "none")]')
             if [ "$(echo "$audio_formats" | jq length)" -eq 0 ]; then
-              echo "ERROR: No audio-only formats, skipping."
+              echo "ERROR: No audio-only formats."
               return 1
             fi
 
@@ -165,6 +165,14 @@ jobs:
 
             echo "Downloading audio format $format_id → $output_template"
             download_with_progress "-f $format_id" "$output_template" "$total_size" "$link"
+          }
+
+          # ── Generic download (any file type) ────────────────
+          generic_download() {
+            local link="$1"
+            local output_template="leecher-content/%(title)s.%(ext)s"
+            echo "→ Attempting generic download (any file type)..."
+            yt-dlp $BASE_YT_DLP_ARGS --no-progress -o "$output_template" "$link"
           }
 
           # ── Main loop ──────────────────────────────────────
@@ -216,7 +224,12 @@ jobs:
               echo "→ Shortcut: $type $val1 $val2"
 
               video_json=$(yt-dlp $BASE_YT_DLP_ARGS -j "$link") || {
-                echo "ERROR: yt-dlp failed to fetch metadata, skipping."
+                echo "ERROR: yt-dlp failed to fetch metadata, trying generic download..."
+                if generic_download "$link"; then
+                  echo "Generic download succeeded."
+                else
+                  echo "All methods failed, skipping."
+                fi
                 continue
               }
 
@@ -224,11 +237,16 @@ jobs:
                 # ── Video branch ────────────────────────────
                 combined=$(echo "$video_json" | jq '[.formats[] | select(.vcodec != "none" and .acodec != "none")]')
                 if [ "$(echo "$combined" | jq length)" -eq 0 ]; then
-                  echo "→ No combined video+audio formats. Falling back to audio (max)."
+                  echo "→ No combined video+audio formats. Trying audio..."
                   if download_audio "$link" "$video_json" "max"; then
                     echo "Audio download succeeded."
                   else
-                    echo "Audio fallback also failed, skipping."
+                    echo "Audio fallback failed, attempting generic download..."
+                    if generic_download "$link"; then
+                      echo "Generic download succeeded."
+                    else
+                      echo "All download methods failed, skipping."
+                    fi
                   fi
                   continue
                 fi
@@ -264,7 +282,12 @@ jobs:
                 output_template="leecher-content/%(title)s-${height_info}p-${fps_info}fps.%(ext)s"
                 echo "Downloading video format $format_id → $output_template"
                 if ! download_with_progress "-f $format_id" "$output_template" "$total_size" "$link"; then
-                  echo "Download failed, skipping remux."
+                  echo "Download failed, trying generic download as last resort..."
+                  if generic_download "$link"; then
+                    echo "Generic download succeeded."
+                  else
+                    echo "All methods failed, skipping."
+                  fi
                   continue
                 fi
 
@@ -282,11 +305,17 @@ jobs:
                 cd ..
 
               elif [ "$type" = "a" ]; then
-                # ── Audio branch (uses the same function) ────
-                download_audio "$link" "$video_json" "$val1" || {
-                  echo "Audio download failed, skipping."
-                  continue
-                }
+                # ── Audio branch ────────────────────────────
+                if download_audio "$link" "$video_json" "$val1"; then
+                  echo "Audio download succeeded."
+                else
+                  echo "Audio download failed, attempting generic download..."
+                  if generic_download "$link"; then
+                    echo "Generic download succeeded."
+                  else
+                    echo "All download methods failed, skipping."
+                  fi
+                fi
               fi
             fi
           done
