@@ -7,6 +7,83 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 02:34
+---
+
+## VahidOOnLine — post 239599
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239599_1778540653.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️براساس تصاویر ماهواره «سنتینل»، ورود آب از رودخانه‌های کرخه و دجله به تالاب هورالعظیم در مرز ایران و عراق همچنان ادامه دارد. این تصاویر ماهواره‌ای که آخرین وضعیت هورالهویزه را به تصویر کشیده‌اند، نشان‌دهنده تداوم جریان آب به بخش‌های مختلف این تالاب بین‌المللی است. همچنین در تصاویر ثبت‌شده با طیف رنگی کاذب (False color)، وضعیت پراکندگی و تراکم نیزارها در پهنه آبی تالاب به وضوح قابل مشاهده است که از بهبود نسبی شرایط زیست‌محیطی در این منطقه مرزی حکایت دارد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## IranIntlTV — post 336718
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336718_1778540653.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شهروندی با ارسال پیامی به ایران‌اینترنشنال، به مزاحمت‌های شبانه حامیان جمهوری اسلامی در خیابان‌های کرج اشاره می‌کند و می‌گوید آن‌ها هیچ ملاحظه‌ای برای کسی ندارند.
+او در ادامه می‌گوید: «کسی به داد ما نمی‌رسد؛ جوانان ما دارند از بین می‌روند.»
+</div>
+
+## Shin_Persian — post 5962
+
+<div align="center">
+  <img src="telegram/content/Shin_Persian_5962_1778540657.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+U.S. Central Command ✓ @CENTCOM
+Mon, 11 May 2026 23:00:36 UTC
+
+A U.S. Air Force B-1B Lancer flies over the Middle East during a training mission, May 9.
+
+فارسی
+
+یک فروند بمب‌افکن بی-۱بی لنسر نیروی هوایی ایالات متحده (USAF) در جریان یک ماموریت آموزشی، ۹ می، برفراز خاورمیانه پرواز می‌کند.
+
+𝕏 · @shin_persian
+</div>
+
+## alonews — post 119407
+
+<div align="center">
+  <a href="telegram/content/alonews_119407_1778540658.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈شبکه 14 اسرائیل: بخشی از اهداف بعدی در خاک ایران:
+
+
+🔴تاسیسات انرژی و صنعت پتروشیمی
+
+
+🔴صنعت خودروسازی و پایگاه‌ های موشک بالستیک
+
+
+🔴صنعت نفت و صنعت فولاد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119405
+
+<div align="center">
+  <a href="telegram/content/alonews_119405_1778540660.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈دو روزنامه تندرو و کم مخاطب داخلی مذاکرات با ایالات متحده را رد کردند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 02:24
 ---
 
