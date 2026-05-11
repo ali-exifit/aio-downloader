@@ -5,21 +5,11 @@ on:
     inputs:
       url:
         description: >
-          Enter one or more URLs (newlines, commas, or spaces) with optional shortcuts or raw yt-dlp arguments.
-
+         If you want to use expert mode please read the README.md
           --- Shortcut mode ---
             Arguments: `v` (video) or `a` (audio) followed by quality:
               Video: `max` | `min` | height (e.g. 480, 720, 1080, 4k) [optional fps e.g. `1080 30`]
               Audio: `max` | `min` | bitrate in kbps (e.g. 128, 192, 320)
-            Examples:
-              https://www.youtube.com/watch?v=dfdXGw1xY9A v 1080
-              https://soundcloud.com/artist/track a 320
-
-          --- Raw yt-dlp mode ---
-            Use `--` after the URL, then any official yt-dlp options.
-            Examples:
-              https://example.com/video -- --format bestvideo[height<=1080]+bestaudio --write-subs
-              https://www.youtube.com/watch?v=dQw4w9WgXcQ -- --format "best[height<=720]" --sub-lang en
         required: true
       zip_together:
         description: 'Zip all downloads into one archive? (If disabled, each file is zipped individually)'
