@@ -7,6 +7,41 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 03:04
+---
+
+## VahidOOnLine — post 239603
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239603_1778542450.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️به موازات گزارش‌های مربوط به مشکلات شدید دانشجویان برای دسترسی به اینترنت و صف انتظار برای دسترسی به اینترنت در دانشگاه‌ها، بیژن رنجبر، رئیس دانشگاه آزاد اعلام کرده که برای برای ۲۰ هزار عضو هیئت علمی دانشگاه نیز درخواست‌هایی برای دست دسترسی به اینترنت ارائه شده و «منتظر پاسخ نهایی هستیم.»بر اساس گزارش‌ها، در اردیبهشت ۱۴۰۵، وضعیت دسترسی به اینترنت در برخی دانشگاه‌های بزرگ ایران، از جمله دانشگاه علوم پزشکی تهران و دانشگاه آزاد، با چالش‌های جدی مواجه شده است.به دلیل کمبود زیرساخت‌ها، استادان و پژوهشگران ناچارند برای استفاده از اینترنت در محیط دانشگاه، در صف‌های انتظار بمانند و به‌صورت نوبتی از آن استفاده کنند.دسترسی پایدار به اینترنت تنها در چند نقطه خاص از محوطه دانشگاه امکان‌پذیر است.این وضعیت، به‌ویژه برای دانشجویان تحصیلات تکمیلی که نیاز به دسترسی مداوم به پایگاه‌های علمی خارجی دارند، اختلال جدی در روند تحقیقات و نگارش رساله ایجاد کرده است.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341565
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341565_1778542451.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+Health officials are on high alert as an American tests positive for hantavirus. Meanwhile, President Trump warns the Iran ceasefire is on "life support." FOX News' @BillMelugin_ reports.
+</div>
+
+## FarsiVOA — post 217492
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️افشای جزئیات جدید از پایگاه مشترک آمریکا و اسرائیل در قلب صحرای عراق
+@FarsiVOA
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 02:53
 ---
 
