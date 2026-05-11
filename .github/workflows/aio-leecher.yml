@@ -299,7 +299,7 @@ jobs:
           echo "Creating ZIP archive(s)..."
 
           # Generate a random 10-character string for the bundle name
-          RANDOM_STR=$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 10 | head -n 1)
+          RANDOM_STR=$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 5 | head -n 1)
 
           if [ "$ZIP_TOGETHER" = "true" ]; then
             # Bundle all files into one ZIP
