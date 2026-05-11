@@ -7,6 +7,215 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 21:34
+---
+
+## FoxNewsTwitter — post 341551
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341551_1778522644.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+“Venezuela loves Trump.”
+
+President Trump tells @johnrobertsFox he’s “seriously considering” making Venezuela the 51st U.S. state, pointing to the country’s massive oil reserves and saying there’s “$40 trillion in oil there.”
+</div>
+
+## FoxNewsTwitter — post 341550
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌Fox News (Twitter/X)
+
+Read more:
+</div>
+
+## FoxNewsTwitter — post 341549
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341549_1778522645.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+The remains of a U.S. soldier who went missing during military exercises in Morocco have been recovered, according to U.S. Africa Command.
+
+The soldier has been identified as 1st Lt. Kendrick Lamont Key Jr., 27, of Richmond, Virginia, who reportedly fell from a cliff during an off-duty hike near the Cap Draa Training Area on May 2.
+
+Search efforts continue for a second soldier who remains missing following the incident during the “African Lion” joint maneuvers.
+</div>
+
+## pm_afshaa — post 90583
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴حمله پهپادی جمهوری اسلامی به کردستان عراق
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 336689
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336689_1778522646.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک منبع نزدیک به تیم مذاکرات به خبرگزاری تسنیم، رسانه وابسته به سپاه پاسداران گفت: «برخلاف اظهارات برخی رسانه‌های غربی، در متن پیشنهادی جمهوری اسلامی هیچ‌گونه پذیرش خروج مواد غنی‌شده هسته‌ای از کشور وجود ندارد.»
+
+این منبع گفت آمریکا در طرح خود نوشته بود پول‌های بلوکه‌شده ایران را آزاد خواهد کرد اما جمهوری اسلامی تاکید کرده این پول‌ها باید در مدت معینی آزاد شود.
+https://iranintl.com/202605111974
+</div>
+
+## IranIntlTV — post 336688
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336688_1778522647.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مهدی مهدوی‌آزاد در برنامه چشم‌انداز گفت: «ایران با بحرانی اقتصادی روبه‌رو است که فقط به تورم محدود نمی‌شود، بلکه به روند نابودی رویاها و انگیزه‌های نسل جوان کشور گره خورده است.»
+@iranintltv
+</div>
+
+## IranIntlTV — post 336687
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/336687" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی دومینو: جمهوری اسلامی در برزخ صلح و جنگ
+@iranintlTV
+</div>
+
+## IranIntlTV — post 336686
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336686_1778522650.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ گفت: «ایرانی‌ها دو روز پیش به ما گفتند باید مواد غنی‌شده را تحویل بگیرید، اما بعد نظرشان عوض شد، چون در سندی که برای ما فرستادند این موضوع ذکر نشده بود.»
+
+او افزود: «آنها ابتدا با ما توافق کردند، ولی بعد حرفشان را پس گرفتند. ایران نباید به سلاح هسته‌ای برسد، اما در نامه‌ای که برای ما فرستادند این مساله را نپذیرفتند.»
+@iranintltv
+</div>
+
+## FarsiVOA — post 217459
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گفت‌و‌گو با رسول نفیسی، جامعه شناس و تحلیلگر سیاسی، درباره رد پاسخ جمهوری اسلامی از سوی پرزیدنت ترامپ
+</div>
+
+## Persian_Trend_Official — post 13934
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_13934_1778522652.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴حزب‌الله مرکز فرماندهی اسرائیل در البیاضه را بمباران کرد
+
+🔹حزب‌الله لبنان اعلام کرد یک مرکز فرماندهی تازه‌تأسیس ارتش رژیم صهیونیستی را در شهرک البیاضه در جنوب لبنان هدف حمله راکتی قرار داده است.
+
+☆Phantom☆
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 13933
+
+<div align="center">
+  <a href="https://t.me/persian_trend_official/13933" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فایل صوتی لایو اول
+نسخه کم حجم - 5.99 مگابایت
+
+اتاق جنگ دوشنبه 21 اردیبهشت | زمزمه های شروع جنگ ایران و آمریکا
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## RadioFarda — post 157065
+
+<div align="center">
+  <a href="https://t.me/radiofarda/157065" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📻بشنوید: ایستگاه ۱۹ با رادیوفردا، ۲۱ اردیبهشت ۱۴۰۵
+
+@RadioFarda
+</div>
+
+## IranianMinds — post 19971
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴آکسیوس : ترامپ در حال بررسی دو گزینه‌ست
+
+- یا از سرگیری «پروژه آزادی» که هفته گذشته به حالت تعلیق دراومد
+
+- یا از سرگیری بمبارون و حمله به ۲۵٪ از اهدافی که آمریکا شناسایی کرده اما هنوز به اونا حمله نکرده - و امشب با ژنرال‌ها جلسه داره!
+
+@IranianMinds
+</div>
+
+## BBCPersian — post 280785
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ، رئیس‌جمهور آمریکا یک بار دیگر ذخایر اورانیوم غنی‌شده ایران را «غبار هسته‌ای» خواند و گفت که ایران به آمریکا گفته است که فقط چین و آمریکا توانایی بیرون آوردن آن از زیر آوار تاسیسات بمباران شده را دارند.
+
+آقای ترامپ گفت که ایران دو روز پیش موافقت کرد با همکاری آمریکا ذخایر اورانیوم غنی‌‌شده را از زیر زمین بیرون بیاورد ولی بعد نظرش عوض شد.
+
+او همچنین گفت که وضعیت آتش‌بس بسیار شکننده است.
+@BBCPersian
+</div>
+
+## alonews — post 119354
+
+<div align="center">
+  <a href="telegram/content/alonews_119354_1778522653.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈رئیس سازمان برنامه و بودجه: در مورد قیمت بنزین هیچ گونه تصمیمی گرفته نشد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119353
+
+<div align="center">
+  <a href="telegram/content/alonews_119353_1778522654.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 ششمین ناوگان ایالات متحده، تحت نظارت نیروهای دریایی ایالات متحده در اروپا و آفریقا و مسئول اصلی فعالیت‌های نیروی دریایی ایالات متحده در اطراف دریای مدیترانه، رسیدن یک زیردریایی موشک بالستیک کلاس اوهایو را برای بازدید از بندر در جبل‌الطارق در تاریخ ۱۰ مه تأیید کرده است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119352
+
+<div align="center">
+  <a href="telegram/content/alonews_119352_1778522654.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 تحریم ۱۲ فرد و نهاد ادعایی مرتبط با ایران توسط انگلیس
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 21:23
 ---
 
