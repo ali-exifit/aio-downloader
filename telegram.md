@@ -7,6 +7,167 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 21:13
+---
+
+## VahidOOnLine — post 239564
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239564_1778521419.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️نشریه آمریکایی آکسیوس شامگاه دوشنبه ۲۱ اردیبهشت به وقت تهران با انتشار گزارشی درباره دیدار ساعات آینده ترامپ با مسئولان امنیت ملی این کشور در همین روز نوشت با توجه به ناامید رئیس جمهوری آمریکا از پیشرفت در مذاکرات با جمهوری اسلامی، او مایل است با حملات نظامی، حکومت ایران را به امتیازدهی در برنامه هسته‌ای مجبور کند.
+
+آکسیوس به نقل از دو مقام نظامی آمریکایی گزارش کرد که بعید است ترامپ دستور از سرگیری حملات نظامی به ایران را پیش از سفر به چین صادر کند. رئیس جمهوری آمریکا روزهای ۲۳ تا ۲۵ اردیبهشت به چین سفر خواهد کرد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239563
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️دونالد ترامپ، رئیس‌جمهوری آمریکا، دوشنبه ۲۱ اردیبهشت‌ماه در کاخ سفید و در حاشیه نشستی درباره مقررات حوزه سلامت، در پاسخ به پرسش خبرنگاران درباره ایران گفت آتش‌بس «به‌طرز باورنکردنی ضعیف» است و اکنون در ضعیف‌ترین وضعیت خود قرار دارد.
+
+ترامپ با اشاره به پاسخ اخیر تهران به پیشنهاد آمریکا گفت: «پس از خواندن این متن بی‌ارزش که ایران فرستاده بود حتی خواندنش را تمام نکردم و گفتم آیا قرار است وقتم را برای این تلف کنم؟»
+
+رئیس‌جمهوری آمریکا افزود آتش‌بس اکنون «به دستگاه تنفس وصل است» و وضعیت آن بسیار شکننده شده است.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239562
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239562_1778521419.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ قیمت نفت پس از ابراز ناامیدی ترامپ از مذاکرات با تهران، به ۱۰۵ دلار افزایش یافت
+
+♦️قیمت نفت شامگاه دوشنبه ۲۱ اردیبهشت (صبح به وقت آمریکا) و همزمان با آغاز به کار بازارها در آمریکا، به‌شدت افزایش یافت.
+در پی ابراز ناامیدی دونالد ترامپ به نتیجه‌بخش بودن مذاکرات پایان جنگ با ایران، قیمت هر بشکه نفت خام برنت دریای شمال با نزدیک به ۴ درصد افزایش، به ۱۰۵ دلار هم رسید اما در دقایق بعد در کانال ۱۰۴ دلار و ۷۰ سنت تثبیت شد.
+همزمان قیمت هر بشکه نفت خام وست تگزاس اینتر مدیت هم با بیش از سه دلار افزایش، به بهای بیش از ۹۸ دلار دادوستد شد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341548
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341548_1778521420.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+JUST IN: One hantavirus cruise ship passenger being treated in Atlanta is now officially showing symptoms after the deadly outbreak on board.
+
+The other passenger being treated at Emory University Hospital is not yet showing any symptoms and is being monitored for hantavirus as a close contact.
+
+Emory University Hospital says both passengers arrived from the MV Hondius cruise ship following the outbreak at sea.
+</div>
+
+## IranIntlTV — post 336683
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/336683" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی اخبار شبانگاهی | دوشنبه ۲۱ اردیبهشت
+@iranintlTV
+</div>
+
+## DW_Farsi — post 124573
+
+<div align="center">
+  <img src="telegram/content/DW_Farsi_124573_1778521421.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶 فرمانده پیشین سپاه: بدون تحقق شرط‌های جمهوری اسلامی مذاکره‌ای انجام نخواهد شد
+
+بنا بر گزارش رسانه‌های داخلی در ایران، محمدعلی جعفری، فرمانده قرارگاه فرهنگی و اجتماعی بقیه‌الله و فرمانده پیشین سپاه ، اظهار داشت تا زمانی که پنج شرط اصلی مورد نظر جمهوری اسلامی محقق نشود، مذاکره‌ای با آمریکا انجام نخواهد شد.
+
+او موضع جمهوری اسلامی را مشروط به پایان کامل جنگ، لغو تحریم‌ها، آزادسازی دارایی‌های مسدودشده، جبران خسارت‌های ناشی از جنگ و به رسمیت شناخته شدن حاکمیت ایران بر تنگه هرمز دانست.
+
+جعفری همچنین با حمله لفظی به دولت آمریکا، مدعی شد واشنگتن پس از ناکامی در جنگ، اکنون می‌خواهد از مسیر مذاکره به هدف‌های خود برسد.
+
+او در بخش دیگری از سخنانش مدعی شد که این مواضع از حمایت عمومی در داخل ایران برخوردار است و آن را "مطالبه مردم" توصیف کرد.
+
+اظهارات جعفری در حالی مطرح می‌شود که مقام‌های جمهوری اسلامی و رسانه‌های نزدیک به حکومت در روزهای اخیر بارها بر تعیین پیش‌شرط برای هرگونه مذاکره احتمالی با آمریکا تاکید کرده‌اند. ترامپ پیشنهاد‌های جدید ایران را غیرقابل خوانده است.
+@dw_farsi
+</div>
+
+## BBCPersian — post 280784
+
+<div align="center">
+  <img src="telegram/content/BBCPersian_280784_1778521421.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻رئیس یک گروه ویژه سازمان ملل که با هدف جلوگیری از بروز بحران انسانی قریب‌الوقوع تشکیل شده، هشدار داده است که اگر عبور کودهای شیمیایی از تنگه هرمز به‌زودی از سر گرفته نشود، ده‌ها میلیون نفر ممکن است با گرسنگی و قحطی روبه‌رو شوند.
+
+خورخه موریرا دا سیلوا، مدیر اجرایی دفتر خدمات پروژه سازمان ملل متحد و رئیس این گروه ویژه، به خبرگزاری فرانسه گفت: «ما فقط چند هفته فرصت داریم تا از چیزی که به احتمال زیاد به یک بحران انسانی گسترده تبدیل خواهد شد، جلوگیری کنیم.»
+
+او افزود: «ممکن است شاهد بحرانی باشیم که ۴۵ میلیون نفر دیگر را دچار گرسنگی و قحطی کند.»
+
+📷 AFP via Getty Images
+https://bbc.in/48Xu2Om
+@BBCPersian
+</div>
+
+## alonews — post 119350
+
+<div align="center">
+  <a href="telegram/content/alonews_119350_1778521422.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈همراهان ترامپ در سفرش به چین:
+
+
+🔴رئیس شرکت بلک راک
+
+🔴رئیس شرکت گلدمن
+
+🔴 رئیس شرکت مسترکارت
+
+🔴 رئیس شرکت سیسکو
+
+🔴 رئیس شرکت متا
+
+🔴 رئیس شرکت ویزا
+
+🔴رئیس شرکت اپل
+
+🔴 رئیس شرکت تسلا (ایلان ماسک)
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119349
+
+<div align="center">
+  <a href="telegram/content/alonews_119349_1778521422.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈یک منبع ایرانی به الجزیره گفت: ایران آماده است اورانیوم با غنای بالا را تا سطوح ۳.۷ درصد و ۲۰ درصد رقیق کند. 
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119348
+
+<div align="center">
+  <a href="telegram/content/alonews_119348_1778521422.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈یک منبع ایرانی به الجزیره گفت: ایران آماده است اورانیوم با غنای بالا را تا سطوح ۳.۷ درصد و ۲۰ درصد رقیق کند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 21:04
 ---
 
