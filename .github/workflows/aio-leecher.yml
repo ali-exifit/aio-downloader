@@ -21,6 +21,10 @@ on:
               https://example.com/video -- --format bestvideo[height<=1080]+bestaudio --write-subs
               https://www.youtube.com/watch?v=dQw4w9WgXcQ -- --format "best[height<=720]" --sub-lang en
         required: true
+      zip_together:
+        description: 'Zip all downloads into one archive? (If disabled, each file is zipped individually)'
+        type: boolean
+        default: false
 
 jobs:
   actions:
@@ -108,6 +112,7 @@ jobs:
           set -e
           ENTRIES_JSON='${{ steps.parse_entries.outputs.ENTRIES_JSON }}'
           BASE_YT_DLP_ARGS="--js-runtimes deno --remote-components ejs:npm"
+          ZIP_TOGETHER='${{ github.event.inputs.zip_together }}'
           mkdir -p leecher-content leecher
 
           # ── Helper: progress display ──────────────────────
@@ -300,17 +305,34 @@ jobs:
             fi
           done
 
-          # ── ZIP every downloaded file individually ────────
+          # ── ZIP everything ─────────────────────────────────
           echo "========================================"
-          echo "Creating split ZIP archives for each file..."
-          cd leecher-content
-          for file in *; do
-            if [ -f "$file" ]; then
-              echo "→ Zipping $file"
-              zip -j -s 99m -r "../leecher/${file}.zip" "$file"
+          echo "Creating ZIP archive(s)..."
+
+          # Generate a random 10-character string for the bundle name
+          RANDOM_STR=$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 10 | head -n 1)
+
+          if [ "$ZIP_TOGETHER" = "true" ]; then
+            # Bundle all files into one ZIP
+            if [ -n "$(ls -A leecher-content 2>/dev/null)" ]; then
+              echo "→ Bundling all files into leeched-${RANDOM_STR}.zip"
+              cd leecher-content
+              zip -j -r "../leecher/leeched-${RANDOM_STR}.zip" ./*
+              cd ..
+            else
+              echo "No files to zip (leecher-content is empty)."
             fi
-          done
-          cd ..
+          else
+            # Individual ZIP per file (original behaviour)
+            cd leecher-content
+            for file in *; do
+              if [ -f "$file" ]; then
+                echo "→ Zipping $file"
+                zip -j -s 99m -r "../leecher/${file}.zip" "$file"
+              fi
+            done
+            cd ..
+          fi
 
       # ── Upload all ZIP parts ───────────────────────────────
       - name: Upload to leecher folder
