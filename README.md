@@ -144,12 +144,12 @@
 3. ورودی‌ها را وارد کنید. **فرمت:** `URL v/a رزولوشن fps` (fps اختیاری)
 
 **مثال‌ها:**
-+++
+```
 https://www.youtube.com/watch?v=dfdXGw1xY9A v 480
 https://www.youtube.com/watch?v=dfdXGw1xY9A v 1080 60
 https://www.youtube.com/watch?v=dfdXGw1xY9A a max
 https://www.youtube.com/watch?v=VIDEO_ID v 4k, https://www.youtube.com/watch?v=VIDEO_ID a 128
-+++
+```
 
 - `v` = ویدیو، `a` = صدا
 - رزولوشن: `max`, `min`, `1080`, `2k`, `4k` و غیره
@@ -591,12 +591,12 @@ Click the **Fork** button at the top‑right of this page.
 3. Enter your inputs. **Format:** `URL v/a resolution fps` (fps optional)
 
 **Examples:**
-+++
+```
 https://www.youtube.com/watch?v=dfdXGw1xY9A v 480
 https://www.youtube.com/watch?v=dfdXGw1xY9A v 1080 60
 https://www.youtube.com/watch?v=dfdXGw1xY9A a max
 https://www.youtube.com/watch?v=VIDEO_ID v 4k, https://www.youtube.com/watch?v=VIDEO_ID a 128
-+++
+```
 
 - `v` = video, `a` = audio
 - Resolution: `max`, `min`, `1080`, `2k`, `4k`, etc.
