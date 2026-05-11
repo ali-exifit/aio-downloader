@@ -7,6 +7,102 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 09:22
+---
+
+## IranIntlTV — post 336591
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/336591" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی اخبار بامدادی | دوشنبه ۲۱ اردیبهشت
+@iranintlTV
+</div>
+
+## IranIntlTV — post 336590
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336590_1778478748.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+هم‌زمان با حملات پهپادی جمهوری اسلامی به شماری از کشورهای عربی حاشیه خلیج فارس، رسانه‌های اسرائیلی از شکننده بودن آتش‌بس موقت میان جمهوری اسلامی و آمریکا گزارش دادند
+
+گزارش اشکان صفایی، خبرنگار ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## Persian_Trend_Official — post 13872
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_13872_1778478749.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📰بلومبرگ:
+
+بیش از ۴۰ کشور قرار است روز دوشنبه برای بحث در مورد مشارکت‌های نظامی در یک ماموریت به رهبری اروپا جهت اسکورت کشتی‌های تجاری از تنگه هرمز پس از برقراری آتش‌بس پایدار، دیدار کنند.
+
+عملیات دفاعی دریایی پیشنهادی که به رهبری بریتانیا و فرانسه است.
+
+انتظار می‌رود شامل عملیات پاک‌سازی مین، اسکورت‌های دریایی و پلیس هوایی باشد که هدف آن حفاظت و اطمینان‌بخشی به کشتی‌رانی تجاری در منطقه است.
+﻿
+☆Phantom☆
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 19930
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_19930_1778478750.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 صبح امروز همزمان با اذان صبح جمهوری اسلامی یکی دیگه از جوونای وطنمونو ازمون گرفت
+
+عرفان شکورزاده ۲۹ ساله و نخبه ی دانشگاه علم و صنعت توسط جمهوری اسلامی امروز اعدام شد …
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19929
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 صدا و سیما:
+
+آخرین پیشنهاد آمریکا رو رد کردیم و پیشنهاد متقابل خودمونو ارائه دادیم.
+
+ما فقط خواستار رفع تحریم‌ها، آزادسازی دارایی‌های مسدود شده ایران، جبران خسارات ناشی از جنگ٬ به رسمیت شناختن نقش ایران در تنگه هرمز و به عقد درآوردن دائمی ملانیا زن‌ ترامپ برای مسعود پزشکیان شدیم ولی آمریکا این پیشنهادات رو هم قبول نکرده و خیلی زیاده خواهه.
+
+@IranianMinds
+</div>
+
+## alonews — post 119181
+
+<div align="center">
+  <a href="telegram/content/alonews_119181_1778478750.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈بلومبرگ: ترامپ قصد دارد در سفر به چین، شی جین‌پینگ را در ارتباط با فروش تسلیحات و خرید نفت از ایران تحت فشار قرار دهد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119180
+
+<div align="center">
+  <a href="telegram/content/alonews_119180_1778478750.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈خبرگزاری شینهوا: دونالد ترامپ، رئیس جمهور آمریکا، از ۱۳ تا ۱۵ می (۲۳ تا ۲۵ اردیبهشت) به چین سفر خواهد کرد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 09:12
 ---
 
