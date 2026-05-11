@@ -7,6 +7,193 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 22:03
+---
+
+## VahidOOnLine — post 239571
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239571_1778524423.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مونترال|کبک کانادا؛
+رالی خودرو و گردهمایی ایرانیان
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239570
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239570_1778524424.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌
+وب‌سایت اکسیوس به نقل از سه مقام آمریکایی گزارش داد دونالد ترامپ امروز با اعضای تیم امنیت ملی خود درباره گام‌های بعدی در جنگ با جمهوری اسلامی دیدار خواهد کرد.
+
+بر اساس این گزارش، ازسرگیری احتمالی اقدام نظامی علیه جمهوری اسلامی از جمله گزینه‌هایی است که در این نشست بررسی می‌شود.
+
+ترامپ پیش‌تر گفته بود قرار است با «ژنرال‌های ارشد» خود دیدار کند.
+
+به گزارش اکسیوس، جی‌دی ونس، معاون رئیس‌جمهوری آمریکا، استیو ویتکاف، فرستاده ویژه کاخ سفید، مارکو روبیو، وزیر خارجه، و پیت هگست، وزیر دفاع آمریکا نیز در این نشست حضور خواهند داشت.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8924
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_8924_1778524425.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✈️📡 هواپیمای RC-135V Rivet Joint هواپیمای شناسایی و شنود الکترونیکی (جمع‌آوری اطلاعات سیگنالی و ارتباطی).(شماره 64-14848 از پایگاه سودا بی یونان) بر فراز عربستان سعودی مشاهده شد؛ در حال بازگشت از خلیج فارس.
+(تداخل شدید GPS در منطقه میان ریاض، امارات متحده عربی و قطر)
+
+@mwarmonitor
+</div>
+
+## pm_afshaa — post 90586
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+قالیباف:نیروهای مسلح ما آماده پاسخ به هر تجاوزی هستند. استراتژی نادرست و تصمیمات اشتباه همیشه به نتایج نادرست منجر می‌شوند. ما برای هر احتمالی آماده‌ایم - آنها شگفت‌زده خواهند شد
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90585
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴کاخ سفید:ترامپ همه گزینه‌ها را روی میز گذاشته
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## DEJradio — post 4571
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👑🎥 «یک ملت در گروگان»؛ اعتراض ایرانیان استکهلم علیه قطع اینترنت و موج اعدام‌ها
+
+گزارش: بهنام روغنی
+
+#شاهزاده_رضا_پهلوی #استکهلم
+@DEJradio
+</div>
+
+## mamlekate — post 103502
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+الو کشتی نفتکش شرکت ملی نفتکش رو دیشب نزدیک جاسک زدن. کشتی کلاس S هست. اسم اولیه و قدیمی اش سنندج بود. بعد از تحریم ها بارها اسمش عوض شد. خدمه سالم هستن.
+
+@mamlekate مملکته
+</div>
+
+## IranIntlTV — post 336694
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336694_1778524426.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شهیر شهیدثالث، روزنامه‌نگار و تحلیل‌گر سیاسی، درباره طرح پیشنهادی تهران برای توافق با واشینگتن گفت: «چه دونالد ترامپ در کاخ سفید باشد و چه فردی دیگر، مساله اصلی درخواست جمهوری اسلامی برای به‌رسمیت شناختن حاکمیتش بر تنگه هرمز است.» او تاکید کرد: «هیچ رییس‌جمهوری در آمریکا زیر بار چنین درخواستی نخواهد رفت.»
+@iranintltv
+</div>
+
+## ManotoTV — post 105320
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105320_1778524427.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مونترال|کبک کانادا؛
+رالی خودرو و گردهمایی ایرانیان
+</div>
+
+## ManotoTV — post 105319
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105319_1778524429.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌
+وب‌سایت اکسیوس به نقل از سه مقام آمریکایی گزارش داد دونالد ترامپ امروز با اعضای تیم امنیت ملی خود درباره گام‌های بعدی در جنگ با جمهوری اسلامی دیدار خواهد کرد.
+
+بر اساس این گزارش، ازسرگیری احتمالی اقدام نظامی علیه جمهوری اسلامی از جمله گزینه‌هایی است که در این نشست بررسی می‌شود.
+
+ترامپ پیش‌تر گفته بود قرار است با «ژنرال‌های ارشد» خود دیدار کند.
+
+به گزارش اکسیوس، جی‌دی ونس، معاون رئیس‌جمهوری آمریکا، استیو ویتکاف، فرستاده ویژه کاخ سفید، مارکو روبیو، وزیر خارجه، و پیت هگست، وزیر دفاع آمریکا نیز در این نشست حضور خواهند داشت.
+</div>
+
+## Persian_Trend_Official — post 13940
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_13940_1778524430.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴محمد باقر قالیباف
+
+‏💢نیروهای مسلح ما آمادهٔ پاسخگویی درس‌آموز به هر تجاوزی هستند؛ استراتژی اشتباه و تصمیم‌های اشتباه، همیشه نتیجهٔ اشتباه خواهد داشت، همهٔ دنیا قبلاً این را فهمیده‌اند.
+‏ما برای تمام گزینه‌ها آماده هستیم؛ شگفت‌زده خواهند شد.
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## manototv — post 105320
+
+<div align="center">
+  <a href="telegram/content/manototv_105320_1778524430.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مونترال|کبک کانادا؛
+رالی خودرو و گردهمایی ایرانیان
+</div>
+
+## manototv — post 105319
+
+<div align="center">
+  <a href="telegram/content/manototv_105319_1778524431.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌
+وب‌سایت اکسیوس به نقل از سه مقام آمریکایی گزارش داد دونالد ترامپ امروز با اعضای تیم امنیت ملی خود درباره گام‌های بعدی در جنگ با جمهوری اسلامی دیدار خواهد کرد.
+
+بر اساس این گزارش، ازسرگیری احتمالی اقدام نظامی علیه جمهوری اسلامی از جمله گزینه‌هایی است که در این نشست بررسی می‌شود.
+
+ترامپ پیش‌تر گفته بود قرار است با «ژنرال‌های ارشد» خود دیدار کند.
+
+به گزارش اکسیوس، جی‌دی ونس، معاون رئیس‌جمهوری آمریکا، استیو ویتکاف، فرستاده ویژه کاخ سفید، مارکو روبیو، وزیر خارجه، و پیت هگست، وزیر دفاع آمریکا نیز در این نشست حضور خواهند داشت.
+</div>
+
+## alonews — post 119359
+
+<div align="center">
+  <a href="telegram/content/alonews_119359_1778524432.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈قالیباف: نیروهای مسلح ما آماده‌اند تا پاسخ شایسته‌ای به هرگونه تجاوز بدهند؛ استراتژی اشتباه و تصمیمات نادرست همیشه به نتایج اشتباه منجر می‌شوند— کل جهان این را فهمیده است.
+
+
+🔴ما برای همه گزینه‌ها آماده‌ایم؛ آنها شگفت‌زده خواهند شد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 21:57
 ---
 
