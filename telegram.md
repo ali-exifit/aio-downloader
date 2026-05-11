@@ -7,6 +7,60 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 07:22
+---
+
+## VahidOOnLine — post 239447
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239447_1778471553.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بر اساس داده‌های شرکت کپلر، دو نفتکش پس از خاموش کردن سیستم‌های ردیابی خود با عبور از تنگه هرمز، این منطقه را ترک کردند.
+
+بر اساس این گزارش، خاموش شدن دستگاه‌های موقعیت‌یاب باعث شد مسیر حرکت این نفتکش‌ها به طور دقیق قابل رصد نباشد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239446
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239446_1778471554.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بر اساس داده‌های شرکت کپلر، دو نفتکش پس از خاموش کردن سیستم‌های ردیابی خود با عبور از تنگه هرمز، این منطقه را ترک کردند.
+
+بر اساس این گزارش، خاموش شدن دستگاه‌های موقعیت‌یاب باعث شد مسیر حرکت این نفتکش‌ها به طور دقیق قابل رصد نباشد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## IranIntlTV — post 336574
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336574_1778471556.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بر اساس داده‌های شرکت کپلر، دو نفتکش پس از خاموش کردن سیستم‌های ردیابی خود با عبور از تنگه هرمز، این منطقه را ترک کردند.
+
+بر اساس این گزارش، خاموش شدن دستگاه‌های موقعیت‌یاب باعث شد مسیر حرکت این نفتکش‌ها به طور دقیق قابل رصد نباشد.
+https://iranintl.com/202605116330
+</div>
+
+## IranIntlTV — post 336573
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336573_1778471556.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+جمعی از ایرانیان مقیم آمریکا، روز یک‌شنبه ۲۰ اردیبهشت، در حمایت از مردم ایران و شاهزاده رضا پهلوی و نیز در اعتراض به اعدام‌های جمهوری اسلامی و قطع اینترنت، در لس‌آنجلس تجمع کردند. آن‌ها هم‌صدا با کارزار جهانی «یک ملت در گروگان»، خواستار توجه جامعه بین‌المللی به وضعیت بحرانی داخل ایران شدند.
+@iranintltv
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 07:12
 ---
 
