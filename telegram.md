@@ -7,6 +7,94 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 02:04
+---
+
+## VahidOOnLine — post 239596
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239596_1778538868.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️لیندزی گراهام، سناتور جمهوری‌خواه، در واکنش به گزارش‌های اخیر مبنی بر پناه دادن پاکستان به هواپیماهای نظامی رژیم ایران، خواستار بازنگری در نقش دیپلماتیک اسلام‌آباد شد و در اکس نوشت: «اگر این گزارش‌ها دقیق باشد، مستلزم ارزیابی مجدد کامل نقشی است که پاکستان به عنوان میانجی بین ایران، ایالات متحده و سایر طرف‌ها ایفا می‌کند.» او همچنین با اشاره به مواضع پیشین مقامات دفاعی پاکستان در قبال اسرائیل، تاکید کرد که از شنیدن چنین خبری شوکه نخواهد شد، چرا که این اقدامات با رویکرد اخیر اسلام‌آباد همخوانی دارد.
+پیش از این، «سی‌بی‌اس» روز دوشنبه، ۲۱ اردیبهشت‌ماه، گزارش داد که پاکستان برخلاف نقش خود به عنوان میانجی دیپلماتیک میان تهران و واشنگتن، به طور مخفیانه اجازه داده است هواپیماهای نظامی رژیم ایران در پایگاه‌های هوایی این کشور مستقر شوند تا از حملات هوایی آمریکا در امان بمانند. خبری که مقامات ارشد پاکستان در گفتگو با «سی‌بی‌اس نیوز» آن را تکذیب کرده‌اند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341563
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341563_1778538869.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+"We know this virus. It's not novel and we know what we need to do."
+
+CDC official David Fitter said the Andes hantavirus strain is significantly more difficult to spread than typical respiratory viruses.
+</div>
+
+## IranIntlTV — post 336716
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336716_1778538872.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «این روزها در رسانه‌های جمهوری اسلامی از علی لاریجانی به‌عنوان چهره‌ای اهل تدبیر یاد می‌شود، در حالی که او به‌عنوان دبیر شورای عالی امنیت ملی نقش اصلی را در کشتار دی‌ماه داشته است. لاریجانی پس از خامنه‌ای، آمر اصلی بزرگ‌ترین کشتار خیابانی تاریخ ایران است.»
+@iranintltv
+</div>
+
+## ManotoTV — post 105327
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105327_1778538874.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سهیلا یوسفی فعال سیاسی و عضو حزب ایران نوین در گردهمایی ایرانیان روبروی دادگاه لاهه در هلند گفت: «شاهزاده رضا پهلوی تنها رهبر ماست».
+</div>
+
+## FarsiVOA — post 217488
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️تازه‌ترین واکنش‌های قانون‌گذاران آمریکایی به تحولات مرتبط با ایران
+@FarsiVOA
+</div>
+
+## manototv — post 105327
+
+<div align="center">
+  <a href="telegram/content/manototv_105327_1778538877.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سهیلا یوسفی فعال سیاسی و عضو حزب ایران نوین در گردهمایی ایرانیان روبروی دادگاه لاهه در هلند گفت: «شاهزاده رضا پهلوی تنها رهبر ماست».
+</div>
+
+## alonews — post 119402
+
+<div align="center">
+  <img src="telegram/content/alonews_119402_1778538879.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔥
+🔝از اول جنگ کانفیگ های اینجا وصله بدون قطعی، سروراش تضمین بازگشت وجه داره، درجه یک با کیفیت. قیمت خیلی مناسب گیگی 250 پرداخت ارزی و تومن داره
+
+
+🖥آیدی خود عسل @Asal_vpn021
+
+آیدی کانالش
+⬇️
+
+👑
+⭐️https://t.me/+wXrSv4IM6p9kNGQ0
+
+👑
+⭐️https://t.me/+wXrSv4IM6p9kNGQ0
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 01:54
 ---
 
