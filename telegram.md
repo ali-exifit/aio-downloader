@@ -7,6 +7,52 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 01:13
+---
+
+## Shin_Persian — post 5961
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+↩️ Quoted tweet: Shin ✓ @hey_itsmyturn Sun, 10 May 2026 21:01:49 UTC Another night with jet activity over Baghdad #Iraq 🇮🇶 ↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید. فارسی شبی دیگر با فعالیت جنگنده‌ها بر فراز بغداد #Iraq 🇮🇶 𝕏 · @shin_persian
+</div>
+
+## Shin_Persian — post 5960
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+↩️ Quoted tweet:
+Shin ✓ @hey_itsmyturn
+Sun, 10 May 2026 21:01:49 UTC
+
+Another night with jet activity over Baghdad #Iraq 🇮🇶
+
+↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.
+
+فارسی
+
+شبی دیگر با فعالیت جنگنده‌ها بر فراز بغداد #Iraq 🇮🇶
+
+𝕏 · @shin_persian
+</div>
+
+## FarsiVOA — post 217486
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️پوشش ویژه | پرزیدنت ترامپ میزبان قهرمانان ملی فوتبال آمریکایی
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217485
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️دونالد ترامپ: پاسخ حکومت ایران به پیشنهاد صلح ایالات متحده را «پیشنهادی احمقانه» است
+@FarsiVOA
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 01:04
 ---
 
