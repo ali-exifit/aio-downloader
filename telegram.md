@@ -7,6 +7,125 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 17:32
+---
+
+## VahidOOnLine — post 239528
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239528_1778508175.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بریتانیا روز دوشنبه ۱۲ فرد و نهاد مرتبط با جمهوری اسلامی را تحریم کرد و آن‌ها را به مشارکت در «فعالیت خصمانه» از جمله طرح‌ریزی حملات و ارائه خدمات مالی به گروه‌هایی که به دنبال بی‌ثبات‌سازی بریتانیا و سایر کشورها هستند متهم کرد.
+این اقدام شامل مسدود کردن دارایی‌ها، ممنوعیت سفر و دستورهای لغو صلاحیت مدیریت است.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341525
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌Fox News (Twitter/X)
+
+Read more:
+</div>
+
+## FoxNewsTwitter — post 341524
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341524_1778508176.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+"AI is central to what we do. It is helping us identify victims of child exploitation, arrest and convict predators, and more."
+
+FBI Director Kash Patel says the bureau is overhauling how it fights crime — using AI to flag threats in real time, speed up investigations, and track down predators and missing kids.
+
+Officials say it’s already making a difference. The bigger question now: how far it goes.
+</div>
+
+## DEJradio — post 4569
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4569_1778508177.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺📢 چگونه جمهوری اسلامی در دل یک سناریوی «جنگ سرد» قرار گرفت؟
+
+*پژمان گلچین، پژوهشگر فلسفه
+
+#جمهوری_اسلامی #جنگ_سرد
+@DEJradio
+</div>
+
+## IranIntlTV — post 336658
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336658_1778508177.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بریتانیا روز دوشنبه ۱۲ فرد و نهاد مرتبط با جمهوری اسلامی را تحریم کرد و آن‌ها را به مشارکت در «فعالیت خصمانه» از جمله طرح‌ریزی حملات و ارائه خدمات مالی به گروه‌هایی که به دنبال بی‌ثبات‌سازی بریتانیا و سایر کشورها هستند متهم کرد.
+این اقدام شامل مسدود کردن دارایی‌ها، ممنوعیت سفر و دستورهای لغو صلاحیت مدیریت است.
+https://iranintl.com/202605116825
+</div>
+
+## IranIntlTV — post 336657
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336657_1778508178.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک شهروند با ارسال پیامی به ایران‌اینترنشنال می‌گوید: «شرایط در ایران حقیقتا دشوارتر شده است. مواد خوراکی، بی‌کیفیت و گران‌ شده‌اند و همان‌ها هم در حال ناموجود شدن هستند.»
+</div>
+
+## BBCPersian — post 280765
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻فرمانده قرارگاه فرهنگی سپاه: تا زمانی که جنگ در همه جبهه‌ها پایان نیابد هیچ مذاکره‌ای در کار نیست
+فرمانده قرارگاه فرهنگی سپاه پاسداران انقلاب اسلامی می‌گوید تا زمانی که خواسته‌های ایران برآورده نشود، مذاکره دیگری انجام نخواهد شد.
+
+سرلشکر محمدعلی جعفری گفت: «تا زمانی که جنگ در همه جبهه‌ها پایان نیافته، تحریم‌ها برداشته نشده، پول‌های بلوکه‌شده آزاد نگشته، خسارت‌های ناشی از جنگ جبران نشده و حق حاکمیت ایران بر تنگه هرمز به رسمیت شناخته نشده باشد، هیچ مذاکره دیگری در کار نیست.»
+
+این فرمانده پیشین کل سپاه پاسداران افزود که رئیس‌جمهور آمریکا «در باتلاق گیر افتاده و دست و پا می‌زند. در چنین وضعیتی که ترامپ نتوانسته به اهدافش در جنگ برسد، می‌خواهد این اهداف را از طریق مذاکره به دست آورد.»
+
+https://bbc.in/48PrMbR
+@BBCPersian
+</div>
+
+## alonews — post 119299
+
+<div align="center">
+  <a href="telegram/content/alonews_119299_1778508179.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈تلگراف: چین بررسی کرده که سامانه‌های پدافند هوایی را از طریق کشورهای دیگر به ایران ارسال کند تا نقش خودش را پنهان کند.
+
+گفته می‌شود دونالد ترامپ قرار است در دیدار این هفته با شی جین‌پینگ در پکن، درباره این موضوعات از چین توضیح بخواهد؛ از جمله ادعای فروش سلاح به ایران.
+هنوز مشخص نیست آمریکا در مقابل چه پیشنهادی به چین خواهد داد، اما احتمال‌هایی مثل کاهش محدودیت‌های دریایی در تنگه هرمز مطرح شده است.
+همچنین ترامپ قرار است از چین بخواهد خرید نفت از آمریکا را افزایش دهد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119298
+
+<div align="center">
+  <a href="telegram/content/alonews_119298_1778508179.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈فرماندهی مرکزی ایالات متحده:
+نیروهای سنتکام ۶۲ کشتی تجاری را هدایت مجدد کرده و ۴ کشتی را غیرفعال کرده‌اند تا از رعایت قوانین اطمینان حاصل شود.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 17:22
 ---
 
