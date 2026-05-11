@@ -31,6 +31,7 @@
    - [۶. ضبط وبسایت](#۶-ضبط-وبسایت)
    - [۷. لیچر (Leecher) – میانبر + دستورات خام](#۷-لیچر-leecher--میانبر--دستورات-خام)
    - [۸. پاک‌کننده جامع (AIO Cleaner)](#۸-پاککننده-جامع-aio-cleaner)
+   - [۹. دانلودر گوگل پلی (APK)](#۹-دانلودر-گوگل-پلی-apk)
 5. [محدودیت‌ها و هشدارهای مهم](#-محدودیتها-و-هشدارهای-مهم)
 6. [فایل zoomusers.md چیست؟](#-فایل-zoomusersmd-چیست)
 
@@ -44,7 +45,7 @@
 | 🟠 **مرورگر + افزونه Get cookies.txt LOCALLY** | Chrome / Firefox / Edge |
 | 🔵 **حساب اینستاگرام** | (اختیاری) برای استوری و محتوای خصوصی |
 | 🔴 **حساب X (توییتر)** | **الزامی** برای دانلودر X |
-| 🟢 **تلگرام و ضبط وبسایت** | هیچ چیز اضافی نیاز ندارند |
+| 🟢 **تلگرام، ضبط وبسایت، و گوگل پلی** | هیچ چیز اضافی نیاز ندارند |
 
 ---
 
@@ -76,7 +77,7 @@
 
 > ℹ️ **یوتیوب و اینستاگرام:** برای برخی محتواها به کوکی نیاز دارند.  
 > 🔴 **X (توییتر): حتماً به کوکی نیاز دارد.**  
-> 🟢 **تلگرام و ضبط وبسایت:** بدون کوکی کار می‌کنند.
+> 🟢 **تلگرام، ضبط وبسایت، و گوگل پلی:** بدون کوکی کار می‌کنند.
 
 ### ۱. استخراج کوکی‌ها — حتماً از پنجره ناشناس (Private/Incognito) استفاده کنید!
 
@@ -104,6 +105,8 @@
 ## 📦 راهنمای کامل هر گردش کار
 
 ### ۱. دانلودر یوتیوب (yt‑dlp ساده)
+
+> ℹ️ نکته: می‌توانید بدون افزودن کوکی یوتوب ویدئو ها را توسط لیچر دانلود کنید و مشابه همین روش اما بدون کوکی بهره ببرید!
 
 مخصوص **یوتیوب** — فقط با متغیرهای از پیش تعریف‌شده (رزولوشن، fps). از `yt-dlp` استفاده می‌کند اما **دستورات خام/پیشرفته را قبول نمی‌کند**.  
 برای حالت خام و پیشرفته، از **لیچر (بخش ۷)** استفاده کنید.
@@ -183,7 +186,6 @@ https://example.com/path/to/large-file.zip, https://example.com/another-file.mp4
 ---
 
 ### ۵. آرشیو کانال تلگرام
-
 
 کانال‌های **عمومی** تلگرام را اسکن کرده و پیام‌ها، عکس‌ها و ویدیوها را به صورت بایگانی Markdown ذخیره می‌کند.  
 به‌صورت **خودکار (هر ۱۵ دقیقه)** یا **دستی** اجرا می‌شود.
@@ -268,32 +270,44 @@ https://github.com/ProAlit/aio-downloader
 
 ### ۷. لیچر (Leecher) – میانبر + دستورات خام
 
-انعطاف‌پذیرترین گردش‌کار: هم حالت **میانبر (Shortcut)** مشابه دانلودر ساده یوتیوب (با `v/a رزولوشن fps`) و هم حالت **خام (Raw)** برای ارسال مستقیم گزینه‌های دلخواه `yt-dlp` پشتیبانی می‌کند. برای هر سایتی از لیست ۱۸۰۰+ سایت قابل استفاده است.
+💥 **قدرتمندترین گردش‌کار این مخزن!**  
+لیچر از `yt-dlp` پشتیبانی کامل می‌کند و تقریباً **هر لینکی** را می‌توانید به آن بدهید — از یوتیوب و توییتر گرفته تا اینستاگرام، تیک‌تاک، پینترست، ساندکلود، اسپاتیفای و **بیش از ۱۸۰۰ سایت دیگر**.  
+در اینجا نه محدود به یوتیوب هستید، نه به گزینه‌های از پیش تعریف‌شده. **همه چیز در کنترل شماست.**
 
-#### 🟢 حالت میانبر (Shortcut Mode)
+#### دو شیوه استفاده:
 
-درست مانند دانلودر یوتیوب، از فرمت **`URL v/a رزولوشن fps`** استفاده کنید.
+- **🟢 حالت میانبر (Shortcut):** درست مثل دانلودر یوتیوب — با فرمت `URL v/a رزولوشن fps` (راحت و سریع برای یوتیوب و چند سایت دیگر)
+- **🔴 حالت خام (Raw):** قدرت بی‌نهایت — با قرار دادن `--` در انتهای URL، هر گزینه معتبر `yt-dlp` را مستقیماً پاس می‌دهید. این یعنی می‌توانید فرمت، کوکی، زیرنویس، آرشیو، پلی‌لیست، محدودیت نرخ و … را کاملاً دستی تنظیم کنید.
 
+---
+
+#### 🎯 مثال‌های جذاب از قدرت لیچر (حالت خام)
+
+| پلتفرم | نمونه دستور (داخل ورودی‌های workflow) |
+|--------|--------------------------------------|
+| **یوتیوب** – ویدیو با کیفیت 1080p + زیرنویس انگلیسی | `https://www.youtube.com/watch?v=VIDEO_ID -- --format "best[height<=1080]" --sub-lang en --write-subs` |
+| **اینستاگرام** – دانلود پست یا ریل (با کوکی) | `https://www.instagram.com/p/CODE -- --cookies cookies.txt --output "%(title)s.%(ext)s"` |
+| **تیک‌تاک** – دانلود ویدیو و ذخیره زیرنویس | `https://www.tiktok.com/@user/video/ID -- --write-subs --sub-lang en` |
+| **توییتر / X** – بهترین کیفیت موجود | `https://x.com/user/status/ID -- --format best` |
+| **پینترست** – دانلود تصویر | `https://www.pinterest.com/pin/ID -- --format best` |
+| **ساندکلاد** – استخراج صدا با کیفیت اصلی | `https://soundcloud.com/artist/track -- --format bestaudio` |
+| **اسپاتیفای** – (متادیتا) | `https://open.spotify.com/track/ID -- --print "%(title)s - %(artist)s"` |
+| **ویــمئو** – دانلود ویدیو با رزولوشن دلخواه | `https://vimeo.com/ID -- --format "best[height<=720]"` |
+| **دیلی‌موشن** – دانلود ویدیو | `https://www.dailymotion.com/video/ID -- --format best` |
+| **تلگرام (لینک عمومی)** – دانلود فایل از کانال عمومی | `https://t.me/channel/12345 -- --format best` |
+| **سایت‌های مستهجن** – دانلود از سایت‌های مستهجن | `لینک ویدئو` |
+
+> ℹ️ **نکته:** برای سایت‌هایی مثل اینستاگرام و تیک‌تاک که به کوکی نیاز دارند، ابتدا کوکی‌ها را به Secrets اضافه کنید (مطابق بخش ۳) و سپس در دستور `--cookies /path/to/cookies.txt` را قرار دهید. لیچر فایل کوکی را از Secret می‌خواند و در مسیر استاندارد ذخیره می‌کند.
+
+#### 🟢 حالت میانبر را فراموش نکنید:
 ```
 https://www.youtube.com/watch?v=dfdXGw1xY9A v 1080
-https://www.youtube.com/watch?v=other_id a max
 https://soundcloud.com/artist/track a 320
 ```
 
-#### 🔴 حالت خام (Raw Mode)
-
-وقتی به کنترل کامل نیاز دارید، در انتهای URL یک `--` قرار دهید و هر گزینه‌ی معتبر `yt‑dlp` را بعد از آن بنویسید.
-
-```
-https://www.youtube.com/watch?v=dQw4w9WgXcQ -- --format "best[height<=720]" --sub-lang en
-https://example.com/video -- --format bestvideo+bestaudio --write-subs
-```
-
 1. به **Actions** → **leecher** بروید
-2. ورودی‌ها را وارد کنید (می‌توانید ترکیبی از هر دو حالت را با هم داشته باشید)
-3. خروجی در پوشه **`leecher/`** قرار می‌گیرد
-
-> 📋 **لیست کامل سایت‌های پشتیبانی‌شده توسط yt-dlp:** [اینجا کلیک کنید](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+2. ورودی‌ها را وارد کنید (می‌توانید ترکیبی از لینک‌های میانبر و خام را با هم استفاده کنید)
+3. خروجی‌ها در پوشه **`leecher/`** قرار می‌گیرند
 
 ---
 
@@ -313,6 +327,7 @@ https://example.com/video -- --format bestvideo+bestaudio --write-subs
 | **X (توییتر)** | کل پوشه `x/` |
 | **وبسایت** | کل پوشه `website/` |
 | **لیچر** | کل پوشه `leecher/` |
+| **گوگل پلی** | کل پوشه `google-play/` |
 
 #### نحوه اجرا:
 
@@ -325,11 +340,60 @@ https://example.com/video -- --format bestvideo+bestaudio --write-subs
 
 ---
 
+### ۹. دانلودر گوگل پلی (APK) 🆕
+
+📱 **فایل‌های APK اندروید را مستقیماً از گوگل پلی دانلود کنید!**  
+این گردش‌کار از ابزار `gplay-apk-downloader` برای دانلود قانونی و رسمی بسته‌های نصبی (APK) از سرورهای گوگل استفاده می‌کند — بدون نیاز به دستگاه اندروید، بدون نیاز به اکانت گوگل، و کاملاً خودکار.
+
+#### ✨ ویژگی‌ها:
+- دانلود APK مستقیماً از سرورهای رسمی گوگل پلی
+- پشتیبانی از معماری‌های **arm64** (پیش‌فرض) و **armv7**
+- قابلیت ادغام خودکار APKهای Split (جداشده) در یک فایل نصبی واحد (merge_splits)
+- فایل‌های بزرگتر از ۹۹MB به صورت ZIP چندبخشی ذخیره می‌شوند
+- احراز هویت گوگل پلی به‌صورت خودکار توسط ابزار انجام می‌شود
+
+#### 📝 نحوه استفاده:
+
+1. به **Actions** → **google-play-downloader** بروید
+2. روی **Run workflow** کلیک کنید
+3. سه فیلد زیر را پر کنید:
+
+| فیلد | توضیح | اجباری؟ |
+|------|-------|---------|
+| **package_name** | نام پکیج اندروید برنامه (مثلاً `com.google.android.youtube`) | ✅ بله |
+| **architecture** | معماری دستگاه هدف: `arm64` (پیش‌فرض) یا `armv7` | ✅ بله |
+| **merge_splits** | ادغام APKهای Split شده در یک فایل؟ (پیش‌فرض: فعال) | ❌ اختیاری |
+
+**مثال‌ها:**
+```
+package_name: com.google.android.youtube
+architecture: arm64
+merge_splits: true
+```
+
+```
+package_name: com.spotify.music
+architecture: armv7
+merge_splits: false
+```
+
+4. روی **Run workflow** کلیک کنید → فایل‌های APK (ZIP شده) در پوشه **`google-play/`** قرار می‌گیرند
+
+#### 🔍 چگونه نام پکیج یک برنامه را پیدا کنیم؟
+
+1. به صفحه برنامه در **Google Play Store** بروید (مثلاً `play.google.com/store/apps/details?id=com.google.android.youtube`)
+2. به بخش `id=` در URL نگاه کنید — همان نام پکیج است
+3. یا از وب‌سایت‌هایی مثل [APKMirror](https://www.apkmirror.com) یا [APKPure](https://apkpure.com) نام پکیج را جستجو کنید
+
+> ℹ️ این گردش‌کار فایل‌های APK را مستقیماً از سرورهای گوگل دریافت می‌کند، بنابراین نسخه‌های دریافتی رسمی و دست‌نخورده هستند.
+
+---
+
 ## ⏱️ محدودیت‌ها و هشدارهای مهم
 
 | هشدار | توضیح |
 |-------|--------|
-| 🔴 **محدودیت فضای مخزن** | حساب رایگان GitHub تا حدود ۵ گیگابایت فضای نرم دارد. فایل‌های دانلودی (مخصوصاً ویدیوها) می‌توانند به سرعت فضا را پر کنند. **مرتباً از AIO Cleaner استفاده کنید!** |
+| 🔴 **محدودیت فضای مخزن** | حساب رایگان GitHub تا حدود ۵ گیگابایت فضای نرم دارد. فایل‌های دانلودی (مخصوصاً ویدیوها و APKها) می‌توانند به سرعت فضا را پر کنند. **مرتباً از AIO Cleaner استفاده کنید!** |
 | 🟠 **زمان اجرا** | حداکثر ۶ ساعت برای هر اجرا (مخازن عمومی دقیقه نامحدود دارند) |
 | 🟡 **فایل‌های >۹۹MB** | به ZIP چندبخشی تقسیم می‌شوند — برای استخراج از 7‑Zip یا WinRAR استفاده کنید |
 | 🟡 **دسته‌های بزرگ** | لینک‌های خیلی زیاد را به گروه‌های کوچکتر تقسیم کنید |
@@ -339,6 +403,7 @@ https://example.com/video -- --format bestvideo+bestaudio --write-subs
 | 🔴 **نام کانال تلگرام** | **بدون @** وارد کنید |
 | 🟠 **اجرای زمان‌بندی تلگرام** | ممکن است با تأخیر ۱ تا ۶ ساعت اجرا شود. برای دریافت سریع‌تر، اجرای دستی قابل اعتمادتر است |
 | 🔴 **کوکی‌ها** | فقط از **پنجره ناشناس/خصوصی** استخراج کنید و بعد از استخراج، آن پنجره را کاملاً ببندید |
+| 🟢 **گوگل پلی** | بدون نیاز به اکانت گوگل — احراز هویت خودکار است |
 
 ---
 
@@ -383,6 +448,7 @@ https://example.com/video -- --format bestvideo+bestaudio --write-subs
    - [6. Website Capture](#6-website-capture)
    - [7. Leecher – Shortcut + Raw Commands](#7-leecher--shortcut--raw-commands)
    - [8. AIO Cleaner](#8-aio-cleaner)
+   - [9. Google Play APK Downloader](#9-google-play-apk-downloader)
 5. [Limitations & Important Warnings](#-limitations--important-warnings)
 6. [What is `zoomusers.md`?](#-what-is-zoomusersmd)
 
@@ -396,7 +462,7 @@ https://example.com/video -- --format bestvideo+bestaudio --write-subs
 | 🟠 **Browser + Get cookies.txt LOCALLY extension** | Chrome / Firefox / Edge |
 | 🔵 **Instagram Account** | (Optional) for stories & private content |
 | 🔴 **X (Twitter) Account** | **Mandatory** for the X downloader |
-| 🟢 **Telegram & Website Capture** | Nothing extra needed — work without login or API keys |
+| 🟢 **Telegram, Website Capture, & Google Play** | Nothing extra needed — work without login or API keys |
 
 ---
 
@@ -428,7 +494,7 @@ Click the **Fork** button at the top‑right of this page.
 
 > ℹ️ **YouTube & Instagram:** May require cookies for some content.  
 > 🔴 **X (Twitter): Cookies are MANDATORY.**  
-> 🟢 **Telegram & Website Capture:** No cookies needed.
+> 🟢 **Telegram, Website Capture, & Google Play:** No cookies needed.
 
 ### 1. Export Cookies from Your Browser – USE A PRIVATE/INCOGNITO WINDOW!
 
@@ -456,6 +522,8 @@ Click the **Fork** button at the top‑right of this page.
 ## 📦 Complete Workflow Guide
 
 ### 1. YouTube Downloader (yt‑dlp Simple)
+
+> ℹ️ Note: You can download YouTube videos via Leecher without adding YouTube cookies — same method, no cookies needed!
 
 Dedicated **YouTube downloader** using only predefined quality variables (resolution, fps). Uses `yt-dlp` but **does not accept raw/advanced options**.  
 For raw mode and advanced control, use **Leecher (section 7)**.
@@ -619,32 +687,44 @@ https://github.com/ProAlit/aio-downloader
 
 ### 7. Leecher – Shortcut + Raw Commands
 
-The most flexible workflow: supports both **Shortcut mode** (like the YouTube downloader with `v/a resolution fps`) and **Raw mode** (pass any custom `yt-dlp` options directly). Works for any URL from the 1,800+ supported sites.
+💥 **The most powerful workflow in this repo!**  
+Leecher fully harnesses `yt-dlp`, so you can throw almost **any link** at it — YouTube, Twitter, Instagram, TikTok, Pinterest, SoundCloud, Spotify, and **over 1,800 other sites**.  
+You are not limited to YouTube, nor to predefined settings. **You're in full control.**
 
-#### 🟢 Shortcut Mode
+#### Two ways to use it:
 
-Exactly like the YouTube downloader — use the format **`URL v/a resolution fps`**.
+- **🟢 Shortcut Mode:** Just like the YouTube downloader — using the format `URL v/a resolution fps` (quick and simple for YouTube and similar)
+- **🔴 Raw Mode:** Limitless power — append `--` after the URL and pass any valid `yt-dlp` option directly. This means you can manually set formats, cookies, subtitles, archive, playlists, rate limits, and more.
 
+---
+
+#### 🎯 Examples showcasing Leecher's power (Raw mode)
+
+| Platform | Example command (paste into workflow input) |
+|----------|----------------------------------------------|
+| **YouTube** – 1080p video + English subs | `https://www.youtube.com/watch?v=VIDEO_ID -- --format "best[height<=1080]" --sub-lang en --write-subs` |
+| **Instagram** – Download post/reel (with cookies) | `https://www.instagram.com/p/CODE -- --cookies cookies.txt --output "%(title)s.%(ext)s"` |
+| **TikTok** – Download video & captions | `https://www.tiktok.com/@user/video/ID -- --write-subs --sub-lang en` |
+| **Twitter / X** – Best available resolution | `https://x.com/user/status/ID -- --format best` |
+| **Pinterest** – Get the image | `https://www.pinterest.com/pin/ID -- --format best` |
+| **SoundCloud** – Extract original audio | `https://soundcloud.com/artist/track -- --format bestaudio` |
+| **Spotify** – (metadata) | `https://open.spotify.com/track/ID -- --print "%(title)s - %(artist)s"` |
+| **Vimeo** – Download with custom resolution | `https://vimeo.com/ID -- --format "best[height<=720]"` |
+| **Dailymotion** – Download video | `https://www.dailymotion.com/video/ID -- --format best` |
+| **Telegram (public link)** – Grab file from public channel | `https://t.me/channel/12345 -- --format best` |
+| **Porn Downloader** – All Porn Websites | `Link To Video` |
+
+> ℹ️ **Note:** For sites like Instagram and TikTok that require cookies, first add your cookies to Secrets (section 3) and then include `--cookies /path/to/cookies.txt`. Leecher automatically reads the cookie secret and saves it in the expected location.
+
+#### 🟢 Don't forget Shortcut Mode:
 ```
 https://www.youtube.com/watch?v=dfdXGw1xY9A v 1080
-https://www.youtube.com/watch?v=other_id a max
 https://soundcloud.com/artist/track a 320
 ```
 
-#### 🔴 Raw Mode
-
-When you need full control, append `--` at the end of the URL and place any valid `yt‑dlp` options after it.
-
-```
-https://www.youtube.com/watch?v=dQw4w9WgXcQ -- --format "best[height<=720]" --sub-lang en
-https://example.com/video -- --format bestvideo+bestaudio --write-subs
-```
-
 1. Go to **Actions** → **leecher**
-2. Enter your inputs (you can mix both modes in one run)
-3. Output appears in the **`leecher/`** folder
-
-> 📋 **Complete list of sites supported by yt-dlp:** [Click here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+2. Enter your inputs (you can mix shortcut and raw links in the same run)
+3. Outputs appear in the **`leecher/`** folder
 
 ---
 
@@ -664,6 +744,7 @@ This workflow lets you wipe downloads for any platform with one click.
 | **X (Twitter)** | Entire `x/` folder |
 | **Website** | Entire `website/` folder |
 | **Leecher** | Entire `leecher/` folder |
+| **Google Play** | Entire `google-play/` folder |
 
 #### How to Run:
 
@@ -676,11 +757,60 @@ This workflow lets you wipe downloads for any platform with one click.
 
 ---
 
+### 9. Google Play APK Downloader 🆕
+
+📱 **Download Android APK files directly from Google Play!**  
+This workflow uses the `gplay-apk-downloader` tool to legally fetch installable packages (APKs) from Google's official servers — no Android device needed, no Google account required, fully automated.
+
+#### ✨ Features:
+- Downloads APKs directly from Google's official servers
+- Supports **arm64** (default) and **armv7** architectures
+- Automatically merges Split APKs into a single installable file (`merge_splits`)
+- Files larger than 99 MB are split into multi‑part ZIP archives
+- Google Play authentication is handled automatically by the tool
+
+#### 📝 How to Use:
+
+1. Go to **Actions** → **google-play-downloader**
+2. Click **Run workflow**
+3. Fill in the three fields:
+
+| Field | Description | Required? |
+|-------|-------------|-----------|
+| **package_name** | Android package name (e.g., `com.google.android.youtube`) | ✅ Yes |
+| **architecture** | Target device architecture: `arm64` (default) or `armv7` | ✅ Yes |
+| **merge_splits** | Merge split APKs into one file? (default: enabled) | ❌ Optional |
+
+**Examples:**
+```
+package_name: com.google.android.youtube
+architecture: arm64
+merge_splits: true
+```
+
+```
+package_name: com.spotify.music
+architecture: armv7
+merge_splits: false
+```
+
+4. Click **Run workflow** → APK files (zipped) appear in the **`google-play/`** folder
+
+#### 🔍 How to Find an App's Package Name:
+
+1. Go to the app's page on the **Google Play Store** (e.g., `play.google.com/store/apps/details?id=com.google.android.youtube`)
+2. Look at the `id=` part in the URL — that's the package name
+3. Alternatively, use sites like [APKMirror](https://www.apkmirror.com) or [APKPure](https://apkpure.com) to search for the package name
+
+> ℹ️ This workflow fetches APK files directly from Google's servers, so the downloads are official and unmodified.
+
+---
+
 ## ⏱️ Limitations & Important Warnings
 
 | Warning | Description |
 |---------|-------------|
-| 🔴 **Repository Size Limit** | GitHub free accounts have a ~5 GB soft limit. Downloaded files (especially videos) can fill this up quickly. **Use AIO Cleaner regularly!** |
+| 🔴 **Repository Size Limit** | GitHub free accounts have a ~5 GB soft limit. Downloaded files (especially videos and APKs) can fill this up quickly. **Use AIO Cleaner regularly!** |
 | 🟠 **Runtime** | Max 6 hours per job (public repos have unlimited minutes) |
 | 🟡 **Files >99 MB** | Split into multi‑part ZIPs — use 7‑Zip or WinRAR to extract |
 | 🟡 **Large Batches** | Split very large batches into smaller groups |
@@ -690,6 +820,7 @@ This workflow lets you wipe downloads for any platform with one click.
 | 🔴 **Telegram Channel Names** | Must be **without @** |
 | 🟠 **Telegram Cron** | May experience delays of 1–6 hours. Manual trigger is more reliable |
 | 🔴 **Cookies** | Only export from a **Private/Incognito window** — close that window completely after exporting |
+| 🟢 **Google Play** | No Google account needed — authentication is automatic |
 
 ---
 
