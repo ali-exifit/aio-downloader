@@ -7,6 +7,218 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 18:03
+---
+
+## VahidOOnLine — post 239531
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239531_1778510002.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️به گزارش رویترز، دولت بریتانیا روز دوشنبه ۱۲ فرد و نهاد مرتبط با جمهوری اسلامی، از جمله اعضای شبکه جنایی موسوم به «زیندشتی» و چندین واحد صرافی را به اتهام مشارکت در فعالیت‌های متخاصم در فهرست تحریم‌های خود قرار داد. لندن اعلام کرد این شبکه در طراحی حملات، تهدید اشخاص و ارائه خدمات مالی به گروه‌هایی که به دنبال بی‌ثبات کردن بریتانیا و سایر کشورها هستند، نقش داشته است. این اقدامات که شامل مسدود کردن دارایی‌ها و ممنوعیت سفر است، با هدف قطع دسترسی این شبکه‌ها به منابع مالی و مقابله با دور زدن محدودیت‌های بین‌المللی صورت می‌گیرد.
+
+این تصمیم در حالی اتخاذ شده است که پلیس بریتانیا پیش از این از بررسی پیوندهای احتمالی تهران با مجموعه‌ای از آتش‌سوزی‌های عمدی در مراکز یهودی لندن خبر داده بود. به گفته مقام‌های امنیتی، نهادهای مالی تحریم‌شده با تسهیل جابه‌جایی پول برای گروه‌های مخرب، امنیت ملی بریتانیا را هدف قرار داده‌اند. در همین راستا، بریتانیا سطح هشدار تروریستی خود را به وضعیت «شدید» ارتقا داده است که نشان‌دهنده احتمال بالای وقوع حملات و نگرانی فزاینده از فعالیت‌های تحت حمایت دولت‌های خارجی است.
+
+اگرچه جمهوری اسلامی بارها هرگونه دخالت در توطئه‌ها یا حملات در خاک بریتانیا را تکذیب کرده است، اما لندن تاکید دارد این بسته تحریمی پیامی قاطع برای مقابله با هرگونه اقدام تهدیدآمیز علیه ثبات این کشور است.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239530
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239530_1778510002.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ستاد فرماندهی مرکزی آمریکا، سنتکام، اعلام کرد نیروهای آمریکایی تاکنون ۶۲ کشتی تجاری را مجبور به تغییر مسیر کرده و چهار کشتی را برای اجرای محاصره از کار انداخته‌اند.
+
+سنتکام با انتشار تصویری از یکی از ناوشکن‌های آمریکا در ایکس نوشت: ناو «دیلبرت دی‌بلک» در حال نظارت بر آب‌های منطقه‌ای در دریای عرب است و در اجرای محاصره دریایی آمریکا علیه جمهوری اسلامی مشارکت دارد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341530
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341530_1778510003.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: "The risk of hantavirus to the general public remains very, very low."
+
+Admiral Brian Christine, MD — Assistant Secretary for Health sets the record straight on the risk of hantavirus to the public:
+
+"The Andes variant of this virus does not spread easily, and it requires prolonged, close contact with someone who is already symptomatic."
+
+"Even so, we have taken this situation very seriously from the very start."
+</div>
+
+## FoxNewsTwitter — post 341529
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341529_1778510005.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: Nebraska Governor Jim Pillen says he's "satisfied" with the state's containment strategy as Americans exposed to the hantavirus cruise ship outbreak arrive in his state, promising that security measures in Omaha remain airtight.
+
+"We are working diligently to ensure no one leaves this security in an unsecured way at an inappropriate time."
+
+"No one who poses a risk to public health is walking out the front door of the streets of Omaha or beyond."
+</div>
+
+## IranIntlTV — post 336662
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336662_1778510008.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ستاد فرماندهی مرکزی آمریکا، سنتکام، اعلام کرد نیروهای آمریکایی تاکنون ۶۲ کشتی تجاری را مجبور به تغییر مسیر کرده و چهار کشتی را برای اجرای محاصره از کار انداخته‌اند.
+
+سنتکام با انتشار تصویری از یکی از ناوشکن‌های آمریکا در ایکس نوشت: ناو «دیلبرت دی‌بلک» در حال نظارت بر آب‌های منطقه‌ای در دریای عرب است و در اجرای محاصره دریایی آمریکا علیه جمهوری اسلامی مشارکت دارد.
+https://iranintl.com/202605110754
+</div>
+
+## ManotoTV — post 105308
+
+<div align="center">
+  <img src="telegram/content/ManotoTV_105308_1778510009.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دولت بریتانیا روز دوشنبه ۱۲ فرد و نهاد مرتبط با جمهوری اسلامی را تحریم کرد و آن‌ها را به مشارکت در «فعالیت‌های خصمانه» متهم کرد.
+
+دولت بریتانیا اعلام کرد این افراد و نهادها در طراحی حملات و ارائه خدمات مالی به گروه‌هایی نقش داشته‌اند که به‌دنبال بی‌ثبات‌سازی بریتانیا و کشورهای دیگر هستند.
+
+در میان افراد تحریم‌شده، اعضا و مرتبطان شبکه جنایی «زیندشتی» و همچنین چند صرافی و فعال مالی دیده می‌شوند.
+</div>
+
+## ManotoTV — post 105307
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105307_1778510009.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+همخوانی سرود ای ایران در گردهمایی ایرانیان سیدنی
+</div>
+
+## FarsiVOA — post 217443
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+در حالی که جام جهانی فوتبال ۲۰۲۶ از چند هفته دیگر در سه کشور آمریکا، مکزیک، و کانادا آغاز می‌شود، جمهوری اسلامی همچنان در تلاش است تا از فیفا تضمین‌های ویژه دریافت کند؛ از درخواست ورود بدون انگشت‌نگاری تا نگرانی درباره بازیکنان و مقام‌هایی که سابقه حضور در سپاه پاسداران دارند.
+</div>
+
+## DW_Farsi — post 124564
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶 استفاده روسیه از عوامل جرایم سازمان‌یافته برای خرابکاری
+
+وزارت کشور آلمان در پاسخی که هنوز منتشر نشده و در پاسخ به یک پرسش پارلمانی حزب سبزها تهیه شده، نوشته است: «همکاری نهادهای روسی با عوامل جرایم سازمان‌یافته، به‌ویژه برای فعالیت‌های اخلال‌گرانه‌ای مانند عملیات خرابکارانه یا قتل، گزینه‌ای مناسب به شمار می‌رود». مجله اشپیگل نوشته است که به این پاسخ پیشاپیش دسترسی داشته است.
+
+به گفته دولت آلمان، جرایم سازمان‌یافته روسی-اوراسیایی که باندهایی از کشورهای اتحاد جماهیر شوروی سابق را در بر می‌گیرد، به سختی می‌تواند از کنترل کرملین خارج شوند.
+@dw_farsi
+</div>
+
+## IranianMinds — post 19942
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴رویترز:
+
+انگلیس تحریم‌های تازه‌ای علیه ایران اعمال کرد.
+
+@IranianMinds
+</div>
+
+## BBCPersian — post 280769
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻کی‌یر استارمر، نخست‌وزیر بریتانیا، گفت که اشتباهات را می‌پذیرد و آماده است که ثابت کند کسانی که در رهبری او تردید دارند اشتباه می‌کنند. درحالی‌که فشارهای برای استعفای نخست‌وزیر به اوج رسیده است او گفت که برای چالش‌های بی‌سابقه‌ای که بریتانیا با آنها مواجه…
+</div>
+
+## BBCPersian — post 280768
+
+<div align="center">
+  <img src="telegram/content/BBCPersian_280768_1778510012.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻کی‌یر استارمر، نخست‌وزیر بریتانیا، گفت که اشتباهات را می‌پذیرد و آماده است که ثابت کند کسانی که در رهبری او تردید دارند اشتباه می‌کنند. درحالی‌که فشارهای برای استعفای نخست‌وزیر به اوج رسیده است او گفت که برای چالش‌های بی‌سابقه‌ای که بریتانیا با آنها مواجه است او بهترین گزینه است.
+
+او گفت: «البته، مانند هر دولتی ما هم اشتباهاتی داشته‌ایم. اما تصمیم‌های بزرگ سیاسی را درست گرفتیم. منظورم این است که اگر به توصیه سایر احزاب گوش داده بودیم، الان گرفتار بن‌بست ایران بودیم.»
+
+گمانه‌زنی‌ها درباره آینده سیاسی نخست‌وزیر بریتانیا از زمان انتخابات محلی پنجشنبه (۷ مه) شدت گرفته است؛ انتخاباتی که حزب کارگر، به رهبری کی‌یر استارمر، نزدیک به ۱۵۰۰ کرسی شوراهای محلی در انگلستان را از دست داد، در اسکاتلند هم عقب‌تر نشست، در ولز نیز پس از ۲۷ سال در صدر، به رتبه سوم سقوط کرد.
+
+این شکست سنگین انتخاباتی باعث شد تعدادی از نمایندگان حزب کارگر خواستار کناره‌گیری یا تعیین زمانی برای آن شوند.
+
+ادامه خبر را از لینک بایو در وبسایت بی‌بی‌سی فارسی بخوانید.
+
+📷 Reuters
+https://bbc.in/4nnIkOe
+@BBCPersian
+</div>
+
+## BBCPersian — post 280767
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻در حالی که قطعی اینترنت و خاموشی دیجیتال در ایران بنا بر گزارش نت‌بلاکس وارد هفتاد و سومین روز خود شده، حسین افشین، معاون علمی رئيس‌جمهور می‌گوید نظر دولت «بازگشت اینترنت به وضعیت عادی» است.
+
+به گفته آقای افشین، قطعی اینترنت همچنین موجب ضربه به حوزه علمی کشور می‌شود و موجب کاهش رتبه علمی ایران خواهد شد.
+
+او در مورد قطع اینترنت در شرایط جنگی هم می‌گوید: «نظر من این است که در شرایط جنگی هم بستن اینترنت نمی‌تواند راهکار باشد همچنان که ادامه ترورها در دوران قطعی کامل اینترنت نشان داد.»
+
+کارشناسان اقتصادی هم نسبت به خسارت مستقیم و غیرمستقیم قطع اینترنت بر کسب و کارها هشدار داده‌اند.
+
+مقام‌های جمهوری اسلامی ایران از ۹ اسفند (۲۸ فوریه) و همزمان با حملات اسرائیل و آمریکا، دسترسی به اینترنت بین‌الملل را قطع کردند. تماس‌ تلفنی با خارج از ایران هم با اختلال جدی رو‌به‌رو است.
+
+وزارت ارتباطات ایران پیش از این اعلام کرده که عادی‌سازی وضعیت اینترنت در صلاحیت نهادهای امنیتی است.
+
+https://bbc.in/4dBL8nu
+@BBCPersian
+</div>
+
+## manototv — post 105308
+
+<div align="center">
+  <img src="telegram/content/manototv_105308_1778510012.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دولت بریتانیا روز دوشنبه ۱۲ فرد و نهاد مرتبط با جمهوری اسلامی را تحریم کرد و آن‌ها را به مشارکت در «فعالیت‌های خصمانه» متهم کرد.
+
+دولت بریتانیا اعلام کرد این افراد و نهادها در طراحی حملات و ارائه خدمات مالی به گروه‌هایی نقش داشته‌اند که به‌دنبال بی‌ثبات‌سازی بریتانیا و کشورهای دیگر هستند.
+
+در میان افراد تحریم‌شده، اعضا و مرتبطان شبکه جنایی «زیندشتی» و همچنین چند صرافی و فعال مالی دیده می‌شوند.
+</div>
+
+## manototv — post 105307
+
+<div align="center">
+  <a href="telegram/content/manototv_105307_1778510013.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+همخوانی سرود ای ایران در گردهمایی ایرانیان سیدنی
+</div>
+
+## alonews — post 119302
+
+<div align="center">
+  <a href="telegram/content/alonews_119302_1778510015.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ در مورد ورود احتمالی بارون پسرش، به سیاست : شاید، اون مطمئناً فرد محبوبیه
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 17:53
 ---
 
