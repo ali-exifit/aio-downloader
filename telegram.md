@@ -7,6 +7,139 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 16:23
+---
+
+## VahidOOnLine — post 239519
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239519_1778503984.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+احمد دستمالچیان، سفیر سابق جمهوری اسلامی در اردن و لبنان، گفت: «اسرائیل زمام کنترل سیاست در امارات متحده عربی را در دست دارد و بازگشت آنها بسیار سخت است، ولی به نفع‌شان است که از سیاست دشمنی با مردم و ملت‌های منطقه برگردند. امارات می‌خواهد لقمه‌هایی بزرگتر از دهانش بردارد.»
+
+او ادامه داد: «در غیر این صورت می‌تواند برای امارات متحده عربی شرایط نامناسبی ایجاد کند.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239518
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239518_1778503985.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️محسن پاک‌نژاد، وزیر نفت جمهوری اسلامی ایران روز دوشنبه ۲۱ اردیبهشت با انتقاد شدید از پیش‌بینی‌های دولت دونالد ترامپ درباره انفجار و توقف دائمی استخراج از بعضی چاه‌‌ها در پی ادامه محاصره، پذیرفت که جنگ باعث بروز «چالش‌هایی» درصنعت نفت و گاز ایران شده است.
+به گزارش خبرگزاری صداوسیما پاک‌نژاد گفت: «در طول ۴۰ روز جنگ تولید ما کاهش نداشت و فرآیند صادرات هم به صورت مطلوب و به نحو مناسبی داشت انجام می‌شد. طبیعتا ما در طول روزهای بعد از محاصره با چالش‌هایی مواجه بودیم، تدابیری هم اتخاذ شده و کماکان روند ادامه دارد.»
+
+حدود دو هفته پیش محمد باقر قالیباف، رئیس مجلس شورای اسلامی اسکات بسنت، وزیر دارایی آمریکا را به‌دلیل پیش‌بینی از رده خارج شدن و انفجار در برخی چاه‌های نفت ایران، به ارائه اطلاعات غلط به ترامپ متهم کرده بود.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341519
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341519_1778503987.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+“Did he violate his oath... again?”
+
+Secretary of War Pete Hegseth goes after Sen. Mark Kelly, accusing the Arizona Democrat of discussing details from a classified Pentagon briefing after a TV appearance.
+
+Hegseth is now threatening a legal review of the senator's actions.
+</div>
+
+## IranIntlTV — post 336653
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336653_1778503987.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+احمد دستمالچیان، سفیر سابق جمهوری اسلامی در اردن و لبنان، گفت: «اسرائیل زمام کنترل سیاست در امارات متحده عربی را در دست دارد و بازگشت آنها بسیار سخت است، ولی به نفع‌شان است که از سیاست دشمنی با مردم و ملت‌های منطقه برگردند. امارات می‌خواهد لقمه‌هایی بزرگتر از دهانش بردارد.»
+
+او ادامه داد: «در غیر این صورت می‌تواند برای امارات متحده عربی شرایط نامناسبی ایجاد کند.»
+https://iranintl.com/202605117725
+</div>
+
+## Persian_Trend_Official — post 13912
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_13912_1778503988.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 گزارش سنتکام از تمرین‌های نظامی
+
+💢فرماندهی مرکزی ایالات متحده (سنتکام) اعلام کرده است تفنگداران دریایی آمریکا در عرشه ناو آبی‌خاکی «یو‌اس‌اس تریپولی» در حال انجام تمرین‌های فرود با بالگرد و سوار شدن به کشتی‌ها هستند.
+
+💢به گفته سنتکام، هدف از این تمرین‌ها حفظ آمادگی عملیاتی نیروهاست تا در صورت نیاز بتوانند عملیات بازرسی و توقف کشتی‌ها را انجام دهند.
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## BBCPersian — post 280759
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻دونالد ترامپ دو روز دیگر عازم چین می‌شود. این نخستین سفر یک رئیس‌جمهور آمریکا به چین از زمان سفر قبلی آقای ترامپ در سال ۲۰۱۷ است و انتظار می‌رود شامل بازدید از معبد آسمان در پکن و یک ضیافت رسمی مجلل باشد. کاخ سفید چند هفته پیش سفر ترامپ را اعلام کرده بود…
+</div>
+
+## Dirty_Kids — post 389261
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389261_1778503989.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+جفت کنین؛ عکسی از متن تورات، کتاب اشعیا، باب ۱۴، آیه ۱۸ تا ۲۱
+
+دقیقا داره زندگی خامنه ای رو شرح میده :|
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 119289
+
+<div align="center">
+  <a href="telegram/content/alonews_119289_1778503990.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزارت خارجه عربستان: وزیر خارجه عربستان تماس تلفنی از وزیر خارجه ایران دریافت کرد که در آن درباره میانجیگری پاکستان و گفتوگوها با آمریکا بحث شد. 
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119288
+
+<div align="center">
+  <a href="telegram/content/alonews_119288_1778503990.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈رویترز: اروپا بر سر تحریم‌های جدید علیه شهرک‌نشینان در کرانه باختری به توافق رسید
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119287
+
+<div align="center">
+  <a href="telegram/content/alonews_119287_1778503990.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزارت خارجه عربستان: وزیر خارجه عربستان تماس تلفنی از وزیر خارجه ایران دریافت کرد که در آن درباره میانجیگری پاکستان و گفتوگوها با آمریکا بحث شد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 16:12
 ---
 
