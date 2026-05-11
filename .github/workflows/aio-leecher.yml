@@ -5,11 +5,21 @@ on:
     inputs:
       url:
         description: >
-         If you want to use expert mode please read the README.md
+          Enter one or more URLs (newlines, commas, or spaces) with optional shortcuts or raw yt-dlp arguments.
+
           --- Shortcut mode ---
             Arguments: `v` (video) or `a` (audio) followed by quality:
               Video: `max` | `min` | height (e.g. 480, 720, 1080, 4k) [optional fps e.g. `1080 30`]
               Audio: `max` | `min` | bitrate in kbps (e.g. 128, 192, 320)
+            Examples:
+              https://www.youtube.com/watch?v=dfdXGw1xY9A v 1080
+              https://soundcloud.com/artist/track a 320
+
+          --- Raw yt-dlp mode ---
+            Use `--` after the URL, then any official yt-dlp options.
+            Examples:
+              https://example.com/video -- --format bestvideo[height<=1080]+bestaudio --write-subs
+              https://www.youtube.com/watch?v=dQw4w9WgXcQ -- --format "best[height<=720]" --sub-lang en
         required: true
       zip_together:
         description: 'Zip all downloads into one archive? (If disabled, each file is zipped individually)'
@@ -96,16 +106,15 @@ jobs:
             curl -fsSL https://deno.land/install.sh | sh -s -- -y
           fi
 
-      # ── Process all downloads, remux (video), and ZIP ─────
-      - name: Download, remux, and ZIP all files
+      # ── Download and remux (no ZIP) ─────────────────────
+      - name: Download and remux all files
         run: |
           set -e
           ENTRIES_JSON='${{ steps.parse_entries.outputs.ENTRIES_JSON }}'
           BASE_YT_DLP_ARGS="--js-runtimes deno --remote-components ejs:npm"
-          ZIP_TOGETHER='${{ github.event.inputs.zip_together }}'
-          mkdir -p leecher-content leecher
+          mkdir -p leecher-content
 
-          # ── Helper: progress display ──────────────────────
+          # Helper: progress display
           download_with_progress() {
             local yt_args="$1"
             local output_template="$2"
@@ -138,7 +147,7 @@ jobs:
             fi
           }
 
-          # ── Reusable audio download (also used as fallback) ──
+          # Reusable audio download
           download_audio() {
             local link="$1"
             local video_json="$2"
@@ -171,7 +180,7 @@ jobs:
             download_with_progress "-f $format_id" "$output_template" "$total_size" "$link"
           }
 
-          # ── Main loop ──────────────────────────────────────
+          # Main loop
           count=$(echo "$ENTRIES_JSON" | jq length)
           for ((idx=0; idx<count; idx++)); do
             entry=$(echo "$ENTRIES_JSON" | jq ".[$idx]")
@@ -183,7 +192,6 @@ jobs:
             echo "Processing entry $((idx+1))/$count: $link"
 
             if [ "$raw" = "true" ]; then
-              # ── Raw yt-dlp mode ───────────────────────────
               readarray -t raw_args < <(echo "$entry" | jq -r '.args[]')
               echo "→ Running raw yt-dlp command with: ${raw_args[*]}"
               output_template="leecher-content/%(title)s.%(ext)s"
@@ -192,7 +200,6 @@ jobs:
                 continue
               }
             else
-              # ── Shortcut mode (v / a) ─────────────────────
               type="v"
               val1="max"
               val2=""
@@ -225,7 +232,6 @@ jobs:
               }
 
               if [ "$type" = "v" ]; then
-                # ── Video branch ────────────────────────────
                 combined=$(echo "$video_json" | jq '[.formats[] | select(.vcodec != "none" and .acodec != "none")]')
                 if [ "$(echo "$combined" | jq length)" -eq 0 ]; then
                   echo "→ No combined video+audio formats. Falling back to audio (max)."
@@ -237,7 +243,6 @@ jobs:
                   continue
                 fi
 
-                # Normal video selection (unchanged) ─────────
                 case "$val1" in
                   max)
                     format_id=$(echo "$combined" | jq -r 'max_by(.height, .fps) | .format_id') ;;
@@ -286,7 +291,6 @@ jobs:
                 cd ..
 
               elif [ "$type" = "a" ]; then
-                # ── Audio branch (uses the same function) ────
                 download_audio "$link" "$video_json" "$val1" || {
                   echo "Audio download failed, skipping."
                   continue
@@ -295,37 +299,45 @@ jobs:
             fi
           done
 
-          # ── ZIP everything ─────────────────────────────────
-          echo "========================================"
-          echo "Creating ZIP archive(s)..."
+          echo "=== Download & remux completed ==="
+
+      # ── ZIP archives (separate step, no hang) ────────────
+      - name: Create ZIP archives
+        run: |
+          set -e
+          ZIP_TOGETHER='${{ github.event.inputs.zip_together }}'
+          mkdir -p leecher
 
           # Generate a 5‑letter random string (only letters)
           RANDOM_STR=$(cat /dev/urandom | tr -dc 'a-zA-Z' | fold -w 5 | head -n 1)
 
+          echo "========================================"
+          echo "Creating ZIP archive(s)..."
+
+          cd leecher-content
+
+          # If no files, exit gracefully
+          if [ -z "$(ls -A . 2>/dev/null)" ]; then
+            echo "No files to zip (leecher-content is empty)."
+            exit 0
+          fi
+
           if [ "$ZIP_TOGETHER" = "true" ]; then
-            # Bundle all files into one ZIP
-            if [ -n "$(ls -A leecher-content 2>/dev/null)" ]; then
-              echo "→ Bundling all files into leeched-${RANDOM_STR}.zip"
-              cd leecher-content
-              # Use find + xargs for robust file listing (avoids hanging)
-              find . -maxdepth 1 -type f -print0 | xargs -0 zip -j "../leecher/leeched-${RANDOM_STR}.zip"
-              cd ..
-            else
-              echo "No files to zip (leecher-content is empty)."
-            fi
+            echo "→ Bundling all files into leeched-${RANDOM_STR}.zip"
+            # Build a list of files separated by null bytes, feed to zip
+            find . -maxdepth 1 -type f -print0 | xargs -0 zip -j "../leecher/leeched-${RANDOM_STR}.zip"
           else
-            # Individual ZIP per file (original behaviour)
-            cd leecher-content
+            # Individual ZIP per file (with splits for large files)
             for file in *; do
               if [ -f "$file" ]; then
                 echo "→ Zipping $file"
                 zip -j -s 99m "../leecher/${file}.zip" "$file"
               fi
             done
-            cd ..
           fi
 
           echo "ZIP creation finished."
+          cd ..
 
       # ── Upload all ZIP parts ───────────────────────────────
       - name: Upload to leecher folder
