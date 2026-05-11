@@ -7,6 +7,150 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 18:43
+---
+
+## mwarmonitor — post 8901
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚪️ (رویترز) - JPMorgan Chase انتظار دارد قیمت نفت برنت در بیشتر سال ۲۰۲۶ در محدوده پایین ۱۰۰ دلار باقی بماند، حتی اگر تنگه هرمز در ماه ژوئن دوباره باز شود، زیرا کاهش سریع ذخایر و گلوگاه‌های لجستیکی باعث می‌شود بازار نفت همچنان محدود و تحت فشار باقی بماند، این بانک در یک یادداشت اعلام کرد.
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 8900
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔵شبکه CBS به نقل از ترامپ:
+می‌خواهم مالیات فدرال ۱۸ سنتی روی بنزین را برای مدتی به حالت تعلیق درآورم.
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 8899
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ به فاکس‌نیوز: در حال بررسی ازسرگیری «پروژه آزادی» هستم، اما با دامنه‌ای گسترده‌تر که صرفاً به اسکورت کشتی‌ها از طریق تنگه هرمز محدود نباشد. @mwarmonitor
+</div>
+
+## mwarmonitor — post 8898
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 آسوشیتدپرس به نقل از یک منبع دیپلماتیک:
+
+🔹اسلام‌آباد در تلاش است تا یک تفاهم‌نامه برای پایان جنگ تنظیم کند و مسیر گفت‌وگوی گسترده‌تری میان واشنگتن و تهران را باز کند.
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341535
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341535_1778512410.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH LIVE: Trump highlights new maternal healthcare initiatives at the White House https://twitter.com/i/broadcasts/1wxWjadDZwwJQ
+</div>
+
+## FoxNewsTwitter — post 341534
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341534_1778512411.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+REPORTER: "Can you guarantee that no American will catch this virus from the passengers who returned to the United States?"
+
+DR BRENDAN JACKSON: "Our top priority across all levels of government here and partners is the health and safety of the of the passengers and their communities."
+
+REPORTER: "So there's – you can guarantee no American will catch this virus from these returning passengers?"
+
+DR BRENDAN JACKSON: "There are no guarantees in life."
+</div>
+
+## FoxNewsTwitter — post 341533
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341533_1778512413.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: The New York City man accused of murdering a 76-year-old teacher by shoving him down the steps of a subway station was released from a psych ward just hours before the deadly attack.
+
+@AlexisMcAdamsTV reports the latest.
+</div>
+
+## pm_afshaa — post 90555
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90555_1778512416.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ به فاکس نیوز:
+در حال بررسی از سرگیری پروژه آزادی هستم، اما در مقیاسی وسیع تر که فقط به اسکورت کشتی‌ها از طریق تنگه هرمز محدود نمیشه.
+
+آنها تسلیم خواهند شد؛ من با آنها معامله خواهم کرد تا زمانی که به توافق برسن.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## BBCPersian — post 280771
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🖋جیوان نروان
+بی‌بی‌سی، لندن
+
+کسب‌وکارهای فعال در لندن می‌گویند قیمت زعفران به دلیل جنگ ایران به شدت افزایش یافته است. زعفران یکی از گران‌ترین ادویه‌های جهان است و حدود ۹۰ درصد از ذخیره جهانی آن در ایران تولید می‌شود.
+
+در پی بسته شدن تنگه هرمز، عرضه زعفران کاهش یافته و این محدودیت شامل برخی اقلام اساسی دیگر مانند نخود و زرشک نیز شده است؛ موادی که در بسیاری از غذاهای ایرانی و خاورمیانه‌ای کاربرد گسترده‌ای دارند.
+
+دیلمان محمود، صاحب رستوران ایرانی صدف در غرب لندن، به بی‌بی‌سی عربی گفت با وجود فشارهای اقتصادی تلاش کرده قیمت‌ها را برای مشتریان ثابت نگه دارد. در همین حال، معین طیاری، تامین‌کننده زعفران، می‌گوید برای خرید عمده این ادویه با مشکل روبه‌رو شده است.
+
+آقای محمود گفت: «هر غذایی که در آشپزخانه همراه برنج سرو می‌شود، روی آن یک لایه زعفران دارد.»
+
+
+
+آلبوم را ورق بزنید و ادامه مطلب را از لینک زیر در وبسایت بی‌بی‌سی فارسی بخوانید.
+
+📸GettyImages/ Reuters/ Anadolu via Getty Images/ Bloomberg via Getty Images/ NurPhoto via Getty Images
+https://bbc.in/4eFVzYg
+@BBCPersian
+</div>
+
+## alonews — post 119308
+
+<div align="center">
+  <a href="telegram/content/alonews_119308_1778512417.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈آسوشیتدپرس: پاکستان هنوز در تلاش برای مذاکره برای رسیدن به توافق است
+
+
+🔴دو دیپلمات منطقه‌ای که با مذاکرات جاری آشنا هستند، گفتند که پاکستان به تلاش‌های خود برای میانجیگری و رسیدن به سازش ادامه می‌دهد.
+
+
+🔴یکی از دیپلمات‌ها گفت پاکستان در تلاش است تا یادداشت تفاهمی را با هدف پایان دادن به جنگ و هموار کردن راه برای گفتگوی گسترده‌تر در مورد مسائلی که دو طرف همچنان در مورد آنها اختلاف نظر دارند، تنظیم کند.
+
+
+🔴این دیپلمات گفت پاکستان امیدوار بود که هفته گذشته به نهایی شدن این تفاهم‌نامه کمک کند، اما این تلاش محقق نشد و میانجی‌ها هنوز روی پیشنهادهای مختلف کار می‌کنند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 18:33
 ---
 
@@ -340,8 +484,6 @@ ge21
 
 ✅ @AloNews خبر جنگ
 </div>
-
-
 <!-- MSG END -->
 
 <!-- NAV START -->
