@@ -7,6 +7,287 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 17:53
+---
+
+## VahidOOnLine — post 239529
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239529_1778509389.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ سفیر جمهوری اسلامی در چین:
+تهران از ابتکار چهار ماده‌ای پکن برای امنیت خلیج‌فارس حمایت می‌کند
+
+♦️عبدالرضا رحمانی فضلی، سفیر و نماینده ویژه رئیس‌جمهوری اسلامی در چین، اعلام کرد جمهوری اسلامی ایران از طرح چهار ماده‌ای شی جین‌پینگ، رئیس‌جمهور چین، برای برقراری «امنیت پایدار و توسعه مشترک» در منطقه خلیج‌فارس حمایت می‌کند.
+
+رحمانی فضلی در پیامی در شبکه اجتماعی اکس نوشت این موضوع در دیدار وزیران امور خارجه ایران و چین نیز مورد تاکید قرار گرفته و تهران آمادگی خود را برای همکاری در چارچوب این ابتکار اعلام کرده است.
+
+بر اساس گزارش خبرگزاری رسمی چین، طرح پیشنهادی پکن بر چهار اصل اصلی استوار است؛ «پایبندی به اصل همزیستی مسالمت‌آمیز»، «احترام به حاکمیت ملی کشورها»، «پایبندی به حاکمیت قانون در سطح بین‌الملل» و همچنین «هماهنگی میان توسعه و امنیت».
+
+چین در سال‌های اخیر تلاش کرده نقش پررنگ‌تری در تحولات سیاسی و امنیتی خاورمیانه ایفا کند و همزمان روابط اقتصادی و راهبردی خود با کشورهای منطقه را گسترش دهد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341528
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341528_1778509390.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: CENTCOM reveals U.S. forces have now redirected 62 commercial ships and disabled 4 vessels while enforcing compliance of America's Middle East naval blockade as tensions continue to build in the region.
+</div>
+
+## FoxNewsTwitter — post 341527
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH LIVE: Health officials give update on American passengers returning to US after hantavirus outbreak on cruise ship https://twitter.com/i/broadcasts/1DxleEQrnngKL
+</div>
+
+## FoxNewsTwitter — post 341526
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341526_1778509391.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH: Heart-stopping bodycam footage shows NYPD officers rescuing a sobbing woman dangling off the edge of a Brooklyn high-rise.
+
+At one point, an officer carefully inches toward the woman telling her “We care about you. We don’t want to see you hurt yourself.”
+
+Emergency Services Unit officers later climbed over the ledge, sat beside her high above the street, and eventually pulled her back to safety.
+</div>
+
+## IranIntlTV — post 336661
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336661_1778509392.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+محمدعلی عزیز جعفری که از سال ۱۳۸۶ تا ۱۳۹۸ فرمانده کل سپاه پاسداران بود، بر پنج شرط جمهوری اسلامی برای مذاکره با آمریکا تاکید کرد.
+
+مرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال، درباره پیشینه و جایگاه عزیز جعفری، اهمیت اظهارنظر او و نیز شرط‌های تهران برای مذاکره با واشینگتن توضیح می‌دهد.
+
+@iranintltv
+</div>
+
+## IranIntlTV — post 336660
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336660_1778509394.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رسانه‌های اسرائیلی خبر دادند، بنیامین نتانیاهو، نخست‌وزیر این کشور، دوشنبه ۲۱ اردیبهشت نشست امنیتی برگزار می‌کند. همزمان دونالد ترامپ از گفت‌وگوی تلفنی با بنیامین نتایاهو خبر داد.
+
+گفت‌وگو با سمیرا قرایی، خبرنگار ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## IranIntlTV — post 336659
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336659_1778509397.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بیش از ۷۳ روز است که میلیون‌ها نفر در ایران با قطع اینترنت مواجه هستند. به گفته بسیاری از شهروندان، این وضعیت زندگی، کار، درمان و آرامش روانی آن‌ها را مختل کرده است.
+
+گفت‌وگو با سحر تحویلی، کارشناس ارشد هوش مصنوعی و فناوری
+@iranintltv
+</div>
+
+## FarsiVOA — post 217442
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تورج اتابکی، پژوهشگر تاریخ اجتماعی ایران می‌گوید در انقلاب ۵۷، حتی اهل قلم و منورالفکرها دنبال خمینی افتادند به این دلیل که فرصت مشق سیاسی به آنها داده نشده بود تا ببینند اهل عمامه گزینه‌ای برای حل مشکلات ایران نیستند
+</div>
+
+## FarsiVOA — post 217441
+
+<div align="center">
+  <img src="telegram/content/FarsiVOA_217441_1778509399.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فرماندهی مرکزی ایالات متحده، سنتکام، اعلام کرد ناوشکن «یو‌اس‌اس دلبرت دی. بلک» در حال عبور از دریای عرب بر اجرای محاصره دریایی علیه جمهوری اسلامی ایران نظارت می‌کند.
+
+سنتکام همچنین گفت نیروهای آمریکایی تاکنون مسیر ۶۲ کشتی تجاری را تغییر داده و چهار شناور را برای اطمینان از اجرای این اقدامات از کار انداخته‌اند.
+
+این گزارش در حالی منتشر می‌شود که تنش‌ها میان واشنگتن و تهران ادامه دارد.
+
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 13921
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_13921_1778509399.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ارتقای یک تیپ نظامی در آمریکا
+
+💢گزارش‌ها حاکی از آن است که تیپ رزمی سیار ۱۱۶ از گارد ملی ارتش ویرجینیا در آمریکا، به عنوان نخستین یگان، به پهپادها و سامانه‌های جنگ الکترونیک مجهز شده است.
+
+📌 این اقدام در راستای مدرن‌سازی نیروهای زمینی و افزایش توان شناسایی، رصد و جنگ الکترونیک انجام شده است؛ روندی که ارتش آمریکا در سال‌های اخیر به‌طور گسترده دنبال می‌کند.
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## RadioFarda — post 157060
+
+<div align="center">
+  <img src="telegram/content/RadioFarda_157060_1778509400.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸دولت بریتانیا روز دوشنبه، ۲۱ اردیبهشت، ۱۲ فرد حقیقی و حقوقی مرتبط با حکومت ایران را تحریم کرد.
+
+🔸به گزارش خبرگزاری رویترز، این افراد به «مشارکت در اعمال خصمانه» علیه بریتانیا و چند کشور دیگر متهم شده‌اند.
+
+🔸در بیانیه رسمی دولت بریتانیا، از جمله این اعمال خصمانه به «طراحی حمله و ارائه خدمات مالی به گروه‌هایی که در پی بی‌ثبات کردن بریتانیا و دیگر کشورها هستند» اشاره شده است.
+
+🔸این اقدام تحریمی تازه از طرف دولت بریتانیا شامل مسدود کردن اموال و حساب‌های این افراد و منع سفر آنها به این کشور است.
+
+🔸در ماه‌های گذشته گمانه‌زنی‌هایی درباره احتمال پشتیبانی تهران از حمله‌های یهودستیزانه در بریتانیا مطرح شده است.
+
+🔸همزمان یک گروه اسلام‌گرای مشکوک به ارتباط با ایران، موسوم به «حرکه اصحاب الیمین الاسلامیه»، به معنای «جنبش اسلامی یاران دست راست»، مسئولیت این حملات و حملاتی مشابه در چند کشور اروپایی را بر عهده گرفته است.
+
+@RadioFarda
+</div>
+
+## BBCPersian — post 280766
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻رئيس اقامتگاه‌های بومگردی: قطع اینترنت به‌شدت بر خدمات گردشگری تاثیر گذاشته است
+
+رئیس جامعه اقامتگاه‌های بومگردی ایران گفت که «چهار هزار اقامتگاه بومگردی» در روستاها، مناطق مرزی و دورافتاده ایران با خطر تعطیلی کامل روبرو هستند.
+
+یاور عبیری با اشاره به حذف سفر از سبد خانوار گفت که صنعت گردشگری در آستانه نابودی است.
+
+او گفت این اقامتگاه‌های بومگردی در دوران جنگ رایگان در اختیار مردم قرار گرفت اما در حال حاضر دولت،‌ بانک‌ها ونهادهای مسئول حمایتی نمی‌کنند.
+
+به گفته آقای عبیری محدودیت و قطع اینترنت به‌شدت خدمات گردشگری در اقامتگاه‌های بومگردی را تحت تاثیر قرار داده است.
+
+https://bbc.in/48PrMbR
+@BBCPersian
+</div>
+
+## Dirty_Kids — post 389265
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389265_1778509401.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+این ویدئوی لگویی واقعاً عالی درست شده
+قشنگ میرینه به پروپاگاندای جمهوری اسلامی
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389264
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+روزنامه اطلاعات:
+
+دولت به خاطر تحریم ها و محاصره دریایی به محدودیت خورده و از مردم میخوایم که در مصرف اب و برق و سوخت و غذا و نان و برنج و هرچیزی که فکرمیکنید صرفه جویی کنید.
+
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389263
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389263_1778509403.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+انقد کسشرای ناشتا نگید، میان با رسم شکل میرینن بهتون خب
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389262
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یذره کراتینم ریخت رو کابینت کابینتو لیس زدم، اقتصاد مقاومتی
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## Hranews — post 112883
+
+<div align="center">
+  <img src="telegram/content/Hranews_112883_1778509403.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+عنقا سیاوشی، شهروند بهائی آزاد شد
+ 
+
+❗️
+❗️
+❗️
+❗️
+❗️ – امروز دوشنبه ۲۱ اردیبهشت ماه، عنقا سیاوشی، شهروند #بهائی ساکن شیراز با تودیع وثیقه از زندان عادل آباد این شهر آزاد شد.
+ 
+به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، عنقا سیاوشی، شهروند بهائی آزاد شد.
+ 
+بر اساس اطلاعات دریافتی هرانا، آزادی عنقا سیاوشی امروز دوشنبه ۲۱ اردیبهشت ماه با تودیع وثیقه و از زندان عادل آباد شیراز صورت گرفته است.
+ 
+ادامه مطلب
+ 
+#عنقا_سیاوشی
+ 
+↘️
+@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑
+</div>
+
+## alonews — post 119301
+
+<div align="center">
+  <a href="telegram/content/alonews_119301_1778509404.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈کول آلن، مرد ۳۱ ساله‌ای که متهم شده ماه گذشته در مراسم «شام خبرنگاران کاخ سفید» قصد ترور دونالد ترامپ را داشته، امروز در دادگاه اعلام کرده که همه اتهامات را قبول ندارد (بی‌گناه است).
+
+
+🔴گفته شده خود او در دادگاه صحبت نکرد و وکیلش به جای او این پاسخ را ثبت کرده است.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119300
+
+<div align="center">
+  <a href="telegram/content/alonews_119300_1778509404.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈سرلشکر جعفری:
+تا وقتی 5 شرط ما یعنی جنگ تو همه جبهه‌ها تموم نشه، تحریم‌ها برداشته نشه، پول‌های بلوکه‌شده آزاد نشه، خسارت‌های ناشی از جنگ جبران نشه و حق حاکمیت جمهوری اسلامی بر تنگه هرمز به رسمیت شناخته نشه، هیچ مذاکره دیگه‌ای در کار نیست.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 17:32
 ---
 
