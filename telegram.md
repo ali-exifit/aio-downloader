@@ -7,6 +7,507 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 00:04
+---
+
+## VahidOOnLine — post 239791
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239791_1778618068.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️به گزارش رسانه‌های داخلی، زلزله‌ای به بزرگی ۳.۴، سه‌شنبه‌شب، ۲۲ اردیبهشت‌ماه، پردیس در شرق تهران را لرزاند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239790
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239790_1778618069.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌
+خبرگزاری‌های داخل ایران گزارش دادند دقایقی پیش زلزله تهران و کرج را لرزاند. به گزارش این خبرگزاری‌ها سمت شرق تهران زمین‌لرزه بسیار شدیدتر بوده است.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239789
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239789_1778618069.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سعید سیاه‌سرانی، دبیر ستاد راهیان نور دریایی، گفت: «بدون اراده جمهوری اسلامی اجازه عبور حتی یک لیتر نفت از تنگه هرمز داده نمی‌شود.»
+
+او افزود: «تنگه هرمز جزو خاک ما است، شناورهایی که رد می‌شوند باید اجازه بگیرند و به زبان فارسی صحبت کنند و از نقاطی که ما تعیین می‌کنیم عبور کنند.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 9002
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_9002_1778618070.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+«وقتی «اخبار جعلی» (Fake News) می‌گویند که دشمن ایرانی از نظر نظامی در برابر ما خوب عمل می‌کند، این عملاً به مثابه خیانت است، زیرا چنین اظهارنظری کذب و حتی مضحک است. آن‌ها در حال کمک و یاری رساندن به دشمن هستند!
+تمام کاری که این کار انجام می‌دهد، دادن امید واهی به ایران است، در حالی که هیچ امیدی نباید وجود داشته باشد. این‌ها ترسوهای آمریکایی هستند که علیه کشورمان فعالیت می‌کنند. ایران ۱۵۹ کشتی در نیروی دریایی خود داشت — اکنون تک‌تک آن کشتی‌ها در کف دریا آرام گرفته‌اند. آن‌ها دیگر نیروی دریایی ندارند، نیروی هوایی‌شان از بین رفته، تمام تکنولوژی‌شان نابود شده، «رهبرانشان» دیگر در میان ما نیستند و این کشور یک فاجعه اقتصادی است.
+فقط بازنده‌ها، ناسپاس‌ها و احمق‌ها می‌توانند علیه آمریکا استدلال کنند!
+
+رئیس‌جمهور دونالد جی. ترامپ»
+
+@mwarmonitor
+</div>
+
+## farsi_fox_news — post 89270
+
+<div align="center">
+  <img src="telegram/content/farsi_fox_news_89270_1778618071.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانون زلزله‌ای که در تهران احساس شد، شهر پردیس بود؛ زلزله‌ای ۳.۴ ریشتری در عمق ۸ کیلومتری زمین
+🌐 @farsi_fox_news
+</div>
+
+## FoxNewsTwitter — post 341617
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341617_1778618072.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+RT @TheStoryFNC: EXCLUSIVE: @SecMullinDHS says China can’t ’outmaneuver’ President Trump like it did President Biden ahead of high-stakes summit
+</div>
+
+## pm_afshaa — post 90654
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90654_1778618075.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴مرکز لرزه‌نگاری:
+لحظاتی پیش زلزلهٔ 4.6 ریشتری مرز استان‌های تهران و مازندران رو لرزوند.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90653
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+میگید زلزله کجا بود یا تست اتم رو دوباره بیاریم وسط
+</div>
+
+## pm_afshaa — post 90651
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+زلزله ۳.۴ ریشتر پردیس که چنلا دارن میزنن واسه ساعت ۸/۹ شب بود واسه الان نیست
+</div>
+
+## DEJradio — post 4596
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4596_1778618075.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨
+⭕️ دقایقی پیش زلزله، تهران وکرج را لرزاند.
+بر اساس گزارش‌های منتشر شده زلزله‌ای باقدرت ۳/۴ دهم ریشتر دقایقی پیش شهر پردیس را لرزاند و منجر به قطعی برق در برخی مناطق شد.
+
+#فوری #زلزله
+@DEJradio
+</div>
+
+## mamlekate — post 103517
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📝 سلام ساعت ۲۳:۴۵ چیتگر لرزید
+
+
+📝 ۲۲ اردیبهشت - ۲۳:۴۸ - غرب تهران یه چیزی مثل زلزله حس کردیم.
+
+
+📝 سلام لرزش عجیب و بی صدای تهران شرق و جنوب شرق ساعت ۱۱:۴۶
+
+
+📝 ستارخان تهران رو تخت خوابیده بودم قشنگ زیرم تکون خورد و لرزید بعد هم سبد وسیله ها تکون خورد و لوسترها ،کامل لرزیدم فکر کردم سرگیجه گرفتم ولی زلزله بود طول کشید چند ثانیه
+</div>
+
+## VahidOnline — post 75436
+
+<div align="center">
+  <img src="telegram/content/VahidOnline_75436_1778618076.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پست ترامپ، ترجمه ماشین:
+وقتی «رسانه‌های جعلی» می‌گویند دشمن ایرانی از نظر نظامی در برابر ما عملکرد خوبی دارد، این عملاً خیانت است؛ چون چنین ادعایی کاملاً دروغ و حتی مضحک است. آن‌ها به دشمن کمک و از او حمایت می‌کنند! تنها نتیجه‌اش این است که به ایران امیدی واهی می‌دهد؛ در حالی که اصلاً نباید چنین امیدی وجود داشته باشد. این‌ها بزدل‌های آمریکایی هستند که علیه کشور خودمان طرف می‌گیرند.
+
+ایران ۱۵۹ کشتی در نیروی دریایی خود داشت؛ تک‌تک آن کشتی‌ها اکنون در کف دریا آرمیده‌اند. آن‌ها دیگر نیروی دریایی ندارند، نیروی هوایی‌شان از بین رفته، تمام فناوری‌شان نابود شده، «رهبران»شان دیگر در میان ما نیستند، و کشورشان یک فاجعه اقتصادی است.
+
+فقط بازنده‌ها، ناسپاس‌ها و احمق‌ها می‌توانند علیه آمریکا استدلالی مطرح کنند!
+
+رئیس‌جمهور دونالد جی. ترامپ
+realDonaldTrump
+
+
+📡 @VahidOnline
+</div>
+
+## IranIntlTV — post 336883
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336883_1778618076.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رسانه‌های ایران از وقوع زمین‌لرزه به بزرگی ۴.۶ در مرز استان‌های تهران و مازندران خبر دادند.
+
+خبرگزاری فارس همچنین از زمین‌لرزه در کرج خبر داد.
+
+همزمان خبرگزاری دولتی ایرنا گزارش داد زمین‌لرزه در تهران حدود ۱۰ ثانیه طول کشیده است.
+https://iranintl.com/202605123583
+</div>
+
+## IranIntlTV — post 336882
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336882_1778618077.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سعید سیاه‌سرانی، دبیر ستاد راهیان نور دریایی، گفت: «بدون اراده جمهوری اسلامی اجازه عبور حتی یک لیتر نفت از تنگه هرمز داده نمی‌شود.»
+
+او افزود: «تنگه هرمز جزو خاک ما است، شناورهایی که رد می‌شوند باید اجازه بگیرند و به زبان فارسی صحبت کنند و از نقاطی که ما تعیین می‌کنیم عبور کنند.»
+https://iranintl.com/202605123958
+</div>
+
+## IranIntlTV — post 336881
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336881_1778618078.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خبرگزاری رویترز به نقل از دو مقام غربی گزارش داد که عربستان سعودی در جریان جنگ اخیر در خاورمیانه، در واکنش به حملاتی که در خاک این کشور انجام شده بود، چند حمله هوایی اعلام‌نشده علیه مواضعی در ایران انجام داده است.
+
+گفت‌وگو با شهرام خلدی، پژوهشگر تاریخ خاورمیانه و روابط بین‌الملل
+
+@iranintltv
+</div>
+
+## Shin_Persian — post 5979
+
+<div align="center">
+  <img src="telegram/content/Shin_Persian_5979_1778618081.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn Tue, 12 May 2026 20:25:23 UTC President Trump @POTUS: "When the Fake News says that the Iranian enemy is doing well, Militarily, against us, it’s virtual TREASON in that it is such a false, and even preposterous, statement. They are…
+</div>
+
+## Shin_Persian — post 5978
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Tue, 12 May 2026 20:25:23 UTC
+
+President Trump @POTUS:
+"When the Fake News says that the Iranian enemy is doing well, Militarily, against us, it’s virtual TREASON in that it is such a false, and even preposterous, statement. They are aiding and abetting the enemy! All it does is give Iran false hope when none should exist. These are American cowards that are rooting against our Country. Iran had 159 ships in their Navy — Every single ship is now resting at the bottom of the sea. They have no Navy, their Air Force is gone, all Technology is gone, their “leaders” are no longer with us, and the Country is an Economic Disaster. Only Losers, Ingrates, and Fools are able to make a case against America! President DONALD J. TRUMP"
+
+فارسی
+
+رئیس‌جمهور ترامپ @POTUS:
+«وقتی اخبار جعلی می‌گویند که دشمن ایرانی از نظر نظامی در برابر ما خوب عمل می‌کند، این در واقع خیانتی مجازی است، چرا که چنین ادعایی کذب و حتی مضحک است. آن‌ها در حال کمک و یاری رساندن به دشمن هستند! تمام کاری که این حرف‌ها انجام می‌دهد، دادن امید واهی به ایران است، در حالی که هیچ امیدی نباید وجود داشته باشد. این‌ها بزدلانی آمریکایی هستند که علیه کشورمان ریشه دوانده‌اند. ایران ۱۵۹ کشتی در نیروی دریایی خود داشت — اکنون تک‌تک آن کشتی‌ها در کف دریا آرام گرفته‌اند. آن‌ها دیگر نیروی دریایی ندارند، نیروی هوایی‌شان از بین رفته، تمام تکنولوژی‌شان نابود شده، "رهبرانشان" دیگر در میان ما نیستند و آن کشور یک فاجعه اقتصادی است. فقط بازنده‌ها، ناسپاس‌ها و احمق‌ها می‌توانند علیه آمریکا استدلال کنند! رئیس‌جمهور دونالد جی. ترامپ»
+
+𝕏 · @shin_persian
+</div>
+
+## ManotoTV — post 105377
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105377_1778618082.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌
+خبرگزاری‌های داخل ایران گزارش دادند دقایقی پیش زلزله تهران و کرج را لرزاند. به گزارش این خبرگزاری‌ها سمت شرق تهران زمین‌لرزه بسیار شدیدتر بوده است.
+</div>
+
+## FarsiVOA — post 217576
+
+<div align="center">
+  <img src="telegram/content/FarsiVOA_217576_1778618082.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️رسانه‌های داخلی و منابع مردمی شامگاه سه‌شنبه ۲۲ اردیبهشت از وقوع زمین‌لرزه در تهران و کرج خبر دادند.
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 14010
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴زلزله در تهران احساس شد 🫆:Tony 📌 @persian_trend_official پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 20043
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ هم‌ تو‌ راه چین نشسته یه متن بالا بلند نوشته و دوباره گفته فیک‌ نیوزا شعر میگن ما ارتش ایران و رهبریشو‌ از بین بردیم
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20042
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 مرکز لرزه نگاری :
+
+زلزله ۴.۶ ریشتری مرز استان های تهران و مازندران را لرزاند.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20041
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یادش بخیر جنگ ۱۲ روزه هر زلزله ای میومد میگفتن تموم شد تست بمب اتم‌ بود
+</div>
+
+## BBCPersian — post 280881
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻اورژانس تهران اعلام کرده در پی طوفان و باد شدید در تهران تاکنون ۱۱ حادثه به این سازمان امدادی گزارش شده است.
+
+خبرگزاری مهر به نقل از شروین تبریزی، سخنگوی اورژانس تهران نوشته تاکنون ۷ مصدوم که ۵ نفر آنها سرپایی درمان شده‌اند، در ماموریت‌های امدادگران ثبت شده‌اند اما ممکن است آمار مصدومان بیشتر شود.
+
+در همین حال، خبرگزاری ایرنا از وقوع یک زلزله خفیف به قدرت ۳/۴ در حوالی شهر پردیس - شرق تهران - گزارش داده و نوشته است ساکنان شهرهای بومهن و رودهن لرزه‌های آن را حس کرده‌اند و برق شهر دماوند هم قطع شده است.
+
+قطعی برق در برخی از مناطق تهران هم گزارش شده اما علت آن وزش تندباد با سرعتی بالای ۵۵ کیلومتر در ساعت گزارش شده است که موجب شکستن درختان در نقاطی هم شده است.
+@BBCPersian
+</div>
+
+## Dirty_Kids — post 389342
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+الان باید تن‌ماهی بخریم یا بنزین بزنیم؟
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389341
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389341_1778618083.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 زلزله تهران به مرکز پردیس، 3.4 ریشتر بود.
+
+
+@Dirty_Kids 👻
+</div>
+
+## manototv — post 105377
+
+<div align="center">
+  <a href="telegram/content/manototv_105377_1778618083.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌
+خبرگزاری‌های داخل ایران گزارش دادند دقایقی پیش زلزله تهران و کرج را لرزاند. به گزارش این خبرگزاری‌ها سمت شرق تهران زمین‌لرزه بسیار شدیدتر بوده است.
+</div>
+
+## alonews — post 119613
+
+<div align="center">
+  <a href="telegram/content/alonews_119613_1778618084.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈مردم تهران امشب هوشیار بخوابن
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119612
+
+<div align="center">
+  <a href="telegram/content/alonews_119612_1778618084.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ از طریق Truth Social: وقتی اخبار جعلی می‌گویند که دشمن ایرانی در مقابل ما از نظر نظامی خوب عمل می‌کند، این عملاً خیانت است چون چنین بیانی کاملاً نادرست و حتی مضحک است. آنها به دشمن کمک و یاری می‌رسانند! این فقط به ایران امید کاذب می‌دهد در حالی که نباید هیچ امیدی وجود داشته باشد.
+
+
+🔴این‌ها ترسوهای آمریکایی هستند که علیه کشور ما ریشه دوانده‌اند. ایران ۱۵۹ کشتی در نیروی دریایی خود داشت — هر کشتی اکنون در کف دریا استراحت می‌کند. آنها نیروی دریایی ندارند، نیروی هوایی‌شان از بین رفته، تمام فناوری‌ها از دست رفته، «رهبران» آنها دیگر با ما نیستند و کشور یک فاجعه اقتصادی است.
+
+
+🔴فقط بازندگان، ناسپاسان و احمق‌ها قادر به ارائه استدلال علیه آمریکا هستند!
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119611
+
+<div align="center">
+  <a href="telegram/content/alonews_119611_1778618084.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈گزارش مقدماتی زمین‌لرزه
+
+
+🔴بزرگی: ۴.۶ ریشتر
+
+🔴محل وقوع: مرز استانهای تهران و مازندران  - حوالی پرديس
+
+🔴تاریخ و زمان وقوع به وقت محلی: 1405/02/22 23:46:07
+
+
+
+🔴عمق زمین‌لرزه: 10 کیلومتر
+
+
+🔴نزدیک‌ترین شهرها:
+
+🔴8 کیلومتری پرديس (تهران)
+
+🔴10 کیلومتری بومهن (تهران)
+
+🔴11 کیلومتری رودهن (تهران)
+    
+
+🔴نزدیکترین مراکز استان:
+
+🔴41 کیلومتری تهران
+
+🔴77 کیلومتری كرج
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119610
+
+<div align="center">
+  <a href="telegram/content/alonews_119610_1778618085.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈تمام پایگاه ها و هلال اهمر در تهران به حالت آماده باش در اومدن، تهرانیا امشب حتما مراقب باشین و از زیر لوستر و دم پنجره فاصله بگیرین.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119609
+
+<div align="center">
+  <a href="telegram/content/alonews_119609_1778618085.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈شرق تهران باز لرزید
+
+
+🔴اهالی مناطقی در شمال و جنوب شرق تهران از لرزش مجدد این منطقه خبر داده اند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119608
+
+<div align="center">
+  <a href="telegram/content/alonews_119608_1778618085.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴فوری/مرکز لرزه‌نگاری:
+لحظاتی پیش زلزلهٔ ۴.۶ ریشتری مرز استان‌های تهران و مازندران را لرزاند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119607
+
+<div align="center">
+  <a href="telegram/content/alonews_119607_1778618085.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈بعضیا میگن تو شرق تهران تست بمب اتم در زیر زمین بوده
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119606
+
+<div align="center">
+  <a href="telegram/content/alonews_119606_1778618086.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ایرنا:
+در تهران هم نزدیک به ۱۰ ثانیه لرزش زمین به طول انجامید.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119605
+
+<div align="center">
+  <a href="telegram/content/alonews_119605_1778618086.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈امروز پردیس چندبار لرزیده و نکته ترسناک اینه روی گسل بزرگ تهرانه
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119604
+
+<div align="center">
+  <a href="telegram/content/alonews_119604_1778618086.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈این وسط فقط زلزله کم بود
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119603
+
+<div align="center">
+  <a href="telegram/content/alonews_119603_1778618086.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🤡 شیعه وارداتی از اوگاندا تو خیابونای تهران دارن داد میزنن:
+
+
+🔴«مرگ بر منافق» [یعنی معترضای ایرانی]
+
+
+🤔یه عده خارجی از یه قاره دیگه اومدن تو کشور ما، بعد دارن برای مرگ خودِ ایرانی‌ها شعار میدن.
+
+
+✅@AloNews
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 23:54
 ---
 
