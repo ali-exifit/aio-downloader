@@ -7,6 +7,134 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 16:34
+---
+
+## pm_afshaa — post 90623
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90623_1778591096.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ با انتشار این پست از اوباما، بایدن و پلوسی نوشت: دموکرات‌ها عاشق این مکان هستن (فاضلاب)
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90622
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴پیت هگست : اگه لازم باشه، برای تشدید درگیری با ایران یه برنامه داریم
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 336817
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336817_1778591097.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+هم‌زمان با افزایش گزارش‌ها درباره کمبود بنزین در ایران، سخنگوی اتحادیه صادرکنندگان فرآورده‌های نفتی اعلام کرد برای جلوگیری از شکل‌گیری صف‌های طولانی، صرفه‌جویی در مصرف بنزین اجتناب‌ناپذیر است.
+گفت‌وگو با مهدی مصلحی، کارشناس بازار نفت
+@iranintltv
+</div>
+
+## IranIntlTV — post 336816
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336816_1778591099.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزرای خارجه ترکیه و قطر در نشستی مشترک درباره بحران تنگه هرمز گفت‌وگو کردند. هاکان فیدان با اعلام حمایت آنکارا از تلاش‌ها برای توافق میان جمهوری اسلامی و آمریکا، تاکید کرد تنگه هرمز نباید به‌عنوان سلاح استفاده شود.
+نرگس هورخش، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد
+@iranintltv
+</div>
+
+## Shin_Persian — post 5965
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Tue, 12 May 2026 12:54:39 UTC
+
+State-owned Mehr News:
+Islamic Regime files complaint against US at The Hague over "military aggression on nuclear facilities", economic sanctions, and "threat of force" during 12-day conflict. Case A-34 registered under 1981 Algiers Accords.
+
+[😂]
+
+فارسی
+
+خبرگزاری دولتی مهر:
+رژیم اسلامی شکایتی را علیه ایالات متحده در لاهه به دلیل «تجاوز نظامی به تاسیسات هسته‌ای»، تحریم‌های اقتصادی و «تهدید به استفاده از زور» در طول درگیری ۱۲ روزه تنظیم کرد. پرونده A-34 تحت بیانیه‌های الجزایر ۱۹۸۱ ثبت شده است.
+
+[😂]
+
+𝕏 · @shin_persian
+</div>
+
+## RadioFarda — post 157090
+
+<div align="center">
+  <img src="telegram/content/RadioFarda_157090_1778591102.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸فرماندهی مرکزی ایالات متحده، سنتکام، روز سه‌شنبه خبر داد از ابتدای محاصره دریایی علیه بنادر ایران تاکنون، ۶۵ کشتی تجاری را وادار به «تغییر مسیر» کرده است.
+
+🔸در اطلاعیه سنتکام که در حساب شبکه ایکس آن منتشر شده است، آمده که نیروهای نظامی آمریکا در خاورمیانه در این مدت چهار کشتی ایرانی را هم «از کار انداخته‌اند».
+
+🔸ارتش آمریکا جمعه از شلیک به دو نفتکش ایرانی «ام‌تی سی استار» و «ام‌تی سودا» و از کار انداختن آنها خبر داد و روز چهارشنبه نیز نفتکش «ام‌تی حسنا» با پرچم ایران هدف قرار گرفته بود.
+
+🔸ماه گذشته نیز نیروهای آمریکایی یک کشتی باری ایرانی را توقیف کرده بودند.
+
+🔸آمریکا و ایران بعد از یک دور مذاکره حضوری در پاکستان که چند روز بعد از برقراری آتش‌بس در اسلام‌آباد برگزار شد، با ارسال طرح‌های پیشنهادی متقابل مشغول مذاکره بودند. آمریکا بعد از بی‌نتیجه ماندن مذاکره حضوری، محاصره دریایی بنادر ایران را آغاز کرد، در حالی که ایران از ابتدای جنگ تنگهٔ هرمز را مسدود کرده است.
+
+@RadioFarda
+</div>
+
+## IranianMinds — post 20006
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_20006_1778591103.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴چندتا از بستگان موشعلی خامنه‌ای در بیمارستان هند دیده شده‌اند.
+
+@IranianMinds
+</div>
+
+## alonews — post 119500
+
+<div align="center">
+  <a href="telegram/content/alonews_119500_1778591105.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈پیت هگست وزیر جنگ آمریکا: به دلیل حساسیت مموریتی که رئیس‌جمهور ترامپ بر عهده دارد و همچنین برای اطمینان از عدم دستیابی ایران به بمب هسته‌ای، گام بعدی خود علیه این کشور را فاش نخواهیم کرد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119499
+
+<div align="center">
+  <a href="telegram/content/alonews_119499_1778591106.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزیر دوم بریتانیا از دولت کیر استارمر استعفا داد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 16:24
 ---
 
