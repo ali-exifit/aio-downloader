@@ -1,10 +1,9 @@
 name: aio-cleaner
-
 on:
   workflow_dispatch:
     inputs:
       clean_all:
-        description: 'Clean ALL platforms (telegram, youtube, x, instagram, website, leecher, google-play)'
+        description: 'Clean ALL platforms (telegram, youtube, x, instagram, website, leecher, google-play, direct)'
         required: false
         type: boolean
         default: false
@@ -43,20 +42,21 @@ on:
         required: false
         type: boolean
         default: false
-
+      clean_direct:
+        description: 'Clean Direct folder'
+        required: false
+        type: boolean
+        default: false
 jobs:
   clean:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
       - name: Clean selected platforms
         env:
           CLEAN_ALL: ${{ github.event.inputs.clean_all }}
@@ -67,6 +67,7 @@ jobs:
           CLEAN_WEBSITE: ${{ github.event.inputs.clean_website }}
           CLEAN_LEECHER: ${{ github.event.inputs.clean_leecher }}
           CLEAN_GOOGLE_PLAY: ${{ github.event.inputs.clean_google_play }}
+          CLEAN_DIRECT: ${{ github.event.inputs.clean_direct }}
         run: |
           python << 'EOF'
           import shutil, os
@@ -76,7 +77,7 @@ jobs:
           clean_all = os.environ.get("CLEAN_ALL") == "true"
           platforms = []
           if clean_all:
-              platforms = ["telegram", "youtube", "x", "instagram", "website", "leecher", "google-play"]
+              platforms = ["telegram", "youtube", "x", "instagram", "website", "leecher", "google-play", "direct"]
           else:
               if os.environ.get("CLEAN_TELEGRAM") == "true":
                   platforms.append("telegram")
@@ -92,6 +93,8 @@ jobs:
                   platforms.append("leecher")
               if os.environ.get("CLEAN_GOOGLE_PLAY") == "true":
                   platforms.append("google-play")
+              if os.environ.get("CLEAN_DIRECT") == "true":
+                  platforms.append("direct")
 
           if not platforms:
               print("ℹ️ No platforms selected, nothing to clean.")
@@ -105,11 +108,11 @@ jobs:
                   deleted = False
                   if content_dir.exists():
                       shutil.rmtree(content_dir)
-                      print("🧹 Deleted telegram/content/")
+                      print(" Deleted telegram/content/")
                       deleted = True
                   if md_file.exists():
                       md_file.unlink()
-                      print("🧹 Deleted telegram.md")
+                      print(" Deleted telegram.md")
                       deleted = True
                   if deleted:
                       cleaned.append("telegram")
@@ -119,7 +122,7 @@ jobs:
                   folder = Path("leecher")
                   if folder.exists() and folder.is_dir():
                       shutil.rmtree(folder)
-                      print("🧹 Deleted leecher/ folder")
+                      print(" Deleted leecher/ folder")
                       cleaned.append("leecher")
                   else:
                       print("ℹ️ leecher: folder not found, nothing to delete")
@@ -127,16 +130,24 @@ jobs:
                   folder = Path("google-play")
                   if folder.exists() and folder.is_dir():
                       shutil.rmtree(folder)
-                      print("🧹 Deleted google-play/ folder")
+                      print(" Deleted google-play/ folder")
                       cleaned.append("google-play")
                   else:
                       print("ℹ️ google-play: folder not found, nothing to delete")
+              elif platform == "direct":
+                  folder = Path("direct")
+                  if folder.exists() and folder.is_dir():
+                      shutil.rmtree(folder)
+                      print(" Deleted direct/ folder")
+                      cleaned.append("direct")
+                  else:
+                      print("ℹ️ direct: folder not found, nothing to delete")
               else:
                   # youtube, x, instagram, website: delete the whole folder
                   folder = Path(platform)
                   if folder.exists() and folder.is_dir():
                       shutil.rmtree(folder)
-                      print(f"🧹 Deleted {platform}/ folder")
+                      print(f" Deleted {platform}/ folder")
                       cleaned.append(platform)
                   else:
                       print(f"ℹ️ {platform}: folder not found, nothing to delete")
@@ -145,7 +156,6 @@ jobs:
           with open("/tmp/cleaned_platforms.txt", "w") as f:
               f.write(",".join(cleaned))
           EOF
-
       - name: Commit and push deletions
         env:
           BRANCH: ${{ github.ref_name }}
@@ -153,13 +163,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config http.postBuffer 524288000
-
           PLATFORMS=$(cat /tmp/cleaned_platforms.txt)
           if [ -z "$PLATFORMS" ]; then
             echo "No changes to commit."
             exit 0
           fi
-
           # Stage deletions for each platform
           IFS=',' read -ra PLATFORM_ARRAY <<< "$PLATFORMS"
           for p in "${PLATFORM_ARRAY[@]}"; do
@@ -169,18 +177,17 @@ jobs:
               git add -A leecher/ 2>/dev/null || true
             elif [ "$p" = "google-play" ]; then
               git add -A google-play/ 2>/dev/null || true
+            elif [ "$p" = "direct" ]; then
+              git add -A direct/ 2>/dev/null || true
             else
               git add -A "$p/" 2>/dev/null || true
             fi
           done
-
           if git diff --staged --quiet; then
             echo "No deletions to commit."
             exit 0
           fi
-
           git commit -m "🧹 Clean media: $PLATFORMS (manual trigger) [skip ci]"
-
           RETRIES=5
           for i in $(seq 1 $RETRIES); do
             echo "Push attempt $i..."
