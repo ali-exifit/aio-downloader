@@ -7,6 +7,213 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 23:25
+---
+
+## VahidOOnLine — post 239786
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239786_1778615712.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ وزارت دفاع بریتانیا روز سه‌شنبه، ۲۲ اردیبهشت، اعلام کرد که این کشور تجهیزات خودکار مین‌یاب و سیستم‌های ضدپهپادی با فناوری بسیار نوین را به تنگه هرمز ارسال می‌کند. طبق بیانیه صادر شده، جان هیلی، وزیر دفاع بریتانیا، تاکید کرد که بریتانیا نقشی کلیدی در تامین امنیت تنگه هرمز ایفا می‌کند و امروز با ارسال تجهیزات پیشرفته، تعهد خود را برای حفاظت از منافع کشور و امنیت این آبراه نشان می‌دهد.
+
+بریتانیا همچنین در پایان هفته گذشته اعلام کرده بود که ناو «اچ‌ام‌اس دراگون» نیروی دریایی سلطنتی را برای پشتیبانی از عملیات مین‌روبی در این مسیر آبی پرتردد به خاورمیانه اعزام می‌کند. علاوه بر این، بریتانیا و فرانسه به طور مشترک تلاش‌هایی را برای تشکیل یک ماموریت بین‌المللی با هدف بهبود امنیت خطوط کشتیرانی در این تنگه هدایت کرده‌اند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8995
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴تا جایی که اطلاع داریم، ایران در ۲۸ روز گذشته هیچ نفت خامی را از طریق دریا به‌طور موفقیت‌آمیز صادر نکرده است. بخشی از فرآورده‌های پالایش‌شده توانسته‌اند خارج شوند، زیرا دفتر کنترل دارایی‌های خارجی آمریکا (OFAC) روی آن نفتکش‌ها تحریم اعمال نکرده است.
+
+🔴علاوه بر این، جزیره خارگ از تاریخ 2026-05-06 تاکنون هیچ نفتکشی را بارگیری نکرده است؛ این موضوع در نتیجه نشت نفتی است که تهران وقوع آن را انکار کرده است.
+
+🔴با این حال، هنوز تعداد زیادی نفتکشِ خالی در داخل و خارج از محدوده محاصره وجود دارد؛ همچنین تعداد زیادی نفتکشِ پر از محموله که در نزدیکی پاکستان به‌صورت گروهی تجمع کرده‌اند.
+
+🔸(تعریف به‌روزشده ما از «صادرات» از ایران این است که یک نفتکش از خط محاصره نیروی دریایی آمریکا عبور کند و بدون نفت به ایران بازنگردد.)
+TANKER TRACKER
+
+
+@mwarmonitor
+</div>
+
+## IranIntlTV — post 336877
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336877_1778615713.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+امارات متحده عربی اعلام کرد ۱۶ شهروند لبنانی و پنج نهاد مستقر در لبنان را به دلیل ارتباط با حزب‌الله در فهرست تروریستی این کشور قرار داده است.
+
+در همین چارچوب، «موسسه قرض‌الحسن» و چهار نهاد دیگر نیز به دلیل ارتباط با حزب‌الله در این فهرست قرار گرفته‌اند.
+
+امارات متحده عربی تاکید کرد این اقدامات در راستای مهار آفات تروریسم، محدود کردن گسترش آن و قطع تامین مالی فرامرزی انجام شده است.
+https://iranintl.com/202605127283
+</div>
+
+## IranIntlTV — post 336876
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/336876" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی چشم‌انداز: جهنم قطع اینترنت چگونه به پایان می‌رسد؟
+@iranintlTV
+</div>
+
+## Persian_Trend_Official — post 14005
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_14005_1778615714.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇸🇦🇮🇷 — خبرگزاری رویترز درگزارشی مدعیست که عربستان سعودی در اواخر ماه مارس، حملات هوایی محرمانه‌ تلافی جویانه ای را در پاسخ به ایران انجام داده است.
+
+☆Phantom☆
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 14004
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_14004_1778615715.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ویدیو منتشر شده از کشتی کره ای آسیب دیده در حملات جمهوری اسلامی در روز های گذشته
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## RadioFarda — post 157108
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸وزارت خارجه ایالات متحده روز سه‌شنبه در بیانیه‌ای که در اختیار خبرگزاری رویترز قرار داد، اعلام کرد که مقام‌های ارشد آمریکا و چین توافق دارند که هیچ کشوری نباید اجازه داشته باشد برای عبور از تنگه هرمز عوارض کشتیرانی دریافت کند. 🔸این بیانیه وزارت خارجه آمریکا…
+</div>
+
+## RadioFarda — post 157107
+
+<div align="center">
+  <img src="telegram/content/RadioFarda_157107_1778615717.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸وزارت خارجه ایالات متحده روز سه‌شنبه در بیانیه‌ای که در اختیار خبرگزاری رویترز قرار داد، اعلام کرد که مقام‌های ارشد آمریکا و چین توافق دارند که هیچ کشوری نباید اجازه داشته باشد برای عبور از تنگه هرمز عوارض کشتیرانی دریافت کند.
+
+🔸این بیانیه وزارت خارجه آمریکا پیش از نشست پیش‌روی دونالد ترامپ و شی جین‌پینگ، همتای چینی او، منتشر شده است؛ نشستی که در آن کنترل ایران بر تنگه هرمز در دستور کار خواهد بود.
+
+🔸وزارت خارجه آمریکا گفت وانگ یی، وزیر خارجه چین، و مارکو روبیو، وزیر خارجه آمریکا، در یک تماس تلفنی در ماه گذشته میلادی دربارهٔ این موضوع گفت‌وگو کرده‌اند.
+
+🔸تامِی پیگوت، سخنگوی وزارت خارجه، در پاسخ به پرسش‌های رویترز دربارهٔ این تماس گفت: «آن‌ها توافق کردند که هیچ کشور یا سازمانی نباید اجازه داشته باشد برای عبور از آبراه‌های بین‌المللی مانند تنگه هرمز عوارض دریافت کند.»
+
+🔸رویترز می‌گوید وزارت خارجه آمریکا برخلاف رویه معمول خود، پیش‌تر گزارشی از این تماس منتشر نکرده بود.
+
+@RadioFarda
+</div>
+
+## Dirty_Kids — post 389338
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389338_1778615718.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+این پردیس احمدیه افغانی رفته خادم رضا شده
+
+رقابت سنگینی هست بین این بی‌هنرا تو مالیدن تا بارشونو ببندن
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389337
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389337_1778615718.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+عشق این شکلیه 👆
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 119591
+
+<div align="center">
+  <a href="telegram/content/alonews_119591_1778615721.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈لیست میلیاردرهایی که با ترامپ به چین میرن
+
+
+🔴رئیس شرکت بلک راک
+
+🔴رئیس شرکت گلدمن
+
+🔴رئیس شرکت مسترکارت
+
+🔴رئیس شرکت سیسکو
+
+🔴رئیس شرکت متا
+
+🔴رئیس شرکت ویزا
+
+🔴رئیس شرکت اپل
+
+🔴رئیس شرکت تسلا
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119590
+
+<div align="center">
+  <a href="telegram/content/alonews_119590_1778615722.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️هشدار یک شهروند معمولی ایتالیایی به ایرانیان:
+
+
+🔴اشتباه ما ایتالیایی‌ها در سال ۱۹۴۶ را تکرار نکنید!
+
+
+✅@AloNews
+</div>
+
+## alonews — post 119589
+
+<div align="center">
+  <a href="telegram/content/alonews_119589_1778615726.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈علی قلهکی: همراه اول به 4 میلیون نفر پیامک اینترنت پرو ارسال کرده اما تنها 450 هزار نفر آن را فعال کرده اند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119588
+
+<div align="center">
+  <a href="telegram/content/alonews_119588_1778615726.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزیر اقتصاد: کسب‌وکارهایی که تعدیل نیرو نداشته باشند، از دولت تسهیلات می‌گیرند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 23:14
 ---
 
