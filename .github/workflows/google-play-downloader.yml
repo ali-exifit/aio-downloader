@@ -3,17 +3,13 @@ name: google-play-downloader
 on:
   workflow_dispatch:
     inputs:
-      package_name:
+      app:
         description: >-
-          Android package name. Example: com.google.android.youtube.
-          (Ignored if `google_play_url` is provided.)
-        required: false
-        type: string
-      google_play_url:
-        description: >-
-          Optional Google Play URL (e.g., https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en).
-          If supplied, the package name is extracted automatically.
-        required: false
+          Google Play URL or Android package name.
+          Examples:
+            URL:  https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en
+            Package name:  com.google.android.youtube
+        required: true
         type: string
       architecture:
         description: Target device architecture
@@ -40,26 +36,23 @@ jobs:
         with:
           persist-credentials: true
 
-      - name: Generate random identifier to prevent name collisions
-        id: random
-        run: echo "value=$(cat /dev/urandom | tr -dc 'a-z' | fold -w 5 | head -n 1)" >> $GITHUB_OUTPUT
-
       - name: Determine package name
         id: pkg
         run: |
-          if [ -n "${{ inputs.google_play_url }}" ]; then
-            # Extract the package id from the URL
-            PACKAGE=$(echo "${{ inputs.google_play_url }}" | grep -oP '(?<=id=)[^&]*')
+          INPUT="${{ inputs.app }}"
+          # If the input looks like a URL, extract the 'id' query parameter
+          if echo "$INPUT" | grep -qE '^https?://'; then
+            PACKAGE=$(echo "$INPUT" | grep -oP '(?<=id=)[^&]*')
             if [ -z "$PACKAGE" ]; then
               echo "Error: Could not extract package name from URL"
               exit 1
             fi
             echo "Extracted package: $PACKAGE"
-            echo "package=$PACKAGE" >> $GITHUB_OUTPUT
           else
-            # Fall back to the explicit package_name input
-            echo "package=${{ inputs.package_name }}" >> $GITHUB_OUTPUT
+            PACKAGE="$INPUT"
+            echo "Using raw package name: $PACKAGE"
           fi
+          echo "package=$PACKAGE" >> $GITHUB_OUTPUT
 
       - name: Install system dependencies
         run: |
@@ -104,12 +97,13 @@ jobs:
           echo "download_dir=$DOWNLOAD_DIR" >> $GITHUB_OUTPUT
 
       - name: Archive each downloaded file (split ZIP)
-        env:
-          RANDSTR: ${{ steps.random.outputs.value }}
         run: |
           DOWNLOAD_DIR="${{ steps.download.outputs.download_dir }}"
-          UPLOAD_DIR="google-play"               # ← single flat directory
+          UPLOAD_DIR="google-play"
           mkdir -p "$UPLOAD_DIR"
+
+          # Generate a 5‑letter random string on the spot (avoid duplicates)
+          RNDSTR=$(cat /dev/urandom | tr -dc 'a-z' | fold -w 5 | head -n 1)
 
           cd "$DOWNLOAD_DIR"
           shopt -s nullglob
@@ -123,7 +117,7 @@ jobs:
             if [ -f "$file" ]; then
               echo "→ Archiving $file"
               # Append the random string to the file name, BEFORE the .zip extension
-              zip -j -s 99m -r "../$UPLOAD_DIR/${file}_${RANDSTR}.zip" "$file"
+              zip -j -s 99m -r "../$UPLOAD_DIR/${file}_${RNDSTR}.zip" "$file"
             fi
           done
 
