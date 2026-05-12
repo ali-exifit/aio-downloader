@@ -3,7 +3,6 @@ name: youtube-downloader (enhanced)
 on:
   workflow_dispatch:
     inputs:
-      # ─── Original multi‑URL input ───
       url:
         description: >
           Enter one or more YouTube URLs. Each can be followed by optional
@@ -12,7 +11,6 @@ on:
         required: true
         type: string
 
-      # ─── Global selectors (optional – used when per‑URL args are missing) ───
       output_format:
         description: ‘Output format (applied when no per‑URL “v”/“a” is given)’
         required: false
@@ -63,17 +61,6 @@ on:
         required: false
         type: string
 
-      concurrent_fragments:
-        description: ‘Parallel download fragments’
-        required: false
-        type: choice
-        options:
-          - ‘4’
-          - ‘8’
-          - ‘16’
-          - ‘1’
-        default: ‘4’
-
       sponsorblock:
         description: ‘Skip sponsor/intro/outro segments via SponsorBlock’
         required: false
@@ -120,42 +107,6 @@ on:
         required: false
         type: string
 
-      max_part_mb:
-        description: ‘Max part size in MB (0 = no split)’
-        required: false
-        type: number
-        default: 90
-
-      output_folder:
-        description: ‘Folder to store downloads (relative to repo root)’
-        required: false
-        type: string
-        default: ‘youtube-content’
-
-      extra_args:
-        description: ‘Extra yt-dlp arguments (advanced users)’
-        required: false
-        type: string
-
-      cookies:
-        description: ‘Netscape cookie string (optional, alternative to secret)’
-        required: false
-        type: string
-
-      upload_method:
-        description: ‘How to deliver the files’
-        required: true
-        type: choice
-        options:
-          - repository (push to repo)
-          - release (GitHub Releases)
-        default: ‘repository (push to repo)’
-
-      release_tag:
-        description: ‘Tag name for release (only if Release is chosen)’
-        required: false
-        type: string
-
 permissions:
   contents: write
 
@@ -167,12 +118,11 @@ jobs:
     timeout-minutes: 60
 
     steps:
-      # ── Checkout ──
       - uses: actions/checkout@v5
         with:
           persist-credentials: true
 
-      # ── Cookies ──
+      # Cookies (from secret only, no inline field)
       - name: ‘🔐 Prepare cookies’
         run: |
           if [ -n "$YOUTUBE_COOKIES" ]; then
@@ -181,15 +131,10 @@ jobs:
           else
             echo "ℹ️  No YOUTUBE_COOKIES secret – proceeding without cookies."
           fi
-          if [ -n "$INPUT_COOKIES" ]; then
-            printf '%s' "$INPUT_COOKIES" > /tmp/input-cookies.txt
-            echo "✅ Inline cookies saved."
-          fi
         env:
           YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
-          INPUT_COOKIES: ${{ github.event.inputs.cookies }}
 
-      # ── Parse URLs & per‑URL args ──
+      # Parse URLs & per‑URL arguments
       - name: ‘📋 Parse all URLs and per‑URL arguments’
         id: parse
         run: |
@@ -228,7 +173,7 @@ jobs:
           echo "IS_ANY_YT=$IS_ANY_YT" >> $GITHUB_OUTPUT
           echo "✅ Parsed $(echo "$ENTRIES" | jq length) entries, any YouTube? $IS_ANY_YT"
 
-      # ── Prepare PATH ──
+      # PATH setup
       - name: ‘📁 Prepare tool paths’
         if: steps.parse.outputs.IS_ANY_YT == 'true'
         run: |
@@ -237,7 +182,7 @@ jobs:
           echo "$HOME/.deno/bin" >> $GITHUB_PATH
           echo "✅ Tool paths prepared."
 
-      # ── Install tools ──
+      # Install tools
       - name: ‘🛠️ Install download tools’
         if: steps.parse.outputs.IS_ANY_YT == 'true'
         run: |
@@ -268,21 +213,21 @@ jobs:
           sudo chmod a+rx /usr/local/bin/youtube-dl
           echo "✅ Fallback tools installed."
 
-      # ── Primary download (enhanced yt‑dlp) ──
+      # Primary download
       - name: ‘⬇️  Primary download (yt‑dlp with global selectors)’
         id: primary
         run: |
           set -e
           ENTRIES_JSON='${{ steps.parse.outputs.ENTRIES_JSON }}'
+          OUTPUT_FOLDER="youtube"   # fixed folder
           mkdir -p "$OUTPUT_FOLDER"
-          OUTPUT_FOLDER="${{ github.event.inputs.output_folder }}"
 
           # ── Build global yt‑dlp arguments from selectors ──
           FORMAT_INPUT="${{ github.event.inputs.output_format }}"
           VIDEO_QUALITY="${{ github.event.inputs.video_quality }}"
           AUDIO_Q="${{ github.event.inputs.audio_quality }}"
           CODEC="${{ github.event.inputs.codec }}"
-          FRAGMENTS="${{ github.event.inputs.concurrent_fragments }}"
+          FRAGMENTS="4"           # fixed
           SPONSORBLOCK="${{ github.event.inputs.sponsorblock }}"
           EMBED_CHAPTERS="${{ github.event.inputs.embed_chapters }}"
           WRITE_DESC="${{ github.event.inputs.write_description }}"
@@ -292,20 +237,13 @@ jobs:
           TRIM_START="${{ github.event.inputs.trim_start }}"
           TRIM_END="${{ github.event.inputs.trim_end }}"
           PLAYLIST_ITEMS="${{ github.event.inputs.playlist_items }}"
-          EXTRA_ARGS="${{ github.event.inputs.extra_args }}"
 
-          # Cookie handling: prefer inline, fallback to secret
+          # Cookies
           COOKIE_ARGS=""
-          if [ -f /tmp/input-cookies.txt ]; then
-            COOKIE_ARGS="--cookies /tmp/input-cookies.txt"
-          elif [ -f youtube-cookies.txt ]; then
-            COOKIE_ARGS="--cookies youtube-cookies.txt"
-          fi
+          [ -f youtube-cookies.txt ] && COOKIE_ARGS="--cookies youtube-cookies.txt"
 
-          # Extract numeric height (e.g. "720 (HD)" → "720")
           QUALITY_NUM=$(echo "$VIDEO_QUALITY" | grep -o '[0-9]*' | head -1)
 
-          # Codec filter
           case "$CODEC" in
             "h264 (MP4 compatible)") CODEC_FILTER="[vcodec^=avc]" ; MERGE_FMT="mp4" ;;
             "vp9") CODEC_FILTER="[vcodec^=vp9]" ; MERGE_FMT="mkv" ;;
@@ -313,7 +251,6 @@ jobs:
             *) CODEC_FILTER="" ; MERGE_FMT="mp4" ;;
           esac
 
-          # Format / quality selection (global default)
           if [ "$FORMAT_INPUT" = "mp3 (audio only)" ]; then
             GLOBAL_FORMAT="-x --audio-format mp3 --audio-quality ${AUDIO_Q}K"
             GLOBAL_TYPE="a"
@@ -381,7 +318,7 @@ jobs:
 
           echo "🔧 Global settings:"
           echo "   Format: $FORMAT_INPUT  Video quality: $VIDEO_QUALITY  Audio: $AUDIO_Q"
-          echo "   Codec: $CODEC  Fragments: $FRAGMENTS"
+          echo "   Codec: $CODEC"
           echo "   SponsorBlock: $SPONSORBLOCK  Chapters: $EMBED_CHAPTERS  Subtitles: $SUBTITLES"
           echo "   Playlist items: ${PLAYLIST_ITEMS:-single video}"
 
@@ -395,28 +332,22 @@ jobs:
             echo "========================================"
             echo "🎬 Processing $((idx+1))/$count: $link"
 
-            # Determine per‑URL type/quality (override global)
             type="$GLOBAL_TYPE"
             val1="$QUALITY_NUM"
-            val2=""
             if [ "$args_len" -ge 1 ]; then
               type=$(echo "$entry" | jq -r '.args[0]')
             fi
             if [ "$args_len" -ge 2 ]; then
               val1=$(echo "$entry" | jq -r '.args[1]')
             fi
-            if [ "$args_len" -ge 3 ]; then
-              val2=$(echo "$entry" | jq -r '.args[2]')
-            fi
 
-            # Normalise
             if [[ "$type" != "v" && "$type" != "a" ]]; then
               echo "⚠️  Invalid type '$type' – using global default"
               type="$GLOBAL_TYPE"
               val1="$QUALITY_NUM"
             fi
 
-            # If no per‑URL quality given and global quality is not set, cap at 720p
+            # If no quality given, cap at 720p
             if [ "$args_len" -lt 2 ] && [ -z "$QUALITY_NUM" ]; then
               val1="720"
               echo "ℹ️  No quality specified – limiting to 720p"
@@ -431,7 +362,7 @@ jobs:
 
             echo "   🏷️  Type: $type  Quality: $val1  (per‑URL override: $([ $args_len -ge 1 ] && echo 'yes' || echo 'no'))"
 
-            # Skip non‑YouTube
+            # Non‑YouTube links
             if ! echo "$link" | grep -Eq '(youtube\.com/watch\?v=|youtu\.be/)'; then
               echo "ℹ️  Non‑YouTube link – downloading with wget"
               cd "$OUTPUT_FOLDER"
@@ -445,14 +376,13 @@ jobs:
               continue
             fi
 
-            # Build final command (per‑URL args take precedence for type/quality)
+            # Build command
             if [ "$args_len" -ge 2 ]; then
-              # Per‑URL args override global format
               CMD="yt-dlp \
                 --js-runtimes deno \
                 --newline \
                 --extractor-args \"youtube:player_client=web_music,web,tv\" \
-                --concurrent-fragments \"${FRAGMENTS}\" \
+                --concurrent-fragments 4 \
                 $SECTION_ARGS \
                 $SUBTITLE_ARGS \
                 $META_ARGS \
@@ -462,14 +392,13 @@ jobs:
                 $PLAYLIST_ARGS \
                 $COOKIE_ARGS \
                 -o \"$OUTPUT_FOLDER/%(title)s [%(id)s].%(ext)s\" \
-                $EXTRA_ARGS \
                 \"$link\""
             else
               CMD="yt-dlp \
                 --js-runtimes deno \
                 --newline \
                 --extractor-args \"youtube:player_client=web_music,web,tv\" \
-                --concurrent-fragments \"${FRAGMENTS}\" \
+                --concurrent-fragments 4 \
                 $GLOBAL_FORMAT \
                 $SECTION_ARGS \
                 $SUBTITLE_ARGS \
@@ -480,7 +409,6 @@ jobs:
                 $PLAYLIST_ARGS \
                 $COOKIE_ARGS \
                 -o \"$OUTPUT_FOLDER/%(title)s [%(id)s].%(ext)s\" \
-                $EXTRA_ARGS \
                 \"$link\""
             fi
 
@@ -497,7 +425,7 @@ jobs:
           echo "FAILED_ENTRIES_JSON=$FAILED_ENTRIES_JSON" >> $GITHUB_OUTPUT
           echo "📊 Primary phase done. Failures: $(echo "$FAILED_ENTRIES" | jq length)"
 
-      # ── Fallback pipelines (original 10 + 2 new) ──
+      # Fallback pipelines
       - name: ‘🔄 Fallback pipelines for failed entries’
         if: steps.primary.outputs.FAILED_ENTRIES_JSON != '[]'
         run: |
@@ -506,7 +434,8 @@ jobs:
           count=$(echo "$FAILED_ENTRIES" | jq length)
           echo "🔄 Attempting fallback for $count failed entries..."
 
-          # ── Fallback function definitions ──
+          OUTPUT_FOLDER="youtube"
+
           fallback_ytdlp_extractor() {
             echo "[fallback 1] yt-dlp with Android extractor"
             yt-dlp --cookies youtube-cookies.txt --extractor-args "youtube:player_client=android" \
@@ -607,7 +536,7 @@ jobs:
                    -o "$OUTPUT_FOLDER/%(title)s.%(ext)s" "$1"
           }
 
-          # ── NEW fallback 11: Meli-Action ytmp3.gg API ──
+          # NEW fallback 11: Meli-Action ytmp3.gg API
           fallback_ytmp3_api() {
             echo "[fallback 11] ytmp3.gg API (Meli-Action style)"
             FORMAT="mp4"
@@ -671,20 +600,19 @@ jobs:
             echo "   ✅ ytmp3.gg success"
           }
 
-          # ── NEW fallback 12: Advanced yt‑dlp (Meli‑Action style) ──
+          # NEW fallback 12: Advanced yt‑dlp (Meli‑Action style)
           fallback_ytdlp_advanced() {
             echo "[fallback 12] yt-dlp with web_music+tv+web clients"
             yt-dlp \
               --js-runtimes deno \
               --newline \
               --extractor-args "youtube:player_client=web_music,web,tv" \
-              --concurrent-fragments "${FRAGMENTS:-4}" \
+              --concurrent-fragments 4 \
               $COOKIE_ARGS \
               -o "$OUTPUT_FOLDER/%(title)s [%(id)s].%(ext)s" \
               "$1"
           }
 
-          # ── Fallback array (original 10 + 2 new) ──
           FALLBACKS=(
             fallback_ytdlp_extractor
             fallback_ytdlp_ios
@@ -700,25 +628,24 @@ jobs:
             fallback_ytdlp_advanced
           )
 
-          # ── Run fallbacks for each failed entry ──
+          # Run fallbacks
           for ((idx=0; idx<count; idx++)); do
             entry=$(echo "$FAILED_ENTRIES" | jq ".[$idx]")
             link=$(echo "$entry" | jq -r '.link')
             args_len=$(echo "$entry" | jq '.args | length')
-            type="v"; val1="max"; val2=""
+            type="v"; val1="max"
             [ "$args_len" -ge 1 ] && type=$(echo "$entry" | jq -r '.args[0]')
             [ "$args_len" -ge 2 ] && val1=$(echo "$entry" | jq -r '.args[1]')
-            [ "$args_len" -ge 3 ] && val2=$(echo "$entry" | jq -r '.args[2]')
 
             if ! echo "$link" | grep -Eq '(youtube\.com/watch\?v=|youtu\.be/)'; then
               continue
             fi
 
             echo "========================================"
-            echo "🔄 Fallback for: $link ($type $val1 $val2)"
+            echo "🔄 Fallback for: $link ($type $val1)"
             success=0
             for func in "${FALLBACKS[@]}"; do
-              if $func "$link" "$type" "$val1" "$val2"; then
+              if $func "$link" "$type" "$val1"; then
                 echo "   ✅ Fallback '$func' succeeded"
                 success=1
                 break
@@ -730,23 +657,18 @@ jobs:
               echo "❌ All 12 fallback pipelines failed for $link"
             fi
           done
-
         env:
-          OUTPUT_FOLDER: ${{ github.event.inputs.output_folder }}
-          FRAGMENTS: ${{ github.event.inputs.concurrent_fragments }}
+          OUTPUT_FOLDER: youtube
+          FRAGMENTS: 4
           COOKIE_ARGS: ${{ steps.primary.outputs.COOKIE_ARGS }}
 
-      # ── Split large files (optional) ──
-      - name: ‘✂️  Split oversized files’
+      # Split files >90MB into .zip parts (exact original behavior)
+      - name: ‘✂️  Split oversized files (>90MB)’
         run: |
-          OUTPUT_FOLDER="${{ github.event.inputs.output_folder }}"
-          THRESH_MB=${{ github.event.inputs.max_part_mb }}
-          if [ "$THRESH_MB" -le 0 ]; then
-            echo "ℹ️  Splitting disabled (max_part_mb = 0)"
-            exit 0
-          fi
+          OUTPUT_FOLDER="youtube"
+          THRESH_MB=90
           THRESH_BYTES=$((THRESH_MB * 1024 * 1024))
-          echo "🔍 Checking files in '$OUTPUT_FOLDER'..."
+          echo "🔍 Checking files in '$OUTPUT_FOLDER' for >${THRESH_MB}MB..."
           for f in "$OUTPUT_FOLDER"/*; do
             [ -f "$f" ] || continue
             fs=$(stat -c%s "$f")
@@ -759,14 +681,13 @@ jobs:
           done
           echo "✅ Splitting complete."
 
-      # ── Deliver files ──
+      # Push to repo (always, no release option)
       - name: ‘📤 Push to repository’
-        if: github.event.inputs.upload_method == 'repository (push to repo)'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config http.postBuffer 524288000
-          git add "${{ github.event.inputs.output_folder }}/"
+          git add youtube/
           git commit -m "⬇️ YouTube download [skip ci]" || echo "Nothing to commit"
           RETRIES=5
           for i in $(seq 1 $RETRIES); do
@@ -786,24 +707,8 @@ jobs:
             fi
           done
 
-      - name: ‘📦 Upload to GitHub Releases’
-        if: github.event.inputs.upload_method == 'release (GitHub Releases)'
-        uses: softprops/action-gh-release@v2
-        with:
-          tag_name: ${{ github.event.inputs.release_tag || format('yt-{0}', github.run_number) }}
-          name: YouTube download – ${{ github.run_number }}
-          body: |
-            **📥 YouTube Download**
-            **Downloaded on:** ${{ github.event.triggered_at }}
-            Powered by enhanced aio-downloader ⚡
-          files: ${{ github.event.inputs.output_folder }}/*
-          token: ${{ secrets.GITHUB_TOKEN }}
-          draft: false
-          prerelease: false
-
-      # ── Cleanup ──
       - name: ‘🧹 Cleanup’
         if: always()
         run: |
-          rm -rf .download_info /tmp/cookies.txt /tmp/input-cookies.txt 2>/dev/null || true
+          rm -rf .download_info youtube-cookies.txt 2>/dev/null || true
           echo "✅ Cleanup done."
