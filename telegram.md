@@ -7,6 +7,262 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 15:35
+---
+
+## VahidOOnLine — post 239688
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239688_1778587523.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مونترال‌ | کانادا؛ گردهمایی ایرانیان
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8963
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇨🇺🇺🇸ترامپ: «کوبا درخواست کمک کرده و ما قرار است گفت‌وگو کنیم.»
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 8962
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_8962_1778587531.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴دو هفته پیش، پس از آن‌که نفتکش M/T EUREKA هنگام عبور از Gulf of Aden توسط دزدان دریایی ناشناس ربوده شد، هشت ملوان مصری ربوده شدند.
+
+📌این نفتکش متعلق به شرکت مستقر در امارات Royal Shipping Lines است و تحت پرچم Togo تردد می‌کند. همچنین مالک و مدیر آن در امارات متحده عربی مستقر است.
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 8960
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨 (رویترز) — قیمت نفت روز سه‌شنبه بیش از ۳ درصد افزایش یافت، زیرا اختلافات شدید میان آمریکا و ایران بر سر پیشنهادی برای پایان دادن به جنگ در خاورمیانه، نگرانی‌ها درباره عرضه را بار دیگر به کانون توجه بازگرداند.
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341574
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌Fox News (Twitter/X)
+
+Read more:
+</div>
+
+## FoxNewsTwitter — post 341573
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341573_1778587532.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: California mayor resigns after being charged with acting as an illegal agent of China.
+
+Eileen Wang has agreed to plead guilty as she faces up to 10 years in prison, according to federal prosecutors.
+
+They say she secretly worked to advance pro-Beijing messaging in the U.S., allegedly spreading propaganda tied to the Chinese government.
+</div>
+
+## pm_afshaa — post 90616
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سفیر آمریکا تو اسرائیل : ترامپ قبل از انتخابات پیشرو به اسرائیل سفر میکنه
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90615
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90615_1778587533.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فیلترشکن v2rayپرسرعت ‼️
+                                                    
+
+✅ مناسب برای تمام اینترنت‌ها (همراه اول ایرانسل رایتل اینترنت خانگی و ..)
+
+
+✅ قابل استفاده برای تمام سیستم عامل ها 
+
+😎 ضمانت بازگشت وجه در صورت عدم اتصال
+
+✅ پشتیبانی ۲۴ ساعته تا آخرین مدت اعتبار اشتراک   
+  
+
+😎 اشتراک 10 گیگ 😎
+
+✅ فقط و فقط 1/500/000 ✅
+
+👩‍💻 آیدی ثبت سفارش✨پشتیبانی #خریدوفروش : 👇
+@SuportSevenStarsVpn
+
+لینک ورود به کانال اصلی:
+            
+ https://t.me/sevenstars_VPN
+</div>
+
+## IranIntlTV — post 336807
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336807_1778587534.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت کشور کویت اعلام کرد چهار عضو وابسته به سپاه پاسداران انقلاب اسلامی را که از راه دریا به جزیره بوبیان در خاک این کشور نفوذ کرده بودند، بازداشت کرد. در جریان درگیری با این افراد نیز یک عضو نیروهای مسلح کویت زخمی شده است.
+جزییات بیشتر با تروسکه صادقی، خبرنگار ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## ManotoTV — post 105344
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105344_1778587536.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مونترال‌ | کانادا؛ گردهمایی ایرانیان
+</div>
+
+## FarsiVOA — post 217525
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217525_1778587539.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ورود گروهی از اوگاندا به جمع حامیان حکومت در تجمعات شبانه تهران؛
+
+ویدیوهای منتشر شده در شبکه‌های اجتماعی حاکی از ورود شماری از شیعیان اوگاندا به ایران و شرکت آنها در تجمعات شبانه حامیان حکومت در خیابان‌های تهران است.
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217524
+
+<div align="center">
+  <img src="telegram/content/FarsiVOA_217524_1778587542.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فرماندهی مرکزی ایالات متحده، سنتکام، تصویری از پرواز یک بمب‌افکن بی-۱ لنسر نیروی هوایی آمریکا بر فراز خاورمیانه در جریان یک ماموریت آموزشی را منتشر کرد. سنتکام اعلام کرد این پرواز روز ۹ مه انجام شد.
+
+@FarsiVOA
+</div>
+
+## BBCPersian — post 280846
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+در نشست خبری روز ۲۲ اردیبهشت فاطمه مهاجرانی، سخنگوی دولت، بر سر اینترنت پرو و شرایط واگذاری آن بگو مگویی بین او و خبرنگاران پیش آمد.
+
+خانم مهاجرانی گفت اینترنت پرو مصوبه شورای عالی امنیت ملی را دارد که رئیس‌جمهور رئیس آن است. او با تاکید بر اینکه اینترنت پرو ویژه کسب و کارهاست، در ادامه گفت وقتی سایه جنگ از کشور رفع شد به حالت عادی برمی‌گردد.
+
+در ادامه خبرنگاران سوال‌های متعددی پرسیدند که در ویدیو به درستی شنیده نمی‌شود و سخنگوی دولت گفت کشور در جنگ است و ویژگی جنگ امنیت مردم است.
+
+او در ادامه گفت اینترنت حق مردم و یکی از حقوق شهروندی است و خشم مردم به حق است اما بدانند «عامل این خشم دشمنانی هستند که باعث می‌شوند امنیت ما مخدوش شود.»
+
+همزمان وزیر ارتباطات در گفتگویی که با خبرنگاران داشت اعلام کرد در واگذاری اینترنت پرو تخلف‌هایی صورت گرفته که در حال بررسی است و قوه قضائیه هم ورود کرده است.
+
+غلامحسین محسنی اژه‌ای، رئیس قوه قضائیه هم درباره اینترنت پرو و واگذاری آن گفت: اگر موضوع درستی است باید آن را تبیین کرد و اگر تخلف هست باید برخورد شود. نباید مسائل را مبهم رها کرد.
+@BBCPersian
+</div>
+
+## Hranews — post 112900
+
+<div align="center">
+  <img src="telegram/content/Hranews_112900_1778587542.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+روز یکشنبه ۲۰ اردیبهشت‌ماه، شماری از اساتید اخراجی دانشگاه فرهنگیان در مقابل ساختمان های سازمان بازرسی کل کشور و وزارت آموزش و پرورش دست به #تجمع اعتراضی زدند.
+
+این اساتید نسبت به اخراج بیش از ۳۰۰ عضو هیئت علمی دانشگاه و قطع حدود ۱۰ ماه از حقوق و مزایای‌شان اعتراض کرده و خواستار رسیدگی به مطالبات خود و عزل رئیس دانشگاه فرهنگیان شدند.
+
+↘️
+@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑
+</div>
+
+## manototv — post 105344
+
+<div align="center">
+  <a href="telegram/content/manototv_105344_1778587546.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مونترال‌ | کانادا؛ گردهمایی ایرانیان
+</div>
+
+## alonews — post 119486
+
+<div align="center">
+  <a href="telegram/content/alonews_119486_1778587550.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈فیدان : به خاطر جهان، تنگه هرمز باید باز شود
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119484
+
+<div align="center">
+  <a href="telegram/content/alonews_119484_1778587550.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ به بازنشر تصاویر تولیدشده توسط هوش مصنوعی مرتبط با ایران ادامه می‌دهد.
+
+
+🔴او قبلاً همین تصاویر را منتشر کرده است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119483
+
+<div align="center">
+  <a href="telegram/content/alonews_119483_1778587550.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈توییت جدید ترامپ
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119482
+
+<div align="center">
+  <a href="telegram/content/alonews_119482_1778587551.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 ترامپ از طریق Truth Social:
+هیچ جمهوری‌خواهی تاکنون درباره کوبا با من صحبت نکرده است، کشوری شکست‌خورده که فقط در یک جهت حرکت می‌کند - به سمت پایین!
+
+
+🔴کوبا درخواست کمک می‌کند و ما قرار است صحبت کنیم!!!
+
+
+🔴در این میان، من به چین می‌روم!
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 15:24
 ---
 
