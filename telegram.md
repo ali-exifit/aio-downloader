@@ -7,6 +7,99 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 22:13
+---
+
+## mwarmonitor — post 8992
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🛰دفتر بودجه کنگره آمریکا (CBO) برآورد کرده است که پروژه «گنبد طلایی برای آمریکا» حدود ۱.۲ تریلیون دلار هزینه خواهد داشت تا طی ۲۰ سال توسعه، استقرار و بهره‌برداری شود؛ که تنها هزینه‌های خرید و تأمین تجهیزات آن کمی بیش از ۱ تریلیون دلار برآورد شده است.
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341612
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341612_1778611430.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NOW: President Trump boards Air Force One en route to China for his high-stakes meeting with President Xi.
+</div>
+
+## IranIntlTV — post 336867
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336867_1778611431.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ هنگام خروج از کاخ سفید برای عزیمت به چین گفت فکر نمی‌کند آمریکا برای موضوع ایران به کمکی نیاز داشته باشد و افزود ایالات متحده این مسئله را یا به‌صورت مسالمت‌آمیز یا به شکلی دیگر حل خواهد کرد.
+
+ترامپ تاکید کرد جمهوری اسلامی از نظر نظامی شکست خورده و یا «کار درست را انجام خواهد داد» یا آمریکا «کار را تمام خواهد کرد».
+https://iranintl.com/202605129211
+</div>
+
+## IranIntlTV — post 336866
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336866_1778611432.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+۲۴ با فرداد فرحزاد
+@iranintltv
+</div>
+
+## FarsiVOA — post 217560
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217560_1778611433.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+امیر چاهکی در برنامه تفسیر خبر: چاره‌ای جز توافق وجود ندارد
+</div>
+
+## FarsiVOA — post 217559
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گفت‌و‌گو با پگی چانگ از بخش چینی صدای آمریکا درباره مهمترین موضوعات احتمالی که در دیدار پرزیدنت ترامپ و شی چین‌پینگ در جریان سفر پیش روی رئیس جمهوری آمریکا به چین مطرح خواهد شد.
+</div>
+
+## IranianMinds — post 20034
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ حرکت کرد به سمت چین
+
+@IranianMinds
+</div>
+
+## alonews — post 119565
+
+<div align="center">
+  <a href="telegram/content/alonews_119565_1778611434.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ امریکا رو به مقصد چین ترک کرد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119564
+
+<div align="center">
+  <a href="telegram/content/alonews_119564_1778611434.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈رویترز: عربستان سعودی در جریان جنگ، یک سری حملات تلافی‌جویانه بدون اطلاع‌رسانی علیه ایران انجام داده است،ارزیابی می‌شود که این حملات در اواخر مارس انجام شده‌اند. 
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 22:04
 ---
 
