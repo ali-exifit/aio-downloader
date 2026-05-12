@@ -7,6 +7,21 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 03:43
+---
+
+## FoxNewsTwitter — post 341566
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341566_1778544821.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH LIVE: President Trump hosts a Rose Garden Club dinner https://twitter.com/i/broadcasts/1yxBeMavvObJN
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 03:33
 ---
 
