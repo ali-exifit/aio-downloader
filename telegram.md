@@ -7,6 +7,109 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 20:46
+---
+
+## VahidOOnLine — post 239750
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239750_1778606170.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دادگاه کیفری عالی بحرین سه نفر از جمله یک زن را به اتهام «همکاری» با جمهوری اسلامی به حبس ابد محکوم کرد.
+دادستان‌ها اعلام کردند این زن در «ارتباط» با سپاه پاسداران بوده و قصد داشته «اقدامات تروریستی خصمانه» در بحرین انجام دهد.
+در پرونده‌های جداگانه، ۱۰ نفر دیگر به اتهام «حمایت و تایید حملات تروریستی جمهوری اسلامی علیه بحرین»، انتشار اطلاعات ممنوع و عکسبرداری از اماکن ممنوعه، به احکام حبس تا ۱۰ سال محکوم شدند.
+
+پیش‌تر نیز وزارت کشور بحرین اعلام کرد دستگاه‌های امنیتی این کشور یک تشکیلات مرتبط با سپاه پاسداران و تفکر «ولایت فقیه» را شناسایی کرده‌اند و ۴۱ نفر از اعضای آن را بازداشت کرده‌اند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341601
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341601_1778606171.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: Secretary of War Hegseth clashes with Sen. Chris Coons over claims of a looming "strategic loss" in the Middle East as America’s fragile ceasefire with Iran continues to hold.
+
+COONS: "My concern, Mr. Secretary, is that you've achieved a series of tactical successes, but are on the verge of a strategic loss..."
+
+HEGSETH: "I just think it's so foolish. Here we are in a committee in the United States Senate, 74 days in, and you're talking about ‘strategic loss’?"
+
+"We have the ability to defeat a 47-year threat of a pursuit of a nuclear weapon. We have more leverage than we've ever had. We've had incredible battlefield successes. And you're talking about a ‘strategic loss’?”
+</div>
+
+## FoxNewsTwitter — post 341600
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341600_1778606174.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: Kevin Warsh clears the Senate to take a seat back on the Federal Reserve's Board of Governors — and now the spotlight shifts to the Fed’s top job.
+
+Trump’s pick was confirmed 51–45, pushing past early doubts about whether he had the votes.
+
+The Senate is expected to fully confirm Warsh on Wednesday, ending months of high-stakes drama over his Fed nomination to replace Chair Jerome Powell, whose term is set to end May 15.
+</div>
+
+## kianmeli1 — post 87363
+
+<div align="center">
+  <a href="telegram/content/kianmeli1_87363_1778606175.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴تصاویر ماهواره‌ای جدید منتشر شده از پایگاه هوایی پرنس سلطان در عربستان سعودی نشان می‌دهد که تعداد زیادی هواپیما (به احتمال زیاد از نوع F-16) در این پایگاه مستقر شده‌اند. به نظر می‌رسد عربستان سعودی محدودیت‌های خود را علیه «پروژه آزادی» مرتبط با دونالد ترامپ برداشته است و حداقل ۵۳ فروند جنگنده F-16 در این پایگاه حضور دارند.
+https://t.me/kianmeli1
+</div>
+
+## IranIntlTV — post 336853
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336853_1778606176.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+در حالی‌ که گزارش‌ها از جدی‌تر شدن بررسی گزینه‌های نظامی جدید آمریکا علیه جمهوری اسلامی خبر می‌دهند، دونالد ترامپ گفت منتظر فروپاشی اقتصادی ایران در اثر محاصره دریایی است.
+
+گفت‌وگو با فرشته پزشک، کارشناس روابط بین‌الملل
+@iranintltv
+</div>
+
+## IranIntlTV — post 336852
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336852_1778606179.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دادگاه کیفری عالی بحرین سه نفر از جمله یک زن را به اتهام «همکاری» با جمهوری اسلامی به حبس ابد محکوم کرد.
+دادستان‌ها اعلام کردند این زن در «ارتباط» با سپاه پاسداران بوده و قصد داشته «اقدامات تروریستی خصمانه» در بحرین انجام دهد.
+در پرونده‌های جداگانه، ۱۰ نفر دیگر به اتهام «حمایت و تایید حملات تروریستی جمهوری اسلامی علیه بحرین»، انتشار اطلاعات ممنوع و عکسبرداری از اماکن ممنوعه، به احکام حبس تا ۱۰ سال محکوم شدند.
+
+پیش‌تر نیز وزارت کشور بحرین اعلام کرد دستگاه‌های امنیتی این کشور یک تشکیلات مرتبط با سپاه پاسداران و تفکر «ولایت فقیه» را شناسایی کرده‌اند و ۴۱ نفر از اعضای آن را بازداشت کرده‌اند.
+https://iranintl.com/202605122799
+</div>
+
+## alonews — post 119536
+
+<div align="center">
+  <a href="telegram/content/alonews_119536_1778606179.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈بیانیه دولت بریتانیا: ما پهپادها، جت‌های جنگنده و یک ناو جنگی را به ماموریت چندملیتی برای تأمین امنیت تنگه هرمز اعزام خواهیم کرد
+
+
+🔴کمک ما شامل تجهیزات مین‌یاب خودکار، جت‌های جنگنده تایفون و یک کشتی جنگی خواهد بود.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 20:38
 ---
 
