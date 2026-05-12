@@ -40,17 +40,16 @@ jobs:
         id: pkg
         run: |
           INPUT="${{ inputs.app }}"
-          # If the input looks like a URL, extract the 'id' query parameter
           if echo "$INPUT" | grep -qE '^https?://'; then
             PACKAGE=$(echo "$INPUT" | grep -oP '(?<=id=)[^&]*')
             if [ -z "$PACKAGE" ]; then
               echo "Error: Could not extract package name from URL"
               exit 1
             fi
-            echo "Extracted package: $PACKAGE"
+            echo "Extracted: $PACKAGE"
           else
             PACKAGE="$INPUT"
-            echo "Using raw package name: $PACKAGE"
+            echo "Using raw: $PACKAGE"
           fi
           echo "package=$PACKAGE" >> $GITHUB_OUTPUT
 
@@ -88,7 +87,6 @@ jobs:
           echo "Running: $CMD"
           $CMD
 
-          # Verify at least one file was downloaded
           if [ -z "$(ls -A "$DOWNLOAD_DIR" 2>/dev/null)" ]; then
             echo "Error: No files downloaded"
             exit 1
@@ -99,27 +97,27 @@ jobs:
       - name: Archive each downloaded file (split ZIP)
         run: |
           DOWNLOAD_DIR="${{ steps.download.outputs.download_dir }}"
-          UPLOAD_DIR="google-play"
+          UPLOAD_DIR="${{ github.workspace }}/google-play"   # ← Absolute, robust path
           mkdir -p "$UPLOAD_DIR"
 
-          # Generate a 5‑letter random string on the spot (avoid duplicates)
-          RNDSTR=$(cat /dev/urandom | tr -dc 'a-z' | fold -w 5 | head -n 1)
+          # Create unique random suffix (5 letters)
+          RNDSTR=$(tr -dc 'a-z' < /dev/urandom | head -c5)
 
-          cd "$DOWNLOAD_DIR"
           shopt -s nullglob
-          files=(*)
-          if [ ${#files[@]} -eq 0 ]; then
-            echo "No files to process."
-            exit 1
-          fi
-
-          for file in "${files[@]}"; do
-            if [ -f "$file" ]; then
-              echo "→ Archiving $file"
-              # Append the random string to the file name, BEFORE the .zip extension
-              zip -j -s 99m -r "../$UPLOAD_DIR/${file}_${RNDSTR}.zip" "$file"
+          file_found=false
+          for f in "$DOWNLOAD_DIR"/*; do
+            if [ -f "$f" ]; then
+              file_found=true
+              base=$(basename "$f")
+              echo "→ Archiving $base"
+              zip -j -s 99m "$UPLOAD_DIR/${base}_${RNDSTR}.zip" "$f"
             fi
           done
+
+          if [ "$file_found" = false ]; then
+            echo "Error: No regular files in $DOWNLOAD_DIR"
+            exit 1
+          fi
 
       - name: Cleanup temporary download directory
         run: rm -rf "${{ steps.download.outputs.download_dir }}"
