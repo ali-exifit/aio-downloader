@@ -7,6 +7,64 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 01:54
+---
+
+## VahidOOnLine — post 239807
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239807_1778624659.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️دونالد ترامپ، رئیس‌جمهوری ایالات متحده، بعدازظهر سه‌شنبه، ۲۲ اردیبهشت‌‌ماه، سفر چندروزه خود را برای دیدار با شی جین‌پینگ، رئیس جمهوری چین آغاز کرد. انتظار می‌رود خاورمیانه و پیامدهای اقتصادی مربوط به جنگ، از محورهای اصلی گفتگوها میان دو رهبر باشد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## Persian_Trend_Official — post 14020
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_14020_1778624661.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ بنیامین نتانیاهو:
+
+تنها کسی که رئیس موساد را منصوب می‌کند، نخست وزیر است. رومن توسط من به عنوان رئیس بعدی موساد کشور اسرائیل انتخاب شد - و او موساد را از قدرتی به قدرت دیگر رهبری خواهد کرد.
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 14019
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_14019_1778624663.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ ویدئو منتشر شده در اینستاگرام بنیامین نتانیاهو:
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## alonews — post 119631
+
+<div align="center">
+  <a href="telegram/content/alonews_119631_1778624665.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈تهران امشب رو ویبره بود
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 01:44
 ---
 
