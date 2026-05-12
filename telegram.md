@@ -7,6 +7,351 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 23:54
+---
+
+## VahidOOnLine — post 239788
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239788_1778617456.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️وزارت امور خارجه جمهوری اسلامی روز سه‌شنبه ۲۲ اردیبهشت، بازداشت چهار نفر توسط کویت را که گفته می‌شود با سپاه پاسداران در ارتباط هستند، محکوم کرد. این وزارتخانه اعلام کرد که این افراد در حال گشت‌زنی دریایی بوده‌اند و تنها به دلیل «اختلال در سیستم ناوبری» وارد آب‌های سرزمینی این کشور حوزه خلیج فارس شده‌اند.
+
+همچنین وزارت خارجه جمهوری اسلامی اظهارات مقامات کویتی مبنی بر برنامه‌ریزی ایران برای انجام «اقدامات خصمانه» علیه این کشور را به شدت رد کرد. این تنش دیپلماتیک در حالی رخ می‌دهد که امنیت دریانوردی در منطقه به موضوعی حساس تبدیل شده است.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 9001
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تهران یه بچه زلزله امده
+</div>
+
+## mwarmonitor — post 9000
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸خبرنگار: تالار پذیرایی شما چه تفاوتی با بقیه دارد؟ 🔹دونالد ترامپ: اتفاقی که افتاده این است که ما یک تالار پذیرایی داریم که هزینه‌اش کمتر از بودجه پیش‌بینی شده بوده، دقیقاً همین‌جا در حال ساخت است. من اندازه‌اش را دو برابر کردم چون مسلماً به آن نیاز داریم.…
+</div>
+
+## farsi_fox_news — post 89269
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+زلزله در تهران
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89268
+
+<div align="center">
+  <a href="telegram/content/farsi_fox_news_89268_1778617457.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎥 ترامپ: رهبران ایران یا کار درست را انجام خواهند داد، یا ما کار را تمام خواهیم کرد
+
+🔹ترامپ پس از گفتگو با خبرنگاران، برای سفری چند روزه به چین رفت
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89267
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ می‌گوید قصد تغییر پاکستان به عنوان میانجی مذاکرات ایران را ندارد
+
+🔹رئیس‌جمهور آمریکا در پاسخ به سوال یک خبرنگار مبنی بر اینکه آیا قصد ندارد در انتخاب پاکستان به عنوان میانجی در مذاکرات ایران تجدیدنظر کند گفت؛ نه آنها فوق‌العاده هستند.
+🌐 @farsi_fox_news
+</div>
+
+## FoxNewsTwitter — post 341616
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341616_1778617458.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+100 Days Missing.
+
+Nancy Guthrie, 84, has now been missing for 100 days after investigators say she was abducted from her Tucson-area home. Authorities say the investigation remains active, though no major new leads have been announced.
+
+Pima County Sheriff Chris Nanos has faced sharp criticism over his handling of the case — including from FBI Director Kash Patel, who alleged the sheriff’s office delayed the FBI's involvement in the investigation. Nanos is facing calls from local officials to vacate his office amid unrelated misconduct allegations.
+
+A combined reward of more than $1.2M remains unclaimed. The family is urging anyone with information to call 1-800-CALL-FBI.
+</div>
+
+## pm_afshaa — post 90650
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90650_1778617458.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴زلزله نسبتا شدید در تهران
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## VahidOnline — post 75435
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وحید تهران لرزید
+
++ ده‌ها پیام دریافتی مشابه درباره زمین‌لرزه
+
+بیشتر پیام‌ها از شرق و شمال شرق تهرانه.
+حدود سه ساعت پیش هم حوالی پردیس و بومهن در شرق استان تهران زمین‌‌لرزه خفیف‌تری حس شده بود.
+
+📡 @VahidOnline
+</div>
+
+## IranIntlTV — post 336880
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336880_1778617459.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+هم‌زمان با سفر ترامپ به چین، گزارش‌ها حاکی است جمهوری اسلامی از پکن خواسته پیام‌های خود را به واشینگتن منتقل کند و چین را به‌عنوان ضامن احتمالی هر توافق آینده مطرح کرده است. سفیر ایران در چین نیز گفته پکن با ارائه طرح‌های صلح و رایزنی‌های منطقه‌ای تلاش دارد مسیر گفت‌وگوها را باز نگه دارد.
+
+گفت‌وگو با آرام حسامی، استاد علوم سیاسی کالج مونتگومری
+
+@iranintltv
+</div>
+
+## Shin_Persian — post 5977
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Tue, 12 May 2026 20:17:27 UTC
+
+Quake in Tehran right now.
+
+فارسی
+
+هم‌اکنون زلزله در تهران.
+
+𝕏 · @shin_persian
+</div>
+
+## FarsiVOA — post 217575
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️دونالد ترامپ، رئیس جمهوری آمریکا، روز سه‌شنبه ۲۲ اردیبهشت پیش از ترک آمریکا به مقصد چین، به پرسش‌های خبرنگاران پاسخ داد.
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217574
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺بیش از ۱۱۰ برنده جایزه نوبل خواستار آزادی فوری نرگس محمدی شدند
+
+▪️بیش از ۱۱۰ برنده جایزه نوبل در بیانیه‌ای مشترک خواستار آزادی فوری و بدون قید و شرط نرگس محمدی، فعال حقوق بشر و برنده ایرانی جایزه صلح نوبل، شدند، و نسبت به وضعیت جسمانی او در زندان ابراز نگرانی شدید کردند.
+
+⬇️ بیشتر بخوانید:
+https://ir.voanews.com/a/nobel-laureates-narges-mohammadi-release/8149256.html
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 14009
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خب دیگه بلا های آسمانی هم سر شوخی رو با مردم ایران باز کردن 🤦🏻‍♂️
+
+📝 Nick
+</div>
+
+## Persian_Trend_Official — post 14008
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴زلزله در تهران احساس شد 🫆:Tony 📌 @persian_trend_official پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 14007
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴زلزله در تهران احساس شد
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 20040
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 زلزله نسبتا شدیدی در تهران رخ داد @IranianMinds
+</div>
+
+## IranianMinds — post 20039
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_20039_1778617460.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 شاهزاده رضا پهلوی از استراتژی ترامپ درباره ایران انتقاد کرد:
+
+از یک سو می‌گوید مردم باید قیام کنند و از سوی دیگر می‌گوید صبر کنید، ما در حال مذاکره هستیم. این موضوع همه را کاملاً گیج کرده است.
+
+نمی‌توان پیام‌های متناقض فرستاد.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20038
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 زلزله نسبتا شدیدی در تهران رخ داد
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20037
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20037_1778617462.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ۷۴ روزه که اینترنت توسط جمهوری اسلامی قطع شده
+
+میلیون ها کسب و کار نابود شدن و میلیون ها نفر از نون خوردن افتادن ، در‌ حالی که جمهوری اسلامی با فروش اینترنت پرو داره درآمد برا خودش قطع میکنه و از این سود میبره …
+
+@IranianMinds
+</div>
+
+## BBCPersian — post 280880
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻کایا کالاس، مسئول سیاست خارجی اتحادیه اروپا، گفت این اتحادیه ممکن است مأموریت دریایی خود در دریای سرخ را پس از پایان جنگ ایران، به تنگه هرمز نیز گسترش دهد.
+
+مأموریت اتحادیه اروپا در سال ۲۰۲۴ برای حفاظت از کشتیرانی در دریای سرخ، یکی دیگر از آبراه‌های مهم خاورمیانه، در برابر حملات حوثی‌های یمن آغاز شد.
+
+خانم کالاس پس از نشست وزیران دفاع اتحادیه اروپا گفت عملیات اتحادیه اروپا هم‌اکنون نقش مهمی در حفاظت از کشتیرانی در دریای سرخ دارد و فعالیت‌های آن می‌تواند به تنگه هرمز هم گسترش یابد.
+
+او افزود که برخی کشورها از هم‌اکنون وعده داده‌اند کشتی‌های بیشتری در اختیار این مأموریت قرار دهند و این موضوع می‌تواند در صورت تصمیم برای گسترش دامنه عملیات، کمک‌کننده باشد.
+
+وزیران دفاع اتحادیه اروپا در ماه گذشته میلادی در ابتدا پیشنهاد گسترش مأموریت دریای سرخ را رد کرده بودند.
+
+به نظر می‌رسد مذاکرات میان آمریکا و ایران برای پایان دادن به جنگ خاورمیانه و بازگشایی این آبراه حیاتی، متوقف شده است.
+
+انسداد تنگه هرمز از سوی ایران باعث افزایش قیمت جهانی انرژی شده است.
+@BBCPersian
+</div>
+
+## BBCPersian — post 280879
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻دونالد ترامپ، رئیس‌جمهوری آمریکا پیش از عزیمت به چین گفت که برای پایان دادن به جنگ با ایران به کمک این کشور نیازی ندارد.
+
+آقای ترامپ در عین حال اعلام کرد که در جریان نشست این هفته خود با شی جین‌پینگ، رئیس‌جمهور چین گفت‌وگویی مفصل خواهد داشت.
+
+چین یکی از مهم‌ترین شرکای اقتصادی ایران است و بخش بزرگی از صادرات نفت این کشور را خریداری می‌کند. پکن همچنین از حامیان مهم ایران است.
+
+آقای ترامپ تأکید کرد که برای یافتن راه خروج از درگیری‌ای که دو ماه و نیم پیش با حمله گسترده آمریکا و اسرائیل آغاز شد و سپس بر سر کنترل مسیر کشتیرانی تنگه هرمز به بن‌بست رسید، به شی جین‌پینگ نیازی ندارد.
+
+آقای ترامپ گفت: «موضوعات زیادی برای گفت‌وگو داریم. راستش را بخواهید، نمی‌گویم ایران یکی از آنهاست، چون ما ایران را کاملا تحت کنترل داریم.»
+
+او افزود: «یا به توافق می‌رسیم یا آنها نابود خواهند شد.»
+
+در حالی که گزارش‌هایی منتشر شده مبنی بر این‌که چین همچنان به تسلیح ایران کمک می‌کند و نفت تحریم‌شده ایران را می‌خرد، آقای ترامپ گفت شی جین‌پینگ «نسبتا خوب» عمل کرده است.
+@BBCPersian
+</div>
+
+## BBCPersian — post 280878
+
+<div align="center">
+  <a href="https://t.me/bbcpersian/280878" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+این نسخه رادیویی برنامه شصت دقیقه تلویزیون فارسی بی‌بی‌سی است که هرشب بعد از پخش، با حجم کم از اپلیکیشن‌های پادگیر و صفحه تلگرام بی‌بی‌سی فارسی در دسترس است. 
+با هشتگ BBCPersianRadio با ما در ارتباط باشید.
+</div>
+
+## Dirty_Kids — post 389340
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 فوری: وسط این همه بگایی تهران زلزله اومد!
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389339
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389339_1778617463.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+واکنش شهبازی (اسکل نظام) به وضعیت اینترنت مردم ایران و کشورهای منطقه: اگه خیلی این چیزها مهمه، برید همون افغانستان و سوریه زندگی کنید! هاهاهاها + هاهاها و ک...خر @Dirty_Kids 👻
+</div>
+
+## alonews — post 119602
+
+<div align="center">
+  <a href="telegram/content/alonews_119602_1778617463.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈فعلا بزرگی زلزله تهران مشخص نیست و لرزه پردیس برای چندساعت قبل است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119601
+
+<div align="center">
+  <a href="telegram/content/alonews_119601_1778617463.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴فوری/زلزله در تهران 
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119600
+
+<div align="center">
+  <a href="telegram/content/alonews_119600_1778617463.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈سی‌ان‌ان: اسرائیل نگران است ترامپ ممکنه قبل از حل کامل مسائل اصلی جنگ، با ایران به یه توافق سریع برسه
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119598
+
+<div align="center">
+  <a href="telegram/content/alonews_119598_1778617463.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴فوری/زلزله در تهران
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 23:44
 ---
 
