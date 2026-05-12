@@ -7,6 +7,190 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 16:24
+---
+
+## VahidOOnLine — post 239698
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239698_1778590445.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ دونالد ترامپ، رئیس‌جمهوری آمریکا، روز سه‌شنبه ۲۲ اردیبهشت‌ماه، با انتشار پیامی در شبکه اجتماعی «تروث سوشال» و در آستانه سفر به پکن نوشت: «هیچ جمهوری‌خواهی تاکنون درباره کوبا با من صحبت نکرده است؛ کشوری شکست‌خورده که فقط در یک مسیر حرکت می‌کند: سقوط!»
+
+ترامپ در ادامه افزود: «کوبا درخواست کمک کرده و ما گفتگو خواهیم کرد!!! در همین حال، من عازم چین هستم!»
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239697
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239697_1778590445.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خبرگزاری تسنیم، وابسته به سپاه پاسداران، از شکایت جمهوری اسلامی علیه آمریکا به دیوان داوری لاهه خبر داد.
+
+این رسانه وابسته به سپاه، «تجاوز نظامی به تاسیسات هسته‌ای»، «اعمال تحریم‌های اقتصادی» و «تهدید به توسل به زور» را از موضوعات این شکایت عنوان کرد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341581
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341581_1778590446.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+President Trump announcing plans to move toward suspending the federal gasoline tax as the Iran war continues to drive up energy costs.
+
+The president noting that while the current ceasefire is "on life support," the tax pause is necessary to provide immediate financial relief to American families.
+</div>
+
+## FoxNewsTwitter — post 341580
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341580_1778590446.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: Tensions in the Middle East are rising as Iran warns it is ready to respond to any aggression after President Trump dismissed its response to a U.S. peace proposal and suggested the ongoing ceasefire is close to collapse.
+
+Military preparations are increasing across the region amid conflicting claims and reports of recent strikes, @TreyYingst reports.
+</div>
+
+## FoxNewsTwitter — post 341579
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌Fox News (Twitter/X)
+
+https://www.foxbusiness.com/economy/cpi-inflation-april-2026
+</div>
+
+## FoxNewsTwitter — post 341578
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: Inflation jumps to 3.8%, highest increase since 2023, feds report
+</div>
+
+## pm_afshaa — post 90621
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت خارجه کویت: ما از ایران می‌خواهیم که فوراً و بدون قید و شرط اقدامات غیرقانونی و خصمانه خود را که امنیت منطقه را تهدید می‌کند، متوقف کند
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90620
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴فیدان : به خاطر جهان، تنگه هرمز باید باز شود
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 336815
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336815_1778590448.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خبرگزاری تسنیم، وابسته به سپاه پاسداران، از شکایت جمهوری اسلامی علیه آمریکا به دیوان داوری لاهه خبر داد.
+
+این رسانه وابسته به سپاه، «تجاوز نظامی به تاسیسات هسته‌ای»، «اعمال تحریم‌های اقتصادی» و «تهدید به توسل به زور» را از موضوعات این شکایت عنوان کرد.
+https://iranintl.com/202605122290
+</div>
+
+## DW_Farsi — post 124601
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📸 مروری بر مهم‌ترین حضورهای ایران در جشنواره سینمایی کن
+
+هم‌زمان با آغاز جشنواره فیلم کن ۲۰۲۶ و نمایش دو فیلم ایرانی "داستان‌های موازی" ساخته اصغر فرهادی و "تمرین‌هایی برای یک انقلاب" به کارگردانی پگاه آهنگرانی، نگاهی داریم به مهم‌ترین فیلم‌های ایرانی که در سال‌های گذشته در این جشنواره حضور داشته‌اند.
+
+از نخل طلای "طعم گیلاس" عباس کیارستمی تا موفقیت‌های اصغر فرهادی، جعفر پناهی و محمد رسول‌اف، سینمای ایران بارها در کن دیده شده و جوایز مهمی به دست آورده است.
+
+این گالری مروری است بر فیلم‌ها، بازیگران و لحظه‌هایی که نام ایران را در یکی از مهم‌ترین جشنواره‌های سینمایی جهان ماندگار کردند.
+
+@dw_farsi
+</div>
+
+## alonews — post 119498
+
+<div align="center">
+  <a href="telegram/content/alonews_119498_1778590449.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈انفجار در پالایشگاه نفت در اوکلاهما، آمریکا
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119497
+
+<div align="center">
+  <a href="telegram/content/alonews_119497_1778590451.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈هگست : اگه لازم باشه، برای تشدید درگیری با ایران یه برنامه داریم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119496
+
+<div align="center">
+  <a href="telegram/content/alonews_119496_1778590451.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈پیت هگست، وزیر جنگ آمریکا : ما داریم یه ارتش رو دوباره می‌سازیم که مردم آمریکا بهش افتخار کنن
+
+
+🔴 ارتشی که تو دل دشمن‌ها چیزی جز ترس بی‌وقفه نمی‌ندازه و به متحدها هم اعتمادبه‌نفس می‌ده
+
+
+🔴 ما تو هر سناریویی برای بردن می‌جنگیم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119495
+
+<div align="center">
+  <a href="telegram/content/alonews_119495_1778590451.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈دبیرکل ناتو مارک روته: من به آینده ناتو بسیار خوشبین هستم به خاطر رئیس‌جمهور ترامپ
+
+
+🔴می‌توان استدلال کرد که ناتو در حال حاضر بسیار قوی است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 16:14
 ---
 
