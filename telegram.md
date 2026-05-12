@@ -7,6 +7,20 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 07:53
+---
+
+## IranIntlTV — post 336747
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336747_1778559839.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سرخط خبرهای سه‌شنبه ۲۲ اردیبهشت
+@iranintltv
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 07:44
 ---
 
