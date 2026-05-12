@@ -1,4 +1,3 @@
----
 name: direct-downloader
 
 on:
@@ -32,70 +31,114 @@ jobs:
           # Replace commas and newlines with spaces, then clean up
           URLS=$(echo "$URLS_INPUT" | tr ',' ' ' | tr '\n' ' ' | tr -s ' ' | sed 's/^ *//;s/ *$//')
           if [ -z "$URLS" ]; then
-            echo "No URLs provided." >&2
+            echo "❌ No URLs provided." >&2
             exit 1
           fi
           echo "$URLS" | tr ' ' '\n' > urls.txt
-          echo "URLs to download:"
+          echo "✅ Parsed URLs:"
           cat urls.txt
           NUM=$(wc -l < urls.txt)
+          echo "🔢 Total URLs to process: $NUM"
           echo "NUM_URLS=$NUM" >> $GITHUB_OUTPUT
 
       - name: Download and zip each file
         run: |
           mkdir -p direct
+          total=$(wc -l < urls.txt)
           index=0
+          success_count=0
+          fail_count=0
+          failed_urls=""
+          echo "⏬ Starting downloads for $total URL(s)..."
+
           while IFS= read -r url; do
             index=$((index + 1))
-            echo "----------------------------------------"
-            echo "Processing URL $index: $url"
+            echo ""
+            echo "=============================="
+            echo "📦 Processing URL $index of $total"
+            echo "🌐 $url"
+            echo "=============================="
 
-            # Download into a unique temporary folder for this URL
+            # Create a unique temporary download folder
             DL_DIR="dl_$index"
             mkdir -p "$DL_DIR"
-            aria2c -x 16 -s 16 -d "$DL_DIR" --console-log-level=warn --summary-interval=10 "$url"
 
-            # Get the downloaded filename (there will be exactly one file)
-            DL_FILE=$(ls -1 "$DL_DIR" | head -n1)
-            if [ -z "$DL_FILE" ]; then
-              echo "Download failed or no file found for $url"
+            echo "📥 Downloading..."
+            if ! aria2c -x 16 -s 16 -d "$DL_DIR" --console-log-level=warn --summary-interval=10 "$url"; then
+              echo "❌ Download failed for this URL. Skipping to the next one."
               rm -rf "$DL_DIR"
+              fail_count=$((fail_count + 1))
+              failed_urls="$failed_urls\n  [$index] $url"
               continue
             fi
-            echo "Downloaded: $DL_FILE"
+            echo "✅ Download completed."
 
-            # Generate a random 5-letter string (lowercase a-z)
+            # Identify the downloaded file
+            DL_FILE=$(ls -1 "$DL_DIR" | head -n1)
+            if [ -z "$DL_FILE" ]; then
+              echo "❌ Could not find the downloaded file. Skipping."
+              rm -rf "$DL_DIR"
+              fail_count=$((fail_count + 1))
+              failed_urls="$failed_urls\n  [$index] $url"
+              continue
+            fi
+            echo "📄 Downloaded file: $DL_FILE"
+
+            # Generate a random 5‑letter suffix and final zip name
             RAND5=$(tr -dc 'a-z' </dev/urandom | head -c5)
-
-            # Append the random string before the final .zip extension
             ZIP_BASE="${DL_FILE}_${RAND5}"
             ZIP_NAME="${ZIP_BASE}.zip"
-            echo "ZIP output: $ZIP_NAME"
+            echo "🎲 Random suffix added: $RAND5"
+            echo "📦 ZIP output name: $ZIP_NAME"
 
-            # Create temporary folder to hold only this file
+            # Prepare a temporary directory for zipping
             TMPZIP="tmpzip_$index"
             mkdir -p "$TMPZIP"
             cp "$DL_DIR/$DL_FILE" "$TMPZIP/"
 
-            # Create split zip with the file at the archive root
-            (cd "$TMPZIP" && zip -s 99m "../direct/${ZIP_NAME}" "$DL_FILE")
+            echo "🗜️ Creating split ZIP archive (99 MB parts)..."
+            if ! (cd "$TMPZIP" && zip -s 99m "../direct/${ZIP_NAME}" "$DL_FILE"); then
+              echo "❌ Zipping failed. Skipping this URL."
+              rm -rf "$DL_DIR" "$TMPZIP"
+              fail_count=$((fail_count + 1))
+              failed_urls="$failed_urls\n  [$index] $url"
+              continue
+            fi
+            echo "✅ ZIP created: ${ZIP_NAME} (and split parts if any)"
 
-            # Cleanup
+            # Clean up temporary folders
             rm -rf "$DL_DIR" "$TMPZIP"
+            success_count=$((success_count + 1))
+            echo "🎉 URL $index processed successfully!"
+
           done < urls.txt
+
+          # Final summary
+          echo ""
+          echo "=================================="
+          echo "📊 DOWNLOAD SUMMARY"
+          echo "=================================="
+          echo "✅ Successfully processed: $success_count URL(s)"
+          echo "❌ Failed: $fail_count URL(s)"
+          if [ $fail_count -gt 0 ]; then
+            echo "🔻 Failed URLs:"
+            echo -e "$failed_urls"
+          fi
+          echo "=================================="
 
       - name: Upload to direct folder
         env:
           BRANCH: ${{ github.ref_name }}
         run: |
+          if [ -z "$(ls -A direct/)" ]; then
+            echo "📭 No files to upload (all downloads failed or produced no output)."
+            exit 0
+          fi
+
+          echo "📤 Uploading files to repository..."
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git config http.postBuffer 524288000
-
-          if [ -z "$(ls -A direct/)" ]; then
-            echo "No files to upload."
-            exit 0
-          fi
 
           git add direct/
           COMMIT_MSG="Add: $(ls -1 direct/ | tr '\n' ' ' | sed 's/ *$//') [skip ci]"
@@ -103,12 +146,18 @@ jobs:
 
           RETRIES=5
           for i in $(seq 1 $RETRIES); do
-            echo "Push attempt $i..."
+            echo "🔁 Push attempt $i of $RETRIES..."
             git pull --rebase --autostash origin "$BRANCH"
             if git push origin "$BRANCH"; then
-              echo "Push succeeded."
+              echo "✅ Push succeeded!"
               break
             else
-              [ $i -lt $RETRIES ] && sleep 3 || exit 1
+              if [ $i -lt $RETRIES ]; then
+                echo "⏳ Push failed, retrying in 3 seconds..."
+                sleep 3
+              else
+                echo "❌ Push failed after $RETRIES attempts."
+                exit 1
+              fi
             fi
           done
