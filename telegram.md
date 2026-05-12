@@ -7,6 +7,51 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 05:34
+---
+
+## VahidOOnLine — post 239623
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239623_1778551461.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️علی‌اکبر ولایتی، از مشاوران رهبر جمهوری اسلامی با اشاره به سفر دونالد ترامپ به چین، ادعا کرد که رئیس‌جمهوری آمریکا نمی‌تواند نبود درگیری مستقیم میان آمریکا و ایران در حال حاضر را نشانه پیروزی تلقی کند.
+به گزارش تسنیم ولایتی گفت: «آقای ترامپ، هرگز تصور نکنید که با سوءاستفاده از آرامش کنونی ایران، خواهید توانست پیروزمندانه وارد پکن شوید.»
+او افزود: «ما شما را در میدان نبرد شکست دادیم؛ بنابراین هرگز فکر نکنید که در عرصه دیپلماسی نیز پیروز خواهید شد.»
+ترامپ روز دوشنبه گفت آتش‌بس یک‌ماهه میان آمریکا و ایران «فقط با دستگاه زنده نگه داشته شده است.»
+از زمان اجرایی شدن آتش‌بس، هم رژیم ایران و هم آمریکا در تنگه هرمز به‌سوی یکدیگر شلیک کرده‌اند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341570
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341570_1778551462.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+A hero K-9 named Boomer saved the day after successfully tracking down a "missing and endangered" 96-year-old man, who was eventually found in the woods in Lutz, Florida.
+</div>
+
+## IranIntlTV — post 336733
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336733_1778551466.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حسین افشین، معاون علمی و فناوری مسعود پزشکیان، در مصاحبه‌ای، ضمن اشاره به اینکه حتی در زمان جنگ هم بستن اینترنت نمی‌تواند راهکار باشد، گفت: «دیدیم وقتی اینترنت کاملا بسته بود، ترورها [هنوز] وجود داشت.»
+
+نت‌بلاکس، نهاد ناظر بر اختلال‌های اینترنتی، دوشنبه اعلام کرد قطعی اینترنت وارد هفتادوسومین روز خود شده است.
+
+بر اساس این گزارش، دسترسی آزاد به اینترنت حقی است که زیربنای همه آزادی‌های دیگر به شمار می‌رود و محرومیت از آن، توانایی مردم برای مستندسازی و رسیدگی به نقض‌های بنیادین حقوق بشر را به‌شدت محدود می‌کند.
+@iranintltv
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 05:24
 ---
 
