@@ -7,6 +7,146 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 17:04
+---
+
+## VahidOOnLine — post 239708
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239708_1778592842.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک مقام ارشد پنتاگون سه‌شنبه اعلام کرد که جنگ آمریکا در ایران تاکنون ۲۹ میلیارد دلار هزینه داشته است؛ رقمی که نسبت به برآورد ارائه‌شده در اواخر ماه گذشته، چهار میلیارد دلار افزایش یافته است.
+
+او افزود که این هزینه شامل تعمیر و جایگزینی به‌روزشده تجهیزات و هزینه‌های عملیاتی است.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## DEJradio — post 4591
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4591_1778592843.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨
+🔸 افزایش شمار اعدام‌ها در جمهوری اسلامی؛ انتقام نظام از شهروندان؟
+
+گفت‌وگو با سامان گنجی، زندانی سابق کهریزک
+
+شمار اعدام‌ها در جمهوری اسلامی همچنان رو به افزایش است. اغلب این زندانیان به «ارتباط و همکاری با اسرائیل» و «محاربه» متهم شده‌اند. سامان گنجی، زندانی سیاسی جان‌به‌دربرده از کهریزک در سال ۱۳۸۸، در گفت‌وگو با «دژ» درباره هدف جمهوری اسلامی از اجرای فزاینده احکام اعدام در ایران توضیح می‌دهد.
+
+#اعدام #جمهوری_اسلامی
+@DEJradio
+</div>
+
+## mamlekate — post 103513
+
+<div align="center">
+  <img src="telegram/content/mamlekate_103513_1778592845.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📞 تهران بالاتر از چهارراه ولیعصر ۲۲ اردیبهشت ساعت ۱۲ نفربر نوپو گذاشتن!
+
+@mamlekate
+</div>
+
+## IranIntlTV — post 336819
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336819_1778592846.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک مقام ارشد پنتاگون سه‌شنبه اعلام کرد که جنگ آمریکا در ایران تاکنون ۲۹ میلیارد دلار هزینه داشته است؛ رقمی که نسبت به برآورد ارائه‌شده در اواخر ماه گذشته، چهار میلیارد دلار افزایش یافته است.
+
+او افزود که این هزینه شامل تعمیر و جایگزینی به‌روزشده تجهیزات و هزینه‌های عملیاتی است.
+https://iranintl.com/202605121080
+</div>
+
+## FarsiVOA — post 217533
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+در میدان پرسیدیم: امروز قدرت سیاسی در ایران دست کیست؟ چه کسی ایران را اداره می‌کند؟ خامنه‌ای دوم که تا به حال نه دیده و نه شنیده شده؟ سپاه پاسداران؟ مجموعه‌ای از حلقه‌ها و چهره‌های واسط یا هر کس که زورش بر دیگران می‌چربد؟
+</div>
+
+## Persian_Trend_Official — post 13981
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_13981_1778592846.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨🇺🇸🇮🇷 آخرین مقاومت سپاه پاسداران: این قایق‌ها تنها چیزی بود که برایشان باقی مانده بود.
+
+
+☆Phantom☆
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## alonews — post 119508
+
+<div align="center">
+  <a href="telegram/content/alonews_119508_1778592847.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 ترامپ: آمریکا در تماس مستقیم با مقامات ایرانی است و عجله ای برای رسیدن به توافق نداریم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119507
+
+<div align="center">
+  <a href="telegram/content/alonews_119507_1778592847.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: ما انتظار داریم اقتصاد ایران تحت فشار ناشی از محاصره بنادرش فرو بپاشد.
+
+
+🔴این مناقشه بدون نیاز به عجله حل خواهد شد و ایران با انزوایی روبرو است که آن را از منابع درآمدی محروم می‌کند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119506
+
+<div align="center">
+  <a href="telegram/content/alonews_119506_1778592847.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈پیت هگست درباره ایران: ما پیروزیم؛ در هر بخش از این درگیری که جنگیدیم، پیروز شده‌ایم.
+
+
+🔴ایران می‌داند که بر اساس تخریب فوق‌العاده توانایی‌هایشان، به همین دلیل دیدیم که آنها می‌خواستند به میز مذاکره بیایند.
+
+
+🔴چگونگی حل این موضوع بر اساس شرایط ما و شرایط رئیس‌جمهور ترامپ خواهد بود و ما تمام مهمات و توانایی‌های لازم برای تحقق این امر را داریم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119505
+
+<div align="center">
+  <a href="telegram/content/alonews_119505_1778592849.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزیر جنگ آمریکا: ما مهمات و قابلیت‌های کافی برای تضمین دستیابی به آنچه می‌خواهیم در ایران به دست آوریم، داریم.
+
+
+🔴وزارت جنگ در آمادگی کامل است و در صورت لزوم آماده اقدام علیه ایران است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 16:54
 ---
 
