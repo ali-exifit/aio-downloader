@@ -7,6 +7,43 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 05:03
+---
+
+## FoxNewsTwitter — post 341569
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341569_1778549639.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+"I love the name."
+
+President Trump says Border Czar Tom Homan told him he didn't like the president's idea to rename ICE to "NICE" to mess with the media
+</div>
+
+## FarsiVOA — post 217497
+
+<div align="center">
+  <img src="telegram/content/FarsiVOA_217497_1778549640.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️ارتش اسرائيل با صدور هشداری فوری به ساکنان روستای سحمر در لبنان، از آن‌ها خواست برای حفظ امنیت خود، فوراً خانه‌های خود را ترک کنند و دست‌کم به فاصله ۱۰۰۰ متری از روستا، به مناطق باز منتقل شوند. ارتش اسرائيل در این هشدار گفت حزب‌الله لبنان توافق آتش‌بس را نقض کرده است و «ارتش دفاعی ناچار است علیه آن با قدرت اقدام کند. ارتش قصد آسیب رساندن به شما را ندارد.» ارتش اسرائيل افزود «هر فردی که در نزدیکی عناصر حزب‌الله، تأسیسات یا تجهیزات نظامی آن‌ها حضور داشته باشد، جان خود را در معرض خطر قرار می‌دهد.»
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217496
+
+<div align="center">
+  <img src="telegram/content/FarsiVOA_217496_1778549640.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️کاخ سفید دوشنبه شب اعلام کرد که دونالد ترامپ، رئیس‌جمهوری آمریکا، در تاریخ ۵ خرداد (۲۶ مه) برای انجام معاینات سالانه پزشکی و دندان‌پزشکی خود به «مرکز پزشکی نظامی والتر رید» مراجعه می‌کند.
+@FarsiVOA
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 04:53
 ---
 
