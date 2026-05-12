@@ -7,6 +7,50 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 06:33
+---
+
+## IranIntlTV — post 336736
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336736_1778555036.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رسانه‌های اسرائیلی گزارش دادند پس از رد پاسخ تهران از سوی دونالد ترامپ، بنیامین نتانیاهو جلسه امنیتی فوری برگزار کرده است.
+
+بنابر این گزارش‌ها، نتانیاهو برای حضور در این نشست، جلسه دادگاه خود را ترک کرده است.
+
+گفت‌وگو با بن سبطی، پژوهشگر ایران و اسرائیل
+@iranintltv
+</div>
+
+## IranIntlTV — post 336735
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336735_1778555038.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت خزانه‌داری آمریکا ۱۲ فرد و نهاد مرتبط با سپاه پاسداران را به‌دلیل نقش آن‌ها در تسهیل فروش و انتقال نفت ایران به چین تحریم کرد.
+
+گفت‌وگو با فرهاد علوی، حقوقدان و کارشناس تحریم مالی و بانکی
+@iranintltv
+</div>
+
+## IranIntlTV — post 336734
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336734_1778555040.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ در کاخ سفید با تیم امنیت ملی و شماری از فرماندهان نظامی آمریکا درباره ایران گفت‌وگو کرد.
+
+براساس گزارش‌ها، در این نشست مسیر پیش‌روی جنگ با جمهوری اسلامی مورد بررسی قرار گرفت.
+
+گزارش مرضیه حسینی، خبرنگار ایران‌اینترنشنال
+@iranintltv
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 06:24
 ---
 
