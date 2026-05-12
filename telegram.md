@@ -7,6 +7,63 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 03:14
+---
+
+## VahidOOnLine — post 239817
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️محمدرضا شهبازی، مجری حکومتی، در واکنش به راه‌اندازی سرویس‌های «مسترکارت» و «ویزا کارت» در سوریه و اینترنت پرسرعت در افغانستان، همزمان با ادامه محدودیت‌های اینترنتی در ایران، گفت: «اگر این‌ها برایتان مهم است، به افغانستان و سوریه بروید.»
+این اظهارات در حالی مطرح شد که کشورهای همسایه پس از سال‌ها جنگ و بحران، در حال اتصال دوباره به زیرساخت‌های جهانی و خدمات بانکی بین‌المللی هستند. همزمان، ایران همچنان با فیلترینگ گسترده، محدودیت‌های اینترنتی و انزوای بانکی روبه‌رو است.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239816
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️وقوع هم‌زمان زمین‌لرزه‌ای به بزرگی ۴.۶ در حوالی پردیس و طوفانی شدید در پایتخت، تهران را در وضعیت اضطراری قرار داده است؛ این در حالی است که به گزارش «نت‌بلاک»، قطع اینترنت جهانی در ایران وارد هفتادوچهارمین روز خود شده و نبود دسترسی به شبکه‌های ارتباطی، اطلاع‌رسانی در این شرایط بحرانی را با اختلال جدی مواجه کرده است. به گفته سخنگوی اورژانس تهران، طوفان دست‌کم ۱۷ مصدوم بر جای گذاشته و لرزش شدید زمین که در بخش‌های وسیعی از شمال و جنوب شرق پایتخت از جمله ورامین و پاکدشت نیز احساس شده، و براساس تصاویر منتشر شده، شهروندان را به خیابان‌ها کشانده است.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341622
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341622_1778629482.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+The Justice Department reached a $30M settlement with PayPal over its 2020 $530 million "Economic Opportunity Fund" that allegedly pushed discriminatory investments favoring Black and minority-owned businesses.
+
+As part of the settlement, PayPal will launch a new Small Business Initiative and waive processing fees for $1 billion of transactions, or approximately $30 million, for American businesses that are veteran-owned or engaged in farming, manufacturing, or technology.
+
+Acting Attorney General Todd Blanche touted the ruling stating, "American corporations are on notice: you will face our aggressive enforcement if you use race or national origin to discriminate against qualified Americans."
+</div>
+
+## FoxNewsTwitter — post 341621
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌Fox News (Twitter/X)
+
+WATCH LIVE: Speaker Johnson honors fallen heroes at National Police Week vigilhttps://x.com/i/broadcasts/1NGaraBYYnlJj
+</div>
+
+## FarsiVOA — post 217583
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️پس‌لرزه‌های انتخابات محلی بریتانیا؛ بحران سیاسی برای استارمر
+@FarsiVOA
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 03:05
 ---
 
