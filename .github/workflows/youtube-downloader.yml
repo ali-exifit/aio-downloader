@@ -1,4 +1,4 @@
-name: youtube-downloader (enhanced)
+name: youtube-downloader
 
 on:
   workflow_dispatch:
@@ -639,11 +639,11 @@ jobs:
           FRAGMENTS: 4
           COOKIE_ARGS: ${{ steps.primary_download.outputs.COOKIE_ARGS }}
 
-      # ── Split files >90MB into .zip parts ──
-      - name: ‘✂️  Split oversized files (>90MB)’
+      # ── Split files >99MB into .zip parts ──
+      - name: ‘✂️  Split oversized files (>99MB)’
         run: |
           OUTPUT_FOLDER="youtube"
-          THRESH_MB=90
+          THRESH_MB=99
           THRESH_BYTES=$((THRESH_MB * 1024 * 1024))
           echo "🔍 Checking files in '$OUTPUT_FOLDER' for >${THRESH_MB}MB..."
           for f in "$OUTPUT_FOLDER"/*; do
