@@ -7,6 +7,92 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 02:14
+---
+
+## VahidOOnLine — post 239809
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239809_1778625866.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️شروین تبریزی، سخنگوی اورژانس تهران سه‌شنبه‌شب، ۲۲ اردیبهشت گفت: «طوفان در تهران تاکنون چهار مجروح داشته که البته همه این افراد در محل درمان شدند.» او گفت: «با توجه به اینکه وزش باد دقایقی قبل متوقف شد احتمال افزایش مجروحان وجود دارد».
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## IranIntlTV — post 336895
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/336895" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی سیاست با مراد ویسی: چرا به خواندن اسامی جاویدنام‌ها ادامه خواهم داد؟
+@iranintlTV
+</div>
+
+## IranianMinds — post 20048
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+@IranianMindsGroup
+
+ایدی گروه کامنتا ( تو کامنتا خیلی درخواست داده بودید )
+</div>
+
+## Dirty_Kids — post 389353
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‏۲۵۰۰ سال تاریخ داریم، دریغ از یه مثقال آینده.
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389352
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389352_1778625867.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یادآوری آن روز باشکوه.
+
+*تصویر حمله هوایی به بیت رهبری
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389350
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389350_1778625867.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وسط این بگاییا یه پسره به اسم امیر قاسم ملقب به بتمن :))))))) با این ویس هاپ هاپ مخ ۶۰ نفر زده، الان لو رفته دخترا به جون هم افتادن چت و اسکرین شات و نود همدیگه‌رو دارن پخش میکنن
+
+با نود و چتاشون کاری ندارم ولی این ویس خیلی خنده بود
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389349
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389349_1778625867.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کارمندان آینده #ساواک پخششکنید ببینم چقدیم
+
+
+@Dirty_Kids 👻
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 02:05
 ---
 
