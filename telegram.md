@@ -7,6 +7,200 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 11:04
+---
+
+## VahidOOnLine — post 239654
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239654_1778571292.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️نفتکش ایرانی سه روز پس از حمله آمریکا در تنگه هرمز همچنان در حال سوختن است
+
+♦️یک نفتکش متعلق به جمهوری اسلامی که به گفته مقام‌های آمریکایی با شلیک جنگنده‌های آمریکایی در دریای عمان و در نزدیکی بندر جاسک  متوقف شده بود، روز دوشنبه ۲۱ اردیبهشت‌ماه همچنان در آتش می‌سوخت.
+
+فرماندهی مرکزی آمریکا، سنتکام، اعلام کرده بود نیروهای این کشور روز شنبه ۱۹ اردیبهشت دو نفتکش با پرچم جمهوری اسلامی را پیش از رسیدن به بنادر ایران متوقف کردند. جزئیات بیشتری درباره علت آتش‌سوزی و وضعیت خدمه این نفتکش منتشر نشده است.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239653
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239653_1778571295.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ابراهیم رضایی، سخنگوی کمیسیون امنیت ملی مجلس، در شبکه اجتماعی ایکس نوشت یکی از گزینه‌های جمهوری اسلامی در صورت حمله مجدد می‌تواند غنی‌سازی ۹۰ درصد باشد.
+
+او نوشت: «یکی از گزینه‌‌ها در صورت حمله مجدد می‌تواند غنی‌سازی ۹۰ درصد باشد. در مجلس بررسی می‌کنیم.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239652
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239652_1778571296.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ابراهیم رضایی، سخنگوی کمیسیون امنیت ملی مجلس، در شبکه اجتماعی ایکس نوشت یکی از گزینه‌های جمهوری اسلامی در صورت حمله مجدد می‌تواند غنی‌سازی ۹۰ درصد باشد.
+
+او نوشت: «یکی از گزینه‌‌ها در صورت حمله مجدد می‌تواند غنی‌سازی ۹۰ درصد باشد. در مجلس بررسی می‌کنیم.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239651
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239651_1778571297.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ابراهیم رضایی، سخنگوی کمیسیون امنیت ملی مجلس، در شبکه اجتماعی ایکس نوشت یکی از گزینه‌های جمهوری اسلامی در صورت حمله مجدد می‌تواند غنی‌سازی ۹۰ درصد باشد.
+
+او نوشت: «یکی از گزینه‌‌ها در صورت حمله مجدد می‌تواند غنی‌سازی ۹۰ درصد باشد. در مجلس بررسی می‌کنیم.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8942
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📝 سوالی دارید دایرکت جواب میدم ...
+</div>
+
+## IranIntlTV — post 336766
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336766_1778571298.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ابراهیم رضایی، سخنگوی کمیسیون امنیت ملی مجلس، در شبکه اجتماعی ایکس نوشت یکی از گزینه‌های جمهوری اسلامی در صورت حمله مجدد می‌تواند غنی‌سازی ۹۰ درصد باشد.
+
+او نوشت: «یکی از گزینه‌‌ها در صورت حمله مجدد می‌تواند غنی‌سازی ۹۰ درصد باشد. در مجلس بررسی می‌کنیم.»
+https://iranintl.com/202605126303
+</div>
+
+## IranIntlTV — post 336765
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336765_1778571299.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ابراهیم رضایی، سخنگوی کمیسیون امنیت ملی مجلس، در شبکه اجتماعی ایکس نوشت یکی از گزینه‌های جمهوری اسلامی در صورت حمله مجدد می‌تواند غنی‌سازی ۹۰ درصد باشد.
+
+او نوشت: «یکی از گزینه‌‌ها در صورت حمله مجدد می‌تواند غنی‌سازی ۹۰ درصد باشد. در مجلس بررسی می‌کنیم.»
+https://iranintl.com/202605126303
+</div>
+
+## IranIntlTV — post 336764
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336764_1778571300.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ابراهیم رضایی، سخنگوی کمیسیون امنیت ملی مجلس، در شبکه اجتماعی ایکس نوشت یکی از گزینه‌های جمهوری اسلامی در صورت حمله مجدد می‌تواند غنی‌سازی ۹۰ درصد باشد.
+
+او نوشت: «یکی از گزینه‌‌ها در صورت حمله مجدد می‌تواند غنی‌سازی ۹۰ درصد باشد. در مجلس بررسی می‌کنیم.»
+https://iranintl.com/202605126303
+</div>
+
+## IranianMinds — post 19992
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴سی‌ان‌ان:
+
+ترامپ تا قبل از سفرش به چین، تصمیمی برای حمله به ایران نمی‌گیرد و پس از اتمام سفر، تصمیم حمله را خواهد گرفت.
+
+@IranianMinds
+</div>
+
+## Hranews — post 112892
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+عبدالجلیل شه‌بخش اعدام شد
+
+
+❗️
+❗️
+❗️
+❗️
+❗️– رسانه قوه قضاییه از اجرای حکم #اعدام عبدالجلیل شه‌بخش، زندانی با اتهامات امنیتی از جمله «بغی» و عضویت در یک گروه مسلح مخالف نظام، خبر داد. این حکم بامداد امروز سه‌شنبه ۲۲ اردیبهشت‌ماه، پس از تایید در دیوان عالی کشور به اجرا درآمد.
+
+ادامه مطلب
+
+#عبدالجلیل_شه‌بخش
+
+↘️
+@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑
+</div>
+
+## alonews — post 119435
+
+<div align="center">
+  <a href="telegram/content/alonews_119435_1778571301.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈هاکان فیدان وزیر خارجه ترکیه با خلیل الحیه رهبر گروه حماس دیدار کرد
+
+
+🔴الحیه تحت تعقیب اسرائیل قرار دارد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119434
+
+<div align="center">
+  <a href="telegram/content/alonews_119434_1778571301.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈سخنگوی دولت: اینترنت پرو مصوبه‌ شورای‌ عالی امنیت ملی را دارد و اين شرايط موقت است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119433
+
+<div align="center">
+  <a href="telegram/content/alonews_119433_1778571302.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ : همه ۱۱۱ موشک ایرانی که به سمت یک ناو آمریکایی شلیک شده بودن، رهگیری و ساقط شدن
+
+
+🔴 خدمه فقط حدود ۱۳ ثانیه وقت داشتن برای تصمیم‌گیری در هر درگیری
+
+
+🔴 اگه یه محاسبه اشتباه بکنی، هم کلی نیرو از دست میدی، هم یه عالمه کشتی چند میلیارد دلاری
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119432
+
+<div align="center">
+  <a href="telegram/content/alonews_119432_1778571305.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈آخرین قیمت نفت ۱۰۶.۳۸ دلار
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 10:53
 ---
 
