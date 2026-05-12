@@ -7,6 +7,303 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 21:54
+---
+
+## VahidOOnLine — post 239760
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239760_1778610250.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بریتانیا سه‌شنبه اعلام کرد که تجهیزات خودکار مین‌روبی، جنگنده‌های تایفون و ناو جنگی اچ‌ام‌اس دراگون را به یک ماموریت دفاعی چندملیتی با هدف تامین امنیت کشتیرانی در تنگه هرمز اختصاص خواهد داد.
+
+دولت بریتانیا با انتشار بیانیه‌ای نوشت که ماموریت دفاعی بریتانیا با ۱۱۵ میلیون پوند بودجه جدید برای پهپادهای مین‌روب و سامانه‌های مقابله با پهپاد پشتیبانی می‌شود.
+
+جان هیلی، وزیر دفاع بریتانیا که ریاست اولین نشست وزیران دفاع ائتلافی متشکل از ۴۰ کشور را به‌طور مشترک با همتای فرانسوی خود برعهده داشت، گفت: «همراه با متحدان‌مان، این ماموریت چندملیتی، دفاعی، مستقل و معتبر خواهد بود.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8990
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴«گزارش فوری: عربستان سعودی در جریان جنگ، در پاسخ به حملات ایران، علیه ایران حملات هوایی انجام داده است - رویترز» @mwarmonitor
+</div>
+
+## mwarmonitor — post 8989
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴«گزارش فوری: عربستان سعودی در جریان جنگ، در پاسخ به حملات ایران، علیه ایران حملات هوایی انجام داده است - رویترز»
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341609
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341609_1778610251.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: President Trump dismisses questions about him asking Chinese President Xi for help with the Iran war:
+
+"I don't think we need any help with Iran. They'll do the right thing or we'll finish the job."
+</div>
+
+## pm_afshaa — post 90642
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90642_1778610252.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴رویترز: عربستان در اواخر ماه مارس یک سری حملات تلافی جویانه غیرعلنی علیه ایران در طول جنگ انجام داد.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 336861
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336861_1778610253.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بریتانیا سه‌شنبه اعلام کرد که تجهیزات خودکار مین‌روبی، جنگنده‌های تایفون و ناو جنگی اچ‌ام‌اس دراگون را به یک ماموریت دفاعی چندملیتی با هدف تامین امنیت کشتیرانی در تنگه هرمز اختصاص خواهد داد.
+
+دولت بریتانیا با انتشار بیانیه‌ای نوشت که ماموریت دفاعی بریتانیا با ۱۱۵ میلیون پوند بودجه جدید برای پهپادهای مین‌روب و سامانه‌های مقابله با پهپاد پشتیبانی می‌شود.
+
+جان هیلی، وزیر دفاع بریتانیا که ریاست اولین نشست وزیران دفاع ائتلافی متشکل از ۴۰ کشور را به‌طور مشترک با همتای فرانسوی خود برعهده داشت، گفت: «همراه با متحدان‌مان، این ماموریت چندملیتی، دفاعی، مستقل و معتبر خواهد بود.»
+https://iranintl.com/202605128230
+</div>
+
+## Shin_Persian — post 5973
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+↩️ Quoted tweet: DefenceGeek 🇬🇧 ✓ @DefenceGeek Tue, 12 May 2026 18:11:27 UTC @hey_itsmyturn Training flight lol ↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید. فارسی @hey_itsmyturn پرواز تمرینی خخخ 𝕏 · @shin_persian
+</div>
+
+## Shin_Persian — post 5972
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+↩️ Quoted tweet:
+DefenceGeek 🇬🇧 ✓ @DefenceGeek
+Tue, 12 May 2026 18:11:27 UTC
+
+@hey_itsmyturn Training flight lol
+
+↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.
+
+فارسی
+
+@hey_itsmyturn پرواز تمرینی خخخ
+
+𝕏 · @shin_persian
+</div>
+
+## FarsiVOA — post 217557
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217557_1778610253.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ارتش اسرائیل از انهدام سکوهای پرتاب موشک در مناطق مختلف جنوب لبنان خبر داد که برای شلیک به سمت اسرائیل آماده بودند. این ارتش همچنین اعلام کرد در روز گذشته حدود ۱۵ نیروی حزب‌الله را از پا درآورده است.
+
+تنش‌ها در جنوب لبنان بار دیگر وارد مرحله‌ای حساس شده و احتمال عملیات گسترده‌تر علیه مواضع حزب‌الله افزایش یافته است.
+</div>
+
+## Persian_Trend_Official — post 13998
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_13998_1778610255.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴سرلشگر جعفری :
+
+تا زمانی که پیش شرط ها محقق نشود مذاکره ای انجام نخواهد شد
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 20032
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 رئیس کمیسیون انرژی :
+
+به دلیل آسیب به پتروشیمی ها امسال قطعی برق خیلی بیشتری داریم
+
+@IranianMinds
+</div>
+
+## BBCPersian — post 280875
+
+<div align="center">
+  <a href="https://t.me/bbcpersian/280875" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پادکست جام جهان‌نما، سه‌شنبه ۲۲ اردیبهشت ۱۴۰۵
+در این برنامه می‌شنوید:
+
+رئیس جمهور آمریکا سرخورده از بن‌بست در مواجهه با ایران؛ گفته می‌شود ترامپ جدی‌تر از گذشته به از سرگیری جنگ فکر می‌کند. در گپ روز این جام جهان نما می‌پرسیم آیا چین می تواند گره کور اختلافات بین ایران و آمریکا را باز کند؟
+
+ترکیه و قطر بر بازگشایی بی‌قید‌و‌شرط تنگه هرمز تأکید کردند. هر دو از مذاکره برای برقراری صلح بین ایران و آمریکا حمایت می‌کنند.
+
+هفتاد و چهار روز از قطع اینترنت در ایران می‌گذرد. دولت می‌گوید تا تهدید جنگ رفع نشود، از دسترسی عمومی خبری نیست.
+
+این برنامه رادیویی را می‌توانید هر شب ساعت ۲۰ به وقت ایران، روی موج متوسط ۷۰۲ کیلوهرتز و موج کوتاه ۹۴۶۵ کیلوهرتز بشنوید.
+تکرار برنامه را هم می‌توانید ساعت ۲۱:۳۰ روی موج متوسط ۷۰۲ کیلوهرتز و موج کوتاه ۵۳۹۵ کیلوهرتز گوش کنید.
+@BBCPersian
+</div>
+
+## BBCPersian — post 280874
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻وزارت خارجه کویت سفیر ایران را احضار کرد
+
+در پی بازداشت چهار فرد «وابسته به سپاه پاسداران» که تلاش می‌کردند از طریق دریا به این کشور وارد شوند، وزارت خارجه کویت اعلام کرده که محمد توتونچی، سفیر ایران در این کشور را احضار کرده است تا «نامه اعتراضی» این کشور را به او تحویل دهد.
+
+این وزارت‌خانه اقدام اخیر جمهوری اسلامی را به عنوان «اقدامی خصمانه» و «حمله‌ای آشکار» به حاکمیت کویت خوانده و آن را محکوم کرده است.
+
+کویت گفته است که «حق دفاع از خود» را محفوظ می‌دارد.
+
+این چهارمین باری است که از زمان آغاز جنگ آمریکا و اسرائیل با ایران و آغاز حملات ایران علیه کشورهای خلیج فارس، سفیر جمهوری اسلامی احضار می‌شود.
+
+وزارت کشور کویت امروز اعلام کرد که «چهار نفوذی وابسته به سپاه پاسداران» که تلاش می‌کردند از طریق دریا به این کشور وارد شوند را بازداشت کرده است.
+
+خبرگزاری دولتی کونا به نقل از این وزارتخانه گزارش داده است که یک نفر از نیروهای مسلح کویت در درگیری با این چهار نفر مجروح شده است.
+
+بر اساس بیانیه وزارت کشور کویت، دستگیرشدگان دو سرهنگ، یک سروان و یک ستوان نیروی دریایی سپاه بوده‌اند که «اذعان» کرده‌اند ماموریت داشتند به جزیره بوبیان «نفوذ» کنند.
+
+در این بیانیه آمده است که این چهار نفر در اول ماه مه (۱۱ اردیبهشت) سعی کردند «سوار بر یک قایق ماهیگیری که مخصوص انجام اقدامات خصمانه علیه کویت تدارک داده شده بود» وارد کویت شوند.
+
+بوبیان بزرگترین جزیره کویت است و با سواحل ایران و عراق فاصله کمی دارد.
+
+@BBCPersian
+</div>
+
+## Dirty_Kids — post 389335
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389335_1778610256.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👑 رضا پهلوی تو نشست امنیتی سالانه پولیتیکو:
+
+الان ما با یه جونورِ زخمی طرفیم و نباید بذاریم فرصت از دست بره، کار رو باید یه بار واسه همیشه تموم کنیم.
+
+سیاست مماشات با جمهوری اسلامی که راهبرد خیلی از دولت‌ها بود، شکست خورده.
+مردم به‌اندازه کافی هوشمند هستنن که تفاوت بین حمله به یه ملت و حمله به یه رژیم رو تشخیص بدن.
+ما فقط زمانی می‌تونیم مردم رو به بازگشت به خیابون‌ها فرا بخوانیم که اونا هم سطحی از توان مقابله رو داشته باشن.
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389334
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389334_1778610257.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+طرف قبل جنگ رفته جنس آورده بعد گرون شده همه‌چی همینجوری بدون دوخت گذاشته برای فروش
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389333
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389333_1778610257.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پس کجا خوبه؟ قعله حسن‌خان؟
+
+
+@Dirty_Kids 👻
+</div>
+
+## Hranews — post 112912
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دو شهروند از جمله یک نوجوان در مهاباد بازداشت شدند
+
+
+❗️
+❗️
+❗️
+❗️
+❗️– بامداد امروز سه‌شنبه ۲۲ اردیبهشت‌ماه، میکائیل دودکانلو میلان و احسان خرم‌آباد، نوجوان ۱۷ ساله، توسط نیروهای امنیتی در مهاباد #بازداشت و به مکان نامعلومی منتقل شدند.
+
+ادامه مطلب
+
+#میکائیل_دودکانلو_میلان
+#احسان_خرم‌آباد
+
+↘️
+@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑
+</div>
+
+## alonews — post 119559
+
+<div align="center">
+  <a href="telegram/content/alonews_119559_1778610257.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈خبرنگار به ترامپ : آیا بین شما و پوتین درک متقابلی وجود دارد که روسیه باید کل دونباس را به دست آورد؟
+
+
+🔴ترامپ: خیر.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119558
+
+<div align="center">
+  <a href="telegram/content/alonews_119558_1778610257.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈زمین لرزه ۳.۴ ریشتری پردیس تهران را لرزاند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119557
+
+<div align="center">
+  <a href="telegram/content/alonews_119557_1778610257.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ درباره نفت : قراره یه فوران نفتی داشته باشید، چیزی که تا حالا ندیدید
+
+
+🔴 من فکر می‌کردم خیلی بیشتر بالا بره،ما انتظار داشتیم قیمت نفت خیلی بالاتر بره
+
+
+🔴 هر کاری لازم باشه انجام می‌دم، من هشت تا جنگ رو تموم کردم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 21:44
 ---
 
