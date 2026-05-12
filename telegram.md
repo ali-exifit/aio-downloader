@@ -7,6 +7,47 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 01:34
+---
+
+## ManotoTV — post 105380
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105380_1778623476.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تماسی از تهران:
+«می‌گفت جنگ شد و بعد رها شد… همه‌چیز روی هوا موند و شرایط افتضاح‌تر شد.
+می‌گفت قبلش حداقل یه جور داشتیم زندگی می‌کردیم
+</div>
+
+## manototv — post 105380
+
+<div align="center">
+  <a href="telegram/content/manototv_105380_1778623478.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تماسی از تهران:
+«می‌گفت جنگ شد و بعد رها شد… همه‌چیز روی هوا موند و شرایط افتضاح‌تر شد.
+می‌گفت قبلش حداقل یه جور داشتیم زندگی می‌کردیم
+</div>
+
+## alonews — post 119630
+
+<div align="center">
+  <a href="telegram/content/alonews_119630_1778623480.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈حضور مردم در حاشیه شهر بومهن پس از وقوع زلزله امشب
+
+
+🔴برخی مردم در خیابان خوابیده اند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 01:28
 ---
 
