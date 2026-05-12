@@ -7,6 +7,565 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 22:04
+---
+
+## VahidOOnLine — post 239773
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239773_1778610878.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ در واکنش به افزایش تورم ناشی از جنگ با ایران، گفت پایان جنگ «خیلی دور نیست» و با پایان درگیری‌ها، قیمت نفت و تورم به‌سرعت کاهش خواهد یافت.
+رئیس‌جمهور آمریکا به خبرنگاران گفت: «به‌محض پایان جنگ، شاهد سقوط قیمت نفت و جهش بازار سهام خواهید بود.»
+او افزود صدها کشتی حامل نفت آماده خروج هستند و با باز شدن مسیرها، حجم زیادی نفت وارد بازار خواهد شد که به کاهش شدید تورم کمک می‌کند.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239772
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239772_1778610879.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ پیش از سفر رسمی خود به چین اعلام کرد در دیدار با شی جین‌پینگ گفت‌وگویی طولانی خواهد داشت، اما نیازی به صحبت درباره جمهوری‌اسلامی نمی‌بیند؛ چون به گفته او، «ایران کاملاً تحت کنترل است».
+رئیس‌جمهور آمریکا بار دیگر تأکید کرد جمهوری‌اسلامی «به سلاح هسته‌ای دست نخواهد یافت» و گفت اقدامات آمریکا علیه تهران «کاملا مؤثر» بوده است.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239771
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239771_1778610879.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خبرگزاری فارس، وابسته به سپاه پاسداران، به نقل از یک منبع آگاه گزارش داد جمهوری اسلامی بدون انجام «پنج شرط اعتمادساز» وارد دور دوم مذاکرات با آمریکا نمی‌شود.
+
+این رسانه افزود پیش‌شرط‌های اعلامی جمهوری اسلامی، تضامین حداقلی اعتمادساز برای آغاز هرگونه مذاکره با آمریکا است.
+
+خبرگزاری فارس به نقل از «کنبع آگاه اعلام کرد پنج پیش‌شرط جمهوری اسلامی «پایان جنگ در همه جبهه‌ها به‌ویژه لبنان»، «رفع تحریم‌ها»، «آزادسازی پول‌های بلوکه‌شده»، «جبران خسارات ناشی از جنگ» و «پذیرش حق حاکمیت حکومت ایران بر تنگه هرمز» است.
+
+این رسانه وابسته به سپاه گزارش داد که جمهوری اسلامی از طریق واسط پاکستانی به طرف آمریکایی اعلام کرد تداوم محاصره دریایی پس از برقراری آتش‌بس، گزاره غیرقابل اعتماد بودن مذاکره با آمریکا را بیش از پیش تقویت کرده است.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239770
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239770_1778610880.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️دونالد ترامپ، رئیس‌جمهوری آمریکا، روز سه‌شنبه ۲۲ اردیبهشت‌ماه هنگام خروج از کاخ سفید برای سفر به چین، به خبرنگاران گفت: «فکر نمی‌کنم ما برای ایران به هیچ کمکی نیاز داشته باشیم. ما به هر شکلی پیروز خواهیم شد.»
+
+ترامپ افزود: «یا به‌صورت مسالمت‌آمیز پیروز می‌شویم یا به شکلی دیگر.»
+
+رئیس‌جمهوری آمریکا همچنین گفت نیروی دریایی، نیروی هوایی و «تمام اجزای ماشین جنگی» جمهوری اسلامی از بین رفته‌اند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239769
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+صدها پیام دریافتی روزانه از شهروندان به ایران اینترنشنال حاکی از کلافگی، خستگی روحی و ورشکستگی اقتصادی آن‌ها در شرایط سخت معیشتی همزمان با قطع اینترنت است. در حالی مقام‌های حکومت ابتدا اعلام کردند دولت تصمیم‌گیر قطع اینترنت نبوده، اما بعد سخنگوی دولت پزشکیان گفت دستور قطع سراسری آن را رییس‌جمهوری داده است. شهروندان می‌گویند پول خود را برای اینترنت پرو که با تبعیض و رانت توزیع شده نخواهند داد چراکه درآمد دستگاه‌ها و نیروهای سرکوب خواهد شد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239768
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239768_1778610882.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تماسی از مشهد:
+«می‌گفت بلاتکلیفی کنکور، گرونی منابع و قطعی اینترنت، دانش‌آموزها رو زیر فشار شدید گذاشته.»
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239767
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239767_1778610884.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ، رییس‌جمهور آمریکا، هنگام خروج از کاخ سفید برای عزیمت به چین گفت جمهوری اسلامی می‌داند نباید به سلاح هسته‌ای دست پیدا کند و افزود به‌زودی درباره جنگ ایران با رییس‌جمهور چین گفت‌وگوی مفصلی خواهد داشت.
+او تاکید کرد محاصره ایران «۱۰۰ درصد موثر» بوده و آمریکا پیروز شده است.
+
+ترامپ همچنین گفت تنها توافقی «خوب» با تهران امضا خواهد کرد و اجازه نخواهد داد جمهوری اسلامی به سلاح هسته‌ای دست یابد. او افزود هرکس اجازه دستیابی تهران به سلاح هسته‌ای را بدهد «احمق» است.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239762
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اکونومیست می‌نویسد بحران طولانی ایران می‌تواند برای کشورهای خلیج فارس فقط یک چالش امنیتی کوتاه‌مدت نباشد، بلکه به آزمونی جدی برای آینده اقتصادی، سرمایه‌گذاری خارجی، تجارت دریایی و تصویر این منطقه به‌عنوان مقصدی امن و باثبات تبدیل شود. ورق بزنید.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239761
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239761_1778610885.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزیر خارجه پاکستان اعلام کرد در گفت‌وگو با همتای چینی خود، درباره تلاش‌های اسلام‌آباد برای تسهیل مذاکرات میان جمهوری‌اسلامی و آمریکا رایزنی کرده است.
+وزارت خارجه پاکستان در بیانیه‌ای اعلام کرد وانگ یی، وزیر خارجه چین، از نقش «سازنده» پاکستان در میانجیگری حمایت و قدردانی کرده است.
+دو طرف همچنین بر ضرورت ادامه آتش‌بس پایدار و تضمین عبور عادی کشتی‌ها از تنگه هرمز تأکید کردند.
+این گفت‌وگو در حالی انجام شده که دونالد ترامپ قرار است این هفته به‌طور رسمی به چین سفر کند.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8991
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴(رویترز) – دونالد ترامپ، رئیس‌جمهور آمریکا، روز سه‌شنبه گفت که در جریان سفر پیش‌روی خود به چین، گفت‌وگویی طولانی با شی جین‌پینگ درباره جنگ ایران خواهد داشت، اما افزود که فکر نمی‌کند به کمک شی نیازی داشته باشد.
+
+🔸ترامپ هنگام ترک کاخ سفید به مقصد چین به خبرنگاران گفت: «فکر نمی‌کنم ما به هیچ کمکی درباره ایران نیاز داشته باشیم. ما این جنگ را به هر شکلی—چه مسالمت‌آمیز و چه غیر از آن—خواهیم برد.»
+
+📝ویدیو به‌همراه متن ترجمه‌شده مصاحبه با خبرنگاران، پس از آماده‌سازی کامل، در کانال منتشر خواهد شد.
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341611
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341611_1778610886.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+JUST IN: President Trump responds to Dr. Marty Makary resigning from his post as FDA Commissioner:
+
+"Everybody wants that job. It's a very important job... He was having some difficulties, he's a great doctor and he was having some difficulties. But he's going to go on and he's going to do well."
+</div>
+
+## FoxNewsTwitter — post 341610
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341610_1778610888.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NOW: President Trump says he hopes White House and D.C. renovations will be completed in time for Chinese President Xi's visit to the U.S.:
+
+"President XI will be coming here towards the end of the year. So that will be exciting. I only wish we had the ballroom finished."
+
+"You also may want to do one other thing. You may want to go see the reflecting pool, because that's under construction. And for the first time since 1922, it's gonna work properly."
+</div>
+
+## pm_afshaa — post 90645
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ:شما دوران طلایی آمریکا را زمانی خواهید دید که این جنگ به پایان برسد، و شما اکنون آن را می‌بینید
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90644
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴زمین لرزه 3.4 ریشتری در پردیس تهران
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90643
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90643_1778610890.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ: من به هیچی و هیچکس فکر نمی‌کنم، فقط به یه چیز فکر میکنم، اینکه اجازه ندیم ایران سلاح هسته‌ای داشته باشه.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## iaghapour — post 2604
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اکانت های هوش مصنوعی رو با یک دهم قیمت بخر 
+🛍
+
+
+🔆 ChatGPT Plus :
+- اکانت از پیش ساخته شده ی Plus
+- پلاس شخصی ( نسخه 20$ )
+- مناسب برنامه نویسی
+- ساخت عکس فارسی و تجزیه تحلیل
+- مناسب تحقیق عمیق
+- جامع ترین هوش مصنوعی در حال حاضر
+
+
+🏳️‍🌈 Gemini Pro :
+( گزینه ی اقتصادی )
+- پلن مشابه GPT Plus از شرکت گوگل
+- پشتیبانی از Antigravity
+- ساخت عکس و ویدیو فارسی
+- تجزیه و تحلیل و تحقیق عمیق
+- فعال سازی روی ایمیل شما
+- قیمت :
+یک ماهه : 275 هزار تومان
+یک ساله : 1200 هزار تومان
+
+
+🌐 Kiro.dev Pro
+( جایگزین اقتصادی Claude )
+- ایجنت برنامه نویسی شرکت آمازون
+- پشتیبانی از تمامی مدل های Claude
+- ارزان و اقتصادی و با کیفیت
+- مناسب فقط برنامه نویسان
+
+خرید و توضیحات بیشتر از ربات :
+
+🤖 @ChatGPT_StoreBOT
+</div>
+
+## IranIntlTV — post 336865
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336865_1778610891.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خبرگزاری فارس، وابسته به سپاه پاسداران، به نقل از یک منبع آگاه گزارش داد جمهوری اسلامی بدون انجام «پنج شرط اعتمادساز» وارد دور دوم مذاکرات با آمریکا نمی‌شود.
+
+این رسانه افزود پیش‌شرط‌های اعلامی جمهوری اسلامی، تضامین حداقلی اعتمادساز برای آغاز هرگونه مذاکره با آمریکا است.
+
+خبرگزاری فارس به نقل از «کنبع آگاه اعلام کرد پنج پیش‌شرط جمهوری اسلامی «پایان جنگ در همه جبهه‌ها به‌ویژه لبنان»، «رفع تحریم‌ها»، «آزادسازی پول‌های بلوکه‌شده»، «جبران خسارات ناشی از جنگ» و «پذیرش حق حاکمیت حکومت ایران بر تنگه هرمز» است.
+
+این رسانه وابسته به سپاه گزارش داد که جمهوری اسلامی از طریق واسط پاکستانی به طرف آمریکایی اعلام کرد تداوم محاصره دریایی پس از برقراری آتش‌بس، گزاره غیرقابل اعتماد بودن مذاکره با آمریکا را بیش از پیش تقویت کرده است.
+https://iranintl.com/202605121380
+</div>
+
+## IranIntlTV — post 336864
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/336864" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی تیتراول با نیوشا صارمی: جدی‌ شدن بازگشت حملات نظامی به ایران در آمریکا؛ جزییات حمله امارات به ایران
+@iranintlTV
+</div>
+
+## IranIntlTV — post 336863
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+صدها پیام دریافتی روزانه از شهروندان به ایران اینترنشنال حاکی از کلافگی، خستگی روحی و ورشکستگی اقتصادی آن‌ها در شرایط سخت معیشتی همزمان با قطع اینترنت است. در حالی مقام‌های حکومت ابتدا اعلام کردند دولت تصمیم‌گیر قطع اینترنت نبوده، اما بعد سخنگوی دولت پزشکیان گفت دستور قطع سراسری آن را رییس‌جمهوری داده است. شهروندان می‌گویند پول خود را برای اینترنت پرو که با تبعیض و رانت توزیع شده نخواهند داد چراکه درآمد دستگاه‌ها و نیروهای سرکوب خواهد شد.
+</div>
+
+## IranIntlTV — post 336862
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336862_1778610892.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ، رییس‌جمهور آمریکا، هنگام خروج از کاخ سفید برای عزیمت به چین گفت جمهوری اسلامی می‌داند نباید به سلاح هسته‌ای دست پیدا کند و افزود به‌زودی درباره جنگ ایران با رییس‌جمهور چین گفت‌وگوی مفصلی خواهد داشت.
+او تاکید کرد محاصره ایران «۱۰۰ درصد موثر» بوده و آمریکا پیروز شده است.
+
+ترامپ همچنین گفت تنها توافقی «خوب» با تهران امضا خواهد کرد و اجازه نخواهد داد جمهوری اسلامی به سلاح هسته‌ای دست یابد. او افزود هرکس اجازه دستیابی تهران به سلاح هسته‌ای را بدهد «احمق» است.
+https://iranintl.com/202605120877
+</div>
+
+## Shin_Persian — post 5974
+
+<div align="center">
+  <a href="telegram/content/Shin_Persian_5974_1778610893.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Rapid Response 47 ✓ @RapidResponse47
+Tue, 12 May 2026 18:01:20 UTC
+
+.@POTUS: "It's very simple: Iran cannot have a nuclear weapon... We don't play games. They're not going to have a nuclear weapon."
+
+فارسی
+
+.@POTUS: "بسیار ساده است: ایران نمی‌تواند سلاح هسته‌ای داشته باشد... ما بازی نمی‌کنیم. آن‌ها قرار نیست سلاح هسته‌ای داشته باشند."
+
+𝕏 · @shin_persian
+</div>
+
+## ManotoTV — post 105373
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105373_1778610896.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ در واکنش به افزایش تورم ناشی از جنگ با ایران، گفت پایان جنگ «خیلی دور نیست» و با پایان درگیری‌ها، قیمت نفت و تورم به‌سرعت کاهش خواهد یافت.
+رئیس‌جمهور آمریکا به خبرنگاران گفت: «به‌محض پایان جنگ، شاهد سقوط قیمت نفت و جهش بازار سهام خواهید بود.»
+او افزود صدها کشتی حامل نفت آماده خروج هستند و با باز شدن مسیرها، حجم زیادی نفت وارد بازار خواهد شد که به کاهش شدید تورم کمک می‌کند.
+</div>
+
+## ManotoTV — post 105372
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105372_1778610897.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ پیش از سفر رسمی خود به چین اعلام کرد در دیدار با شی جین‌پینگ گفت‌وگویی طولانی خواهد داشت، اما نیازی به صحبت درباره جمهوری‌اسلامی نمی‌بیند؛ چون به گفته او، «ایران کاملاً تحت کنترل است».
+رئیس‌جمهور آمریکا بار دیگر تأکید کرد جمهوری‌اسلامی «به سلاح هسته‌ای دست نخواهد یافت» و گفت اقدامات آمریکا علیه تهران «کاملا مؤثر» بوده است.
+</div>
+
+## ManotoTV — post 105371
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105371_1778610898.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تماسی از مشهد:
+«می‌گفت بلاتکلیفی کنکور، گرونی منابع و قطعی اینترنت، دانش‌آموزها رو زیر فشار شدید گذاشته.»
+</div>
+
+## ManotoTV — post 105366
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اکونومیست می‌نویسد بحران طولانی ایران می‌تواند برای کشورهای خلیج فارس فقط یک چالش امنیتی کوتاه‌مدت نباشد، بلکه به آزمونی جدی برای آینده اقتصادی، سرمایه‌گذاری خارجی، تجارت دریایی و تصویر این منطقه به‌عنوان مقصدی امن و باثبات تبدیل شود. ورق بزنید.
+</div>
+
+## ManotoTV — post 105365
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105365_1778610900.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزیر خارجه پاکستان اعلام کرد در گفت‌وگو با همتای چینی خود، درباره تلاش‌های اسلام‌آباد برای تسهیل مذاکرات میان جمهوری‌اسلامی و آمریکا رایزنی کرده است.
+وزارت خارجه پاکستان در بیانیه‌ای اعلام کرد وانگ یی، وزیر خارجه چین، از نقش «سازنده» پاکستان در میانجیگری حمایت و قدردانی کرده است.
+دو طرف همچنین بر ضرورت ادامه آتش‌بس پایدار و تضمین عبور عادی کشتی‌ها از تنگه هرمز تأکید کردند.
+این گفت‌وگو در حالی انجام شده که دونالد ترامپ قرار است این هفته به‌طور رسمی به چین سفر کند.
+</div>
+
+## FarsiVOA — post 217558
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مدیر روابط عمومی فرودگاه خمینی تهران اعلام کرد پروازهای خارجی از این فرودگاه به بیش از ۲۰ مقصد بین‌المللی به ‌صورت عادی در حال انجام است. به گفته اهورا محمدی، بیشترین پروازها به استانبول، مسقط، نجف، مدینه، شانگهای، گوانگژو، بغداد و پکن است.
+
+بر اساس این اعلام، روزانه بین ۳۵ تا ۴۰ پرواز ورودی و خروجی از این فرودگاه انجام می‌شود، و ایروان، مسکو، اربیل، کابل، آنکارا، بانکوک و باکو مقاصد مسافران است.
+
+مدیرعامل شرکت شهر فرودگاهی فرودگاه خمینی نیز آمار پروازهای خارجی انجام شده در این فرودگاه را تا ۲۱ اردیبهشت ۵۳۴ مورد و تعداد مسافران جابه‌جا شده را هم بیش از ۴۸ هزار نفر اعلام کرد.
+
+از زمان آغاز دیگری نظامی با آمریکا و اسرائیل، حریم هوایی ایران به روی پروازهای تجاری و مسافری بسته بود و فرودگاه‌های کشور هم تعطیل بودند اما در روزهای آخر فروردین، مقام‌ها مسئول از ازسرگیری تدریجی پروازها در برخی فرودگاه‌ها خبر دادند.
+
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 13999
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_13999_1778610901.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تهران طوفانی شد
+
+🔹هواشناسی: از ساعتی پیش، وزش باد ۵۵ کیلومتر بر ساعت همراه با گردوخاک در تهران آغاز شده است.
+
+شهروندان از تردد غیرضروری در فضاهای باز و ماندن در مجاورت درختان کهنسال، سازه‌های موقت و تأسیسات ناپایدار خودداری کنند.
+☆Phantom☆
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## RadioFarda — post 157104
+
+<div align="center">
+  <img src="telegram/content/RadioFarda_157104_1778610901.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸دونالد ترامپ، رئیس‌جمهور آمریکا، پیش از سفر به پکن گفت که رئیس‌جمهور چین درباره جنگ ایران «نسبتاً خوب» عمل کرده است، اما واشینگتن به کمک او نیازی ندارد.
+
+🔸او روز سه‌شنبه در جمع خبرنگاران افزود که قرار است با شی جین‌پینگ «گفت‌وگویی طولانی» درباره ایران داشته باشد.
+
+🔸ترامپ تصریح کرد: «فکر نمی‌کنم ما به هیچ کمکی درباره ایران نیاز داشته باشیم. ما به هر شکلی که باشد پیروز خواهیم شد. یا به‌صورت مسالمت‌آمیز پیروز می‌شویم یا به شکل دیگری.»
+
+🔸رئیس‌جمهور آمریکا با اشاره به این که توان نظامی ایران در جنگ اخیر از بین رفته است، هشدار داد: ««ایران یا کار درست را انجام خواهد داد یا ما کار را تمام خواهیم کرد.»
+
+🔸او به جزئیات بیشتری درباره این هشدار اشاره نکرد، اما این اظهارات در حالی است که ترامپ پیشنهاد آخر ایران برای توافق پایان جنگ را در روزهای اخیر رد کرده و آن را «کاملا غیر قابل قبول» و «فوق‌العاده ضعیف» خوانده است.
+
+🔸رئیس‌جمهور آمریکا قرار است چهارشنبه برای دیداری رسمی وارد پایتخت چین شود. این سفر که قرار بود در ماه مارس انجام شود، به دلیل درگیری نظامی آمریکا و اسرائیل با ایران به تأخیر افتاد.
+
+@RadioFarda
+</div>
+
+## IranianMinds — post 20033
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 خبرگزاری فارس :
+
+پیشنهادات آمریکاییا برای مذاکرات کاملا یک طرفه است و فقط منافع خودشون براشون مهمه هیچ اهمیتی به ما نمیدن
+
+@IranianMinds
+</div>
+
+## BBCPersian — post 280876
+
+<div align="center">
+  <a href="https://t.me/bbcpersian/280876" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پادکست برنامه شصت دقیقه سه‌شنبه ۲۲ اردیبهشت ۱۴۰۵
+این نسخه رادیویی برنامه شصت دقیقه تلویزیون فارسی بی‌بی‌سی است که هرشب بعد از پخش، با حجم کم از اپلیکیشن‌های پادگیر و صفحه تلگرام بی‌بی‌سی فارسی در دسترس است.
+با هشتگ BBCPersianRadio# با ما در ارتباط باشید.
+</div>
+
+## Dirty_Kids — post 389336
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ گفته مسئولین حکومت خیلی بی‌شرفن.
+فکر کن یارو تازه غیرمستقیم باهاشون هم‌کلام شده اینجوری میگه. اونم چندهفته نه ۴۷ سال...
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## manototv — post 105373
+
+<div align="center">
+  <a href="telegram/content/manototv_105373_1778610902.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ در واکنش به افزایش تورم ناشی از جنگ با ایران، گفت پایان جنگ «خیلی دور نیست» و با پایان درگیری‌ها، قیمت نفت و تورم به‌سرعت کاهش خواهد یافت.
+رئیس‌جمهور آمریکا به خبرنگاران گفت: «به‌محض پایان جنگ، شاهد سقوط قیمت نفت و جهش بازار سهام خواهید بود.»
+او افزود صدها کشتی حامل نفت آماده خروج هستند و با باز شدن مسیرها، حجم زیادی نفت وارد بازار خواهد شد که به کاهش شدید تورم کمک می‌کند.
+</div>
+
+## manototv — post 105372
+
+<div align="center">
+  <a href="telegram/content/manototv_105372_1778610903.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ پیش از سفر رسمی خود به چین اعلام کرد در دیدار با شی جین‌پینگ گفت‌وگویی طولانی خواهد داشت، اما نیازی به صحبت درباره جمهوری‌اسلامی نمی‌بیند؛ چون به گفته او، «ایران کاملاً تحت کنترل است».
+رئیس‌جمهور آمریکا بار دیگر تأکید کرد جمهوری‌اسلامی «به سلاح هسته‌ای دست نخواهد یافت» و گفت اقدامات آمریکا علیه تهران «کاملا مؤثر» بوده است.
+</div>
+
+## manototv — post 105371
+
+<div align="center">
+  <a href="telegram/content/manototv_105371_1778610904.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تماسی از مشهد:
+«می‌گفت بلاتکلیفی کنکور، گرونی منابع و قطعی اینترنت، دانش‌آموزها رو زیر فشار شدید گذاشته.»
+</div>
+
+## manototv — post 105366
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اکونومیست می‌نویسد بحران طولانی ایران می‌تواند برای کشورهای خلیج فارس فقط یک چالش امنیتی کوتاه‌مدت نباشد، بلکه به آزمونی جدی برای آینده اقتصادی، سرمایه‌گذاری خارجی، تجارت دریایی و تصویر این منطقه به‌عنوان مقصدی امن و باثبات تبدیل شود. ورق بزنید.
+</div>
+
+## manototv — post 105365
+
+<div align="center">
+  <a href="telegram/content/manototv_105365_1778610906.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزیر خارجه پاکستان اعلام کرد در گفت‌وگو با همتای چینی خود، درباره تلاش‌های اسلام‌آباد برای تسهیل مذاکرات میان جمهوری‌اسلامی و آمریکا رایزنی کرده است.
+وزارت خارجه پاکستان در بیانیه‌ای اعلام کرد وانگ یی، وزیر خارجه چین، از نقش «سازنده» پاکستان در میانجیگری حمایت و قدردانی کرده است.
+دو طرف همچنین بر ضرورت ادامه آتش‌بس پایدار و تضمین عبور عادی کشتی‌ها از تنگه هرمز تأکید کردند.
+این گفت‌وگو در حالی انجام شده که دونالد ترامپ قرار است این هفته به‌طور رسمی به چین سفر کند.
+</div>
+
+## alonews — post 119563
+
+<div align="center">
+  <a href="telegram/content/alonews_119563_1778610907.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: ما داریم یک سالن بزرگ می‌سازیم که هزینه‌اش از بودجه تعیین‌شده کمتر شده. همین‌جا ساخته می‌شود. من اندازه‌اش را دو برابر کردم چون مشخصاً به آن نیاز داریم.
+
+
+🔴خبرنگار: ولی هزینه‌اش هم دو برابر شده.
+
+
+🔴ترامپ جواب داد: چون من اندازه‌اش را دو برابر کردم، آدم احمق. تو آدم باهوشی نیستی
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119562
+
+<div align="center">
+  <a href="telegram/content/alonews_119562_1778610909.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈رویترز: عربستان سعودی در جریان جنگ، یک سری حملات تلافی‌جویانه بدون اطلاع‌رسانی علیه ایران انجام داده است،ارزیابی می‌شود که این حملات در اواخر مارس انجام شده‌اند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119561
+
+<div align="center">
+  <a href="telegram/content/alonews_119561_1778610909.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈فارس با تایید پیش شرط های ایران؛ به نقل از یک منبع آگاه گزارش داد: ایران به میانجی پاکستانی اعلام کرده است که تداوم محاصره دریایی در محدوده دریای عرب و خلیج عمان پس از برقراری آتش‌بس، گزاره غیرقابل اعتماد بودن مذاکره با آمریکا را بیش از پیش تقویت کرده است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119560
+
+<div align="center">
+  <a href="telegram/content/alonews_119560_1778610910.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 ترامپ: شما دوران طلایی آمریکا را زمانی خواهید دید که این جنگ به پایان برسد، و شما اکنون آن را می‌بینید
+
+
+🔴من به وضعیت مالی آمریکایی‌ها فکر نمی‌کنم. به هیچ‌کس فکر نمی‌کنم.
+
+
+🔴فقط به یک چیز فکر می‌کنم: نمی‌توانیم اجازه دهیم ایران سلاح هسته‌ای داشته باشد. همین.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 21:54
 ---
 
