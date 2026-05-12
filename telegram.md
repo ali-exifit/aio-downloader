@@ -7,6 +7,109 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 18:51
+---
+
+## farsi_fox_news — post 89262
+
+<div align="center">
+  <a href="telegram/content/farsi_fox_news_89262_1778599266.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ هدف جنگ از زبان روبیو: بازگشت به زمان قبل از جنگ
+
+🔹 مارکو روبیو گفت: «ترجیح ما این است که تنگه هرمز باز باشد، به همان شکلی که قرار است باز باشد و به همان شکلی برگردد که قبلاً بود.»
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89261
+
+<div align="center">
+  <img src="telegram/content/farsi_fox_news_89261_1778599267.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ بازگرداندن اولین نفتکش غیرایرانی از محاصره آمریکا
+
+🔹 نفتکش حامل نفت عراق به دلیل اینکه با اجازه ایران از تنگه هرمز عبور کرده بود، توسط نیروی دریایی آمریکا بازگردانده شد.
+🌐 @farsi_fox_news
+</div>
+
+## FoxNewsTwitter — post 341589
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341589_1778599268.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+JUST IN: Two individuals were just ejected from the Senate Appropriations hearing as War Secretary Pete Hegseth and Joint Chiefs Chairman Gen. Dan Caine faces questions from lawmakers about military funding amid the war with Iran.
+
+One of the protesters escorted out was a woman was yelling about Iranian-American opposition to the Middle East war.
+</div>
+
+## FarsiVOA — post 217539
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+قطع گسترده اینترنت در ایران وارد هفتاد و چهارمین روز شده و مدت این اختلال از هزار و ۷۵۲ ساعت گذشته است؛ محدودیتی که همزمان با بالا گرفتن جنجال «اینترنت پرو» و «خط‌های سفید»، موضوع دسترسی تبعیض‌آمیز به اینترنت را به یکی از محورهای اختلاف درون ساختار رسمی جمهوری اسلامی تبدیل کرده است.
+
+نت‌بلاکس، نهاد ناظر بر دسترسی به اینترنت، اعلام کرده است این خاموشی اینترنتی از ۲۸ فوریه ۲۰۲۶ آغاز شده و همچنان بخش بزرگی از کاربران داخل ایران را از دسترسی آزاد به اینترنت جهانی محروم کرده است. این نهاد می‌گوید دسترسی آزاد به اینترنت، حقی بنیادین است که بسیاری از آزادی‌های دیگر بر آن تکیه دارند و محروم کردن شهروندان از آن، توان جامعه برای ثبت، پیگیری و مقابله با نقض حقوق اساسی را محدود می‌کند.
+
+گزارش کامل را در وب‌سایت صدای آمریکا بخوانید.
+
+@FarsiVOA
+</div>
+
+## DW_Farsi — post 124615
+
+<div align="center">
+  <img src="telegram/content/DW_Farsi_124615_1778599269.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶 سفیر آمریکا در اسرائیل استفاده امارات از سامانه "گنبد آهنین" را تایید کرد
+
+مایک هاکبی، سفیر ایالات متحده آمریکا در اسرائیل با بیان این که "امارات متحده عربی، از توافق‌نامه‌های ابراهیم و عادی‌سازی روابط با اسرائیل، سود برده است" از به‌کار‌گیری سامانه دفاع موشکی "گنبد آهنین" اسرائیل در امارات برای مقابله با موشک‌های پرتاب شده از ایران در جریان جنگ خبر داد.
+
+هاکبی با اشاره به پیامدهای حاصل از پیمان ابراهیم برای امارات گفت: «فقط نگاهی به مزایای آن بیندازید. اسرائیل همین حالا سامانه‌های گنبد آهنین و نیروهایی را برای کمک به بهره‌برداری از آن‌ها برایشان فرستاده است.»
+
+امارات متحده عربی در چارچوب توافق‌نامه‌های ابراهیم که در سال ۲۰۲۰ با میانجی‌گری ایالات متحده آمریکا انجام شد، اسرائیل را به رسمیت شناخت.
+
+پیش از این فایننشال تایمز گزارش داده بود که اسرائیل برای کمک به دفاع از امارات، سامانه شناسایی سبک "اسپکترو" و سامانه پدافند موشکی را همراه با ده‌ها نیروی نظامی به این کشور فرستاده است. این گزارش، استقرار این تجهیزات را یکی از نخستین نمونه‌های بزرگ همکاری دفاعی میان اسرائیل و امارات می‌داند؛ همکاری‌ای که در جنگ اخیر برای نخستین بار در مقیاسی گسترده آزموده شد.
+
+@dw_farsi
+</div>
+
+## Persian_Trend_Official — post 13988
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_13988_1778599270.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پیت هگست: آتش‌بس با ایران در حال اجراست
+ 
+
+💢آتش‌بس با ایران در «وضعیت بسیار پویا» قرار دارد و در حال اجرا ست.
+ 
+💢آتش‌بس به معنای توقف آتش‌پرانی است و می‌دانیم این اتفاق در حین مذاکرات رخ داده است و گفتگوهای مختلف بسیاری با تیم مذاکره ‌کننده ما در حال انجام است.
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 20009
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴وزیر آموزش و پرورش:
+
+کلاس‌ها تا پایان سال تحصیلی مجازی شده است و امتحانات قرار است از ۹ خرداد برگزار بشود.
+
+@IranianMinds
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 18:44
 ---
 
