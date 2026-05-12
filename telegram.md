@@ -7,6 +7,43 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 13:14
+---
+
+## Persian_Trend_Official — post 13968
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_13968_1778579074.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ یک فروند هواپیمای شناسایی U-2S "دراگون‌لیدی" با شناسه "دراگون ۸۶" صبح امروز از پایگاه هوایی "بیل" به سمت پایگاه هوایی "فِیرفورد" در بریتانیا حرکت کرده است.
+
+آخرین باری که این هواپیمای جاسوسی به خاورمیانه آمده بود هفته بعدش به جنگ اخیر ختم شد.
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 13967
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_13967_1778579075.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ فعالیت سنگین نیروی دریایی آمریکا در اطراف تنگه باب‌المندب
+
+این فعالیت سنگین در آب‌های جنوبی یمن و تا فاصله با تنگه باب‌المندب احتمالاً برای پشتیبانی از ناو گروه ضربت هواپیمابر شارل دوگل فرانسه برای خروج از تنگه باب‌المندب است.
+ناو هواپیمابر جورج بوش پوشش خروج ناو شارل دوگل را از تنگه باب‌المندب فراهم می‌کند.
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 13:04
 ---
 
