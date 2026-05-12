@@ -7,6 +7,145 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 20:24
+---
+
+## VahidOOnLine — post 239746
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239746_1778604872.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شاهزاده رضا پهلوی در نشست امنیتی سالانه پولیتیکو گفت: «ما فقط زمانی می‌توانیم مردم را به بازگشت به خیابان‌ها فرا بخوانیم که آن‌ها از سطحی از برابری در توان مقابله برخوردار باشند؛ نه زمانی که رژیم بتواند اوباش و نیروهای سرکوبگرش را برای کشتن مردم در خیابان‌ها اعزام کند.»
+
+او ادامه داد: «اما برای رسیدن به آن نقطه، باید پیام روشنی وجود داشته باشد. باید راهبردی شفاف برای پایان دادن به این رژیم وجود داشته باشد؛ فراخوانی روشن برای قیام مردم، و همچنین پیامی برای نیروهای نظامی و امنیتی از حکومت جدا شوند و به مردم بپیوندند. همه این‌ها باید در قالب یک راهبرد منسجم هماهنگ شود.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239745
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239745_1778604873.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️پیت هگست، وزیر جنگ آمریکا، روز سه‌شنبه ۲۲ اردیبهشت‌ماه در جلسه استماع کنگره آمریکا گفت ایالات متحده در هر شرایطی برای پیروزی می‌جنگد؛ از جمله برای اطمینان از اینکه ایران هرگز به سلاح هسته‌ای دست پیدا نکند.
+
+او این اظهارات را در ادامه مواضع دولت دونالد ترامپ درباره برنامه هسته‌ای جمهوری اسلامی مطرح کرد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341599
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341599_1778604874.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+JUST IN: Officials reveal details of the harrowing timeline of a fatal security breach at Denver International Airport after a trespasser scaled a barbed-wire fence and was struck by a plane.
+
+"The time between climbing over the fence and being struck by the plane, again, was approximately two minutes. The location of the incident is about two miles away from the terminal. Given the short time period, we were not able to intervene and prevent this person from reaching the runway."
+</div>
+
+## FoxNewsTwitter — post 341598
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341598_1778604876.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: "If you want to go fast, go alone. But if you want to go far, go together."
+
+Artemis II pilot Victor Glover reflects on the crew's historic mission from inside the U.S. Capitol, shifting the focus away from distance records and onto the team that made it possible.
+
+Glover makes one thing clear: this wasn’t about four names on a crew list, it was a shared journey, powered by everyone watching, supporting, and pushing the mission forward.
+</div>
+
+## IranIntlTV — post 336849
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336849_1778604879.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شاهزاده رضا پهلوی در نشست امنیتی سالانه پولیتیکو گفت: «ما فقط زمانی می‌توانیم مردم را به بازگشت به خیابان‌ها فرا بخوانیم که آن‌ها از سطحی از برابری در توان مقابله برخوردار باشند؛ نه زمانی که رژیم بتواند اوباش و نیروهای سرکوبگرش را برای کشتن مردم در خیابان‌ها اعزام کند.»
+
+او ادامه داد: «اما برای رسیدن به آن نقطه، باید پیام روشنی وجود داشته باشد. باید راهبردی شفاف برای پایان دادن به این رژیم وجود داشته باشد؛ فراخوانی روشن برای قیام مردم، و همچنین پیامی برای نیروهای نظامی و امنیتی از حکومت جدا شوند و به مردم بپیوندند. همه این‌ها باید در قالب یک راهبرد منسجم هماهنگ شود.»
+https://iranintl.com/202605123516
+</div>
+
+## IranianMinds — post 20018
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20018_1778604880.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 سی‌ ان‌ ان به نقل از تصاویر ماهواره‌ای:
+
+نشت عظیم نفت در نزدیکی جزیره خارک ایران ادامه دارد
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20017
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20017_1778604881.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 سناتور لیندزی گراهام به وزیر جنگ:
+
+اگر میانجی (پاکستان) اجازه می‌دهد هواپیماهای شناسایی در پایگاه‌های هوایی پاکستان پارک شوند، آیا فکر می‌کنید این با نقش یک میانجی منصفانه سازگار است؟
+
+وزیر جنگ پیت هگزت : من نمی‌خواهم وسط این مذاکرات قرار بگیرم.
+
+سناتور گراهام: خب، من می‌خواهم وسط این مذاکرات باشم. من به پاکستان حتی به اندازه‌ای که بتوانم آن را پرتاب کنم هم اعتماد ندارم.
+
+اگر واقعاً هواپیماهای ایرانی در پایگاه‌های پاکستان برای حفاظت از دارایی‌های نظامی ایران پارک شده باشند، این به من می‌گوید که شاید باید دنبال شخص دیگری برای میانجیگری باشیم. عجیب نیست که این قضیه هیچ‌جا نمی‌رسد
+
+@IranianMinds
+</div>
+
+## BBCPersian — post 280859
+
+<div align="center">
+  <img src="telegram/content/BBCPersian_280859_1778604882.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻دادگاه عالی کیفری بحرین امروز دو نفر را برای «همکاری و ارتباط با سپاه پاسداران تروریستی ایران» به حبس ابد محکوم کرد.
+
+به گزارش رسانه‌های بحرین، یکی از این دو فرد زن است.
+
+آنها متهم به «اقدامات خصمانه و تروریستی» علیه پادشاهی بحرین بودند. دادگاه علاوه بر دستور ضبط اشیاء توقیف‌شده، آنها را ۱۰ هزار دینار بحرین (۲۶۵۲۵ دلار) جریمه کرد.
+
+اداره کل تحقیقات کیفری و علوم جرم‌شناسی بحرین گفت که سرویس‌های اطلاعاتی ایران و سپاه پاسداران،به «رهبران برخی گروه‌های تروریستی مستقر در جمهوری اسلامی ایران» پول داده‌ و آنها را مامور کرده بودند تا چندین مرکز حیاتی را در بحرین زیر نظر بگیرند. هدف از این اقدام، «آماده‌سازی برای هدف قرار دادن این مراکز و اجرای عملیات‌های تروریستی» بود تا امنیت و ثبات پادشاهی بحرین را مختل کنند.
+
+علاوه بر این، دادستانی جرایم تروریستی بحرین گفت که دادگاه عالی کیفری در جلسه امروز، در ۹ پرونده مربوط به افراد متهم به «حمایت و تایید حملات تروریستی ایران علیه پادشاهی بحرین، انتشار اطلاعات حیاتی ممنوعه و تصویربرداری از مکان‌های محدودشده» حکم صادر کرد.
+
+مطلب کامل:
+
+https://bbc.in/4d49cPM
+📷Getty
+@BBCPersian
+</div>
+
+## alonews — post 119532
+
+<div align="center">
+  <a href="telegram/content/alonews_119532_1778604882.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈طبق گزارش WSJ، گوگل در حال مذاکره با اسپیس‌ایکس برای توافق پرتاب موشک است که به برنامه‌های گوگل برای توسعه مراکز داده مداری در فضا مرتبط است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 20:14
 ---
 
