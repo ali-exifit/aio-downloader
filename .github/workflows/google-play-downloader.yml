@@ -4,10 +4,16 @@ on:
   workflow_dispatch:
     inputs:
       package_name:
-        description: >
-          Android package name.
-          Example: com.google.android.youtube
-        required: true
+        description: >-
+          Android package name. Example: com.google.android.youtube.
+          (Ignored if `google_play_url` is provided.)
+        required: false
+        type: string
+      google_play_url:
+        description: >-
+          Optional Google Play URL (e.g., https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en).
+          If supplied, the package name is extracted automatically.
+        required: false
         type: string
       architecture:
         description: Target device architecture
@@ -38,6 +44,23 @@ jobs:
         id: random
         run: echo "value=$(cat /dev/urandom | tr -dc 'a-z' | fold -w 5 | head -n 1)" >> $GITHUB_OUTPUT
 
+      - name: Determine package name
+        id: pkg
+        run: |
+          if [ -n "${{ inputs.google_play_url }}" ]; then
+            # Extract the package id from the URL
+            PACKAGE=$(echo "${{ inputs.google_play_url }}" | grep -oP '(?<=id=)[^&]*')
+            if [ -z "$PACKAGE" ]; then
+              echo "Error: Could not extract package name from URL"
+              exit 1
+            fi
+            echo "Extracted package: $PACKAGE"
+            echo "package=$PACKAGE" >> $GITHUB_OUTPUT
+          else
+            # Fall back to the explicit package_name input
+            echo "package=${{ inputs.package_name }}" >> $GITHUB_OUTPUT
+          fi
+
       - name: Install system dependencies
         run: |
           sudo apt-get update
@@ -64,7 +87,7 @@ jobs:
           DOWNLOAD_DIR="$RUNNER_TEMP/apk_downloads"
           mkdir -p "$DOWNLOAD_DIR"
 
-          CMD="./gplay download ${{ inputs.package_name }} -a $ARCH -o $DOWNLOAD_DIR"
+          CMD="./gplay download ${{ steps.pkg.outputs.package }} -a $ARCH -o $DOWNLOAD_DIR"
           if [ "$MERGE" = "true" ]; then
             CMD="$CMD -m"
           fi
@@ -85,7 +108,7 @@ jobs:
           RANDSTR: ${{ steps.random.outputs.value }}
         run: |
           DOWNLOAD_DIR="${{ steps.download.outputs.download_dir }}"
-          UPLOAD_DIR="google-play/$RANDSTR"
+          UPLOAD_DIR="google-play"               # ← single flat directory
           mkdir -p "$UPLOAD_DIR"
 
           cd "$DOWNLOAD_DIR"
@@ -99,8 +122,8 @@ jobs:
           for file in "${files[@]}"; do
             if [ -f "$file" ]; then
               echo "→ Archiving $file"
-              # -j : strip path, −s 99m : split at 99 MB
-              zip -j -s 99m -r "../$UPLOAD_DIR/${file}.zip" "$file"
+              # Append the random string to the file name, BEFORE the .zip extension
+              zip -j -s 99m -r "../$UPLOAD_DIR/${file}_${RANDSTR}.zip" "$file"
             fi
           done
 
@@ -122,7 +145,7 @@ jobs:
           fi
 
           git add google-play/
-          git commit -m "Download ${{ inputs.package_name }} (${{ inputs.architecture }}) [skip ci]" || echo "Nothing to commit"
+          git commit -m "Download ${{ steps.pkg.outputs.package }} (${{ inputs.architecture }}) [skip ci]" || echo "Nothing to commit"
 
           RETRIES=5
           for i in $(seq 1 $RETRIES); do
@@ -141,4 +164,5 @@ jobs:
               fi
             fi
           done
+
           echo "All files uploaded to the 'google-play' folder."
