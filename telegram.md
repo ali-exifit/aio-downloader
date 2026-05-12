@@ -7,6 +7,175 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 21:34
+---
+
+## VahidOOnLine — post 239755
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239755_1778609074.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ دونالد ترامپ، رئیس‌جمهوری ایالات متحده روز سه‌شنبه ۲۲ اردیبهشت، با انتشار تصویری ساخته هوش مصنوعی در شبکه اجتماعی تروث‌سوشال، تصویری از مقابله پهپادهای آمریکا با قایق‌های تندرو سپاه در تنگه هرمز را ارائه کرد. این تصویر که به شکلی اغراق‌شده و طنزآمیز ساخته شده، یک پهپاد را در حال منهدم کردن دو قایق با پرچم جمهوری اسلامی نشان می‌دهد.
+
+ترامپ پیش از این با اشاره به سلاح لیزری نیروی دریایی آمریکا که در ناو جورج بوش نصب شده، تصویر ساخته شده با هوش مصنوعی از هدف قرار گرفتن پهپادهای جمهوری اسلامی را نیز منتشر کرده بود. در موردی دیگر نیز ناوگان نیروی دریایی ایران را در کف آب‌های عمیق خلیج فارس و دریای عمان نشان داده بود.
+
+رئیس‌جمهوری آمریکا در موارد مختلف برای کنایه زدن به رقبا یا دشمنان از تصاویر ساخت هوش مصنوعی استفاده می‌کند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341603
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341603_1778609074.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH LIVE: President Trump departs White House for China https://twitter.com/i/broadcasts/1RKZzjZOjPMKB
+</div>
+
+## mamlekate — post 103516
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📝 پرزیدنت ترامپ: رژیم ایران بسیار ضعیف شده و «محاصره» دریایی منابع مالی آنها را محدود کرده است
+
+پرریدنت ترامپ با اشاره به موثر بودن محاصره دریایی بر محدود کردن دسترسی رژیم ایران به منابع مالی، بار دیگر تاکید کرد که آمریکا اجازه نخواهد داد رژیم ایران به سلاح هسته‌ای دست یابد.
+
+📝 دونالد ترامپ: مطمئنم تهران غنی‌سازی اورانیوم را به‌طور کامل متوقف خواهد کرد
+
+
+📝 وزیر جنگ: ما در حال پیروزی در جنگ با رژیم ایران هستیم؛ آنها در استفاده از استراتژی کره‌شمالی شکست خوردند
+
+پیت هگست، وزیر جنگ آمریکا، و ژنرال دن کین، رئیس ستاد مشترک نیروهای مسلح ایالات متحده، روز سه‌شنبه ۲۲ اردیبهشت با حضور در جلسه کمیته فرعی تخصیص بودجه مجلس نمایندگان آمریکا از عملکرد دولت ترامپ در عملیات نظامی علیه رژیم ایران دفاع کردند.
+
+یک عضو پنتاگون نیز در پاسخ به پرسشی درباره هزینه جنگ اخیر آمریکا با جمهوری اسلامی گفت که این جنگ از ابتدا تا کنون حدود ۲۹ میلیارد دلار برای ایالات متحده هزینه داشته است.
+
+
+📝 هگست اعلام کرد برای تشدید یا عقب‌نشینی در خاورمیانه برنامه دارد اما قدم بعدی را فاش نکرد
+
+@mamlekate
+</div>
+
+## Shin_Persian — post 5971
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Tue, 12 May 2026 17:54:52 UTC
+
+Initial:
+Blast in Sana'a, Yemen
+
+فارسی
+
+انفجار در صنعا، یمن
+
+𝕏 · @shin_persian
+</div>
+
+## FarsiVOA — post 217556
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+در گفت‌وگو با شاهین مدرس، تحلیلگر مطالعات امنیتی، به نشست امنیتی کاخ سفید درباره آینده آتش‌بس با جمهوری اسلامی که به گفته پرزیدنت شانس پایینی برای بقا دارد پرداختیم و پرسیدیم آیا این آتش‌بس شکننده، به پایان خط رسیده است یا هنوز راهی برای مهار تنش و درگیری وجود دارد.
+</div>
+
+## FarsiVOA — post 217555
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+در گفت‌وگو با علیرضا فیروزی، مدیر مؤسسه پیشگامان اینترنت آزاد آلمان، به پدیده حکومتی اینترنت سفید و پرسرعت در دل قطع کامل اینترنت در ایران پرداختیم و بررسی کردیم چگونه این سیاست‌های حکومتی به جلوه‌ای از شکاف درون هسته سخت قدرت و بی‌اعتمادی فزاینده میان مردم و حکومت تبدیل شده است.
+</div>
+
+## IranianMinds — post 20025
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ:
+
+خواهیم دید در مورد ایران چه پیش می‌آید و ما فقط به دنبال رسیدن به یک توافق خوب هستیم.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20024
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_20024_1778609075.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 خبرنگار: آیا در مورد پاکستان به‌عنوان میانجی تجدیدنظر می‌کنید؟
+
+ترامپ: نه، آن‌ها عالی هستند. فیلد مارشال و نخست‌وزیر پاکستان فوق‌العاده عمل کرده‌اند!
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20023
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ:
+
+کسی که می خواهد به دیوانه های ایران اجازه دهد به سلاح هسته ای دست پیدا کنند، احمق است.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20022
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ:
+
+گفتگوی طولانی با رئیس جمهور چین درباره جنگ ایران خواهم داشت
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20021
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ :
+
+ما ارتش ایران رو از بین بردیم ، و فقط با ایران یک‌ توافق خوب میکنیم
+
+@IranianMinds
+</div>
+
+## alonews — post 119546
+
+<div align="center">
+  <a href="telegram/content/alonews_119546_1778609077.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 ترامپ در پاسخ به این سؤال که آیا آمریکا برای حل مسئله ایران به کمک چین نیاز دارد:
+
+
+🔴«نه، فکر نمی‌کنم به هیچ کمکی برای مسئله ایران نیاز داشته باشیم. به هر طریقی که شده، پیروز خواهیم شد. چه مسالمت‌آمیز باشد، چه غیر از آن!»
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119545
+
+<div align="center">
+  <a href="telegram/content/alonews_119545_1778609077.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ، از کاخ سفید خارج شد تا به چین سفر کنه
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 21:24
 ---
 
