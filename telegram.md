@@ -7,6 +7,192 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 17:58
+---
+
+## VahidOOnLine — post 239717
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239717_1778596105.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️دونالد ترامپ در آستانه سفر به چین، در گفتگو با برنامه پادکست «سید و دوستان در صبح» سید روزنبرگ گفت محاصره ایران ادامه دارد و تهران به منابع مالی دسترسی ندارد. او همچنین گفت نیروی دریایی و نیروی هوایی ایران نابود شده‌اند و افزود: «فقط مسئله زمان است.»
+
+ترامپ افزود آمریکا اجازه نخواهد داد ایران به سلاح هسته‌ای دست پیدا کند، چون به گفته او، جمهوری اسلامی از آن استفاده خواهد کرد. رئیس‌جمهوری آمریکا همچنین گفت اگر ایران به سلاح هسته‌ای دست پیدا کند، «فاجعه‌ای باورنکردنی» رخ خواهد داد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## farsi_fox_news — post 89258
+
+<div align="center">
+  <a href="telegram/content/farsi_fox_news_89258_1778596106.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ وزیر جنگ آمریکا: اگر لازم شد برای تشدید تنش با ایران طرح داریم
+
+🔹 پیت هگزث در نشستی درباره بودجه دفاعی آمریکا در کنگره این کشور درباره جنگ علیه ایران گفت، ما در صورت لزوم، همانطور که طرحی برای کاهش تنش داریم، طرحی برای تشدید تنش علیه ایران نیز داریم که اگر لازم شد آن را اجرا می‌کنیم.
+🔹 وی افزود، به دلیل جدیت ماموریتی که رئیس جمهور ترامپ بر عهده گرفته است و در راستای عدم دستیابی ایران به سلاح هسته‌ای، گام بعدی علیه ایران را فاش نخواهیم کرد.
+🔹 اظهارات وزیر جنگ آمریکا در این باره درحالیست که بسیاری از ناظران سیاسی و تحلیلگران غربی استراتژی واشنگتن در جنگ ایران را یک شکست تمام عیار خوانده‌اند و می‌گویند که پنتاگون به هیچ یک از اهداف خود در جنگ دست نیافته است.
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89257
+
+<div align="center">
+  <img src="telegram/content/farsi_fox_news_89257_1778596107.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ سخنگوی کمیسیون امنیت ملی: یکی از گزینه‌های ایران در صورت حملهٔ مجدد می‌تواند غنی‌سازی ۹۰ درصد باشد. در مجلس بررسی می‌کنیم
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89256
+
+<div align="center">
+  <img src="telegram/content/farsi_fox_news_89256_1778596108.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ غنی‌سازی ۹۰ درصدی اورانیوم در مجلس بررسی خواهد شد
+
+🔹 سخنگوی كميسيون امنيت ملی مجلس
+🌐 @farsi_fox_news
+</div>
+
+## FoxNewsTwitter — post 341585
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341585_1778596108.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: Foreign crew of container ship Dali charged over deadly Francis Scott Key bridge collision, newly unsealed indictment shows
+</div>
+
+## FoxNewsTwitter — post 341584
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341584_1778596109.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH: Three people arrested as another protest outside a New York synagogue turns violent.
+
+Hundreds gathered in Brooklyn as anti-Israel demonstrators clashed with police near the site, escalating into chaos.
+
+Police say those taken into custody were seen throwing items during the confrontation. It follows a similar protest at a historic Manhattan synagogue just weeks ago, raising concerns as tensions continue to spill into the streets.
+</div>
+
+## pm_afshaa — post 90630
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سخنگوی دولت: تا سایه‌ جنگ دور نشه اینترنت وصل نمیشه، وقتی دور شد به تدریج وصل میشه
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## VahidOnline — post 75432
+
+<div align="center">
+  <img src="telegram/content/VahidOnline_75432_1778596111.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ در گفت‌وگو با برنامه رادیویی «سید رازبرگ» گفت: انتظار داریم اقتصاد ایران زیر فشارهای ناشی از محاصره بنادرش فرو بپاشد.
+او افزود این درگیری بدون نیاز به شتاب‌زدگی حل‌وفصل خواهد شد و جمهوری اسلامی با انزوایی روبه‌رو است که آن را از منابع درآمدی محروم می‌کند.
+ترامپ گفت ایالات متحده در حال انجام ارتباطات مستقیم با مقام‌های تهران است و برای رسیدن به توافق عجله‌ای ندارد و او اطمینان دارد که تهران غنی‌سازی اورانیوم را به‌طور کامل متوقف خواهد کرد.
+@VahidOOnLine
+دونالد ترامپ گفت حکومت ایران با انزاویی روبه‌روست که آن را از منابع درآمدش محروم می‌کند و انتظار می‌رود اقتصاد ایران زیر فشارهای ناشی از محاصره بندرها دچار فروپاشی شود.
+او افزود: «این درگیری بدون نیاز به شتاب‌زدگی حل‌وفصل خواهد شد و جمهوری اسلامی با انزوایی روبه‌رو است که آن را از منابع درآمدی محروم می‌کند.»
+دونالد ترامپ درباره اورانیوم غنی‌شده در ایران گفت مقام‌های جمهوری اسلامی به او گفته‌اند قرار است آنچه او «گردوغبار هسته‌ای» می‌نامد در اختیار آمریکا قرار گیرد، اما بعدا نظرشان را تغییر داده‌اند. او تاکید کرد در نهایت این مواد را به دست خواهند آورد و موضوع را جمع‌وجور می‌کنند.
+@VahidOOnLine
+
+📡 @VahidOnline
+</div>
+
+## VahidOnline — post 75431
+
+<div align="center">
+  <img src="telegram/content/VahidOnline_75431_1778596111.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک مقام ارشد پنتاگون روز سه‌شنبه ۲۲ اردیبهشت اعلام کرد که جنگ ایالات متحده با ایران تاکنون ۲۹ میلیارد دلار هزینه داشته است، رقمی که نسبت به برآورد ارائه‌شده در اواخر ماه گذشته، چهار میلیارد دلار افزایش نشان می‌دهد.
+
+به گزارش خبرگزاری رویترز، در حالی که تنها شش ماه تا انتخابات میان‌دوره‌ای کنگره آمریکا باقی مانده است، دموکرات‌ها در نظرسنجی‌های عمومی موقعیت بهتری پیدا کرده‌اند و تلاش می‌کنند این جنگ را به مسائل مربوط به هزینه‌های زندگی پیوند بزنند.
+@VahidHeadline
+
+📡 @VahidOnline
+</div>
+
+## Persian_Trend_Official — post 13986
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_13986_1778596112.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 وزارت دفاع روسیه تصاویر آزمایش موشک «سارمات» را منتشر کرد
+
+وزارت دفاع روسیه ویدئویی از آزمایش موشک بالستیک قاره‌پیمای «سارمات» منتشر کرده است؛ موشکی که از آن به‌عنوان یکی از قدرتمندترین تسلیحات راهبردی هسته‌ای روسیه یاد می‌شود.
+
+بر اساس گزارش‌ها:
+
+▪️ «سارمات» یک موشک بالستیک قاره‌پیما با قابلیت حمل چندین کلاهک هسته‌ای است
+
+▪️ ناتو این موشک را با نام «شیطان ۲» می‌شناسد
+
+▪️ روسیه اعلام کرده این سامانه برای عبور از سپرهای موشکی طراحی شده است
+
+️▪️ برد این موشک بین ۱۰ تا ۱۸ هزار
+کیلومتر اعلام شده است
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 20008
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴وزیر دوم بریتانیا از دولت کی‌ر استارمر استعفاء داد.
+
+@IranianMinds
+</div>
+
+## Hranews — post 112905
+
+<div align="center">
+  <img src="telegram/content/Hranews_112905_1778596113.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+افزایش هزینه مسکن و اجاره‌بها، فشار معیشتی بر خانوارهای کارگری را تشدید کرده و سهم مسکن را به بخش عمده سبد هزینه خانواده‌ها در برخی کلان‌شهرها رسانده است. خبرگزاری ایلنا با انتشار گزارشی در این رابطه، به پیامدهای رشد #تورم، افزایش هزینه ساخت‌وساز و کاهش قدرت خرید پرداخته است. بر اساس این گزارش، بسیاری از خانواده‌ها ناچار شده‌اند برای تامین هزینه سرپناه، از مخارج ضروری مانند خوراک، درمان و آموزش بکاهند.
+
+کارشناسان اقتصادی همچنین از گسترش فقر مسکن، افزایش جابه‌جایی اجباری مستاجران به مناطق پایین‌تر و تشدید فشار بر خانوارهای کم‌درآمد خبر می‌دهند. به گفته آنان، ادامه رکود اقتصادی و #بیکاری، در کنار ناکارآمدی سیاست‌های حمایتی دولت، موجب شده بخش قابل توجهی از مستاجران با دشواری بیشتری در تامین هزینه‌های زندگی روبه‌رو شوند.
+
+↘️
+@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑
+</div>
+
+## alonews — post 119514
+
+<div align="center">
+  <a href="telegram/content/alonews_119514_1778596114.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈تورم در آمریکا 3.8% اعلام شد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 17:44
 ---
 
