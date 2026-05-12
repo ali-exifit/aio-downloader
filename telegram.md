@@ -7,6 +7,198 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 15:45
+---
+
+## VahidOOnLine — post 239689
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239689_1778588101.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+جان هیلی، وزیر دفاع بریتانیا، با اشاره به برگزاری نشستی درباره تامین امنیت کشتیرانی در تنگه هرمز گفت: «بی‌ثباتی بیشتر به سود بریتانیا نیست. اکنون باید تمام تمرکز ما بر رسیدگی به چالش‌های فوری اقتصادی و امنیتی باشد.»
+
+او افزود سه‌شنبه ریاست مشترک نشست ۴۰ وزیر دفاع را با هدف جلب حمایت از ماموریت تحت رهبری بریتانیا برای تامین امنیت کشتیرانی در تنگه هرمز بر عهده خواهد داشت.
+
+جان هیلی در شبکه ایکس نوشت مردم نگران درگیری‌های کنونی و بحران‌های جهانی پیش‌رو هستند و انتظار دارند دولت، همان‌گونه که نخست‌وزیر عمل می‌کند، کشور را از این شرایط عبور دهد.
+
+او تاکید کرد بریتانیا مشارکت‌های نظامی خود در این ماموریت را اعلام خواهد کرد و افزود بی‌ثباتی بیشتر به سود بریتانیا نیست و دولت باید بر چالش‌های فوری اقتصادی و امنیتی تمرکز کند.
+
+وزیر دفاع بریتانیا همچنین نوشت دولت باید برای بازگرداندن امنیت اقتصادی خانواده‌ها در داخل کشور اقدام کند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8966
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_8966_1778588103.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‼️یکی دیگه
+</div>
+
+## mwarmonitor — post 8964
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸ترامپ دوباره این دو عکس در سوشال تروث منتشر کرده
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341576
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341576_1778588104.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: President Trump announces plans to talk to Cuba as the country asks the United States for help:
+
+"No Republican has ever spoken to me about Cuba, which is a failed country and only heading in one direction - down! Cuba is asking for help, and we are going to talk!!!"
+</div>
+
+## FoxNewsTwitter — post 341575
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341575_1778588105.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH LIVE: Secretary Hegseth testifies on Pentagon budget before House panel https://twitter.com/i/broadcasts/1DGleErLAldJL
+</div>
+
+## pm_afshaa — post 90617
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ در Truth Social:هیچ جمهوری‌خواهی تاکنون درباره کوبا با من صحبت نکرده است، کشوری شکست‌خورده که فقط در یک جهت حرکت می‌کند - به سمت پایین
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 336808
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336808_1778588106.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+جان هیلی، وزیر دفاع بریتانیا، با اشاره به برگزاری نشستی درباره تامین امنیت کشتیرانی در تنگه هرمز گفت: «بی‌ثباتی بیشتر به سود بریتانیا نیست. اکنون باید تمام تمرکز ما بر رسیدگی به چالش‌های فوری اقتصادی و امنیتی باشد.»
+
+او افزود سه‌شنبه ریاست مشترک نشست ۴۰ وزیر دفاع را با هدف جلب حمایت از ماموریت تحت رهبری بریتانیا برای تامین امنیت کشتیرانی در تنگه هرمز بر عهده خواهد داشت.
+
+جان هیلی در شبکه ایکس نوشت مردم نگران درگیری‌های کنونی و بحران‌های جهانی پیش‌رو هستند و انتظار دارند دولت، همان‌گونه که نخست‌وزیر عمل می‌کند، کشور را از این شرایط عبور دهد.
+
+او تاکید کرد بریتانیا مشارکت‌های نظامی خود در این ماموریت را اعلام خواهد کرد و افزود بی‌ثباتی بیشتر به سود بریتانیا نیست و دولت باید بر چالش‌های فوری اقتصادی و امنیتی تمرکز کند.
+
+وزیر دفاع بریتانیا همچنین نوشت دولت باید برای بازگرداندن امنیت اقتصادی خانواده‌ها در داخل کشور اقدام کند.
+https://iranintl.com/202605123953
+</div>
+
+## IranianMinds — post 20004
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_20004_1778588106.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴دختر طهرانی مقدم: همسرم باور نمی‌کرد یک فرمانده ارشد نظامی اینقدر در خانه لطیف و عاطفی باشد.
+
+ناباوری همسرش بی‌جا نبوده، دلیلش هم اینه که بیرون از خانه وحشی، خونخوار و قاتل هستن.
+
+@IranianMinds
+</div>
+
+## BBCPersian — post 280847
+
+<div align="center">
+  <a href="telegram/content/BBCPersian_280847_1778588110.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻‌در جریان اجلاس «آفریقا فوروارد» که روز دوشنبه ۱۱ مه ۲۰۲۶ در نایروبی کنیا برگزار شد، امانوئل مکرون، رئیس‌جمهور فرانسه، با قطع کردن صحبت‌های سخنران از حاضران خواست سکوت کرده و سر و صدا نکنند .
+
+او با اشاره به «غیرممکن» شدن شنیدن صحبتهای سخنرانان به حاضران گفت: «این کاملا بی‌احترامی است.»
+
+اجلاس «آفریقا فوروارد» نشستی است که بیش از ۳۰ رهبر آفریقایی، مدیران تجاری و کارآفرینان جوان را گرد هم آورده است.
+
+فرانسه در تلاش است روابط خود را با کشورهای این قاره تقویت کند.
+
+@‌‌BBCPersian
+</div>
+
+## Hranews — post 112901
+
+<div align="center">
+  <img src="telegram/content/Hranews_112901_1778588114.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کیفرخواست پرونده روح الله کرکی صادر شد
+
+
+❗️
+❗️
+❗️
+❗️
+❗️– پرونده روح الله کرکی، شهروند اهل اندیمشک، با صدور کیفرخواست توسط شعبه ۹ دادسرای عمومی و انقلاب اهواز به دادگاه کیفری ۲ این شهرستان ارجاع شد.
+
+به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، کیفرخواست پرونده روح الله کرکی صادر شد.
+
+براساس اطلاعات دریافتی هرانا، پرونده آقای کرکی با صدور کیفرخواست از بابت اتهامات «انتشار و افشای اسناد محرمانه»، «همکاری با سازمان مجاهدین خلق»، «جاسوسی برای اسرائیل و تبادل اطلاعات نظامی و امنیتی»، «توهین به مقدسات و مقامات» و «اقدام علیه امنیت ملی» توسط شعبه ۹ اظهارنظر دادسرای عمومی و انقلاب اهواز صادر و به دادگاه کیفری ۲ این شهرستان ارجاع شده است.
+
+ادامه مطلب
+
+#روح_الله_کرکی
+
+↘️
+@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑
+</div>
+
+## alonews — post 119489
+
+<div align="center">
+  <a href="telegram/content/alonews_119489_1778588115.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 پزشکیان: اجازه نخواهیم داد عده‌ای از شرایط جنگ سوءاستفاده کرده و با ایجاد اختلال اقتصادی، به معیشت مردم ضربه بزنند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119488
+
+<div align="center">
+  <a href="telegram/content/alonews_119488_1778588115.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈پست ترامپ درباره ایران
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119487
+
+<div align="center">
+  <a href="telegram/content/alonews_119487_1778588116.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزارت خارجه کویت: ما از ایران می‌خواهیم که فوراً و بدون قید و شرط اقدامات غیرقانونی و خصمانه خود را که امنیت منطقه را تهدید می‌کند، متوقف کند
+
+
+🔴 اقدامات خصمانه ایران نقض آشکار حاکمیت کویت و نقض جدی قوانین بین‌المللی است.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 15:35
 ---
 
