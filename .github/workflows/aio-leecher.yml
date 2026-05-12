@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       urls:
-        description: 'Paste video/audio URLs (one per line, with optional shortcuts like v1080, a320)'
+        description: 'Paste video/audio URLs (one per line, with optional shortcuts like v 1080, a 320)'
         required: true
       extra_args:
         description: 'Extra yt-dlp arguments (optional)'
