@@ -7,6 +7,431 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 21:44
+---
+
+## VahidOOnLine — post 239759
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239759_1778609679.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ ۲۲ اردیبهشت، زادروز مریم میرزاخانی، به عنوان روز جهانی زنان در ریاضیات شناخته می‌شود؛ ریاضیدان ایرانی‌ای که نامش برای همیشه در تاریخ علم ماندگار شد.
+
+میرزاخانی در سال ۱۳۷۳ مدال طلای المپیاد ریاضی ایران و در سال ۱۹۹۴ مدال طلای المپیاد جهانی ریاضی در هنگ‌کنگ را کسب کرد. یک سال بعد، در ۱۹۹۵، دوباره طلای جهانی گرفت و با کسب نمره کامل، نامش را در تاریخ المپیادها ثبت کرد.
+
+او پس از تحصیل در دانشگاه صنعتی شریف، برای ادامه تحصیل به آمریکا رفت و دکترای خود را از دانشگاه هاروارد گرفت. مریم بعدها استاد دانشگاه استنفورد شد و در سال ۲۰۱۴ به عنوان نخستین زن تاریخ، مدال فیلدز، معتبرترین جایزه دنیای ریاضیات، را دریافت کرد.
+
+داستان او فقط درباره ریاضی نیست؛ درباره کنجکاوی، پشتکار و شکستن مرزهایی‌ست که غیرممکن به نظر می‌رسیدند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239758
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239758_1778609682.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ژنرال دن کین، رئیس ستاد مشترک ارتش آمریکا، اعلام کرد جمهوری‌اسلامی تحت فشار شدید ناشی از تحریم‌ها و محاصره قرار دارد و واشنگتن همچنان «طیفی از گزینه‌های نظامی» را در اختیار دارد.
+در جلسه استماع سنای آمریکا، کریس مورفی، سناتور دموکرات، با اشاره به افزایش شدید قیمت سوخت پرسید آیا راهی جز دیپلماسی برای بازگشایی تنگه هرمز وجود دارد یا نه.
+پیت هگست، وزیر دفاع آمریکا، در پاسخ گفت واشنگتن «قطعاً» ابزارهای نظامی لازم برای باز کردن تنگه هرمز را در اختیار دارد؛ از جمله حمله به اهداف زمینی و استفاده از توان دریایی و محاصره نظامی.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239757
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239757_1778609683.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️دونالد ترامپ، رئیس‌جمهوری آمریکا، روز سه‌شنبه ۲۲ اردیبهشت‌ماه، در پاسخ به سوالی درباره زمان پایان مذاکرات با ایران گفت: «خواهیم دید چه اتفاقی می‌افتد. ما فقط یک توافق خوب انجام خواهیم داد.»
+
+ترامپ همچنین گفت نیروی نظامی جمهوری اسلامی «از بین رفته» و «کاملا نابود شده است» و افزود: «خواهیم دید چه اتفاقی می‌افتد.»
+
+رئیس‌جمهوری آمریکا تاکید کرد به هر شکلی که این روند پیش برود، نتیجه آن برای مردم آمریکا و همچنین مردم ایران «بسیار خوب» خواهد بود.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239756
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239756_1778609685.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مجتبی یوسفی، نماینده اهواز در مجلس به سایت دیده‌بان ایران گفت: «ناوهای بریتانیا و فرانسه به تنگه هرمز نزدیک شوند، ببینند چه بلایی سرشان می آوریم. ما هم می‌گوییم بیایید نزدیک تنگه هرمز و آن را باز کنید.»
+
+او ادامه داد: «اگر بناست اروپایی‌ها ما را امتحان کنند، بدانند که پایگاه‌های نظامی، کشورهای اروپایی و هر کشور متخاصم هدف مشروع ما است. ما بلوف نمی‌زنیم بلکه عمل می‌کنیم.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341608
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341608_1778609685.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+RT @i: BREAKING: "As soon as this war is over, which will not be long, you're going to see oil prices drop and you're going to see a stock market which is already at the highest point in history, go through the roof.
+
+"With all of this, inflation is much lower than it was under Biden. Biden had the highest inflation in the history of our country... Our inflation is just short term." - President Trump
+</div>
+
+## FoxNewsTwitter — post 341607
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+RT @i: WATCH LIVE: FBI Director Patel faces senators on Capitol Hill https://twitter.com/i/broadcasts/1yxBeMayeVyJN
+</div>
+
+## FoxNewsTwitter — post 341606
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341606_1778609688.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+RT @i: JUST IN: President Trump refuses to say when he'll end negotiations with the Iranian regime as peace talks between the U.S. and the Islamic Republic continue to play out:
+
+"We're only making a good deal. Their military's gone. It's wiped out, and we're only going to make a good deal and we'll see what happens. But, I believe that one way or the other, it's going to be very good for the American people. And I think actually very good for the Iranian people."
+</div>
+
+## FoxNewsTwitter — post 341605
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341605_1778609690.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+RT @i: NOW: "We had a choice. Let these lunatics have a nuclear weapon. If you want to do that, then you're a stupid person. And you happen to be! I mean, I know you very well."
+
+"Anybody that wants them to have a nuclear weapon is a stupid person." –President Trump
+</div>
+
+## FoxNewsTwitter — post 341604
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341604_1778609692.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+RT @i: BREAKING: President Trump says Chinese President Xi has been "relatively good" with the Iran war, as Trump departs the White House for his trip to China to meet with Xi.
+
+"We're going to have a long talk about it. I think he's been relatively good, to be honest with you. You look at the blockade, no problem. They get a lot of their oil from that area. We've had no problem, and he's been a friend of mine."
+</div>
+
+## pm_afshaa — post 90641
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ:ما ایران را کاملا تحت کنترل داریم خلاصه یا یک توافق می‌کنیم، یا هم نابودشون میکنیم
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90640
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎙️خبرنگار: در چه مرحله‌ای مذاکره با ایران رو کنار میذارید؟
+
+ترامپ: خواهیم دید چه می‌شود.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90639
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90639_1778609695.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ: ایران نمیتونه سلاح هسته‌ای داشته باشه؛ آنها با این موضوع موافق بودن، اما چیزی که برای من فرستادن، آن نبود. ما بازی نمی‌کنیم.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## iaghapour — post 2603
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✍ آدم راننده شوتی باشه به مراتب اضطرابش كمتر از کسیه كه شغلش تو ايران به اينترنت وابسته هستش...
+
+🆔 @iaghapour
+</div>
+
+## IranIntlTV — post 336860
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336860_1778609696.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مجتبی یوسفی، نماینده اهواز در مجلس به سایت دیده‌بان ایران گفت: «ناوهای بریتانیا و فرانسه به تنگه هرمز نزدیک شوند، ببینند چه بلایی سرشان می آوریم. ما هم می‌گوییم بیایید نزدیک تنگه هرمز و آن را باز کنید.»
+
+او ادامه داد: «اگر بناست اروپایی‌ها ما را امتحان کنند، بدانند که پایگاه‌های نظامی، کشورهای اروپایی و هر کشور متخاصم هدف مشروع ما است. ما بلوف نمی‌زنیم بلکه عمل می‌کنیم.»
+https://iranintl.com/202605125053
+</div>
+
+## IranIntlTV — post 336859
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/336859" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی چرتکه: سناریوهای قدرت خرید تا پایان ۱۴۰۵
+@iranintlTV
+</div>
+
+## ManotoTV — post 105364
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105364_1778609697.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ژنرال دن کین، رئیس ستاد مشترک ارتش آمریکا، اعلام کرد جمهوری‌اسلامی تحت فشار شدید ناشی از تحریم‌ها و محاصره قرار دارد و واشنگتن همچنان «طیفی از گزینه‌های نظامی» را در اختیار دارد.
+در جلسه استماع سنای آمریکا، کریس مورفی، سناتور دموکرات، با اشاره به افزایش شدید قیمت سوخت پرسید آیا راهی جز دیپلماسی برای بازگشایی تنگه هرمز وجود دارد یا نه.
+پیت هگست، وزیر دفاع آمریکا، در پاسخ گفت واشنگتن «قطعاً» ابزارهای نظامی لازم برای باز کردن تنگه هرمز را در اختیار دارد؛ از جمله حمله به اهداف زمینی و استفاده از توان دریایی و محاصره نظامی.
+</div>
+
+## Persian_Trend_Official — post 13997
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_13997_1778609698.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک مقام ارشد نیروی دریایی سپاه پاسداران انقلاب اسلامی اعلام کرده است که ایران تعریف خود از تنگه هرمز را به یک «منطقه عملیاتی گسترده» تغییر داده؛ تعریفی که به‌مراتب وسیع‌تر از نگاه پیش از جنگ توصیف می‌شود.
+به گزارش خبرگزاری فارس در روز سه‌شنبه ۲۲ اردیبهشت، محمد اکبرزاده، معاون سیاسی نیروی دریایی سپاه، تأکید کرد که تنگه هرمز دیگر صرفاً یک آبراه محدود در اطراف چند جزیره نیست و ابعاد و اهمیت نظامی آن به‌طور قابل توجهی گسترش یافته است.
+او اظهار داشت: «در گذشته، تنگه هرمز به‌عنوان محدوده‌ای محدود پیرامون جزایری مانند هرمز و هنگام تعریف می‌شد، اما امروز این رویکرد تغییر کرده است.»
+بر اساس این گزارش، مقامات رسمی ایران تاکنون به درخواست خبرگزاری رویترز برای ارائه توضیحات بیشتر در این خصوص پاسخی نداده‌اند.
+
+☆Phantom☆
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 20031
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_20031_1778609699.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ:
+
+ما ایران را کاملا تحت کنترل داریم.
+
+خلاصه یا یک توافق می‌کنیم، یا هم نابودشون میکنیم .
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20030
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 خبرنگار: در مذاکرات با ایران چه زمانی عقب می‌نشینید؟
+
+ترامپ:
+
+می‌خواهیم ببینیم اوضاع چطور پیش می‌رود. هدف‌مان فقط یک توافق خوب است.
+باور دارم این برای مردم آمریکا مفید خواهد بود و برای مردم ایران هم مفید است !
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20029
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بقیه صحبتاش تکراریه پوشش نمیدیم حرف جدیدی زد پوشش میدیم
+</div>
+
+## IranianMinds — post 20028
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_20028_1778609701.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ:
+
+رهبران ایران یا کار درست را انجام خواهند داد، یا ما کار را تمام خواهیم کرد.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20027
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_20027_1778609704.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ:
+
+من به وضعیت مالی آمریکایی‌ها فکر نمی‌کنم. به هیچ‌کس فکر نمی‌کنم.
+
+فقط به یک چیز فکر می‌کنم: نمی‌توانیم اجازه دهیم ایران به سلاح هسته‌ای دست پیدا کند. همین!
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20026
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ:
+
+فکر نمی‌کنم در مورد ایران به کمک نیاز داشته باشیم و به هر طریقی چه مسالمت‌آمیز و چه به شکلی دیگر پیروز خواهیم شد.
+
+@IranianMinds
+</div>
+
+## manototv — post 105364
+
+<div align="center">
+  <a href="telegram/content/manototv_105364_1778609706.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ژنرال دن کین، رئیس ستاد مشترک ارتش آمریکا، اعلام کرد جمهوری‌اسلامی تحت فشار شدید ناشی از تحریم‌ها و محاصره قرار دارد و واشنگتن همچنان «طیفی از گزینه‌های نظامی» را در اختیار دارد.
+در جلسه استماع سنای آمریکا، کریس مورفی، سناتور دموکرات، با اشاره به افزایش شدید قیمت سوخت پرسید آیا راهی جز دیپلماسی برای بازگشایی تنگه هرمز وجود دارد یا نه.
+پیت هگست، وزیر دفاع آمریکا، در پاسخ گفت واشنگتن «قطعاً» ابزارهای نظامی لازم برای باز کردن تنگه هرمز را در اختیار دارد؛ از جمله حمله به اهداف زمینی و استفاده از توان دریایی و محاصره نظامی.
+</div>
+
+## alonews — post 119556
+
+<div align="center">
+  <a href="telegram/content/alonews_119556_1778609708.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: ما و چین، دو ابرقدرت جهان هستی
+
+
+🔴ترامپ درباره ایران: ما یا یه توافق می‌کنیم، یا اونا نابود می‌شن - به هر حال ما برنده‌ایم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119555
+
+
+
+
+## alonews — post 119553
+
+
+
+
+## alonews — post 119552
+
+<div align="center">
+  <a href="telegram/content/alonews_119552_1778609708.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈هم اکنون طوفان شدید در تهران
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119550
+
+<div align="center">
+  <a href="telegram/content/alonews_119550_1778609709.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ : از پاکستان به‌عنوان میانجی تو ماجرای ایران حمایت می‌کنم و معتقدم میشه به یه توافق خوب رسید
+
+
+🔴این قضیه هم برای مردم آمریکا خوبه، هم برای ایرانی‌ها، پاکستانی‌ آدمای خوبی‌ان
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119549
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اخبار جنگ الونیوز AloNews pinned «»
+</div>
+
+## alonews — post 119548
+
+<div align="center">
+  <a href="telegram/content/alonews_119548_1778609710.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: فکر نمی‌کنم در مورد ایران به کمک نیاز داشته باشیم و به هر طریقی چه مسالمت‌آمیز و چه به شکلی دیگر پیروز خواهیم شد
+
+
+🔴 یا ایران کار درست را انجام می دهد یا کار را تمام می کنیم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119547
+
+<div align="center">
+  <a href="telegram/content/alonews_119547_1778609710.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: با ایران یک توافق خوب منعقد خواهیم کرد
+
+
+
+
+🔴ارتش ایران را حذف کردیم
+
+
+🔴ماشین جنگی ایران از بین رفته است
+
+
+🔴گفتگوی طولانی با رئیس جمهور چین درباره جنگ ایران خواهم داشت
+
+
+🔴کسی که می‌خواهد به دیوانه‌های ایران اجازه دهد به سلاح هسته‌ای دست پیدا کنند، احمق است
+
+
+🔴نمی‌توان اجازه داد ایران به سلاح هسته‌ای دست یابد و این را می‌داند و ما بازی نمی‌کنیم
+
+
+🔴فکر نمی‌کنم در مورد ایران به کمک رئیس‌جمهور چین نیاز داشته باشیم
+
+
+🔴خواهیم دید در مورد ایران چه اتفاقی می افتد و فقط به دنبال انعقاد یک توافق خوب هستیم
+
+
+🔴ناتو من را ناامید کرده است و نیازی به کمک آن نداریم
+
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 21:34
 ---
 
