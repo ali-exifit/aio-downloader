@@ -7,6 +7,201 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 19:57
+---
+
+## VahidOOnLine — post 239740
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️مایک هاکبی، سفیر آمریکا در اسرائیل، روز سه‌شنبه ۲۲ اردیبهشت در یک کنفرانس در دانشگاه تل‌آویو گفت اسرائیل سامانه گنبد آهنین و نیروهایی برای راه‌اندازی آن به امارات متحده عربی فرستاده است. او افزود این اقدام در چارچوب روابط «فوق‌العاده» میان اسرائیل و امارات متحده عربی و بر پایه توافق‌های ابراهیم انجام شده است.
+
+هاکبی با اشاره به پیامدهای توافق‌های ابراهیم برای امارات گفت: «فقط نگاهی به مزایای آن بیندازید. اسرائیل همین حالا سامانه‌های گنبد آهنین و نیروهایی را برای کمک به بهره‌برداری از آن‌ها برایشان فرستاده است.»
+
+امارات متحده عربی در چارچوب توافق‌های ابراهیم که در سال ۲۰۲۰ با میانجی‌گری آمریکا انجام شد، اسرائیل را به رسمیت شناخت. پیش‌تر فایننشال تایمز گزارش داده بود اسرائیل برای کمک به دفاع از امارات، سامانه شناسایی سبک «اسپکترو» و سامانه پدافند موشکی را همراه با ده‌ها نیروی نظامی به این کشور فرستاده است؛ اقدامی که یکی از نخستین نمونه‌های بزرگ همکاری دفاعی میان دو طرف به‌شمار می‌رود.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239739
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239739_1778603223.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️اصغر فرهادی با فیلم تازه‌اش «داستان‌های موازی» امسال به جشنواره فیلم کن ۲۰۲۶ بازمی‌گردد؛ جشنواره‌ای که برخلاف سال‌های گذشته، این بار بیش از آنکه در اختیار ستاره‌ها و فیلم های پرخرج هالیوودی باشد، به سینمای مؤلف و فیلمسازان بین‌المللی تعلق دارد.
+کن که از دهه‌ها پیش به‌عنوان مهم‌ترین جشنواره سینمایی جهان و ویترین اروپایی هالیوود شناخته می‌شد، امسال بدون فیلم‌های بزرگ استودیویی آمریکا برگزار می‌شود. در سال‌های اخیر، فیلم‌هایی مانند «تاپ گان: ماوریک»، «ماموریت غیرممکن»، «الویس» و «ایندیانا جونز» در کن رونمایی شده بودند، اما در دوره ۲۰۲۶ هیچ نام بزرگ هالیوودی در بخش مسابقه یا افتتاحیه حضور ندارد.
+تنها دو فیلم آمریکایی برای نخل طلا رقابت می‌کنند: «مردی که دوستش دارم» ساخته ایرا ساکس با بازی رامی مالک و ربکا هال و «ببر کاغذی» ساخته جیمز گری با حضور آدام درایور و اسکارلت جوهانسون.
+در مقابل، بخش مسابقه امسال مملو از نام‌های مهم سینمای مؤلف جهان است. پدرو آلمودوار با فیلم «کریسمس تلخ» بازگشته، لازلو نمش فیلم «مولن» را ارائه کرده و آندری زویاگینتسف، فیلمساز تبعیدی روس، «مینوتور» را به کن آورده است.
+ریاست هیئت داوران دوره هفتادونهم جشنواره بر عهده پارک چان ووک، کارگردان سرشناس کره‌ای، است. اعضای هیئت داوران نیز دمی مور، روث نگا، لورا واندل، کلوئی ژائو، دیگو سسپدس، ایزاک دو بانکوله، پل لاورتی و استلان اسکارشگورد هستند. برندگان نهایی جشنواره و نخل طلای کن در مراسم اختتامیه ۲۳ مه اعلام خواهند شد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8979
+
+<div align="center">
+  <a href="telegram/content/mwarmonitor_8979_1778603223.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✈️۱۵ فروند هواپیمای کوچک آمریکایی 🇺🇸 (احتمالاً F-16) که دیروز وارد شده‌اند در عربستان سعودی 🇸🇦، در اپرون (محوطه پارکینگ) آمریکایی پایگاه Prince Sultan Air Base (PSAB) در مختصات زیر مشاهده شدند:
+24.0637, 47.5684
+
+📌این موضوع تأیید می‌کند که محدودیت‌های عملیاتی عربستان علیه پروژه آمریکایی Project Freedom برداشته شده است.
+
+✈️گفته می‌شود ۵۳ فروند جنگنده F-16 در پایگاه PSAB مستقر هستند.
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341597
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+JUST IN: WHO reports 2 new cases of hantavirus amid growing concern about the disease:
+
+"As of 12 May, 12h00 CEST, a total of 11 cases, including 3 deaths, have been reported. Nine of the 11 cases are confirmed, and the other 2 are probable. All are among passengers or crew on the ship."
+
+"We expect more cases given the dynamics of spread on a ship and the virus’ incubation period. At the moment, there is no sign that we are seeing the start of a larger outbreak."
+</div>
+
+## FoxNewsTwitter — post 341596
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341596_1778603224.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: War Secretary Pete Hegseth unveils a massive $1.5 trillion budget aimed at restoring American commercial dominance and overhauling a "broken" military system.
+
+“This budget also includes a historic troop pay increase 7% that builds on the pay increases that Congress has given in previous years, and the budget eliminates all poor or failing barracks.”
+
+“Quality of life for our troops is front and center in this budget. By supercharging our industrial capacity and transforming how the department does business, we are restoring American commercial dominance at a pace unseen in generations, transforming the defense industrial base from the broken, slow-moving systems of the past.”
+</div>
+
+## FoxNewsTwitter — post 341595
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341595_1778603226.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: Sen. Lindsey Graham unloads on Pakistan after reports claim the Middle East mediator allowed Iran to use their bases to park military aircraft.
+
+"I don't trust Pakistan as far as I can throw them. If they actually do have Iranian aircraft parked in Pakistan bases to protect Iranian military assets, that tells me we should be looking maybe for somebody else to mediate. No wonder this damn thing is going nowhere."
+</div>
+
+## FoxNewsTwitter — post 341594
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341594_1778603227.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: Senate Minority Leader Chuck Schumer lashes out at the White House, claiming the administration's policy decisions have left the nation vulnerable to the recent hantavirus outbreak.
+
+"The Trump administration's gutting of America's public health preparedness has made the recent hantavirus outbreak even more alarming."
+</div>
+
+## FoxNewsTwitter — post 341593
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341593_1778603229.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+RT @AmericaNewsroom: HANTAVIRUS OUTBREAK: @DrMarcSiegel breaks down the likelihood of human-to-human transmission in American communities as cruise passengers undergo medical observation.
+
+“This ship was like a petri dish where everybody came together... it only occurred because of very, very close quarters and conditions.”
+</div>
+
+## Persian_Trend_Official — post 13991
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+لایو امشب ساعت 21 به وقت تهران شروع میشه
+</div>
+
+## BBCPersian — post 280858
+
+<div align="center">
+  <img src="telegram/content/BBCPersian_280858_1778603230.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻بحران در دولت بریتانیا با استعفای سه عضو پایین‌رتبه کابینه امروز ادامه یافت.
+
+بیش از ۸۴ نماینده حزب کارگر در پارلمان از کی‌یر استارمر خواسته‌اند که برای کناره‌گیری از نخست‌وزیری یک جدول زمانی اعلام کند.
+
+پس از آنکه دیروز آقای استارمر گفت که اشتباهات را می‌پذیرد اما به کارش ادامه می‌دهد، بعضی از اعضای دولت از او حمایت کردند و گفتند اکنون زمان مناسبی برای به چالش کشیدن او به‌عنوان رهبر حزب نیست اما شمار فزاینده‌ای هم می‌گویند که کار دولت با ادامه نخست‌وزیری آقای استارمر ممکن نیست.
+
+گمانه‌زنی‌ها درباره آینده سیاسی نخست‌وزیر بریتانیا از زمان انتخابات محلی پنجشنبه (۷ مه) شدت گرفته است؛ انتخاباتی که حزب کارگر، به رهبری کی‌یر استارمر، نزدیک به ۱۵۰۰ کرسی شوراهای محلی در انگلستان را از دست داد، در اسکاتلند هم عقب‌تر نشست، در ولز نیز پس از ۲۷ سال در صدر، به رتبه سوم سقوط کرد.
+
+این شکست سنگین انتخاباتی باعث شد تعدادی از نمایندگان حزب کارگر خواستار کناره‌گیری یا تعیین زمانی برای آن شوند. برای به چالش کشیدن رهبر حزب، رای ۸۱ نماینده حزب کارگر لازم است.
+
+مطلب کامل:
+https://bbc.in/3Po91FI
+📷Getty Images
+@BBCPersian
+</div>
+
+## Dirty_Kids — post 389324
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یه سر تیز رفتم اینستاگرام و واقعا ارزششو داشت جیغ میزنم از میزان جذابیت دو عزیز
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 119524
+
+<div align="center">
+  <a href="telegram/content/alonews_119524_1778603230.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 دونالد ترامپ تصویر خودش روی اسکناس ۱۰۰ دلاری را قرار داد! پشت این اسکناس خیالی هم بجای «خدا به آمریکا برکت دهد»، نوشته شده «خدا به ترامپ برکت دهد»!
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119523
+
+<div align="center">
+  <a href="telegram/content/alonews_119523_1778603231.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈در آستانه سفر ترامپ به پکن، وزیران خارجه پاکستان و چین در گفت‌وگوی تلفنی، تلاش‌ها برای تسهیل گفت‌وگو میان آمریکا و ایران را بررسی کردند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119522
+
+<div align="center">
+  <a href="telegram/content/alonews_119522_1778603231.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈هگست: همچنان برتری پدافند هوایی خودمون رو حفظ کردیم و توان نظامی ایران "خیلی شدید ضعیف شده"
+
+
+🔴هر توافقی با ایران فقط و فقط طبق «شرایط و خواسته‌های ترامپ» انجام می‌شه
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 19:44
 ---
 
