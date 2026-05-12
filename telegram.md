@@ -7,6 +7,386 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 23:14
+---
+
+## VahidOOnLine — post 239785
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239785_1778615063.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️دونالد ترامپ، رئیس‌جمهوری آمریکا، روز سه‌شنبه ۲۲ اردیبهشت‌ماه پیش از سفر رسمی به چین و دیدار با شی جین‌پینگ، در پاسخ به سوالی درباره خط قرمز پایان آتش‌بس با ایران گفت: «در طول پرواز به آن فکر خواهیم کرد و در روزهای آینده هم درباره آن فکر می‌کنیم.»
+
+ترامپ همچنین گفت آمریکا ارتش جمهوری اسلامی را «به‌طور کامل شکست داده» و افزود: «کار آن تمام شده است.»
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239784
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239784_1778615064.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+در پی بازداشت چهار فرد «وابسته به سپاه پاسداران» در کویت، وزارت خارجه جمهوری اسلامی برنامه‌ریزی برای انجام اقدامات خصمانه علیه کویت را بی‌اساس و مردود دانست.
+
+وزارت خارجه جمهوری اسلامی در بیانیه‌ای اعلام کرد این چهار مامور در چارچوب ماموریت مرسوم گشت‌زنی دریایی مشغول انجام وظیفه بوده‌اند و به دلیل «اختلال در سامانه ناوبری» وارد آب‌های سرزمینی کویت شده‌اند.
+
+این وزارتخانه از مراجع کویت خواست از اظهارنظرهای شتاب‌زده و طرح ادعاهای بی‌اساس خودداری کرده و موضوع را از طریق مجاری رسمی پیگیری کنند. وزارت خارجه جمهوری اسلامی همچنین خواهان آزادی این چهار مامور بازداشت‌شده شد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239783
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239783_1778615065.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تماسی از ایران؛
+«می‌گفت تغییر از بیرون نیست…
+کار خود مردمه، حتی با این وضعیت سخت.»
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8994
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_8994_1778615066.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨 تغییر معنادار در ماموریت بمب‌افکن‌های استراتژیک آمریکا 📌 رصد تحرکات هوایی نشان‌دهنده تغییر الگو و خروج بمب‌افکن‌های USAF از روال عادی پروازهای تمرینی است. 📍 جزئیات کلیدی: بمب‌افکن: یک فروند B-1B Lancer (شناسه ZENER 01) از پایگاه فایرفورد به پرواز درآمد.…
+</div>
+
+## pm_afshaa — post 90649
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90649_1778615067.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ان‌بی‌سی نیوز: ارتش ایالات متحده در نظر داره در صورت فروپاشی آتش‌بس و تصمیم ترامپ برای از سرگیری عملیات‌های عمده رزمی، نام درگیری خود با ایران رو به عملیات «چکش سنگین» تغییر بده و این جایگزین نام قبلی عملیات خشم حماسی خواهد شد.
+
+این تغییر نام میتونه به دولت آمریکا اجازه بده درگیری‌های جدید رو یک عملیات نظامی تازه معرفی کنه؛ اقدامی که عملاً مهلت 60 روزه اختیارات جنگی رئیس‌جمهور آمریکا تحت قانون «اختیارات جنگی ۱۹۷۳» رو از نو آغاز میکنه.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## kianmeli1 — post 87372
+
+<div align="center">
+  <img src="telegram/content/kianmeli1_87372_1778615067.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴رؤیافروشی تلویزیون ها پایانی ندارد
+
+قبل از علی خامنه ای میگفتند با کشته شدن خامنه ای کار تمام است
+امروز میگویند با پایان لایه بعدی کار تمام است
+
+هموطن٫ کار تمام است اما وقتی که «سازماندهی هوشمندانه و شبکه سازی شهری» دیده شود
+
+از ۱۸ دی تا امروز کدام شبکه سازی در کشور توانسته یک قاضی قاتل را از بین ببرد که احساس کنیم نیروهای سازماندهی در حال تلاش است!
+
+با رویافروشی شبکه ها که مدام تحلیل غلط به خوردتان میدهند ٫ براندازی محقق نمی شود
+
+«براندازی بدون سازماندهی ٫ شکست سنگین ادامه دارد»
+
+این صحبت تلخ است اما حقیقت است
+https://t.me/kianmeli1
+</div>
+
+## IranIntlTV — post 336875
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336875_1778615068.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بنا بر گزارش‌ها هم‌زمان با سفر دونالد ترامپ به چین، جمهوری اسلامی تلاش کرده است از پکن برای رساندن پیامش به واشینگتن استفاده کند و گفته است چین می‌تواند نقش ضامن هر توافق احتمالی را داشته باشد.
+
+گفت‌وگو با جمشید برزگر، روزنامه‌نگار و تحلیل‌گر سیاسی
+@iranintltv
+</div>
+
+## IranIntlTV — post 336874
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336874_1778615069.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+جهنم قطع اینترنت چگونه به پایان می‌رسد؟
+
+«چشم‌انداز با مهدی مهدوی‌آزاد»
+
+تماشای نسخه کامل این برنامه در یوتیوب:
+
+https://youtu.be/92BJ6BfAYHQ
+
+@iranintltv
+</div>
+
+## IranIntlTV — post 336873
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336873_1778615071.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+در پی بازداشت چهار فرد «وابسته به سپاه پاسداران» در کویت، وزارت خارجه جمهوری اسلامی برنامه‌ریزی برای انجام اقدامات خصمانه علیه کویت را بی‌اساس و مردود دانست.
+
+وزارت خارجه جمهوری اسلامی در بیانیه‌ای اعلام کرد این چهار مامور در چارچوب ماموریت مرسوم گشت‌زنی دریایی مشغول انجام وظیفه بوده‌اند و به دلیل «اختلال در سامانه ناوبری» وارد آب‌های سرزمینی کویت شده‌اند.
+
+این وزارتخانه از مراجع کویت خواست از اظهارنظرهای شتاب‌زده و طرح ادعاهای بی‌اساس خودداری کرده و موضوع را از طریق مجاری رسمی پیگیری کنند. وزارت خارجه جمهوری اسلامی همچنین خواهان آزادی این چهار مامور بازداشت‌شده شد.
+https://iranintl.com/202605121807
+</div>
+
+## Shin_Persian — post 5976
+
+<div align="center">
+  <img src="telegram/content/Shin_Persian_5976_1778615071.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+DefenceGeek 🇬🇧 ✓ @DefenceGeek Tue, 12 May 2026 19:21:43 UTC 40th Bomber Training Flight from Fairford #FreeIran‌ --- Operation EPIC FURY / Project FREEDOM --- Rather helpfully, the solo B-1B "Lancer" bomber from RAF Fairford (EGVA) (which is flying the…
+</div>
+
+## Shin_Persian — post 5975
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+DefenceGeek 🇬🇧 ✓ @DefenceGeek
+Tue, 12 May 2026 19:21:43 UTC
+
+40th Bomber Training Flight from Fairford #FreeIran‌
+--- Operation EPIC FURY / Project FREEDOM ---
+
+Rather helpfully, the solo B-1B "Lancer" bomber from RAF Fairford (EGVA) (which is flying the 40th training mission from the base since the ceasefire began), has been broadcasting it's location for all to see!
+
+This route has been a fairly routine pattern for the training flights, and for many of the 62 bomber missions flown by B-1B and B-52H types during the war in Iran.
+
+B-1B "ZENER01" 86-0134 #AE6C05 "Thunderbird"
+
+@MATA_osint @ArmchairAdml @Andyyyyrrrr @jamjake01 @LHA2709 @vcdgf555
+
+فارسی
+
+چهلمین پرواز آموزشی بمب‌افکن از فیرفورد #FreeIran
+--- عملیات خشم حماسی (EPIC FURY) / پروژه آزادی ---
+
+بمب‌افکن تک‌فروندی B-1B "لنسر" از پایگاه نیروی هوایی سلطنتی فیرفورد (EGVA) (که در حال انجام چهلمین ماموریت آموزشی از این پایگاه پس از آغاز آتش‌بس است)، به شکلی کاملاً مفید در حال مخابره موقعیت مکانی خود برای مشاهده همگان بوده است!
+
+این مسیر یک الگوی نسبتاً معمول برای پروازهای آموزشی و همچنین برای بسیاری از ۶۲ ماموریت بمب‌افکنی انجام شده توسط انواع B-1B و B-52H در طول جنگ در ایران بوده است.
+
+B-1B "ZENER01" 86-0134 #AE6C05 "Thunderbird"
+
+@MATA_osint @ArmchairAdml @Andyyyyrrrr @jamjake01 @LHA2709 @vcdgf555
+
+𝕏 · @shin_persian
+</div>
+
+## ManotoTV — post 105376
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105376_1778615072.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تماسی از ایران؛
+«می‌گفت تغییر از بیرون نیست…
+کار خود مردمه، حتی با این وضعیت سخت.»
+</div>
+
+## FarsiVOA — post 217568
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217568_1778615073.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️هیمن سیدی در برنامه تفسیر خبر: جمهوری اسلامی استاد محاسبات غلط از سر ناچاری است
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217567
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️ادامه بحران دارو و کمبود موادغذایی زیر سایه خاموشی دیجیتال؛ واکنش کاربران شبکه‌های اجتماعی
+
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217566
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️در گفت‌وگو با موسی برزین، حقوقدان، از اعدام عبدالجلیل شه‌بخش، شهروند بلوچ، و سرکوب ساختاری اقلیت‌ها گفتیم و پرسیدیم چرا حکومت با استفاده از الگوی تکراری دادرسی ناعادلانه و اخذ اعترافات اجباری در زیرشکنجه، به اجرای احکام اعدام زندانیان سیاسی از جمله اقلیت‌های قومی کرد و بلوچ سرعت داده است.
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 14003
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_14003_1778615074.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 تهران ادعاهای کویت علیه ۴ شهروند ایرانی را رد کرد
+
+جمهوری اسلامی ادعاهای مطرح‌شده از سوی وزارت خارجه و وزارت کشور کویت درباره برنامه‌ریزی ایران برای انجام اقدامات خصمانه علیه این کشور را «کاملاً بی‌اساس» و مردود دانست.
+
+بر اساس موضع تهران:
+
+▪️ اتهامات مطرح‌شده علیه ۴ شهروند ایرانی رد شده است
+▪️ ایران تأکید کرده هیچ برنامه‌ای برای اقدام علیه کویت نداشته است
+▪️ جمهوری اسلامی این ادعاها را فاقد اعتبار توصیف کرده است
+
+▪️این واکنش پس از آن مطرح می‌شود که کویت از شناسایی و برخورد با آنچه «تهدیدات امنیتی» خوانده بود خبر داده بود.
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Hranews — post 112916
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گزارشی از تجمع اعتراضی اساتید اخراجی دانشگاه فرهنگیان در تهران
+
+
+❗️
+❗️
+❗️
+❗️
+❗️ – روز یکشنبه ۲۰ اردیبهشت‌ماه، شماری از اساتید اخراجی دانشگاه فرهنگیان در مقابل ساختمان‌های سازمان بازرسی کل کشور و وزارت آموزش و پرورش در اعتراض به عدم رسیدگی به مطالباتشان دست به #تجمع زدند.
+
+ادامه مطلب
+
+↘️
+@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑
+</div>
+
+## manototv — post 105376
+
+<div align="center">
+  <a href="telegram/content/manototv_105376_1778615074.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تماسی از ایران؛
+«می‌گفت تغییر از بیرون نیست…
+کار خود مردمه، حتی با این وضعیت سخت.»
+</div>
+
+## alonews — post 119587
+
+<div align="center">
+  <a href="telegram/content/alonews_119587_1778615076.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزیر اقتصاد: به صورت ناشناس در تجمعات شرکت می‌کردم!
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119586
+
+<div align="center">
+  <img src="telegram/content/alonews_119586_1778615076.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴علیرضا دبیر: ۱۰ میلیون ایرانی خارج از کشور داریم که بیشترشان آدم حسابی‌‌اند/ ۵۰ هزار نفری که پلشت هستند و می‌رقصند، در خارج ول هستند
+@AloSport
+</div>
+
+## alonews — post 119585
+
+<div align="center">
+  <a href="telegram/content/alonews_119585_1778615076.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈مارکو روبیو از جی‌دی ونس پیشی گرفت؛ پیشتازی در نظرسنجی ۲۰۲۸
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119584
+
+<div align="center">
+  <a href="telegram/content/alonews_119584_1778615076.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈فارس به نقل از منابع: ایران به میانجی پاکستانی اعلام کرده است که تداوم محاصره دریایی در محدوده دریای عرب و خلیج عمان پس از برقراری آتش‌بس، گزاره غیرقابل اعتماد بودن مذاکره با آمریکا را بیش از پیش تقویت کرده است.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119583
+
+<div align="center">
+  <a href="telegram/content/alonews_119583_1778615076.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈رویترز : مقامات ایرانی و غربی گفتند که عربستان سعودی، ایران را از این حملات مطلع کرده و سپس تماس‌های دیپلماتیک فشرده‌ای در کنار تهدیدهای عربستان مبنی بر تلافی بیشتر صورت گرفته است که منجر به تفاهم بین دو کشور در مورد کاهش تنش‌ها شده است.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119582
+
+<div align="center">
+  <a href="telegram/content/alonews_119582_1778615076.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ویدئوی دردناکی از مشهد، 18 دی. فلکه پارک
+
+
+💔جنازه .... جنازه .... جنازه .... اینجا هم جنازه .... همه جا جنازه ست.
+
+
+🔴این جوانان توسط حکومت تروریست جمهوری اسلامی و عوامل بسیجی و سپاهی با تیر مستقیم کشته شدن، نه توسط اسرائیل و آمریکا.
+
+
+🤔انتقام ما رو توی تاریخ مینویسند، شک نکنید.
+
+
+✅@AloNews
+</div>
+
+## alonews — post 119581
+
+<div align="center">
+  <a href="telegram/content/alonews_119581_1778615077.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ادعای حسن ایوب خان، خبرنگار ARY News پاکستان: طبق اطلاعات من، لجستیک اداری و امنیتی هیئت معاون اول رئیس‌جمهور آمریکا، جی. دی. ونس، هنوز در پاکستان حضور دارد که نشانه آشکاری است از اینکه امیدها برای برگزاری دور دوم مذاکرات ایران و آمریکا در پاکستان همچنان زنده است.
+
+
+🔴 با این حال، هنوز هیچ پیام رسمی از سوی هیچ یک از طرفین درباره ورود آنها به پاکستان برای گفت‌وگوها صادر نشده است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119580
+
+<div align="center">
+  <a href="telegram/content/alonews_119580_1778615077.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزیر اقتصاد: افزایش‌ قیمت‌ها مقطعی و به دلیل آسیب دیدن بخشی از زنجیره تولید است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 22:56
 ---
 
