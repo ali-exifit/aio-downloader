@@ -7,6 +7,123 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 08:54
+---
+
+## farsi_fox_news — post 89246
+
+<div align="center">
+  <img src="telegram/content/farsi_fox_news_89246_1778563455.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ غریب‌آبادی: هر متنی درباره تنگه هرمز بدون اشاره به تجاوز، محکوم به شکست است
+
+🔹 معاون حقوقی و بین‌المللی وزارت امور خارجه نوشت:
+🔹 تلاش آمریکا و برخی همراهان منطقه‌ای آن برای طرح پیش‌نویسی درباره تنگه هرمز در شورای امنیت، نشان‌دهنده تلاش جدیدی برای جابه‌جایی صورت‌مسئله است: تبدیل پیامدهای یک تجاوز نظامی و محاصره غیرقانونی به پرونده‌ای علیه کشوری که هدف تهدید، فشار و حمله قرار گرفته است.
+🔹 «آزادی کشتیرانی» یک اصل حقوقی محترم است؛ اما نمی‌توان آن را گزینشی، سیاسی و جدا از منشور ملل متحد تفسیر کرد. هیچ ابتکاری درباره امنیت دریایی در این منطقه نمی‌تواند هم‌زمان از توسل به زور، محاصره دریایی، تهدید مستمر و نقش مستقیم آمریکا و رژیم صهیونیستی در تولید بحران چشم‌پوشی کند و مدعی بی‌طرفی یا اعتبار حقوقی باشد.
+🔹 هر متنی که بخواهد وضعیت تنگه هرمز را بدون اشاره به تجاوز، محاصره، تهدید به زور و حقوق مشروع ایران در دفاع از امنیت و منافع حیاتی خود صورت‌بندی کند، از ابتدا ناقص، جانبدارانه، سیاسی و محکوم به شکست خواهد بود.
+🌐 @farsi_fox_news
+</div>
+
+## IranIntlTV — post 336756
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336756_1778563456.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آیلین وانگ، شهردار شهر آرکادیا در ایالت کالیفرنیا، پس از متهم شدن به «همکاری پنهانی با دولت چین»، از سمت خود کناره‌گیری کرد.
+
+گفت‌وگو با رضا گوهرزاد، روزنامه‌نگار و تحلیلگر سیاسی
+@iranintltv
+</div>
+
+## IranIntlTV — post 336755
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336755_1778563460.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حمله به یک کشتی کره جنوبی در تنگه هرمز بازتاب گسترده‌ای در رسانه‌ها و محافل بین‌المللی داشته است. در همین ارتباط، سفیر جمهوری اسلامی در سئول هرگونه دخالت ایران در این حادثه را رد کرد.
+
+گفت‌وگو با توماج طاهباز، خبرنگار ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## FarsiVOA — post 217499
+
+<div align="center">
+  <img src="telegram/content/FarsiVOA_217499_1778563462.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت خارجه آمریکا اعلام کرد مارکو روبیو، وزیر خارجه این کشور، در تماس‌هایی جداگانه با پنی وانگ، وزیر خارجه استرالیا، و ایوت کوپر، وزیر خارجه بریتانیا، درباره ایران و تلاش‌ها برای بازگرداندن آزادی کشتیرانی در تنگه هرمز گفت‌وگو کرده است.
+
+به گزارش رویترز، جنگ آمریکا و جمهوری اسلامی عملاً عبور از تنگه هرمز را مختل کرده و بزرگ‌ترین اختلال در بازار انرژی را رقم زده است. پیش از جنگ، حدود ۲۰ درصد محموله‌های جهانی نفت و گاز طبیعی مایع از این تنگه عبور می‌کرد.
+
+تهران تقریباً همه کشتی‌ها به‌جز کشتی‌های خود را از عبور از این مسیر منع کرده و دونالد ترامپ نیز محاصره جداگانه‌ای علیه بنادر ایران اعمال کرده است. ترامپ روز دوشنبه گفت آتش‌بس با ایران که بیش از یک ماه پیش به دست آمد، «در وضعیت بسیار شکننده» قرار دارد.
+@FarsiVOA
+</div>
+
+## IranianMinds — post 19988
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_19988_1778563463.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+انگار‌ دیگه مستقیم خودشون عضوت میکنن دوروز دیگه اومدن گفتن آمار شد ۹۵ میلیون‌ نفر تعجب نکنید
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19987
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_19987_1778563464.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ :
+
+من نه قراره خسته بشم نه قراره کوتاه بیام جلو ایران ، تا پیروزی کامل ادامه میدم !
+
+@IranianMinds
+</div>
+
+## alonews — post 119414
+
+<div align="center">
+  <a href="telegram/content/alonews_119414_1778563467.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈بلومبرگ: آمریکا تصمیم دارد بیش از ۵۳ میلیون بشکه از ذخایر استراتژیک نفت را برای جلوگیری از افزایش قیمت‌ها به دلیل جنگ آزاد کند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119413
+
+<div align="center">
+  <a href="telegram/content/alonews_119413_1778563468.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈پاکستان هرگونه حضور نظامی هواپیماهای ایران را رد کرد و بر تعهد خود به صلح تأکید نمود
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119412
+
+<div align="center">
+  <a href="telegram/content/alonews_119412_1778563468.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈استرالیا 7 فرد و 4 نهاد ایرانی رو تحریم کرد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 08:44
 ---
 
