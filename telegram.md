@@ -7,6 +7,99 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 14:35
+---
+
+## FoxNewsTwitter — post 341627
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341627_1778670333.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: President Trump is heading to China as the Iran war keeps rattling global oil markets.
+He says Xi is “a friend of mine” and predicts “good things will happen” — but the stakes are much bigger than a handshake.
+
+@TreyYingst reports the trip comes after diplomatic solutions with Iran failed to break through.
+</div>
+
+## pm_afshaa — post 90682
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔥رفقا بار هزارمه تبلیغ هانارو میذارم واستون ی مشتری ناراضی نداره و مخصوص یوزرای ما تخفیف گذاشته👇🏼 1 Gig = 280,000 T 2 Gig = 560,000 T 3 Gig = 800,000 T 5 Gig = 1,200,000 T 10 Gig = 2,200,000T 20 Gig = 4,000,000T 💎پرداخت ریال ، کارت به کارت 💵واریز با ارز…
+</div>
+
+## pm_afshaa — post 90681
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔥رفقا بار هزارمه تبلیغ هانارو میذارم واستون ی مشتری ناراضی نداره و مخصوص یوزرای ما تخفیف گذاشته👇🏼
+
+1 Gig = 280,000 T
+2 Gig = 560,000 T
+3 Gig = 800,000 T
+5 Gig = 1,200,000 T
+10 Gig = 2,200,000T
+20 Gig = 4,000,000T
+
+💎پرداخت ریال ، کارت به کارت
+
+💵واریز با ارز دیجیتال ( ترون )
+
+📌قابلیت مشاهده حجم مصرفی
+📌نامحدود بودن تعداد کاربران
+📌سرعت دانلود به شدت بالا
+
+ایدی جهت خرید👇🏼👇🏼👇🏼👇🏼
+
+@RealHoneyi
+</div>
+
+## FarsiVOA — post 217606
+
+<div align="center">
+  <img src="telegram/content/FarsiVOA_217606_1778670336.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رویترز گزارش داد پالایشگاه‌های ژاپن برای نخستین بار از ماه مارس، نرخ فرآوری نفت خود را به بیش از ۷۰ درصد ظرفیت رسانده‌اند؛ اقدامی که با استفاده از نفت آزادشده از ذخایر دولتی و تأمین محموله‌های جایگزین انجام شده است.
+
+ژاپن که معمولاً حدود ۹۵ درصد نفت وارداتی خود را از خلیج فارس تأمین می‌کند، پس از آغاز جنگ آمریکا و اسرائیل با جمهوری اسلامی و اختلال در تنگه هرمز، به سراغ نفت آمریکا، منطقه خزر، آمریکای لاتین و حتی یک محموله نفت روسیه غیرتحریمی رفته است.
+
+شرکت‌های ایدمیتسو کوسان و کازمو انرژی، دومین و سومین پالایشگر بزرگ ژاپن، گفته‌اند در کنار منابع دیگر، از نفتی از خلیج فارس استفاده می‌کنند که مسیر آن از تنگه هرمز عبور نمی‌کند و هدف دارند نرخ فعالیت پالایشگاه‌های خود را در سال مالی جاری به بیش از ۹۰ درصد برسانند.
+
+دولت ژاپن از ۱۶ مارس نفتی معادل حدود ۷۵ روز مصرف داخلی را از ذخایر خود در دسترس قرار داده؛ بزرگ‌ترین آزادسازی ذخایر نفتی در تاریخ این کشور.
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 14047
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_14047_1778670337.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💢تصاویر ماهواره ای با کیفیت از میزان تخریب سایت نظامی یزد زیر ضرب حملات امریکا و اسرائیل
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## alonews — post 119705
+
+<div align="center">
+  <a href="telegram/content/alonews_119705_1778670339.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈مدیرعامل بانک مسکن: وام مسکن را به ۱.۲ میلیارد تومان افزایش می‌دهیم با اقساط بازپرداخت ماهی ۳۰ میلیون تومان
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 14:29
 ---
 
