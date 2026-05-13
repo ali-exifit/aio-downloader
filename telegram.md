@@ -7,6 +7,157 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 14:09
+---
+
+## VahidOOnLine — post 239875
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239875_1778668749.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+علیرضا رییسی، معاون بهداشت وزارت بهداشت، با هشدار نسبت به «سیر نزولی جمعیت» در کشور گفت: «روند جمعیت در ایران و جهان همچنان نزولی است، اما معتقدم مسئله جمعیت حتی از چالش‌های نظامی و جنگ‌های جاری نیز مهم‌تر است.»
+
+او افزود: «همین اقتداری که ملت و نیروهای مسلح در ایام جنگ نشان داده‌اند، ناشی از همین جمعیت جوان است.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239874
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239874_1778668750.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️وال استریت ژورنال روز چهارشنبه ۲۳ اردیبهشت به نقل از مقام‌های عرب و یک فرد آگاه گزارش داد، رئیس سازمان جاسوسی اسرائیل، موساد در طول جنگ با ایران دست‌کم دو بار به منظور هماهنگی در مورد جنگ به امارات متحده عربی سفر کرده است.
+این منابع گفتند که دیوید بارنیا، رئیس موساد، دست‌کم در دو نوبت جداگانه، در ماه مارس و آوریل، مخفیانه از امارات متحده عربی بازدید کرد.
+
+این منابع سفر بارنیا به امارات را نشانه‌ای از همکاری رو به رشد بین اسرائیل و امارات متحده عربی دانسته‌اند.
+وال استریت ژورنال گزارش داده است که دو کشور در طول جنگ هماهنگی امنیتی نزدیکی را نشان داده‌اند و اسرائیل سامانه گنبد آهنین و ده‌ها پرسنل نظامی را برای راه‌اندازی آنها جهت دفاع در برابر موشک‌های ایرانی به امارات اعزام کرده است. دیوید هاکبی، سفیر ایالات متحده در اسرائیل روز سه‌شنبه گزارش‌های غیررسمی درباره استقرار سامانه گنبد آهنین و نیروهای اسرائیلی در امارات را تائید کرده بود.
+وزارت امور خارجه امارات متحده عربی و دفتر نخست وزیر اسرائیل هنوز به این گزارش واکنشی نشان نداده‌اند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 9023
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_9023_1778668750.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+❌به نظر می‌رسد حریم هوایی اطراف سن‌پترزبورگ بسته شده و پروازها در فاصله‌ای امن در حالت انتظار قرار گرفته‌اند.
+
+@mwarmonitor
+</div>
+
+## pm_afshaa — post 90677
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90677_1778668751.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴سخنگوی وزارت خارجه:
+آمریکا فعلا با پیشنهاد جمهوری اسلامی موافقت نکرده، اما تهران از طریق میانجی‌های پاکستانی منتظر ارزیابی دقیق‌تره.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90676
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90676_1778668752.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴رسانه‌های اسرائیلی:
+رئیس موساد، حداقل دو بار در طول جنگ به منظور هماهنگی کمپین علیه جمهوری اسلامی به امارات متحده عربی سفر کرده.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## DEJradio — post 4611
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4611_1778668752.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺📢 من دانشجو هستم و تا چند وقت دیگر باید از ایران بروم. چون سیستم های بین المللی قطع است و پدر و مادرم نمی توانند برایم پول واریز کنند، مجبورم مقدار بیشتری دلار ببرم تا هزینه یکسال را داشته باشم. اکثر دستگاه‌های عابربانک قطع هستند و یا پول نمی دهند و اگر هم پول می‌دهند بسیار محدود.
+
+دلار هم تا یک سقفی صرافی‌ها می فروشند. گرفتار شده‌ام. اگر وضع مملکت درست بود مجبور نبودم پدرو مادر و دوست و آشنا را ول کنم و با فوق لیسانس دانشگاه امیرکبیر، تازه بروم از نو درس بخوانم.
+مردم همه گرفتارند، بانک‌ها خودشان دنبال پول نقد هستند.
+
+#جمهوری_اسلامی
+@DEJradio
+</div>
+
+## IranIntlTV — post 336961
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336961_1778668754.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+علیرضا رییسی، معاون بهداشت وزارت بهداشت، با هشدار نسبت به «سیر نزولی جمعیت» در کشور گفت: «روند جمعیت در ایران و جهان همچنان نزولی است، اما معتقدم مسئله جمعیت حتی از چالش‌های نظامی و جنگ‌های جاری نیز مهم‌تر است.»
+
+او افزود: «همین اقتداری که ملت و نیروهای مسلح در ایام جنگ نشان داده‌اند، ناشی از همین جمعیت جوان است.»
+https://iranintl.com/202605132086
+</div>
+
+## IranIntlTV — post 336960
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336960_1778668755.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک شهروند با ارسال پیامی به ایران‌اینترنشنال می‌گوید: «گرانی بیداد می‌کند. جوان ۲۴ ساله‌ای هستم که هر شب از شدت غم، فکر می‌کنم الان است که سکته کنم. هیچ‌کس به داد ما نمی‌رسد.»
+</div>
+
+## Persian_Trend_Official — post 14046
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ طبق گزارش وال استریت ژورنال، دیوید بارنیا، رئیس موساد، حداقل دو بار در طول جنگ به امارات متحده عربی سفر کرد تا هماهنگی کمپین علیه ایران (جمهوری اسلامی) را انجام دهد.
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## alonews — post 119698
+
+<div align="center">
+  <a href="telegram/content/alonews_119698_1778668756.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈فرماندهی مرکزی ارتش آمریکا (سنتکام) اعلام کرد همچنان به اعمال محاصره علیه کشتی‌هایی که به داخل ایران وارد می‌شوند یا از آنها خارج می‌شوند، ادامه می‌دهند.
+
+
+🔴سنتکام مدعی شد که در جریان این عملیات، مسیر ۶۵ کشتی تجاری را تغییر داده و چهار کشتی دیگر را از کار انداخته‌است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119697
+
+<div align="center">
+  <a href="telegram/content/alonews_119697_1778668756.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈توییت ایلان ماسک داخل ایکس : تو راه پکن با هواپیمای ایرفورس وان
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 13:56
 ---
 
