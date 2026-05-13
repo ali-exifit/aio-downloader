@@ -7,6 +7,208 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 12:29
+---
+
+## mwarmonitor — post 9021
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_9021_1778662782.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📝 قیمت ۴۸۶ میلیون تومان ، تصویرِ عریانِ غارتگری در حکومتی است که فساد را از ۱۴۰۰ سال پیش به ارث برده و با برچسب «اسلام ناب محمدی» به خورد ملت می‌دهد. این فرقه با حرامزادگیِ تمام، گوشی ۱۱۰۰ دلاری را به قیمت ۳۰۰۰ دلار در حلقوم مردم می‌چپاند تا هزینه انگل‌وار زندگی خود و مزدورانشان را تأمین کنند. در این لجن‌زارِ جمهوری اسلامی، هر گجت ساده تبدیل به ابزارِ اخاذی شده است؛ دزدانی که با وقاحتِ تمام، جیب مردم را به اسم رجیستری و گمرک می‌زنند تا ثابت کنند در مرام این نظام، چیزی جز چپاول، دروغ و نابودیِ رفاهِ شهروندان وجود ندارد. این ننگِ اقتصادی، نمادِ کاملِ حکومتی است که پایه و اساسش بر حرامی‌گری و مکیدنِ خونِ ملتی بنا شده که تنها جرمشان زندگی زیر سایه‌ی این فرقه‌ی تبهکار است.
+
+@mwarmonitor
+</div>
+
+## farsi_fox_news — post 89280
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ مدیرعامل یک مؤسسهٔ‌ مالی با ۱۳ هزار شاکی دستگیر شد
+
+🔹 دادستان مرکز استان کهگیلویه‌وبویراحمد از بازداشت مدیرعامل یک مؤسسهٔ مالی به‌اتهام کلاهبرداری و فعالیت غیرمجاز خبر داد و گفت: در این پرونده بیش از ۱۳ هزار نفر مال‌باخته شناسایی شده است.
+🔹 این مؤسسه در ابتدا مجوز بانک مرکزی را داشته اما از سال ۱۴۰۲ بدون تمدید یا دریافت مجوز به فعالیت خود ادامه داده و این تخلف با گزارش پرداخت‌های گزینشی احراز شده است.
+🔹 براساس نظریهٔ اولیهٔ کارشناس رسمی، ماندهٔ اصل سپرده‌ها حدود ۱۶۵ میلیارد تومان و مانده تسهیلات پرداختی در اختیار اشخاص حدود ۸۵ میلیارد تومان براورد شده است.
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89279
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ رئیس روابط عمومی وزارت بهداشت: ۴۰ هزار نفر در جنگ رمضان مجروح شدند
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89278
+
+<div align="center">
+  <a href="telegram/content/farsi_fox_news_89278_1778662782.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ شوخی معاون وزیر بهداشت با هانتاویروس و تنگه هرمز
+
+🔹 رئیسی: کشتی کروز که هیچی یک کشتی بادی هم نمی‌تواند از تنگه هرمز رد بشه نیروهای ما سریع می‌زننش و هانتاویروس هوا میشه
+🌐 @farsi_fox_news
+</div>
+
+## pm_afshaa — post 90673
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴یک مقام ارشد سابق موساد: ایران ممکن است ظرف چند ماه از نظر اقتصادی سقوط کند اگر محاصره ادامه یابد
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90672
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴سخنگوی ارتش اسرائیل: ارتش اسرائیل حمله به زیرساخت‌های سازمان تروریستی حزب‌الله را در چندین منطقه در جنوب لبنان آغاز کرده
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 336948
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336948_1778662784.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ، رییس‌جمهوری آمریکا، پیش از سفر رسمی به پکن، با اشاره به نابودی توان نظامی جمهوری اسلامی گفت برای مهار حکومت ایران هیچ نیازی به کمک چین ندارد.
+
+گفت‌وگو با هوشنگ حسن‌یاری، کارشناس خاورمیانه و امور نظامی
+@iranintltv
+</div>
+
+## Shin_Persian — post 5986
+
+<div align="center">
+  <img src="telegram/content/Shin_Persian_5986_1778662786.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+DefenceGeek 🇬🇧 ✓ @DefenceGeek Wed, 13 May 2026 08:39:27 UTC Running Visible again - B-1 training flight! #FreeIran‌ --- Operation EPIC FURY / Project FREEDOM --- Another B-1 training sortie launching this morning from RAF Fairford (EGVA) is pinging on…
+</div>
+
+## Shin_Persian — post 5985
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+DefenceGeek 🇬🇧 ✓ @DefenceGeek
+Wed, 13 May 2026 08:39:27 UTC
+
+Running Visible again - B-1 training flight! #FreeIran‌
+--- Operation EPIC FURY / Project FREEDOM ---
+
+Another B-1 training sortie launching this morning from RAF Fairford (EGVA) is pinging on FR24/ADSB.
+
+B-1B "MISS40" 85-0060 #AE6BD1 "Doolittle Raiders"
+B-1B "MISS41" 86-0102 #AE6BEB "Bad Moon Rising" (visible)
+
+@MATA_osint @LHA2709 @Andyyyyrrrr @ArmchairAdml @jamjake01 @vcdgf555
+
+فارسی
+
+دوباره در حالت مرئی در حال اجرا - پرواز آموزشی B-1! #FreeIran‌
+--- عملیات خشم حماسی (EPIC FURY) / پروژه آزادی (Project FREEDOM) ---
+
+یک سورتی پرواز آموزشی دیگر از بمب‌افکن‌های B-1 که امروز صبح از پایگاه هوایی Fairford نیروی هوایی سلطنتی بریتانیا (EGVA) برخاسته است، در FR24/ADSB در حال سیگنال‌دهی است.
+
+B-1B "MISS40" 85-0060 #AE6BD1 "Doolittle Raiders"
+B-1B "MISS41" 86-0102 #AE6BEB "Bad Moon Rising" (مرئی)
+
+@MATA_osint @LHA2709 @Andyyyyrrrr @ArmchairAdml @jamjake01 @vcdgf555
+
+𝕏 · @shin_persian
+</div>
+
+## DW_Farsi — post 124639
+
+<div align="center">
+  <img src="telegram/content/DW_Farsi_124639_1778662786.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶 ۲۰ نماینده کنگره آمریکا: بریتانیا نام سپاه را در فهرست تروریستی قرار دهد
+ 
+گروهی متشکل از ۲۰ عضو جمهوری‌خواه و دموکرات در مجلس نمایندگان ایالات متحده در نامه‌ای به دولت بریتانیا خواستار سرعت بخشیدن به روند تصویب قانونی قرار گرفتن سپاه پاسداران انقلاب اسلامی در فهرست تروریستی این کشور شدند.
+ 
+برد شرمن، عضو حزب دموکرات و عالی‌ترین مقام کمیسیون امور خاورمیانه و شمال آفریقا در مجلس نمایندگان که از مبتکران تهیه این نامه بوده، تصریح کرد: «هر روزی که پارلمان بریتانیا [در تروریستی نامیدن سپاه] تأخیر می‌کند، سپاه پاسداران یک روز دیگر از شعاع و تأثیر کامل تحریم‌های مشترک ما می‌گریزد.»
+ 
+کلودیا تنی، عضو جمهوری‌خواه مجلس نمایندگان و یکی دیگر از مبتکران این نامه، سپاه پاسداران را "یکی از خطرناک‌ترین سازمان‌های تروریستی جهان" خواند که "دستش به خون غیرنظامیان بی‌گناه، آمریکایی‌ها و مخالفان آلوده است".
+ 
+ایالات متحده سپاه پاسداران را در سال ۲۰۱۹ میلادی در فهرست سازمان‌های تروریستی قرار داد. همچنین کانادا در سال ۲۰۲۴، استرالیا در سال ۲۰۲۵ و اتحادیه اروپا در فوریه سال جاری میلادی (۲۰۲۶) دست به این اقدام زدند.
+ 
+@dw_farsi
+</div>
+
+## Persian_Trend_Official — post 14038
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_14038_1778662786.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شبکه تلویزیونی NDTV تصاویر ماهواره‌ای با وضوح بالا را که از پایگاه هوایی ونتور گرفته شده، منتشر کرده است که ظاهراً گزارش‌های مبنی بر پناه دادن حداقل یک هواپیمای ترابری نظامی C-130H نیروی هوایی ایران در پایگاه هوایی نورخان پاکستان را تأیید می‌کند.
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Hranews — post 112920
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سیدیاسین حسن‌زاده، دانشجوی دانشگاه تهران آزاد شد
+
+
+❗️
+❗️
+❗️
+❗️
+❗️– سیدیاسین حسن‌زاده، دبیر انجمن اسلامی دانشجویان دانشگاه تهران که روز گذشته توسط ماموران امنیتی بازداشت شده بود، آزاد شد.
+
+ادامه مطلب
+
+#سیدیاسین_حسن‌زاده
+
+↘️
+@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑
+</div>
+
+## alonews — post 119679
+
+<div align="center">
+  <a href="telegram/content/alonews_119679_1778662787.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزیر رفاه: داریم تمام وقت تلاش میکنیم که مبلغ کالابرگ رو افزایش بدیم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119678
+
+<div align="center">
+  <a href="telegram/content/alonews_119678_1778662787.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈گفتگوی تلفنی وزرای خارجه ایران و جمهوری آذربایجان
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 12:15
 ---
 
