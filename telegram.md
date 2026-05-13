@@ -7,6 +7,209 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 23:28
+---
+
+## VahidOOnLine — post 239977
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ جی‌دی ونس، معاون رئیس‌جمهوری آمریکا با تاکید بر موضع مشترک خود با دونالد ترامپ مبنی بر ضرورت جلوگیری از هسته‌ای شدن ایران، هشدار داد که دستیابی تهران به سلاح اتمی می‌تواند به یک رقابت تسلیحاتی گسترده در منطقه منجر شود. او تصریح کرد که در صورت وقوع این اتفاق، چندین کشور عرب حوزه خلیج فارس و به دنبال آن‌ها کشورهای متعدد دیگری برای دستیابی به سلاح هسته‌ای اقدام خواهند کرد.
+
+ونس اشاعه هسته‌ای را بزرگترین تهدید برای امنیت ملی آمریکا دانست و اعلام کرد که واشنگتن در حال پیشبرد یک فرآیند دیپلماتیک تهاجمی برای مقابله با این موضوع است. او با اشاره به اینکه تمامی گزینه‌های دیپلماتیک و نظامی روی میز است، تاکید کرد که هدف نهایی، حفظ امنیت جهان و به‌ویژه مردم آمریکا در برابر تهدید اتمی جمهوری اسلامی است. به گفته او، جلوگیری از اشاعه هسته‌ای مهم‌ترین اقدام برای تضمین امنیت بلندمدت است.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239976
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239976_1778702325.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ واکنش رئیس فدراسیون به ترانه معین برای تیم ملی فوتبال:
+هر کسی برای ایران بخواند، روی چشم ما جا دارد
+
+♦️مهدی تاج، رئیس فدراسیون فوتبال، در حاشیه مراسم رونمایی از پیراهن تیم ملی برای جام جهانی ۲۰۲۶، گفت که این فدراسیون در جریان ترانه‌ای قرار دارد که قرار است نصرالله معین نجف‌آبادی با نام هنری معین برای تیم ملی ایران بخواند. او گفت:
+«هر کسی برای ایران بخواند، روی چشم ما جا دارد.»
+شامگاه چهارشنبه ٢٣ اردیبهشت، رونمایی از پیراهن جدید تیم ملی با حضور امیر قلعه‌نویی و احسان حاج‌صفی برگزار شد.
+جام جهانی ۲۰۲۶ از ۲۱ خرداد تا ۲۸ تیر ۱۴۰۵ به میزبانی مشترک آمریکا، کانادا و مکزیک برگزار خواهد شد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 9055
+
+<div align="center">
+  <a href="telegram/content/mwarmonitor_9055_1778702328.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✈️مأموریت WENCH11 (بمب‌افکن رادارگریز B-2A Spirit) 🔸پس از سوخت‌گیری هوایی با پرواز DEED41 (تانکر KC-135 Stratotanker) بر فراز نوا اسکوشیا شرق کانادا، روی مسیر سوخت‌رسانی AR20NE، در باند VHF با Gander Radio در ارتباط بوده است. @mwarmonitor
+</div>
+
+## farsi_fox_news — post 89299
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺الجزیره: احتمالا قطعنامه ضدایرانی جدید هم با وتوی چین و روسیه مواجه می‌شود
+
+🔸رسانه قطری الجزیره به نقل از یک تحلیل‌گر مسائل دیپلماتیک: قطعنامه جدید بحرین و آمریکا درباره تنگه هرمز احتمالا با وتوی چین و روسیه مواجه خواهد شد.
+
+🔸البته ممکن است ترامپ تلاش کند تا با اعمال نفوذ بر همتای چینی خود شی جین‌پینگ، پکن را از وتو این قطعنامه منصرف کند.
+
+🔸معاون وزیر امور خارجه فدراسیون روسیه هم گفته مسکو پیش‌نویس قطعنامه آمریکا و بحرین درباره ایران را در شورای امنیت سازمان ملل متحد تأیید نخواهد کرد.
+
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89298
+
+<div align="center">
+  <a href="telegram/content/farsi_fox_news_89298_1778702330.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎥 استقبال رسمی ترامپ در بیجینگ پیش از دیدار با شی جین‌پینگ
+
+🌐 @farsi_fox_news
+</div>
+
+## kianmeli1 — post 87391
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴اینترنشنال: احسان افرشته «امان نامه» داشت اما اعدام شد قوه قضاییه جمهوری اسلامی خبر داد احسان افرشته، جوان ۳۳ ساله‌، را به اتهام همکاری با اسرائیل، اعدام کرده اما دو منبع گفتند او، پیش از بازگشت به ایران از ترکیه، به‌طور داوطلبانه خود را به وزارت اطلاعات…
+</div>
+
+## kianmeli1 — post 87390
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴اینترنشنال: احسان افرشته «امان نامه» داشت اما اعدام شد
+
+قوه قضاییه جمهوری اسلامی خبر داد احسان افرشته، جوان ۳۳ ساله‌، را به اتهام همکاری با اسرائیل، اعدام کرده اما دو منبع گفتند او، پیش از بازگشت به ایران از ترکیه، به‌طور داوطلبانه خود را به وزارت اطلاعات معرفی کرده بود اما بلافاصله در فرودگاه بازداشت شد.
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87389
+
+<div align="center">
+  <img src="telegram/content/kianmeli1_87389_1778702332.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴عراقچی
+
+کویت در تلاشی آشکار برای ایجاد اختلاف، به طور غیرقانونی به یک قایق ایرانی حمله کرده و ۴ نفر از شهروندان ما را در خلیج فارس بازداشت کرده است. این اقدام غیرقانونی در نزدیکی جزیره‌ای که ایالات متحده از آن برای حمله به ایران استفاده کرده است، رخ داده است.
+
+ما خواستار آزادی فوری اتباع خود هستیم و حق پاسخگویی را برای خود محفوظ می‌داریم.
+https://t.me/kianmeli1
+</div>
+
+## IranIntlTV — post 337055
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/337055" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی ۲۴ با فرداد فرحزاد: سرنوشت جمهوری‌اسلامی، موضوع گفتگوهای ترامپ در چین
+@iranintlTV
+</div>
+
+## IranIntlTV — post 337054
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337054_1778702333.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مسعود پزشکیان در واکنش به تورم و گرانی‌های بی‌سابقه، از وزارت جهاد کشاورزی خواست برای کنترل قیمت‌ها همه توانش را به کار گیرد. او پیشتر گفته بود، کشور به شدت به صرفه‌جویی نیاز دارد.
+
+گفت‌وگو با سیامک جوادی ، مدرس و پژوهشگر اقتصاد مالی در دانشگاه تگزاس
+
+@iranintltv
+</div>
+
+## FarsiVOA — post 217664
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️ویدئوی گفت‌وگو با دو ملی‌پوش فوتبال ایران در تلویزیون حکومتی جمهوری اسلامی درباره وضعیت تحصیل و دانشگاه محل تحصیل‌شان، در شبکه‌های اجتماعی خبرساز شده و بار دیگر حاشیه‌های مربوط به ادعاهای تحصیلی برخی بازیکنان تیم ملی را به یاد کاربران آورده است.
+@FarsiVOA
+</div>
+
+## Dirty_Kids — post 389401
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+عمه جنده ام، گلشیفته
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389400
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وقتی به “بله” می گید سوپر اپلیکیشن، حس بقالی رو دارم که رو تابلوش زده هایپر مارکت!
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 119817
+
+<div align="center">
+  <a href="telegram/content/alonews_119817_1778702336.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈کوین وارش با رأی ۵۴ به ۴۵ سنا ایالات متحده به عنوان رئیس فدرال رزرو تأیید شد.
+
+
+🔴 جان فترمن تنها دموکراتی بود که از این تأیید حمایت کرد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119816
+
+<div align="center">
+  <a href="telegram/content/alonews_119816_1778702338.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزیر امور خارجه سوریه: دمشق خواهان دستیابی به توافقی امنیتی با اسرائیل است که بر پایه احترام متقابل به حاکمیت دو طرف و حفظ ثبات منطقه شکل بگیرد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119815
+
+<div align="center">
+  <a href="telegram/content/alonews_119815_1778702338.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈خبرنگار سی‌بی‌اس مدعی شد: پیشرفت‌هایی در مذاکرات با ایران دیده می‌شود
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119814
+
+<div align="center">
+  <a href="telegram/content/alonews_119814_1778702339.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈کانال ۱۲ اسرائیل: امارات و اسرائیل به دنبال علنی‌تر کردن روابط خود هستند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 23:14
 ---
 
