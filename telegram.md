@@ -7,6 +7,38 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 04:25
+---
+
+## VahidOOnLine — post 239830
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239830_1778633709.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️مراسم افتتاحیه هفتادونهمین دوره جشنواره فیلم کن با حضور چهره‌های برجسته سینمای جهان، روز سه‌شنبه، ۲۲ اردیبهشت‌ماه، آغاز شد. در این مراسم که با استقبال گسترده رسانه‌ها همراه بود، فیصل بالطیور، مدیر اجرایی بنیاد فیلم دریای سرخ، به همراه پیتر جکسون، برنده نخل طلای افتخاری، الایجا وود و اعضای هیئت داوران از جمله پارک چان-ووک، دمی مور و کلوئی ژائو بر روی فرش قرمز حضور یافتند. جشنواره کن به مدت ۱۲ روز ادامه خواهد داشت و دوم خردادماه با معرفی برندگان نخل طلا به کار خود پایان می‌دهد.
+بنیاد فیلم دریای سرخ عربستان سعودی در جشنواره کن با پنج فیلم تحت حمایت‌ «صندوق دریای سرخ» و «بازار دریای سرخ» حضور خواهد داشت. این آثار عبارت‌اند از «داستان‌های موازی» ساخته اصغر فرهادی، «توت‌فرنگی» ساخته لیلا مراکشی، «دیروز چشم نخوابید» ساخته راکان میاسی، «بنیمانا» ساخته ماری کلمنتین دوسابجامبو و «دختر ناشناس» ساخته زو جینگ.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341623
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341623_1778633710.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+SPEAKER JOHNSON: “To the families of fallen heroes and those who continue to stand guard in our communities, we have your back.”
+
+House Speaker Mike Johnson lead a ceremony on the Capitol steps to honor law enforcement as part of National Police Week.
+
+Johnson says thanks to the Trump administration, law enforcement deaths reached an 80-year low in 2025, marking a 25% drop from the year before.
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 04:14
 ---
 
