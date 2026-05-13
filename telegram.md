@@ -7,6 +7,37 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 05:44
+---
+
+## IranIntlTV — post 336919
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336919_1778638488.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حسینعلی حاجی‌دلیگانی و مصطفی طاهری، نمایندگان مجلس، در مصاحبه‌هایی جداگانه درباره افزایش قیمت کالاهای مورد نیاز مردم گفتند ۸۰ درصد گرانی‌ها ارتباطی به جنگ ندارد.
+
+حاجی‌دلیگانی گفت ارز ۲۸ هزار و ۵۰۰ تومانیِ تخصیص‌یافته برای کالاهای اساسی حذف شده و جنگ بهانه است و دولت این کار را عامدانه انجام می‌دهد.
+
+طاهری نیز گفت برخی می‌خواهند القا کنند که افزایش قیمت‌ها به‌خاطر جنگ بوده است.
+@iranintltv
+</div>
+
+## IranianMinds — post 20049
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20049_1778638490.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 پست‌ جدید ترامپ:
+
+من تورو‌ میخوام !
+
+@IranianMinds
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 05:35
 ---
 
