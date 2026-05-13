@@ -7,6 +7,104 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 16:05
+---
+
+## VahidOOnLine — post 239896
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239896_1778675755.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+علاءالدین بروجردی، عضو کمیسیون امنیت ملی و سیاست خارجی مجلس، گفت: «تنها سناریو پیش‌رو این است که آمریکا واقعیت‌ها را بپذیرد و با پذیرش این واقعیات، با ایران وارد مذاکره شود تا از شرایط جنگی خارج شود.»
+
+او اضافه کرد: «به هیچ‌ وجه دستاورد تنگه هرمز را از دست نخواهیم داد و به هیچ‌ وجه وارد بحث مذاکره درباره غنی‌سازی هسته‌ای نخواهیم شد.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 9033
+
+<div align="center">
+  <a href="telegram/content/mwarmonitor_9033_1778675756.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇺🇸کاروان خودرویی رئیس‌جمهور ترامپ فرودگاه بین‌المللی پکن را به مقصد هتل ترک می‌کند.
+
+فردا، ترامپ در مراسم رسمی استقبال دولتی شرکت خواهد کرد، با رئیس‌جمهور شی جین‌پینگ دیدار می‌کند، چندین مصاحبه انجام خواهد داد و در چند رویداد رسمی دیگر نیز حضور خواهد داشت.
+
+@mwarmonitor
+</div>
+
+## IranIntlTV — post 336986
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336986_1778675759.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+علاءالدین بروجردی، عضو کمیسیون امنیت ملی و سیاست خارجی مجلس، گفت: «تنها سناریو پیش‌رو این است که آمریکا واقعیت‌ها را بپذیرد و با پذیرش این واقعیات، با ایران وارد مذاکره شود تا از شرایط جنگی خارج شود.»
+
+او اضافه کرد: «به هیچ‌ وجه دستاورد تنگه هرمز را از دست نخواهیم داد و به هیچ‌ وجه وارد بحث مذاکره درباره غنی‌سازی هسته‌ای نخواهیم شد.»
+https://iranintl.com/202605133735
+</div>
+
+## Persian_Trend_Official — post 14058
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_14058_1778675760.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ فارس:
+
+تصاویر دیده‌نشده از رزمایش ضد هلی‌برن سپاه تهران بزرگ
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Dirty_Kids — post 389375
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389375_1778675763.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مراسم استقبال از شیرخدا با شعار چینی‌های قرمساق در صحنه که به زبون چینی می‌گفتن:
+
+عمو ترامپ، عیان شد
+چین مرکز، جهان شد
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 119720
+
+<div align="center">
+  <a href="telegram/content/alonews_119720_1778675764.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈امارات در حال نصب شبکه‌های بزرگ ضد پهپادی فلزی در اطراف محل‌های تولید و ذخایر نفتی اطراف فرودگاه دبی است تا در برابر حملات پهپاد انتحاری آسیب کمتری به آنها برسد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119719
+
+<div align="center">
+  <a href="telegram/content/alonews_119719_1778675764.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈این وسط تعرفه پیامک‌ فارسی و انگلیسی هم گران شد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 15:57
 ---
 
