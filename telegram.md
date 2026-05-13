@@ -7,6 +7,49 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 04:54
+---
+
+## VahidOOnLine — post 239832
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239832_1778635463.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+«کنگره ملی کردستان»، نهاد فراگیر تشکل‌های کُرد، با رد اظهارات ترامپ مبنی بر ارائه سلاح به گروه‌های کُرد برای مقابله با جمهوری اسلامی، هشدار داد چنین اظهاراتی خطر ایجاد یک کارزار خصمانه هماهنگ علیه مردم کُرد را به همراه دارد.
+این بیانیه افزود: «طرح چنین اتهام‌های گسترده و کلی، همه کردها را در معرض سوءظن قرار می‌دهد و خطر تضعیف روابط کردها و آمریکا را در پی دارد. ما به عنوان کنگره ملی کردستان این اتهام‌ها را رد می‌کنیم و آن‌ها را جدی و بالقوه زیان‌بار می‌دانیم.»
+
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341625
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341625_1778635464.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: Dave Venturella is expected to be named the next Acting Director of ICE, replacing Todd Lyons, multiple sources say.
+
+Venturella has been working in the Trump administration as an ICE senior advisor. He was recruited with help from Tom Homan after President Trump was elected.
+</div>
+
+## IranIntlTV — post 336918
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336918_1778635465.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+«کنگره ملی کردستان»، نهاد فراگیر تشکل‌های کُرد، با رد اظهارات ترامپ مبنی بر ارائه سلاح به گروه‌های کُرد برای مقابله با جمهوری اسلامی، هشدار داد چنین اظهاراتی خطر ایجاد یک کارزار خصمانه هماهنگ علیه مردم کُرد را به همراه دارد.
+این بیانیه افزود: «طرح چنین اتهام‌های گسترده و کلی، همه کردها را در معرض سوءظن قرار می‌دهد و خطر تضعیف روابط کردها و آمریکا را در پی دارد. ما به عنوان کنگره ملی کردستان این اتهام‌ها را رد می‌کنیم و آن‌ها را جدی و بالقوه زیان‌بار می‌دانیم.»
+
+https://iranintl.com/202605133079
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 04:44
 ---
 
