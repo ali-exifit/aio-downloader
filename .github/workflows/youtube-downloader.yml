@@ -750,7 +750,7 @@ jobs:
           done
 
           echo "✅ Verification & processing complete."
-          echo "::set-output name=file_count::$(ls -1 "$OUTPUT_FOLDER" | wc -l)"
+          echo "file_count=$(ls -1 "$OUTPUT_FOLDER" | wc -l)" >> $GITHUB_OUTPUT
 
       # ── Atomic Commit & Push ──
       - name: '📤 Commit & Push Changes'
