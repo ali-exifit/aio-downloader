@@ -7,6 +7,281 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 16:30
+---
+
+## VahidOOnLine — post 239905
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239905_1778677204.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️وال‌استریت ژورنال روز دوشنبه ۲۳ اردیبهشت ماه با انتشار گزارشی، از احیای راه‌های زمینی قدیمی در عربستان سعودی، عمان و امارات متحده عربی در پی بسته شدن تنگه هرمز پس از حملات آمریکا و اسرائیل به ایران خبر داد. این روزنامه آمریکایی این راه را « شاهراه لجستیک اضطراری برای اقتصاد جهان»  به‌ویژه در زمینه صادرات مواد اولیه ساخت کود شیمیایی توصیف کرد.
+
+براساس این گزارش، پس از حمله ایالات متحده و اسرائیل به ایران، باب ویلت، مدیرعامل شرکت معدنی دولتی «معادن» عربستان سعودی، مدیرانی را به بنادر دریای سرخ اعزام کرد و ظرف دو هفته، شرکت‌های راه‌آهن و کامیون را برای انتقال کود در سراسر پادشاهی به صف کرد.
+وال استریت ژورنال نوشته است تعداد زیادی کامیون، که عمدتا شبانه‌روزی کار می‌کنند و هر کدام دو راننده دارند، اجرای این عملیات را برعهده دارند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239904
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239904_1778677204.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بلومبرگ گزارش داد ناتو در حال برنامه‌ریزی برای دعوت از نمایندگان چهار کشور حوزه خلیج فارس به نشست خود در آنکارا است؛ نشستی که انتظار می‌رود جنگ علیه جمهوری اسلامی و شکاف فزاینده در روابط فراآتلانتیک بر آن سایه بیفکند.
+
+به گفته افرادی آگاه از روند برنامه‌ریزی، این کشورها شامل بحرین، کویت، قطر و امارات متحده عربی هستند که همگی عضو «ابتکار همکاری استانبول»، چارچوب همکاری میان ناتو و کشورهای غیرعضو در خاورمیانه، به‌شمار می‌روند.
+
+این منابع که به دلیل محرمانه بودن گفت‌وگوها نخواستند نامشان فاش شود، گفتند قرار است وزیران خارجه این کشورها برای نشست ۱۷ و ۱۸ تیرماه در آنکارا دعوت شوند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239903
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239903_1778677205.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بلومبرگ گزارش داد ناتو در حال برنامه‌ریزی برای دعوت از نمایندگان چهار کشور حوزه خلیج فارس به نشست خود در آنکارا است؛ نشستی که انتظار می‌رود جنگ علیه جمهوری اسلامی و شکاف فزاینده در روابط فراآتلانتیک بر آن سایه بیفکند.
+
+به گفته افرادی آگاه از روند برنامه‌ریزی، این کشورها شامل بحرین، کویت، قطر و امارات متحده عربی هستند که همگی عضو «ابتکار همکاری استانبول»، چارچوب همکاری میان ناتو و کشورهای غیرعضو در خاورمیانه، به‌شمار می‌روند.
+
+این منابع که به دلیل محرمانه بودن گفت‌وگوها نخواستند نامشان فاش شود، گفتند قرار است وزیران خارجه این کشورها برای نشست ۱۷ و ۱۸ تیرماه در آنکارا دعوت شوند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 9034
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇫🇷مسافران پس از شیوع گاستروانتریت (التهاب معده و روده) روی یک کشتی کروز در فرانسه در قرنطینه نگه داشته شده‌اند.
+
+@mwarmonitor
+</div>
+
+## pm_afshaa — post 90687
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴مراد ویسی میخواد یه لیست از کسایی که تو دی ماه ملت رو کشتن تهیه کنه و هرشب اسم هاشونو تو شبکه اینترنشنال بخونه
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90686
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴رسانه های عبری: ترامپ قصد دارد تایوان را در ازای ایران، با چین معامله کند
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90684
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90684_1778677206.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴لحظه ورود دونالد ترامپ به چین-پکن همراه ایلان ماسک و دیگر همراهان :
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90683
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90683_1778677207.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ورود هواپیمای ترامپ در پکن و گروه استقبال کننده چین
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 336988
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336988_1778677208.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بلومبرگ گزارش داد ناتو در حال برنامه‌ریزی برای دعوت از نمایندگان چهار کشور حوزه خلیج فارس به نشست خود در آنکارا است؛ نشستی که انتظار می‌رود جنگ علیه جمهوری اسلامی و شکاف فزاینده در روابط فراآتلانتیک بر آن سایه بیفکند.
+
+به گفته افرادی آگاه از روند برنامه‌ریزی، این کشورها شامل بحرین، کویت، قطر و امارات متحده عربی هستند که همگی عضو «ابتکار همکاری استانبول»، چارچوب همکاری میان ناتو و کشورهای غیرعضو در خاورمیانه، به‌شمار می‌روند.
+
+این منابع که به دلیل محرمانه بودن گفت‌وگوها نخواستند نامشان فاش شود، گفتند قرار است وزیران خارجه این کشورها برای نشست ۱۷ و ۱۸ تیرماه در آنکارا دعوت شوند.
+https://iranintl.com/202605131055
+</div>
+
+## DW_Farsi — post 124646
+
+<div align="center">
+  <img src="telegram/content/DW_Farsi_124646_1778677209.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶 توماس راخل کفالت سیاسی پیوند و برنا نعیمی را بر عهده گرفت
+
+توماس راخل، نماینده دولت آلمان در امور آزادی دین و عقیده، در پیامی اعلام کرد کفالت سیاسی پیوند نعیمی و برنا نعیمی را بر عهده گرفته است. به گفته او این دو جوان بهایی در ایران به‌دلیل باور مذهبی‌شان تحت فشار قرار دارند و با خطر اعدام روبه‌رو هستند. حساب رسمی این نهاد آلمانی نیز همین موضع را منتشر کرده است.
+
+در پیام منتشرشده آمده است پیوند و برنا نعیمی در ایران با زندان و شکنجه روبه‌رو شده‌اند و پرونده آن‌ها به یکی از نمونه‌های تازه فشار بر شهروندان بهایی تبدیل شده است. این موضع در حالی مطرح شده که نهادهای بهایی و حقوق بشری نیز در روزهای اخیر درباره خطر فوری برای این دو زندانی هشدار داده‌اند.
+
+توماس راخل از ۲۸ مه ۲۰۲۵ نماینده دولت آلمان در امور آزادی دین و عقیده است. پذیرش کفالت سیاسی از سوی او، نشانه‌ای از بالا رفتن توجه نهادهای آلمانی به پرونده پیوند و برنا نعیمی و وضعیت بهاییان در ایران است.
+@dw_farsi
+</div>
+
+## RadioFarda — post 157134
+
+<div align="center">
+  <img src="telegram/content/RadioFarda_157134_1778677210.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸مهراوه خندان، فرزند نسرین ستوده، فعال حقوق بشر، از آزادی موقت مادرش به قید کفالت خبر داد. خانم خندان این خبر را بعد از ظهر روز چهارشنبه ۲۳ اردیبهشت در اینستاگرام منتشر کرده است.
+
+🔸خانم ستوده ۱۲ فروردین در منزل خود در تهران بازداشت شد و دختر او که ساکن هلند است، چند روز بعد از بازداشت از بی‌خبری از محل نگهداری و وضعیت مادرش ابراز نگرانی کرده بود.
+
+🔸نسرین ستوده، برنده جایزه ساخاروف و وکیل حقوق بشری بارها به زندان افتاده و تحت فشار قرار گرفته است. او پیش از شروع جنگ اخیر آمریکا و اسرائیل علیه ایران، در مصاحبه با نشریه فرانسوی‌زبان «لوپوئَن» خواستار «مداخلۀ بشردوستانه» در حفاظت از مردم ایران شده بود.
+
+🔸رضا خندان فعال حقوق بشر و همسر خانم ستوده نیز در حال حاضر در زندان اوین زندانی است و بارها به دلیل مخالفت با حجاب اجباری و مجازات اعدام تحت فشار قرار گرفته است.
+
+@RadioFarda
+</div>
+
+## RadioFarda — post 157133
+
+<div align="center">
+  <a href="telegram/content/RadioFarda_157133_1778677210.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸شاهزاده رضا پهلوی که به‌عنوان مهمان در نشست امنیتی پولیتیکو حضور یافته بود، حین گفت‌وگو با مجری برنامه با اعتراض یکی از حاضران روبه‌رو شد.
+
+🔸فرد معترض با سردادن شعارهایی از جمله «شرم بر شما» خطاب به رضا پهلوی گفت: «وقتی مردم ما فرزندانشان را از زیر آوار بمب‌هایی که شما به کشورمان دعوت کردید بیرون می‌کشیدند، شما کجا بودید؟»
+
+🔸مأموران امنیتی این زن را دقایقی بعد از محل نشست خارج کردند.
+
+🎥bita_4liberation
+
+@RadioFarda
+</div>
+
+## IranianMinds — post 20067
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_20067_1778677212.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴استقبال از پرزیدنت ترامپ در فرودگاه پکن.
+
+@IranianMinds
+</div>
+
+## alonews — post 119731
+
+<div align="center">
+  <a href="telegram/content/alonews_119731_1778677213.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈استقبال از ترامپ در پکن
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119730
+
+<div align="center">
+  <a href="telegram/content/alonews_119730_1778677214.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈پالایشگاه راس‌التنوره عربستان بعد از حملات ایران
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119728
+
+<div align="center">
+  <a href="telegram/content/alonews_119728_1778677214.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈سفر عراقچی به هند
+
+
+🔴عراقچی برای شرکت در نشست وزرای امور خارجه کشورهای عضو بریکس، عازم دهلی نو پایتخت هند شد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119727
+
+<div align="center">
+  <a href="telegram/content/alonews_119727_1778677215.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈نسرین ستوده آزاد شد
+
+
+🔴نسرین ستوده، وکیل دادگستری و فعال حقوق بشر ساعاتی پیش با قرار کفالت از زندان تهران بزرگ آزاد شد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119726
+
+<div align="center">
+  <img src="telegram/content/alonews_119726_1778677215.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇵🇸تشکر فدراسیون فوتبال فلسطین از لامین یامال درپی برافراشتن پرچم این کشور در جشن قهرمانی بارسلونا
+@AloSport
+</div>
+
+## alonews — post 119725
+
+<div align="center">
+  <a href="telegram/content/alonews_119725_1778677216.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈عراقچی برای شرکت در نشست وزرای امور خارجه کشورهای عضو بریکس، عازم دهلی نو پایتخت هند شد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119724
+
+<div align="center">
+  <a href="telegram/content/alonews_119724_1778677216.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ پس از ورودش هیچ مراسم عمومی دیگری ندارد، اما قرار است روزهای پنجشنبه و جمعه چندین بار با رئیس جمهور شی جین پینگ دیدار کند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 16:15
 ---
 
