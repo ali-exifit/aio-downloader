@@ -7,6 +7,33 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 13:14
+---
+
+## mamlekate — post 103520
+
+<div align="center">
+  <img src="telegram/content/mamlekate_103520_1778665488.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آگهی دفتر پیشخوان دولت برای فروش اینترنت طبقاتی پرو
+
+@mamlekate 
+🕊️ مملکته
+</div>
+
+## DW_Farsi — post 124640
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎥 زندگی میان مردگان؛ زنی که انسان‌ها را در آخرین سفر بدرقه می‌کند
+ 
+مرگ برای آنا-لنا پایان راه نیست، بلکه آغاز همراهی با کسانی است که جا مانده‌اند. زنی جوان که شغلش با وداع، سوگ و خاطره گره خورده، اما خود می‌گوید این کار بیش از هر چیز درباره زندگی و آدم‌های زنده است.
+ 
+@dw_farsi
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 13:08
 ---
 
