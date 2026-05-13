@@ -7,6 +7,107 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 12:04
+---
+
+## VahidOOnLine — post 239866
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239866_1778661285.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️دو حمله هوایی اسرائیل به جنوب بیروت دست‌کم یک کشته برجا گذاشت
+
+♦️خبرگزاری دولتی لبنان روز چهارشنبه ۲۳ اردیبهشت‌ماه گزارش کرد روز چهارشنبه دو خودرو در بزرگراه اصلی میان بیروت و جنوب لبنان، در نزدیکی منطقه جیه، هدف حمله قرار دادند.
+
+خبرگزاری فرانسه ویدیویی را از خودروی سوخته و انتقال دست‌کم یک پیکر توسط نیروهای امدادی منتشر کرد.
+
+خبرگزاری رویترز نوشت هنوز اسرائیل بیانیه‌ای درباره این حمله و اهداف آن منتشر نکرده است.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 9018
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴شبکه NDTV تصاویر ماهواره‌ای با وضوح بالا (تهیه‌شده از شرکت Vantor) منتشر کرده است که به‌نظر می‌رسد گزارش‌ها مبنی بر پناه دادن پاکستان به دست‌کم یک فروند هواپیمای ترابری نظامی C-130H نیروی هوایی ایران در پایگاه هوایی نورخانِ نیروی هوایی پاکستان (PAF) را تأیید…
+</div>
+
+## pm_afshaa — post 90671
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نیویورک تایمز: قصد ترامپ از تغییر نام عملیات «خشم حماسی» به «چکش سنگین» این است که یک عملیات جدید 60 روزه حمله به ایران شروع کند
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 336947
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336947_1778661287.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فدراسیون فوتبال اعلام کرد مراسم بدرقه «تیم ملی» به جام جهانی، چهارشنبه‌شب در یک تجمع حکومتی برگزار می‌شود و قرار است در این مراسم از پیراهن «تیم ملی» نیز رونمایی شود.
+
+گفت‌وگو با رها پوربخش، عضو تحریریه ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## alonews — post 119673
+
+<div align="center">
+  <a href="telegram/content/alonews_119673_1778661289.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈سخنگوی شرکت آب و فاضلاب استان تهران: مصرف آب تهران به مرز ۳ میلیارد لیتر در شبانه روز رسید
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119672
+
+<div align="center">
+  <a href="telegram/content/alonews_119672_1778661289.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈نیویورک تایمز: قصد ترامپ از تغییر نام عملیات «خشم حماسی» به «چکش سنگین» این است که یک عملیات جدید ۶۰ روزه حمله به ایران شروع کند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119671
+
+<div align="center">
+  <a href="telegram/content/alonews_119671_1778661289.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈آژانس بین‌المللی انرژی: جهان ذخایر نفت خود را با سرعت بی‌سابقه در پرتو جنگ «خاورمیانه» مصرف می‌کند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119670
+
+<div align="center">
+  <a href="telegram/content/alonews_119670_1778661289.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈رویترز: قیمت نفت روز چهارشنبه پس از سه روز افزایش شدید، کاهش یافت، در حالی که قیمت طلا ثابت ماند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 11:54
 ---
 
