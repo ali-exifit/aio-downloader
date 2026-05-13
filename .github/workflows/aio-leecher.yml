@@ -378,46 +378,95 @@ jobs:
           BRANCH: ${{ github.ref_name }}
         run: |
           echo "========================================="
-          echo " STEP 6: Uploading files to the repository"
+          echo " STEP 6: Relentless upload & verification"
           echo "========================================="
-          echo "We'll now commit and push the ZIP parts to the 'leecher' folder in your repo."
+          echo "We will push the 'leecher/' folder to the repo,"
+          echo "overwriting conflicts, retrying on any obstacle,"
+          echo "and finally verifying the files are truly there."
           echo ""
-
+      
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git config http.postBuffer 524288000
-
+      
+          # Ensure leecher/* glob works even if empty
+          shopt -s nullglob
           FILES=(leecher/*)
           if [ ${#FILES[@]} -eq 0 ]; then
             echo "⚠ No files to upload."
             exit 0
           fi
-
+      
           echo "→ Files to upload:"
           for f in "${FILES[@]}"; do
             echo "    $f"
           done
-
-          git add leecher/
-          git commit -m "Add leeched parts [skip ci]" || echo "Nothing to commit"
-
-          RETRIES=5
-          for i in $(seq 1 $RETRIES); do
-            echo "→ Push attempt $i of $RETRIES..."
-            git pull --rebase --autostash origin "$BRANCH"
-            if git push origin "$BRANCH"; then
-              echo "✓ Push succeeded."
-              break
+      
+          # Maximum number of full attempt cycles (push + verify)
+          MAX_ATTEMPTS=10
+          attempt=1
+      
+          while [ $attempt -le $MAX_ATTEMPTS ]; do
+            echo ""
+            echo "--- Attempt $attempt of $MAX_ATTEMPTS ---"
+      
+            # Stage everything in leecher/
+            git add leecher/
+      
+            # Commit (only if there is something to commit)
+            if ! git diff --cached --quiet; then
+              git commit -m "Add leeched parts [skip ci]"
             else
-              if [ $i -lt $RETRIES ]; then
-                echo "⚠ Push rejected – retrying in 3 seconds..."
-                sleep 3
-              else
-                echo "✗ Push failed after $RETRIES attempts."
-                exit 1
-              fi
+              echo "Nothing new to commit, will still try to push if needed."
             fi
+      
+            # Sync with remote: rebase, always favoring OUR version of conflicting files
+            echo "→ Syncing with remote (rebase -X ours)..."
+            if ! git pull --rebase -X ours origin "$BRANCH"; then
+              echo "⚠ Rebase failed – this should not happen with -X ours, but retrying..."
+              sleep 3
+              attempt=$((attempt + 1))
+              continue
+            fi
+      
+            # Push (fast-forward only, no --force)
+            echo "→ Pushing to origin/$BRANCH..."
+            if ! git push origin "$BRANCH"; then
+              echo "⚠ Push failed – remote may have moved. Retrying in 5 seconds..."
+              sleep 5
+              attempt=$((attempt + 1))
+              continue
+            fi
+      
+            echo "✓ Push accepted. Now verifying remote state..."
+      
+            # Fetch the latest remote branch to inspect it
+            git fetch origin "$BRANCH" --depth=1
+      
+            # Build a sorted list of files in the remote leecher/ directory
+            REMOTE_FILES=$(git ls-tree -r --name-only "origin/$BRANCH" -- leecher/ | sort)
+      
+            # Build a sorted list of files that should be there (relative to repo root)
+            LOCAL_FILES=$(for f in leecher/*; do echo "$f"; done | sort)
+      
+            if [ "$REMOTE_FILES" = "$LOCAL_FILES" ]; then
+              echo "✓ Verification successful – all files are present in the remote 'leecher/' folder."
+              exit 0
+            else
+              echo "✗ Mismatch detected between local and remote:"
+              echo "  Remote files:"
+              echo "$REMOTE_FILES" | sed 's/^/    /'
+              echo "  Local files:"
+              echo "$LOCAL_FILES" | sed 's/^/    /'
+              echo "Retrying the whole process..."
+            fi
+      
+            attempt=$((attempt + 1))
+            sleep 3
           done
+      
+          echo "✗ Failed to upload and verify after $MAX_ATTEMPTS attempts."
+          exit 1
 
           echo ""
           echo "========================================="
