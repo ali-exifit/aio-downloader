@@ -7,6 +7,41 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 01:24
+---
+
+## IranIntlTV — post 337067
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337067_1778709298.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «مجموع تحولات اخیر نشان می‌دهد جمهوری اسلامی به رغم برخی تحرکات تاکتیکی در خلیج فارس با یک شکست راهبردی و امنیتی روبه‌رو شده؛ چون حملاتش باعث شده بسیاری از همسایگان جنوبی به دشمنان فعالش تبدیل شوند. نتیجه این سیاست‌ها، نزدیک‌تر شدن کشورهایی مثل امارات به اسرائیل و باز شدن پای اسرائیل و ناتو به معادلات امنیتی منطقه بوده است.»
+@iranintltv
+</div>
+
+## IranIntlTV — post 337066
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/337066" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی برنامه با کامبیز حسینی؛ خشم انباشتهٔ مردم کی فوران خواهد کرد؟
+@iranintlTV
+</div>
+
+## alonews — post 119833
+
+<div align="center">
+  <a href="telegram/content/alonews_119833_1778709302.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تاج: احتمالا معین موزیک رسمی تیم‌ملی رو بخونه!
+
+@AloSport
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 01:15
 ---
 
