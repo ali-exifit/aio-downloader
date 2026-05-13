@@ -1,0 +1,142 @@
+name: telegram-downloader-beta
+
+on:
+  workflow_dispatch:
+    inputs:
+      telegram_links:
+        description: >
+          Telegram post links (max 1000).
+          Separate by commas, spaces, or newlines.
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  actions:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      # ── Install tools ────────────────────────────
+      - name: Install aria2 and zip
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq aria2 zip
+
+      # ── Resolve Telegram links + download ────────
+      - name: Resolve and download all files
+        id: download
+        run: |
+          # Parse input
+          INPUT="${{ github.event.inputs.telegram_links }}"
+          # Replace commas and newlines with spaces
+          URLS=$(echo "$INPUT" | tr ',' ' ' | tr '\n' ' ' | tr -s ' ' | sed 's/^ *//;s/ *$//')
+          if [ -z "$URLS" ]; then
+            echo "No Telegram links provided." >&2
+            exit 1
+          fi
+          echo "$URLS" | tr ' ' '\n' > telegram_links.txt
+          echo "Links to process:"
+          cat telegram_links.txt
+
+          # Download each file into a temporary folder
+          mkdir -p downloads_tmp
+          index=0
+          while IFS= read -r link; do
+            index=$((index + 1))
+            echo "----------------------------------------"
+            echo "Processing link $index: $link"
+
+            # Resolve direct download URL and filename via API
+            RESOLVE=$(curl -s -X POST "https://telegramdownloader.net/proxy.php" \
+              -d "telegram_link=$link")
+            DL_URL=$(echo "$RESOLVE" | jq -r '.data.data.link // empty')
+            FILE_NAME=$(echo "$RESOLVE" | jq -r '.data.data.file_name // empty')
+
+            if [ -z "$DL_URL" ] || [ -z "$FILE_NAME" ]; then
+              echo "Could not resolve link: $link"
+              continue
+            fi
+            echo "Resolved: $FILE_NAME"
+
+            # Download with aria2 (16 connections, retry)
+            aria2c -x 16 -s 16 \
+              --console-log-level=warn \
+              --summary-interval=10 \
+              -d downloads_tmp \
+              -o "$FILE_NAME" \
+              "$DL_URL" || {
+                echo "Download failed for $FILE_NAME"
+                continue
+              }
+            echo "Downloaded: $FILE_NAME"
+          done < telegram_links.txt
+
+          # Check if we got any files
+          if [ -z "$(ls -A downloads_tmp 2>/dev/null)" ]; then
+            echo "No files were downloaded." >&2
+            exit 1
+          fi
+
+          echo "DOWNLOAD_COUNT=$index" >> $GITHUB_OUTPUT
+
+      # ── Zip everything together ──────────────────
+      - name: Zip all downloads
+        id: zip
+        run: |
+          mkdir -p telegram/downloader
+
+          # Generate a random 5-letter string (lowercase)
+          RAND5=$(tr -dc 'a-z' </dev/urandom | head -c5)
+          ZIP_BASE="telegram_${RAND5}"
+          ZIP_NAME="${ZIP_BASE}.zip"
+          echo "ZIP output: $ZIP_NAME"
+
+          # Move all downloaded files into a single temp folder for zipping
+          TMPZIP="tmpzip_$RAND5"
+          mkdir -p "$TMPZIP"
+          cp downloads_tmp/* "$TMPZIP/" 2>/dev/null
+
+          # Always split at 99 MB (Telegram's practical limit)
+          (cd "$TMPZIP" && zip -s 99m "../telegram/downloader/${ZIP_NAME}" .)
+
+          # Clean up temp folders
+          rm -rf downloads_tmp "$TMPZIP"
+
+          echo "ZIP_PATH=telegram/downloader/$ZIP_NAME" >> $GITHUB_OUTPUT
+
+      # ── Push to repository (high reliability) ────
+      - name: Upload to telegram/downloader folder
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git config http.postBuffer 524288000
+
+          if [ ! -f "${{ steps.zip.outputs.ZIP_PATH }}" ]; then
+            echo "No archive to upload."
+            exit 1
+          fi
+
+          git add telegram/downloader/
+          COMMIT_MSG="Add: ${{ steps.zip.outputs.ZIP_PATH }} [skip ci]"
+          git commit -m "$COMMIT_MSG" || echo "Nothing to commit"
+
+          RETRIES=5
+          for i in $(seq 1 $RETRIES); do
+            echo "Push attempt $i..."
+            git pull --rebase --autostash origin "$BRANCH"
+            if git push origin "$BRANCH"; then
+              echo "Push succeeded."
+              break
+            else
+              [ $i -lt $RETRIES ] && sleep 3 || exit 1
+            fi
+          done
