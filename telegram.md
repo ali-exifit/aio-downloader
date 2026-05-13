@@ -7,6 +7,65 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 08:34
+---
+
+## farsi_fox_news — post 89274
+
+<div align="center">
+  <img src="telegram/content/farsi_fox_news_89274_1778648680.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ ترامپ:
+
+🔹 وقتی اخبار جعلی می‌گویند که دشمن ایرانی از نظر نظامی علیه ما خوب عمل می‌کند، این عملاً خیانت است، چون چنین ادعایی کاملاً دروغ و حتی مضحک است. آنها در حال کمک و دلگرمی دادن به دشمن هستند! تمام کاری که می‌کند این است که به ایران امیدواریِ دروغین می‌دهد در حالی که نباید هیچ امیدی وجود داشته باشد.
+🔹 این افراد، ترسوهای آمریکایی‌ای هستند که علیه کشور خود ریشه می‌زنند. ایران ۱۵۹ فروند کشتی در نیروی دریایی خود داشت — اکنون هر یک از آن کشتی‌ها در کف دریا آرام گرفته‌اند.
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89273
+
+<div align="center">
+  <img src="telegram/content/farsi_fox_news_89273_1778648681.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ ترامپ:
+
+🔹 وقتی اخبار جعلی می‌گویند که دشمن ایرانی از نظر نظامی علیه ما خوب عمل می‌کند، این عملاً خیانت است، چون چنین ادعایی کاملاً دروغ و حتی مضحک است. آنها در حال کمک و دلگرمی دادن به دشمن هستند! تمام کاری که می‌کند این است که به ایران امیدواریِ دروغین می‌دهد در حالی که نباید هیچ امیدی وجود داشته باشد.
+🔹 این افراد، ترسوهای آمریکایی‌ای هستند که علیه کشور خود ریشه می‌زنند. ایران ۱۵۹ فروند کشتی در نیروی دریایی خود داشت — اکنون هر یک از آن کشتی‌ها در کف دریا آرام گرفته‌اند.
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89272
+
+<div align="center">
+  <img src="telegram/content/farsi_fox_news_89272_1778648681.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ دموکرات‌های آمریکا: جنگ ترامپ با ایران غیرقانونی است
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89271
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ احسان افرشته، جاسوسی که در نپال توسط موساد آموزش دیده بود و اطلاعات حساس کشور را به اسرائیل می‌فروخت اعدام شد
+🌐 @farsi_fox_news
+</div>
+
+## IranianMinds — post 20051
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20051_1778648682.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شما فک کنید یه جوون بی گناه که نه پستی داشته و نه مقامی تو کشور رو دی ماه دستگیر کردن بعدشم اعدامش کردن گفتن جاسوس موساد بوده رفته نپال آموزش دیده !
+
+@IranianMinds
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 08:24
 ---
 
@@ -91,8 +150,6 @@ Ehsan Afreshte has been executed by Islamic Regime today. Regime claims he was t
 https://bbc.in/4tAXKjn
 @BBCPersian
 </div>
-
-
 <!-- MSG END -->
 
 <!-- NAV START -->
