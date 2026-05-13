@@ -7,6 +7,43 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 11:35
+---
+
+## Persian_Trend_Official — post 14036
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_14036_1778659512.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚀 اینترنت پرسرعت و پایدار،
+💰 قیمت هر گیگ ۲۵۰ تومن!
+🎁 تخفیف ویژه: ۱۰٪ تخفیف اختصاصی برای اعضای پرشین ترند
+⚡ پایداری بالا: کمترین قطعی ممکن در بدترین شرایط
+🛡️ تضمین کیفیت: پشتیبانی ۲۴ ساعته + گارانتی بازگشت وجه
+
+🛒 جهت خرید و مشاوره پیام دهید:
+
+🆔 @shayan1057
+
+🆔 @shayan1057
+
+🆔 @shayan1057
+</div>
+
+## alonews — post 119664
+
+<div align="center">
+  <a href="telegram/content/alonews_119664_1778659513.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈رویترز: قیمت نفت روز چهارشنبه پس از سه روز افزایش شدید، کاهش یافت، در حالی که قیمت طلا ثابت ماند، زیرا سرمایه‌گذاران در انتظار نشست مورد انتظار ترامپ و شی جین پینگ، همتای چینی او در پکن، در بحبوحه تنش‌های مداوم مربوط به جنگ در ایران و بسته شدن تنگه هرمز هستند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 11:26
 ---
 
