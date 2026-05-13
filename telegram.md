@@ -7,6 +7,125 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 01:54
+---
+
+## VahidOOnLine — post 239993
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239993_1778711080.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️به گزارش رویترز، وزارت امور خارجه ایالات متحده اعلام کرد که واشنگتن و پکن برای جلوگیری از دریافت هرگونه «عوارض کشتیرانی» در تنگه هرمز به توافق رسیده‌اند.
+این توافق در جریان رایزنی‌های مارکو رابیو، وزیر امور خارجه آمریکا و وانگ یی، وزیر امور خارجه چین، پیش از دیدار سران دو کشور در پکن حاصل شده است. طبق بیانیه وزارت خارجه آمریکا، دو طرف تاکید کرده‌اند که به هیچ کشوری اجازه داده نخواهد شد برای تردد در آبراه‌های بین‌المللی مانند تنگه هرمز عوارض وضع کند.
+این موضع مشترک در آستانه سفر دونالد ترامپ به چین و دیدار با شی جین‌پینگ منتشر می‌شود؛ نشستی که انتظار می‌رود فشار بر تهران برای پایان دادن به انسداد این آبراه حیاتی در صدر دستور کار آن باشد. در حالی که ایران دریافت عوارض را پیش‌شرطی برای بازگشایی مسیر اعلام کرده، این هماهنگی میان واشنگتن و پکن نشان‌دهنده تلاش برای تضمین «تردد آزاد و امن» در منطقه‌ای است که نقش کلیدی در تأمین انرژی جهان دارد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## Dirty_Kids — post 389415
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389415_1778711081.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+☢️خفن ترین و‌ قدیمی ترین  انالیزور  ایران ینی دکتر بت 
+👍 
+🔴هیچ سایت بتی دوست نداره شما کانال دکتر بت رو پیدا کنین چون خیلی سود میکنید🤷‍♂ رایگان بهترین شرط هارو براتون میذاره حتی هزار تومن هم دریافت نمیکنه روزانه میتونی از پیش بینی فوتبال باهاش پول در بیاری…
+</div>
+
+## Dirty_Kids — post 389414
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389414_1778711081.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+☢️خفن ترین و‌ قدیمی ترین  انالیزور  ایران ینی دکتر بت 
+👍
+
+
+🔴هیچ سایت بتی دوست نداره شما کانال دکتر بت رو پیدا کنین چون خیلی سود میکنید🤷‍♂
+
+رایگان بهترین شرط هارو براتون میذاره
+حتی هزار تومن هم دریافت نمیکنه
+روزانه میتونی از پیش بینی فوتبال باهاش پول در بیاری 👌
+A23
+اگ اهل پیش بینی فوتبالی این کانال اصلا از دست ندین👇
+
+✅https://t.me/+4_ADqwB9e-QwYjlk
+
+✅https://t.me/+4_ADqwB9e-QwYjlk
+</div>
+
+## Dirty_Kids — post 389413
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389413_1778711082.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+#بخوابیم
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389412
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389412_1778711082.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+زینب موشک دوست🤣🤣🤣
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389411
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389411_1778711083.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+جنگ انیمیشن‌های لگویی وارد فاز جدیدی شد!
+
+لگوی شاه عالیه فقط! 👏🤩
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389410
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389410_1778711085.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+درسته مکرون جلوی چشم دنیا چک خورد،
+ولی مدال طلای واکنش به لو رفتن چت عاشقانه،
+میرسه به زن ایرانی‌ای که وسط پرواز از خوابِ شوهرش استفاده کرد، با انگشتش گوشی رو باز کرد،
+با دیدن پیامای عاشقانه،
+چنان قشقرقی بپاکرد که هواپیما فرود اضطراری کرد تو هند 😭✈️
+بدون چمدون پیاده‌شون کردن🤣
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389409
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389409_1778711086.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایرانی بودن یعنی traumatized شدن با هر چیز ساده.
+
+
+@Dirty_Kids 👻
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 01:45
 ---
 
