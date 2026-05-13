@@ -7,6 +7,221 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 20:54
+---
+
+## VahidOOnLine — post 239952
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239952_1778693059.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ مجلس سنای آمریکا برای هفتمین بار در سال جاری، طرحی را که با هدف محدود کردن اختیارات جنگی دونالد ترامپ و الزام او به کسب مجوز از کنگره برای هرگونه اقدام نظامی علیه ایران تدوین شده بود، رد کرد. این مصوبه با ۴۹ رای موافق در برابر ۵۰ رای مخالف از دستور کار خارج شد؛ در این رای‌گیری، جان فترمن، سناتور دموکرات، به جمهوری‌خواهان پیوست و در مقابل، سه سناتور جمهوری‌خواه همسو با دموکرات‌ها رای دادند.
+
+چاک شومر، رهبر اقلیت سنا، پیش‌تر اعلام کرده بود که دموکرات‌ها هر هفته این رای‌گیری را تکرار خواهند کرد. طبق «قطعنامه اختیارات جنگی»، استفاده از نیروی نظامی بدون مجوز کنگره دارای محدودیت ۶۰ روزه است که این مهلت در اول ماه مه به پایان رسیده است. با این حال، برخی جمهوری‌خواهان معتقدند روزهای آتش‌بس نباید در این بازه زمانی محاسبه شود. اگرچه سناتورهایی نظیر تام تیلیس بر ضرورت نظارت بیشتر کنگره تاکید دارند، اما اذعان می‌کنند که حتی در صورت تصویب چنین طرحی، توان مقابله با وتوی ریاست‌جمهوری وجود نخواهد داشت.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 9048
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴وال‌استریت ژورنال: مقامات کاخ سفید در حال بررسی طرحی هستند که بر اساس آن رئیس‌جمهور ترامپ به مناسبت جشن دویست‌وپنجاهمین سالگرد تولد این کشور، ۲۵۰ عفو صادر کند.
+
+@mwarmonitor
+</div>
+
+## pm_afshaa — post 90705
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یکی بیاد به من بگه چرا تو افغانستان خوراکیای تولید داخل خودمونو ارزونتر از ما میتونن خرید کنن
+
+د اخه حرومزاده ای که نشستی خفه خون گرفتی از این بیناموسا دفاع میکنی بیناموس برگرد ببین چند نفر نون شب تو کشور خودمون ندارن بخورن
+
+د اخه من شاشیدم به اون مملکت داریتون
+</div>
+
+## pm_afshaa — post 90704
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90704_1778693060.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴نیویورک تایمز: کشورهای خلیج فارس در جریان جنگ ایران بیش از 100 شیعه رو به اتهام خیانت بازداشت شدن.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90703
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90703_1778693061.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴دنیامالی، وزیر ورزش:
+تیم ملی به جام جهانی میره و بازیکنان سرود جمهوری اسلامی رو فریاد میزنن.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90702
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴دفتر نخست وزیر اسرائیل:
+در بحبوحه جنگ و عملیات غرش شیر، نتانیاهو به امارات سفر کرد و با شیخ محمدبن زاید، رئیس امارات متحده عربی دیدار کرد.
+
+این سفر منجر به پیشرفتی تاریخی در روابط اسرائیل و امارات شد.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 337034
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337034_1778693061.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گزارش‌های تازه ابعاد جدیدی از نقش و تحرکات ریاض و ابوظبی در جنگ ایران رو فاش می‌کنند. وال استریت ژورنال می‌گوید دیوید بارنیا، رییس موساد، در دوران جنگ دست‌کم دو بار، به صورت محرمانه به امارات سفر کرده است.
+
+سمیرا قرایی و بابک اسحاقی، خبرنگاران ایران‌اینترنشنال، گزارش می‌دهند
+@iranintltv
+</div>
+
+## IranIntlTV — post 337033
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337033_1778693063.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻خبرگزاری تسنیم، وابسته به سپاه پاسداران نوشت که مجید موسوی، فرمانده نیروی هوافضا سپاه در پیامی خطاب به بازیکنان تیم ملی پیش از حضور در جام جهانی نوشته است: «سلامی (فرمانده پیشین سپاه پاسداران) توصیه کرد: اگر می‌خواهید جام را ببرید تیمی بازی کنید.»
+
+@iranintltvsport
+</div>
+
+## FarsiVOA — post 217641
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گزارش‌ها می‌گویند فدراسیون فوتبال جمهوری اسلامی همزمان با تنش‌های سیاسی و پرونده جام جهانی ۲۰۲۶، حالا با بحران مالی جدی هم روبه‌رو شده است.
+</div>
+
+## FarsiVOA — post 217640
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اقدام یک پروژه آتلاین در انتشار نام و عکس مخالفان جمهوری اسلامی در خارج از کشور، با درخواست توقیف اموال، سلب تابعیت، و فشار قضایی علیه آنها نگرانی‌ها درباره سرکوب فرامرزی، پرونده‌سازی سیاسی، و تهدید خانواده مخالفان در ایران را افزایش داده است.
+</div>
+
+## FarsiVOA — post 217639
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ: کار رسانه‌های منتشرکننده اخبار جعلی در ستایش از توان نظامی رژیم ایران «خیانت مجازی» است
+</div>
+
+## DW_Farsi — post 124656
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📸 پا به پای آخرین کوچ‌نشینان ایران
+
+تصمیم‌های سیاسی و فشارهای اقتصادی، زندگی روزمره را بسیار فراتر از شهرهای ایران شکل می‌دهند.
+
+در کوهستان‌های زاگرس، شمار اندکی از خانواده‌های بختیاری هنوز کوچ‌نشین‌اند؛ مهاجرتی فصلی که به شکل پیاده میان مراتع زمستانی پست و چراگاه‌های تابستانی در ارتفاع بیش از ۲۵۰۰ متری انجام می‌گیرد.
+
+این سفر می‌تواند تا دو هفته طول بکشد و همچنان یکی از معدود مسیرهای کوچ‌نشینان در ایران است که هنوز هم کاملاً با پای پیاده طی می‌شود.
+
+این شیوه زندگی روزبه‌روز شکننده‌تر و آسیب‌پذیرتر می‌شود. در حالی که کمبود آب، سدسازی و بارش‌های نامنظم، مسیرهای سنتی کوچ را پیش‌بینی‌ناپذیرتر کرده‌اند، افزایش هزینه‌ها و دسترسی محدود به خدمات، بسیاری از خانواده‌ها را به سوی اسکان و شهرنشینی سوق می‌دهد.
+
+امروز تنها حدود یک تا دو درصد جمعیت ایران همچنان به سبک زندگی کوچ‌نشینی خود ادامه می‌دهند؛ در حالی که در گذشته این سهم بسیار بیشتر بود.
+@dw_farsi
+</div>
+
+## DW_Farsi — post 124655
+
+<div align="center">
+  <img src="telegram/content/DW_Farsi_124655_1778693064.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸 نسرین ستوده با قرار کفالت موقتا آزاد شد
+
+مهرآوه خندان، فرزند نسرین ستوده، با انتشار پیامی خبر داد مادرش ساعاتی پیش به قید کفالت موقتا آزاد شده است. هنوز جزئیات بیشتری درباره مبلغ کفالت، شرایط آزادی و روند قضایی پرونده او منتشر نشده است.
+
+این خبر در حالی منتشر شده که بازداشت نسرین ستوده با واکنش گسترده نهادهای حقوق بشری و چهره‌های مدافع آزادی‌های مدنی روبه‌رو شده بود.
+
+آزادی او فعلا موقت است و به معنای بسته شدن پرونده قضایی‌اش نیست.
+@dw_farsi
+</div>
+
+## IranianMinds — post 20082
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20082_1778693064.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 برای هفتمین بار هم تلاش برای محدود کردن اختیارات جنگی ترامپ در مجلس سنای آمریکا شکست خورد !
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20081
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20081_1778693065.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💙 خان وی‌پی‌ان
+⚡️ سرعت بالا
+🛡 پینگ و پایداری عالی
+🔐 مناسب تلگرام، اینستا، یوتیوب، گیم و استریم
+💸 قیمت اقتصادی با پلن‌های متنوع
+
+🎁 تست ۵۰ مگ فقط ۷۵ تومن
+
+🛎 کانال:
+
+https://t.me/+qNjExGEJztE2OGI0
+
+🤖 ربات خرید:
+@Xan_vpn_bot
+</div>
+
+## alonews — post 119787
+
+<div align="center">
+  <a href="telegram/content/alonews_119787_1778693066.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈سرباز اوکراینی با دوش پرتاب FN-16 چینی مشاهده شد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119786
+
+<div align="center">
+  <a href="telegram/content/alonews_119786_1778693066.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈هفتمین رأی‌گیری در سنا برای پایان جنگ علیه ایران شکست خورد 
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 20:40
 ---
 
