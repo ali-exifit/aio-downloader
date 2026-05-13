@@ -7,6 +7,222 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 18:16
+---
+
+## VahidOOnLine — post 239919
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239919_1778683565.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حجت‌الله عبدالملکی، وزیر کار دولت سیزدهم، درباره محاصره دریایی جمهوری اسلامی گفت: «نباید بر فروش نفت خام اصرار کنیم و سرمایه‌گذاری در فرآورده‌های نفتی بسیار به‌صرفه است.»
+
+او اضافه کرد: «دشمن نمی‌تواند با محاصره دریایی برای ما چالش ایجاد کند و بیش‌تر از اثر روانی آن استفاده می‌کند.»
+
+عبدالملکی در ادامه به جنگ جمهوری اسلامی و آمریکا اشاره کرد و گفت «این جنگ سال‌ها ادامه خواهد داشت و قرار نیست تمام شود.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341642
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341642_1778683566.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+Federal prosecutors say Eileen Wang didn't become an agent for the Chinese government when she was sworn in as mayor in California - they say her alleged ties to the PRC go back years.
+
+Late 2020–2022: Wang admitted to working at the direction and control of People’s Republic of China officials
+
+November 2022: Wang was elected to Arcadia City Council
+
+2024: John Chen, later linked to Wang in court documents, sentenced for acting as an illegal PRC agent
+
+October 2025: Wang's ex-fiancé pleaded guilty to acting as a PRC agent
+
+February 3, 2026: Wang sworn in as Mayor of Arcadia
+
+April 2026: Wang was charged with acting as an illegal PRC agent https://twitter.com/FoxNews/status/2054168540735758701#m
+</div>
+
+## FoxNewsTwitter — post 341641
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341641_1778683566.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NOW: Senator Rand Paul slams the Biden administration for its "clean-up operation," finally admitting COVID most likely came from a lab right before the Trump team took over.
+
+"Scientific analysts concluded multiple times between 2021 and 2023 that a lab leak was the most likely origin of COVID-19. Yet those conclusions never shaped the official narrative, never made the intelligence report."
+
+"It was not until after the 2024 election that the outgoing Biden administration directed the CIA to issue an assessment not because of new intelligence, but so officials could walk out of the door claiming there was nothing left to find."
+</div>
+
+## FoxNewsTwitter — post 341640
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341640_1778683568.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+More than 100 days, still no sign of Nancy Guthrie, and the sheriff leading the investigation isn’t going anywhere.
+
+A push to remove Pima County Sheriff Chris Nanos failed Tuesday night after a heated Board of Supervisors meeting as Nanos' past record and handling of the Nancy Guthrie case have been heavily scrutinized.
+
+The board did, however, vote to send perjury allegations against Nanos to the Arizona Attorney General’s Office.
+
+The claims state that Nanos lied about past suspensions and a resignation in lieu of termination from El Paso PD in the 1980s.
+</div>
+
+## FoxNewsTwitter — post 341639
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341639_1778683569.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+As President Trump heads into high-stakes talks with Xi Jinping, another key relationship is shaping the discussion - China and Iran.
+
+China buys roughly 90% of Iran’s oil exports, serving as its primary economic lifeline.
+
+Military cooperation has expanded between the two countries in recent years, including satellite navigation access and defense-linked technology tied to drones and missiles.
+
+China has also boosted Iran’s global standing—helping bring it into the Shanghai Cooperation Organization and BRICS.
+
+All of it adds new weight to the talks now unfolding between the U.S. and China as well as peace negotiations between America and the Iranian regime.
+</div>
+
+## FoxNewsTwitter — post 341638
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341638_1778683570.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+🚨 BREAKING: South Carolina Supreme Court justices overturn Alex Murdaugh murder convictions, order new trial
+</div>
+
+## VahidOnline — post 75448
+
+<div align="center">
+  <a href="telegram/content/VahidOnline_75448_1778683570.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پاسخ‌های ملی‌پوشان فوتبال در صداوسیما درباره میزان تحصیلات دانشگاهی‌شان جنجالی شد.
+در این گفتگو، یکی از ملی‌پوشان در پاسخ به سوال مجری که پرسیده بود «در کدام دانشگاه درس می‌خوانی؟» گفت: «نمی‌دانم، الان حضور ذهن ندارم».
+
+در دوره قبلی جام جهانی نیز انتشار ویدیویی از دروازه‌بان تیم ملی فوتبال ایران که گفته بود «من دکترا دارم»، بحث‌برانگیز شده بود؛ دکترایی که بعدها مشخص شد به‌صورت غیرحضوری در رشته تربیت بدنی دانشگاه پیام نور اخذ شده است.
+@VahidOOnLine
+
+📡 @VahidOnline
+</div>
+
+## IranIntlTV — post 337002
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337002_1778683571.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وب‌سایت اقتصادنیوز گزارش داد با وجود تثبیت نمایشی نرخ دلار از سوی بانک مرکزی در محدوده ۱۸۰ هزار تومان، قیمت کالاها بر اساس دلار ۵۰۰ هزار تومانی محاسبه می‌شود.
+گفت‌وگو با آرش آزرمی، دبیر بخش اقتصادی ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## IranIntlTV — post 337001
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻افت تحصیلی دانش‌‌آموزان در سایه قطع اینترنت
+
+گزارش‌های رسیده به ایران‌اینترنشنال، از بلاتکلیفی در نحوه برگزاری امتحانات به‌دلیل قطعی اینترنت حکایت دارد. دانش‌آموزان، دانشجویان و فعالان آموزشی در پیام‌های خود گفتند قطع اینترنت باعث افت کیفیت آموزش، ایجاد موجی از ناامیدی و فرسودگی روانی شده است.
+
+شماری از دانش‌آموزان در پیام‌هایی به ایران‌اینترنشنال از ناکارآمدی آموزش مجازی و اختلال مداوم اپلیکیشن‌های داخلی گلایه کرده‌اند.
+
+یک دانش‌آموز ۱۶ ساله با اشاره به قطع و وصل مکرر کلاس‌های آنلاین گفت وسط کلاس و حین تدریس، دسترسی معلمان به اپلیکیشن‌ قطع می‌شود، فایل‌ها و عکس‌ها دیر آپلود می‌شوند و دیگر انگیزه‌ای برای درس خواندن ندارد.
+
+پیش‌تر نیز تعدادی از دانش‌آموزان، والدینشان و معلمان در پیام‌هایی به ایران‌اینترنشنال از نبود بستر مناسب آموزش در اپلیکیشن‌های «شاد» و «بله» خبر دادند.
+
+مادر یک دانش‌آموز با اشاره به مجازی بودن کلاس بچه‌ها گفت فضای اپلیکیشن به‌نحوی طراحی شده که فقط معلم می‌تواند در آن صحبت کند و اگر دانش‌آموز سوالی داشته باشد یا موضوعی را نفهمد، باید تا ساعت پنج بعدازظهر که دسترسی دانش‌آموز باز می‌شود، صبر کند.
+افت کیفیت آموزش در میان اختلال و ابهام
+
+بلاتکلیفی درباره حضوری یا مجازی بودن امتحانات به دیگر نگرانی‌ها دامن زده است.
+
+یک دانش‌آموز پایه دهم از منطقه فردیس خبر داد با رسیدن به امتحانات آخر ترم، آموزش ‌و پرورش هر روز یک تصمیم جدید می‌گیرد و مشخص نیست امتحان‌ها «حضوری» است یا «غیرحضوری».
+
+برخی دانش‌آموزان همچنین از افت شدید کیفیت یادگیری در میان خود و همکلاسی‌هاشان خبر دادند.
+
+دانش‌آموزی نوشت به‌خاطر ضعیف بودن اینترنت حتی نمی‌تواند برنامه «شاد» را روی گوشی خود باز کند، چه برسد به حضور سر کلاس درس.
+
+نوجوانی ۱۴ ساله به ایران‌اینترنشنال گفت اگر امتحان‌ها حضوری شود، خیلی‌ها قبول نمی‌شوند. چراکه هیچ‌کسی درس‌ها را بلد نیست و بیشتر بچه‌ها جواب پرسش‌ها را از هوش مصنوعی می‌پرسند و می‌نویسند.
+
+فعالان حوزه آموزش نیز از کاهش شدید امید و انگیزه در میان نوجوانان و جوانان سخن گفتند.
+
+یک مشاور تحصیلی در پیامی نوشت از زمان آغاز جنگ، بسیاری از دانش‌آموزان کلاس‌های خود را لغو کرده‌اند و در سه ماه گذشته «تقریبا هیچ شاگرد جدیدی» نداشته است.
+آموزش و معیشت؛ دو بحران هم‌زمان
+
+فشار اقتصادی نیز در کنار مشکلات آموزشی، شرایط را برای دانش‌آموزان و معلمان دشوارتر کرده است.
+
+یک داوطلب کنکور با اشاره به هزینه بالای کتاب‌های کمک‌درسی و محدودیت اینترنت گفت: «اگر امسال در دانشگاه قبول نشوم، باید به سربازی بروم اما نه پول کتاب دارم و نه دسترسی به اینترنت که بتوانم چیزی یاد بگیرم.»
+
+برخی معلمان و مدرس‌های خصوصی نیز در شبکه اجتماعی ایکس از لغو مداوم کلاس‌های آنلاین به‌دلیل اختلال اپلیکیشن‌های داخلی و همچنین فشار اقتصادی بر مردم خبر داده‌اند.
+
+شماری از آنها نوشته‌اند کلاس‌ها به‌دلیل قطع و وصل اینترنت یا نبود دانش‌آموز کنسل می‌شود و حتی از کاربران خواسته‌اند اگر کسی به معلم یا مدرس نیاز دارد، آنها را معرفی کنند.
+🔗وب‌سایت ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## IranIntlTV — post 337000
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337000_1778683573.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حجت‌الله عبدالملکی، وزیر کار دولت سیزدهم، درباره محاصره دریایی جمهوری اسلامی گفت: «نباید بر فروش نفت خام اصرار کنیم و سرمایه‌گذاری در فرآورده‌های نفتی بسیار به‌صرفه است.»
+
+او اضافه کرد: «دشمن نمی‌تواند با محاصره دریایی برای ما چالش ایجاد کند و بیش‌تر از اثر روانی آن استفاده می‌کند.»
+
+عبدالملکی در ادامه به جنگ جمهوری اسلامی و آمریکا اشاره کرد و گفت «این جنگ سال‌ها ادامه خواهد داشت و قرار نیست تمام شود.»
+https://iranintl.com/202605136128
+</div>
+
+## alonews — post 119758
+
+<div align="center">
+  <a href="telegram/content/alonews_119758_1778683574.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈رئیس جمهور روسیه، پوتین :
+
+🔴سیستم‌های متحرک نظامی که موشک‌های بالستیک غیرهسته‌ای دارن...
+
+🔴توی جریان یه عملیات ویژه نظامی به شکل مؤثری استفاده شدن و موفق بود
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119757
+
+<div align="center">
+  <a href="telegram/content/alonews_119757_1778683576.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈حزب‌الله ویدیویی منتشر کرده که یه پهپاد FPV تو نزدیکی خربت‌المناره، سربازِ اسرائیلی رو هدف قرار داده
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 18:08
 ---
 
