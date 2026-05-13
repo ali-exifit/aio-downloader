@@ -7,6 +7,200 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 14:15
+---
+
+## VahidOOnLine — post 239876
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239876_1778669112.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ادعای رضا کیانیان، هنرپیشه مشهور سینما و تلویزیون ایران درباره کمک سه میلیون دلاری در کارزار احیای دریاچه ارومیه، جنجالی شده است.
+
+کیانیان در مصاحبه با برنامه اینترنتی بهاره افشاری گفته بود: «سه میلیون دلار  [از ژاپن] گرفتم و به عیسی کلانتری دادم».
+
+عیسی کلانتری، رئیس سابق سازمان محیط زیست در مصاحبه با ایلنا با تکذیب گفته‌های کیانیان گفت: « رضا کیانیان پولی از جایکا (دفتر همکاری‌های ایران و ژاپن) نگرفته که به من بدهد، اگر گرفته، اثبات کند! او اصلا او از جایگاه جایکا اطلاعی ندارد و آنها پول به فرد نمی‌دهند، خواستم شکایت کنم اما دیدم از روی بی‌اطلاعی این حرف‌ها را می‌گوید و یا شاید ‌دنبال بزرگ کردن خودش است.»
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 9024
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✈️🇺🇸نیروی هوایی آمریکا به دنبال تجهیز جنگنده‌های F-16 به اخلالگرهای نورثروپ گرومن است
+
+📝نویسنده: کالین دمارست AXIOS
+
+🔰نیروی هوایی ایالات متحده در نظر دارد بر اساس اسناد بودجه، طی چند سال آینده ۲۰۶ پکیج ارتقایافته جنگ الکترونیک برای جنگنده‌های F-16 خریداری کند.
+
+🔸چرا این موضوع اهمیت دارد؟
+هواپیماهای جنگنده ساخت شرکت لاکهید مارتین می‌توانند از اوایل سال ۲۰۲۸ به «سوییت یکپارچه جنگ الکترونیک وایپر» (IVEWS) محصول شرکت نورثروپ گرومن مجهز شوند.
+🔹مارک ساندور، مدیر استراتژی و راهکارهای ماموریتی نورثروپ، به اکسیوس (Axios) گفت:
+«این اقدام در واقع به معنای قرار دادن جنگ الکترونیک نسل ششم در یک پلتفرم نسل چهارم است.»
+🔸وضعیت فعلی: پروژه‌ای که سال‌ها در حال توسعه بوده است
+۲۰۱۹: نیروی هوایی برای اولین بار سیستم IVEWS را انتخاب کرد.
+۲۰۲۱: اولین پرواز این سیستم در رزمایش "Northern Lightning" انجام شد.
+۲۰۲۴: پروازهای آزمایشی بر روی F-16های نیروی هوایی آغاز گشت.
+۲۰۲۵: ارزیابی‌های عملیاتی به پایان رسید.
+در همان سال، نورثروپ اعلام کرد که سیستم IVEWS به طور «یکپارچه» با رادار آرایه فازی فعال SABR کار می‌کند. فیل لودن، مدیر بخش IVEWS در نورثروپ، اظهار داشت: «سخت‌افزار و نرم‌افزار بسیار پایدار بوده‌اند و نیروی هوایی با جدیت در حال افزایش سرعت تولید است.»
+نگاهی به گذشته و چشم‌انداز جهانی
+بودجه: سیستم IVEWS مبلغ ۱۸۷ میلیون دلار از بودجه سال ۲۰۲۵ دریافت کرد که صرف تولید اولیه با نرخ پایین شد.
+🔸بازار بین‌المللی: علاقه زیادی به این پکیج جنگ الکترونیک در سطح جهان وجود دارد. در حال حاضر حدود ۲,۸۰۰ فروند F-16 در بیش از ۲۴ کشور در حال خدمت هستند.
+🔹مشتریان خارجی: در سال ۲۰۲۴، گزارش‌های گسترده‌ای مبنی بر خرید این سیستم توسط ترکیه منتشر شد. لودن در این باره گفت: «ما به طور فعال در فرآیند فروش نظامی خارجی با بسیاری از کشورهای شریک درگیر هستیم.»
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341626
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341626_1778669113.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+Marco Rubio made a major fashion statement on Air Force One.
+
+The Secretary of State spotted on the president's plane in the now-infamous gray Nike Tech tracksuit associated with Venezuelan leader Nicolás Maduro.
+
+Maduro was seen wearing a strikingly similar outfit during his capture by American forces earlier this year.
+</div>
+
+## pm_afshaa — post 90679
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90679_1778669114.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴سی‌ان‌ان: پیش‌بینی میشه ترامپ از رئیس‌جمهور چین بخواد که بر ایران فشار بیاره تا تنگه هرمز رو بازگشایی کنه و با یک توافق صلح مناسب موافقت کنه.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90678
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90678_1778669115.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴اپل به صورت رسمی اولین نمایندگی خودش رو در افغانستان افتتاح کرد..
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## mamlekate — post 103521
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📝 صادرات نفت از جزیره خارک برای نخستین بار از آغاز جنگ، چند روز متوقف شد
+
+تصاویر ماهواره‌ای نشان می‌دهند صادرات نفت از پایانه اصلی نفتی ایران در جزیره خارک طی روزهای اخیر متوقف شده و همزمان ظرفیت مخازن ذخیره‌سازی این جزیره نیز رو به تکمیل است؛ وضعیتی که می‌تواند جمهوری اسلامی را ناچار به کاهش بیشتر تولید نفت کند.
+
+@mamlekate
+</div>
+
+## IranianMinds — post 20062
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20062_1778669115.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+میدونم باورتون نمیشه اما
+
+اپل به صورت رسمی اولین نمایندگی خودش رو در افغانستان افتتاح کرد.
+
+@IranianMinds
+</div>
+
+## Dirty_Kids — post 389365
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389365_1778669115.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حرف دل ایران ❤️🦁💚⁩
+این رپ خوندرو چندن گوش میکنید
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389364
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389364_1778669117.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🌪وقتی اینترنت طوفانیه... کافیه بادبان ها رو بکشی تا
+
+
+⚫️با بالاترین کیفیت ممکن
+⚡️ 
+
+⚫️100 هزار تومان شارژ هدیه 
+🎁
+
+⚫️پایین ترین قیمت گیگی 250
+🌐 
+
+⚫️و ارائه پورسانت %10 در ازای هر معرفی
+💼
+
+بتونی یه اتصال پایدار با پشتیبانی 24 ساعته داشته باشی
+🚀
+
+بادبان راهتو باز می‌کنه
+⛵️
+
+R23
+
+🛡@BadBan_VPN | کانال 
+
+🤖@BadBan_VPNBot | ربات 
+
+📞@BadBan_VPNSupport | پشتیبانی
+</div>
+
+## Dirty_Kids — post 389363
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389363_1778669117.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فلورین تاردیف که روزنامه‌نگاره، کتاب جدیدی چاپ کرده به اسم «Un couple parfait» و جایی از کتابش به اون ماجرای چک زدن بریژیت مکرون تو صورت مردک قرمساق امانوئل مکرون جلو در هواپیما اشاره کرده و نوشته،
+
+اون داستان به خاطر پیام‌های بوجی موجی طور از گلشیفته فراهانی بوده که بریژیت روی گوشی امانوئل‌مکرون قحبه زاده در طول سفر به ویتنام دیده.
+
+می‌شه گفت که یک سر مواضع دوستانه‌ی امانوئل مکرون قحبه با جمهوری‌اسلامی و هر شب تماس گرفتناش با مسعود پزشکیان برمی‌گرده به همین ادعای فلورین تاردیف در کتابش.
+
+این مطلب رو در اسرع وقت باید به عرض شیر وفادار خدا برسونم.
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 119699
+
+<div align="center">
+  <a href="telegram/content/alonews_119699_1778669118.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈بیش از ۱۵۰۰ کشتی خارجی در دو سوی تنگهٔ هرمز منتظر دریافت مجوز از سوی جمهوری اسلامی ایران برای عبور هستند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 14:09
 ---
 
