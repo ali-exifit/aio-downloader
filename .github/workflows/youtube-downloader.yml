@@ -71,7 +71,7 @@ on:
         description: ‘Embed chapter markers in the output file’
         required: false
         type: boolean
-        default: true
+        default: false
 
       write_description:
         description: ‘Save video description as a .description file’
@@ -95,7 +95,7 @@ on:
         description: ‘Embed thumbnail and metadata in the output file’
         required: false
         type: boolean
-        default: true
+        default: false
 
       trim_start:
         description: ‘Trim start timestamp (e.g. 0:33 or 1:22:10) – leave empty to skip’
