@@ -212,23 +212,24 @@ jobs:
           echo "✅ Fallback tools installed."
 
       # ── Primary download (original approach: yt-dlp -j → pick format ID) ──
-      - name: '⬇️ Primary download (original approach with global selectors)'
+      - name: '⬇️ Primary download'
         id: primary_download
         run: |
           set -e
           ENTRIES_JSON='${{ steps.parse.outputs.ENTRIES_JSON }}'
           OUTPUT_FOLDER="youtube"
           mkdir -p "$OUTPUT_FOLDER"
-      
-          # Global defaults (unchanged)
+
+          # Global defaults from the workflow inputs
           GLOBAL_FORMAT="${{ github.event.inputs.output_format }}"
           GLOBAL_VQ="${{ github.event.inputs.video_quality }}"
           GLOBAL_AQ="${{ github.event.inputs.audio_quality }}"
-          CODEC="${{ github.event.inputs.codec }}"
-      
+
+          # Extract numeric part
           GLOBAL_VQ_NUM=$(echo "$GLOBAL_VQ" | grep -o '[0-9]*' | head -1)
           GLOBAL_AQ_NUM=$(echo "$GLOBAL_AQ" | grep -o '[0-9]*' | head -1)
-      
+
+          # Derive the default type/value
           if [ "$GLOBAL_FORMAT" = "mp3 (audio only)" ]; then
             GLOBAL_TYPE="a"
             GLOBAL_VAL="$GLOBAL_AQ_NUM"
@@ -236,41 +237,81 @@ jobs:
             GLOBAL_TYPE="v"
             GLOBAL_VAL="$GLOBAL_VQ_NUM"
           fi
-      
+
+          echo "🔧 Global defaults: type=$GLOBAL_TYPE quality=$GLOBAL_VAL"
+
           COOKIE_ARGS=""
           [ -f youtube-cookies.txt ] && COOKIE_ARGS="--cookies youtube-cookies.txt"
-      
-          # ---- NEW: extra args to expose all audio tracks ----
+
+          # Force yt-dlp to see the original audio track
           EXTRACTOR_ARGS="--extractor-args youtube:player_client=default,web_embedded"
-      
-          echo "🔧 Global settings: type=$GLOBAL_TYPE value=$GLOBAL_VAL"
-      
+
           FAILED_ENTRIES='[]'
           count=$(echo "$ENTRIES_JSON" | jq length)
+
           for ((idx=0; idx<count; idx++)); do
-            # … [entry parsing unchanged] …
-      
-            if [ "$type" = "v" ]; then
-              # ---- MODIFIED: format string that prefers original audio ----
-              height_val="$val"
-              case "$height_val" in 2k) height_val=1440 ;; 4k) height_val=2160 ;; esac
-              fmt="bv[height<=$height_val]+(ba[format_note*=original]/ba)"
-              output_template="$OUTPUT_FOLDER/%(title)s.%(ext)s"
-              echo "   📹 Downloading video with format: $fmt"
-            else
-              # ---- MODIFIED: audio-only also prefers original ----
-              fmt="ba[format_note*=original]/ba"
-              output_template="$OUTPUT_FOLDER/%(title)s.%(ext)s"
-              echo "   🎵 Downloading audio with format: $fmt"
+            entry=$(echo "$ENTRIES_JSON" | jq ".[$idx]")
+            link=$(echo "$entry" | jq -r '.link')
+            args_len=$(echo "$entry" | jq '.args | length')
+
+            echo "========================================"
+            echo "🎬 Processing $((idx+1))/$count: $link"
+
+            # Per‑URL override (if any)
+            type="$GLOBAL_TYPE"
+            val="$GLOBAL_VAL"
+            if [ "$args_len" -ge 1 ]; then
+              type=$(echo "$entry" | jq -r '.args[0]')
             fi
-      
-            # ---- yt-dlp call with the new format string ----
-            YT_ARGS="$COOKIE_ARGS --js-runtimes deno --remote-components ejs:npm --no-progress $EXTRACTOR_ARGS"
-            if ! yt-dlp $YT_ARGS -f "$fmt" -o "$output_template" "$link"; then
-              echo "❌ Primary download failed – will try fallbacks later"
-              FAILED_ENTRIES=$(echo "$FAILED_ENTRIES" | jq ". + [$entry]")
+            if [ "$args_len" -ge 2 ]; then
+              val=$(echo "$entry" | jq -r '.args[1]')
+            fi
+
+            # Sanitise
+            if [[ "$type" != "v" && "$type" != "a" ]]; then
+              echo "⚠️  Invalid type '$type' – falling back to $GLOBAL_TYPE"
+              type="$GLOBAL_TYPE"
+              val="$GLOBAL_VAL"
+            fi
+
+            # Cap quality if empty
+            if [ -z "$val" ]; then
+              if [ "$type" = "v" ]; then val="720"; else val="192"; fi
+              echo "ℹ️  No quality given – using $val"
+            fi
+
+            echo "   🏷️  Type: $type   Quality: $val"
+
+            # ---- Non‑YouTube links ----
+            if ! echo "$link" | grep -Eq '(youtube\.com/watch\?v=|youtu\.be/)'; then
+              echo "ℹ️  Non‑YouTube link – downloading with wget"
+              cd "$OUTPUT_FOLDER"
+              wget --progress=bar:force --content-disposition "$link" || {
+                echo "❌ wget failed"
+                FAILED_ENTRIES=$(echo "$FAILED_ENTRIES" | jq ". + [$entry]")
+                cd ..
+                continue
+              }
+              cd ..
+              continue
+            fi
+
+            # ---- Build the format string ----
+            if [ "$type" = "v" ]; then
+              fmt="bv[height<=$val]+(ba[format_note*=original]/ba)"
+              echo "   📹 Downloading video (format: $fmt)"
             else
+              fmt="ba[format_note*=original]/ba"
+              echo "   🎵 Downloading audio (format: $fmt)"
+            fi
+
+            # ---- Run yt-dlp ----
+            YT_ARGS="$COOKIE_ARGS --js-runtimes deno --remote-components ejs:npm --no-progress $EXTRACTOR_ARGS"
+            if yt-dlp $YT_ARGS -f "$fmt" -o "$OUTPUT_FOLDER/%(title)s.%(ext)s" "$link"; then
               echo "   ✅ Download succeeded"
+            else
+              echo "   ❌ Primary download failed – queued for fallback"
+              FAILED_ENTRIES=$(echo "$FAILED_ENTRIES" | jq ". + [$entry]")
             fi
           done
 
@@ -279,7 +320,7 @@ jobs:
           echo "📊 Primary phase done. Failures: $(echo "$FAILED_ENTRIES" | jq length)"
 
       # ── Fallback pipelines (12 strategies) ──
-      - name: '🔄 Fallback pipelines for failed entries'
+      - name: '🔄 Fallback pipelines'
         if: steps.primary_download.outputs.FAILED_ENTRIES_JSON != '[]'
         run: |
           set -e
@@ -289,6 +330,7 @@ jobs:
 
           OUTPUT_FOLDER="youtube"
 
+          # Helper for filename suffix
           build_suffix() {
             local type="$1"
             local val="$2"
@@ -299,155 +341,27 @@ jobs:
             fi
           }
 
-          # ── 1. yt-dlp with Android extractor ──
-          fallback_ytdlp_extractor() {
-            echo "[fallback 1] yt-dlp with Android extractor"
-            local suf=$(build_suffix "$2" "$3")
-            yt-dlp --cookies youtube-cookies.txt \
-              --extractor-args "youtube:player_client=android,web_embedded" \
-              -f "bv[height<=$3]+(ba[format_note*=original]/ba)" \
-              --js-runtimes deno --remote-components ejs:npm --no-progress \
-              -o "$OUTPUT_FOLDER/%(title)s-${suf}.%(ext)s" "$1"
-          }
-
-          # ── 2. yt-dlp with iOS extractor ──
-          fallback_ytdlp_ios() {
-            echo "[fallback 2] yt-dlp with iOS extractor"
-            local suf=$(build_suffix "$2" "$3")
-            yt-dlp --cookies youtube-cookies.txt \
-              --extractor-args "youtube:player_client=ios,web_embedded" \
-              -f "bv[height<=$3]+(ba[format_note*=original]/ba)" \
-              --js-runtimes deno --remote-components ejs:npm --no-progress \
-              -o "$OUTPUT_FOLDER/%(title)s-${suf}.%(ext)s" "$1"
-          }
-
-          # ── 3. yt-dlp without cookies ──
-          fallback_ytdlp_nocookies() {
-            echo "[fallback 3] yt-dlp without cookies"
-            local suf=$(build_suffix "$2" "$3")
-            yt-dlp \
-              --extractor-args "youtube:player_client=default,web_embedded" \
-              -f "bv[height<=$3]+(ba[format_note*=original]/ba)" \
-              --js-runtimes deno --remote-components ejs:npm --no-progress \
-              -o "$OUTPUT_FOLDER/%(title)s-${suf}.%(ext)s" "$1"
-          }
-
-          # ── 4. youtube-dl (unchanged – does not support format_note filters) ──
-          fallback_youtube_dl() {
-            echo "[fallback 4] youtube-dl"
-            local suf=$(build_suffix "$2" "$3")
-            youtube-dl --no-progress -o "$OUTPUT_FOLDER/%(title)s-${suf}.%(ext)s" "$1"
-          }
-
-          # ── 5. pytube (best quality) – unchanged ──
-          fallback_pytube_max() {
-            echo "[fallback 5] pytube (best quality)"
-            python3 -c "
-          import sys, os
-          from pytube import YouTube
-          url = sys.argv[1]
-          typ = sys.argv[2]
-          val = sys.argv[3]
-          suf = f'{val}kbps' if typ == 'a' else f'{val}p'
-          yt = YouTube(url)
-          if typ == 'a':
-              stream = yt.streams.get_audio_only()
-          else:
-              stream = yt.streams.get_highest_resolution()
-          out = stream.download(output_path='$OUTPUT_FOLDER')
-          base, ext = os.path.splitext(out)
-          os.rename(out, f'{base}_{suf}{ext}')
-          " "$1" "$2" "$3"
-          }
-
-          # ── 6. pytube (specific resolution) – unchanged ──
-          fallback_pytube_res() {
-            echo "[fallback 6] pytube (resolution $3)"
-            python3 -c "
-          import sys, os
-          from pytube import YouTube
-          url = sys.argv[1]
-          target_res = int(sys.argv[2])
-          suf = f'{target_res}p'
-          yt = YouTube(url)
-          streams = yt.streams.filter(progressive=True, res=f'{target_res}p')
-          if not streams:
-              streams = yt.streams.filter(adaptive=True, res=f'{target_res}p')
-          if streams:
-              stream = streams.first()
-          else:
-              stream = yt.streams.get_highest_resolution()
-              suf = f'{sys.argv[2]}p'
-          out = stream.download(output_path='$OUTPUT_FOLDER')
-          base, ext = os.path.splitext(out)
-          os.rename(out, f'{base}_{suf}{ext}')
-          " "$1" "$3"
-          }
-
-          # ── 7. External API (loader.to) – unchanged ──
-          fallback_thirdparty_api1() {
-            echo "[fallback 7] External API (loader.to)"
-            local suf=$(build_suffix "$2" "$3")
-            API_URL="https://loader.to/ajax/download.php?format=best&url=$(python3 -c "
-          import urllib.parse
-          print(urllib.parse.quote('$1'))
-          ")"
-            resp=$(curl -s "$API_URL")
-            dlink=$(echo "$resp" | jq -r '.link? // empty')
-            if [ -n "$dlink" ]; then
-              wget -O "$OUTPUT_FOLDER/%(title)s-${suf}.%(ext)s" "$dlink"
-            else
-              return 1
-            fi
-          }
-
-          # ── 8. External API (api.vevioz.com) – unchanged ──
-          fallback_thirdparty_api2() {
-            echo "[fallback 8] External API (api.vevioz.com)"
-            local suf=$(build_suffix "$2" "$3")
-            API_URL="https://api.vevioz.com/apis/downloader?url=$(python3 -c "
-          import urllib.parse
-          print(urllib.parse.quote('$1'))
-          ")"
-            resp=$(curl -s "$API_URL")
-            dlink=$(echo "$resp" | jq -r '.download_url? // empty')
-            if [ -n "$dlink" ]; then
-              wget -O "$OUTPUT_FOLDER/%(title)s-${suf}.%(ext)s" "$dlink"
-            else
-              return 1
-            fi
-          }
-
-          # ── 9. cobalt.tools API – unchanged ──
-          fallback_cobalt() {
-            echo "[fallback 9] cobalt.tools API"
-            local suf=$(build_suffix "$2" "$3")
-            API_URL="https://api.cobalt.tools/api/json"
-            payload='{"url":"'"$1"'","vCodec":"h264","aFormat":"mp3","videoQuality":"720"}'
-            resp=$(curl -s -H "Content-Type: application/json" -d "$payload" "$API_URL")
-            dlink=$(echo "$resp" | jq -r '.url? // empty')
-            if [ -n "$dlink" ]; then
-              wget -O "$OUTPUT_FOLDER/%(title)s-${suf}.%(ext)s" "$dlink"
-            else
-              return 1
-            fi
-          }
-
-          # ── 10. yt-dlp with forced IPv4 ──
+          # ── Fallback: yt-dlp with forced IPv4 + retries ──
           fallback_force_ipv4() {
-            echo "[fallback 10] yt-dlp with forced IPv4 and retries"
+            echo "[fallback] yt-dlp forced IPv4 + retries"
             local suf=$(build_suffix "$2" "$3")
+            local fmt
+            if [ "$2" = "a" ]; then
+              fmt="ba[format_note*=original]/ba"
+            else
+              fmt="bv[height<=$3]+(ba[format_note*=original]/ba)"
+            fi
             yt-dlp --force-ipv4 --retries 10 --fragment-retries 10 \
               --cookies youtube-cookies.txt \
               --extractor-args "youtube:player_client=default,web_embedded" \
-              -f "bv[height<=$3]+(ba[format_note*=original]/ba)" \
+              -f "$fmt" \
               --js-runtimes deno --remote-components ejs:npm --no-progress \
               -o "$OUTPUT_FOLDER/%(title)s-${suf}.%(ext)s" "$1"
           }
 
-          # ── 11. ytmp3.gg API (Meli-Action style) – unchanged ──
+          # ── Fallback: ytmp3.gg API (unchanged) ──
           fallback_ytmp3_api() {
-            echo "[fallback 11] ytmp3.gg API (Meli-Action style)"
+            echo "[fallback] ytmp3.gg API"
             local type="$2"
             local val="$3"
             FORMAT="mp4"
@@ -513,28 +427,25 @@ jobs:
             echo "   ✅ ytmp3.gg success"
           }
 
-          # ── 12. yt-dlp advanced (web_music+tv+web clients) ──
+          # ── Fallback: Advanced yt-dlp (multi-client) ──
           fallback_ytdlp_advanced() {
-            echo "[fallback 12] yt-dlp with web_music+tv+web clients"
+            echo "[fallback] yt-dlp advanced (web_music+tv+web)"
             local suf=$(build_suffix "$2" "$3")
+            local fmt
+            if [ "$2" = "a" ]; then
+              fmt="ba[format_note*=original]/ba"
+            else
+              fmt="bv[height<=$3]+(ba[format_note*=original]/ba)"
+            fi
             yt-dlp \
               --extractor-args "youtube:player_client=web_music,web,tv,web_embedded" \
-              -f "bv[height<=$3]+(ba[format_note*=original]/ba)" \
+              -f "$fmt" \
               --js-runtimes deno --newline --concurrent-fragments 4 \
               $COOKIE_ARGS \
               -o "$OUTPUT_FOLDER/%(title)s-${suf}.%(ext)s" "$1"
           }
 
           FALLBACKS=(
-            fallback_ytdlp_extractor
-            fallback_ytdlp_ios
-            fallback_ytdlp_nocookies
-            fallback_youtube_dl
-            fallback_pytube_max
-            fallback_pytube_res
-            fallback_thirdparty_api1
-            fallback_thirdparty_api2
-            fallback_cobalt
             fallback_force_ipv4
             fallback_ytmp3_api
             fallback_ytdlp_advanced
@@ -566,7 +477,7 @@ jobs:
               fi
             done
             if [ $success -eq 0 ]; then
-              echo "❌ All 12 fallback pipelines failed for $link"
+              echo "❌ All 3 fallbacks failed for $link"
             fi
           done
         env:
