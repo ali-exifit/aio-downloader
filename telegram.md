@@ -7,6 +7,291 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 19:07
+---
+
+## VahidOOnLine — post 239923
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239923_1778686673.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ وزیر انرژی آمریکا:
+جریان آزاد تجارت انرژی از تنگه هرمز با یا بدون توافق با ایران برقرار خواهد شد
+
+♦️کریس رایت، وزیر انرژی ایالات متحده، روز چهارشنبه ٢٣ اردیبهشت ماه در جلسه تعیین بودجه سنا گفت: «پایان دادن به برنامه هسته‌ای چند دهه‌ای ایران، اقدامی پیچیده، حساس و دشوار است؛ همان‌طور که اکنون همه در حال مشاهده آن هستند. اما به هر شکل ممکن، ایالات متحده جریان آزاد تجارت انرژی از طریق تنگه هرمز را دوباره برقرار خواهد کرد.»
+او افزود: «تقریبا همه کشورهای جهان در این مسیر همسو هستند و به‌طور ویژه تمام کشورهای حوزه خلیج فارس و همه همسایگان منطقه نیز در این موضوع با ما هم‌نظر و همراه هستند. بنابراین این مسئله، چه از طریق توافق و معامله با ایران و چه بدون توافق با ایران، در نهایت انجام خواهد شد.»
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239922
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239922_1778686675.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️روز چهارشنبه ۲۳ اردیبهشت، چارلز سوم در مراسمی باشکوه و با رعایت سنت‌های تاریخی، برنامه قانون‌گذاری دولت بریتانیا را در مجلس لردها تبیین کرد. پادشاه بریتانیا که همراه با همسرش، ملکه کامیلا با کالسکه سلطنتی از کاخ باکینگهام به پارلمان آمده بود، در سخنرانی خود بر اولویت‌های استراتژیک دولت تاکید کرد.
+
+او خطاب به قانون‌گذاران گفت که وزیران تصمیماتی را اتخاذ خواهند کرد که امنیت انرژی، دفاعی و اقتصادی بلندمدت پادشاهی متحده را تضمین کند. در این سخنرانی، سرفصل‌های ۳۷ لایحه پیشنهادی دولت برای سال پیش‌رو ارائه شد که هشت مورد آن پیش‌تر به پارلمان معرفی شده بود. این مراسم که ریشه در قرن شانزدهم میلادی دارد، نمادی از تفکیک قوای قانون اساسی در بریتانیا و نقشه راه سیاسی این کشور برای ماه‌های آینده محسوب می‌شود.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 9043
+
+<div align="center">
+  <a href="telegram/content/mwarmonitor_9043_1778686677.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇺🇸چهار هفته پیش، فرماندهی مرکزی آمریکا (CENTCOM) اجرای محاصره علیه کشتی‌هایی را آغاز کرد که وارد یا از بنادر ایران خارج می‌شوند. تا امروز، نیروهای آمریکایی ۶۷ کشتی تجاری را تغییر مسیر داده‌اند، اجازه عبور به ۱۵ کشتی حامل کمک‌های بشردوستانه داده‌اند و ۴ کشتی را برای تضمین رعایت مقررات از کار انداخته‌اند.
+
+🇺🇸اوایل این هفته نیز نیروهای CENTCOM پس از ارتباط رادیویی و شلیک هشداردهنده با سلاح‌های سبک، دو کشتی تجاری را وادار به بازگشت کردند؛ اقدامی که نشان می‌دهد اجرای این محدودیت‌ها همچنان به‌طور کامل برقرار است.
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341647
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌Fox News (Twitter/X)
+
+Read more 👉
+</div>
+
+## FoxNewsTwitter — post 341646
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341646_1778686679.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+"It’s just really disappointing to go into a competition knowing you already lost."
+
+California high school athlete Reese Hogan says she’s spent three straight years competing against a transgender athlete, and it’s cost her track and field titles she's spent a lifetime chasing.
+
+Now heading into another state final, she and teammate Olivia Viola are speaking out, saying too many adults stay silent while the debate over fairness in girls’ sports intensifies.
+
+The moment is reigniting a larger fight in California, where state law allows athletes to compete based on gender identity — and where a growing Title IX clash is now pulling in national attention, despite Governor Newsom's office pushing back.
+</div>
+
+## FoxNewsTwitter — post 341645
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: A French hantavirus patient is now in critical condition and has been placed on artificial lung.
+
+Paris doctors describing the device keeping her alive as “the final stage of supportive care.”
+
+Doctors say the passenger is suffering a severe form of the virus, triggering life-threatening lung and heart failure.
+
+There are now 11 reported cases tied to the outbreak, nine of which have been confirmed.
+</div>
+
+## pm_afshaa — post 90696
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90696_1778686680.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴سنتکام با انتشار تصویری، از گشت‌زنی جنگنده پنهان‌کار F-35A آمریکا بر فراز آب‌های نزدیک تنگه هرمز خبر داد.
+
+به گفته سنتکام، این جنگنده توان حمل تا 18 هزار پوند مهمات رو در سرعت مافوق صوت داره.
+
+
+💧Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 337014
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻از مکزیکوسیتی تا نیویورک؛ کالاهای جام جهانی با برچسب «ساخت چین»
+
+کمتر از یک ماه مانده به آغاز جام جهانی فوتبال ۲۰۲۶ در مکزیکوسیتی، موج صادرات کالاهای ساخت چین به کشورهای میزبان این مسابقات آغاز شده است؛ از توپ فوتبال و پرچم گرفته تا لباس هواداری و ماگ‌های ورزشی.
+
+جام جهانی ۲۰۲۶ از ۲۱ خرداد تا ۲۸ تیر ۱۴۰۵ در آمریکا، کانادا و مکزیک برگزار می‌شود و برای نخستین‌بار با حضور ۴۸ تیم در ۱۶ شهر برگزار خواهد شد.
+
+شرکت «کینگدائو واندرفول فلگ» در استان شاندونگ چین اعلام کرد بلافاصله پس از مشخص شدن فهرست تیم‌های حاضر در جام جهانی، سفارش تولید پرچم کشورهای شرکت‌کننده به‌سرعت افزایش یافت. شیائو چانگ‌آی، رییس این شرکت، گفت تولید پرچم تیم‌هایی مانند برزیل، آرژانتین و آلمان از ماه مارس آغاز شده بود، اما با شروع مسابقات، سفارش‌ها به‌صورت لحظه‌ای و با تحویل فوری ثبت خواهند شد.
+
+بر اساس اعلام گمرک چین، این شرکت اکنون به‌صورت شبانه‌روزی فعالیت می‌کند و تولید روزانه آن به بیش از ۱۰۰ هزار پرچم رسیده است.
+
+همزمان شرکت «نینگبو اکو-ویل تکنولوژی» که تولیدکننده ماگ، لیوان و لوازم هواداری است، اعلام کرد صادراتش به آمریکا، کانادا و مکزیک در چهار ماه نخست سال ۲۰۲۶ نسبت به مدت مشابه سال قبل ۴۷ درصد افزایش یافته و به ۴۰ میلیون یوان رسیده است. این شرکت افزایش تقاضا برای کالاهای دارای لوگوی رسمی تیم‌های فوتبال را عامل اصلی رشد صادرات دانست.
+
+داده‌های گمرک نینگبو نشان می‌دهد صادرات تجهیزات و کالاهای ورزشی از این بندر بین ژانویه تا آوریل به ۵.۷۴ میلیارد یوان رسیده که نسبت به سال گذشته بیش از ۱۱ درصد رشد داشته است.
+🔗وب‌سایت ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## IranIntlTV — post 337013
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337013_1778686681.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت خارجه لبنان با ارسال نامه‌ای رسمی به دبیرکل و رییس شورای امنیت سازمان ملل، از جمهوری اسلامی شکایت کرد. لبنان در این نامه نهادهای جمهوری اسلامی، از جمله سپاه پاسداران را مسئول درگیر شدن این کشور در جنگ، برخلاف خواست دولت معرفی کرد.
+
+گزارش می فرحات، خبرنگار ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## IranIntlTV — post 337012
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337012_1778686683.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+محسن کدیور، مدرس مطالعات اسلامی در دانشگاه دوک آمریکا، در گفت‌وگو با خبرگزاری جمهوری اسلامی، از تجمعات شبانه حمایت کرد. او که اولین بار پس از ۱۷ سال، حرفهایش اجازه انتشار می‌گیرد، حضور هواداران حکومت در خیابان‌ها را دفاع مردم ایران از میهن توصیف کرد.
+
+گفت‌وگو با محدجواد اکبرین، عضو تحریریه ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## Shin_Persian — post 5990
+
+<div align="center">
+  <a href="telegram/content/Shin_Persian_5990_1778686685.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+U.S. Central Command ✓ @CENTCOM Wed, 13 May 2026 15:19:24 UTC Four weeks ago, CENTCOM began implementing the blockade against ships entering and exiting Iran’s ports. As of today, American forces have redirected 67 commercial vessels, allowed 15 supporting…
+</div>
+
+## Shin_Persian — post 5989
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+U.S. Central Command ✓ @CENTCOM
+Wed, 13 May 2026 15:19:24 UTC
+
+Four weeks ago, CENTCOM began implementing the blockade against ships entering and exiting Iran’s ports. As of today, American forces have redirected 67 commercial vessels, allowed 15 supporting humanitarian aid to pass, and disabled 4 to ensure compliance.
+
+Earlier this week, CENTCOM forces ensured that 2 commercial vessels turned around to comply with the blockade after communicating via radio and firing warning shots from small arms, clearly demonstrating that U.S. enforcement remains in full effect.
+
+فارسی
+
+چهار هفته پیش، ستاد فرماندهی مرکزی ایالات متحده (سنتکام) اجرای محاصره علیه کشتی‌هایی که به بنادر ایران وارد و یا از آن خارج می‌شدند را آغاز کرد. تا به امروز، نیروهای آمریکایی مسیر ۶۷ شناور تجاری را تغییر داده، به ۱۵ کشتی حامل کمک‌های بشردوستانه اجازه عبور داده و ۴ فروند را برای اطمینان از انطباق با مقررات از کار انداخته‌اند.
+
+در اوایل این هفته، نیروهای سنتکام اطمینان حاصل کردند که ۲ شناور تجاری پس از برقراری ارتباط رادیویی و شلیک تیرهای هشدار توسط سلاح‌های سبک، برای پایبندی به محاصره دور زده و بازگشتند؛ موضوعی که به وضوح نشان می‌دهد اجرای مقررات توسط ایالات متحده همچنان با قوت کامل در جریان است.
+
+𝕏 · @shin_persian
+</div>
+
+## DW_Farsi — post 124651
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎥 دیپو مالش؛ پدیده سنگ‌نوردی سرعتی هند
+
+دیپو مالش، یکی از بهترین سنگ‌نوردان سرعتی آسیا، رؤیای حضور در المپیک را دنبال می‌کند؛ رؤیایی دشوار برای ورزشکاری هندی که از خانواده‌ای ثروتمند نمی‌آید و برای ادامه مسیرش به کمک‌های مردمی متکی است.
+#dwsportshindi
+@dw_farsi
+</div>
+
+## RadioFarda — post 157139
+
+<div align="center">
+  <img src="telegram/content/RadioFarda_157139_1778686688.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸بنیاد نرگس محمدی اعلام کرد این فعال حقوق بشر و برنده جایزه صلح نوبل پس از انتقال به تهران تحت عمل آنژیوگرافی قرار گرفته و نتایج آزمایش‌ها نشان‌دهنده «وخامت قابل توجه» وضعیت قلبی و عروقی اوست.
+
+🔸بر اساس بیانیه بنیاد نرگس، پزشکان اعلام کرده‌اند رگی که پیش‌تر در آن استنت‌گذاری انجام شده بود دچار تنگی مجدد شده و یک رگ فرعی دیگر نیز دچار انسداد است. به گفته تیم درمان، وضعیت جسمانی او نسبت به آخرین بررسی در سال ۱۴۰۳ به شکل محسوسی بدتر شده است.
+
+🔸این بنیاد همچنین اعلام کرد آزمایش‌های تخصصی، از جمله مانیتورینگ فشار خون و تست «تیلت»، نشان داده که نرگس محمدی دچار نوسانات شدید فشار خون، افت سطح هوشیاری و حتی بیهوشی کامل شده است.
+
+🔸به گفته پزشکان، بخشی از اختلالات ایجادشده ناشی از فشارهای شدید روحی، اضطراب مزمن و تنش‌های طولانی‌مدت بوده و او نیازمند حداقل هشت ماه درمان تخصصی در محیطی به دور از استرس است.
+
+🔸در بیانیه بنیاد نرگس تأکید شده که نرگس محمدی در حال حاضر در بخش مراقبت‌های ویژه قلبی بستری است و تیم پزشکی اعلام کرده او توان بازگشت به محیط زندان را ندارد.
+
+@RadioFarda
+</div>
+
+## IranianMinds — post 20077
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20077_1778686688.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 سنتکام با انتشار تصویری از گشت‌زنی جنگنده پنهان‌کار F-35A امریکا بر فراز آب‌های نزدیک تنگه هرمز خبر داد.
+
+به گفته سنتکام، این جنگنده توان حمل تا ۱۸ هزار پوند مهمات را سرعت مافوق صوت دارد.
+
+@IranianMinds
+</div>
+
+## BBCPersian — post 280936
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🖊سو میچل, بی‌بی‌سی
+
+تحقیقات بی‌بی‌سی هویت یکی از سردسته‌های قاچاقچیان انسان در ارتباط با انتقال مهاجران با قایق‌های کوچک به بریتانیا را فاش کرده است؛ فردی که گفته می‌شود شبکه‌اش در سال‌های اخیر مسئول بخش عمده عبورهای غیرقانونی از کانال مانش بوده است.
+
+این مرد ۲۸ ساله که کرد عراقی است، سال‌ها با استفاده از نام مستعار «کاردو رانیه» از بازداشت گریخته بود.او نام واقعی خود را به شدت مخفی نگه داشته بود و این مسئله تلاش نهادهای مجری قانون برای صدور حکم بین‌المللی بازداشت علیه او را با مشکل روبه‌رو کرده بود.
+
+نبود اطلاعات درباره نام واقعی کاردو رانیه همچنین باعث شده بود نیروهای پلیس در کشورهای مختلف اروپایی نتوانند به راحتی محل حضور او را ردیابی کنند یا سرنخ‌ها را فراتر از مرزهای خود دنبال کنند.
+
+اما من و همکارم راب لاوری، با استفاده از رابط‌هایی در دنیای قاچاق، توانستیم ردپایی را از اردوگاه‌های مهاجران در سواحل شمالی فرانسه تا اقلیم کردستان دنبال کنیم؛ مسیری که در نهایت به شناسایی هویت واقعی و جزئیات مربوط به کاردو رانیه و سپس رویارویی مستقیم با او منجر شد.
+https://bbc.in/431R0jQ
+📸BBC/ GettyImages/ AFP via Getty
+</div>
+
+## Hranews — post 112931
+
+<div align="center">
+  <img src="telegram/content/Hranews_112931_1778686689.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+روزهای نامعلوم در زندان؛ وضعیت بلاتکلیف شکیلا قاسمی، شهروند بهائی ادامه دارد
+
+
+❗️
+❗️
+❗️
+❗️
+❗️– شکیلا قاسمی، شهروند بهائی ساکن کرمان، با گذشت بیش از سه ماه از زمان بازداشت، به صورت بلاتکلیف در زندان کرمان نگهداری می‌شود. وی پس از گذراندن بیش از ۴۰ روز در بازداشتگاه اطلاعات سپاه، به سلول انفرادی زندان کرمان منتقل شده است.
+
+به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، شکیلا قاسمی، شهروند بهائی کماکان در بازداشت موقت به سر می‌برد.
+
+یک منبع مطلع نزدیک به خانواده این شهروند بهائی، ضمن تایید این موضوع به هرانا گفت: «خانم قاسمی علیرغم گذشت ۱۰۳ روز از زمان بازداشت، همچنان به صورت بلاتکلیف در زندان کرمان نگهداری می‌شود. وی حدود ۴۷ روز در بازداشتگاه اطلاعات سپاه تحت بازجویی قرار داشت و سپس به سلول انفرادی در زندان کرمان منتقل شد. پس از مخالفت با آزادی او به قید وثیقه، دوران انفرادی وی در قطع ارتباط کامل با خانواده آغاز شد. فشارهای وارده در این دوران منجر به بروز حملات عصبی و انتقال او به بهداری شد. وی همچنان با این حملات دست‌ و پنجه نرم می‌کند و تحت درمان است.»
+
+این منبع مطلع افزود: «در حال حاضر وی تماس تلفنی روزانه و ملاقات هفتگی دارد، اما با انتقال او به بند عمومی موافقت نشده است. اتهامات به طور رسمی اعلام نشده، اما به خود او تفهیم شده و وی تمامی اتهامات را رد کرده است. همچنین اعلام شده است که تا زمان برگزاری دادگاه، آزاد نخواهد شد.»
+
+ادامه مطلب
+
+#شکیلا_قاسمی
+
+↘️
+@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑
+</div>
+
+## alonews — post 119769
+
+<div align="center">
+  <a href="telegram/content/alonews_119769_1778686690.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈فرماندهی مرکزی ایالات متحده: چهار هفته پیش، فرماندهی مرکزی شروع به اجرای محاصره علیه کشتی‌هایی که وارد و خارج از بنادر ایران می‌شوند کرد.
+
+
+🔴تا امروز، نیروهای آمریکایی ۶۷ کشتی تجاری را تغییر مسیر داده‌اند، اجازه عبور ۱۵ کشتی حامل کمک‌های بشردوستانه را داده‌اند و ۴ کشتی را برای اطمینان از رعایت قوانین غیرفعال کرده‌اند.
+
+
+🔴اوایل این هفته، نیروهای فرماندهی مرکزی اطمینان حاصل کردند که ۲ کشتی تجاری پس از ارتباط رادیویی و شلیک هشدار با سلاح‌های سبک، برای رعایت محاصره بازگشتند، که به وضوح نشان می‌دهد اجرای قوانین توسط ایالات متحده همچنان به طور کامل ادامه دارد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 18:51
 ---
 
