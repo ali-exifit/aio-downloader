@@ -113,12 +113,10 @@ permissions:
 jobs:
   download:
     runs-on: ubuntu-latest
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     timeout-minutes: 60
 
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v4
         with:
           persist-credentials: true
 
