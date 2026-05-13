@@ -1,4 +1,3 @@
----
 name: x-downloader
 
 on:
@@ -8,9 +7,14 @@ on:
         description: 'x/X URLs – separate by comma, space, or newline'
         required: true
 
+permissions:
+  contents: write
+
 jobs:
   actions:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
