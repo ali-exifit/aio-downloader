@@ -47,11 +47,16 @@ on:
         required: false
         type: boolean
         default: false
+        
+permissions:
+  contents: write
+      
 jobs:
   clean:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
