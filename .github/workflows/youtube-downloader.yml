@@ -12,119 +12,98 @@ on:
         type: string
 
       output_format:
-        description: ‘Output format (applied when no per‑URL “v”/“a” is given)’
+        description: 'Output format (applied when no per‑URL “v”/“a” is given)'
         required: false
         type: choice
         options:
           - mp4 (video)
           - mp3 (audio only)
           - best (auto)
-        default: ‘mp4 (video)’
+        default: 'mp4 (video)'
 
       video_quality:
-        description: ‘Max video resolution (720p if nothing is specified)’
+        description: 'Max video resolution (720p if nothing is specified)'
         required: false
         type: choice
         options:
-          - ‘2160 (4K)’
-          - ‘1080 (Full HD)’
-          - ‘720 (HD)’
-          - ‘480’
-          - ‘360’
-          - ‘best’
-        default: ‘720 (HD)’
+          - '2160 (4K)'
+          - '1080 (Full HD)'
+          - '720 (HD)'
+          - '480'
+          - '360'
+          - 'best'
+        default: '720 (HD)'
 
       audio_quality:
-        description: ‘Audio bitrate for MP3 downloads’
+        description: 'Audio bitrate for MP3 downloads'
         required: false
         type: choice
         options:
-          - ‘320’
-          - ‘192’
-          - ‘128’
-          - ‘64’
-        default: ‘192’
+          - '320'
+          - '192'
+          - '128'
+          - '64'
+        default: '192'
 
       codec:
-        description: ‘Preferred video codec (ignored for audio‑only)’
+        description: 'Preferred video codec (ignored for audio‑only)'
         required: false
         type: choice
         options:
-          - ‘any (auto)’
-          - ‘h264 (MP4 compatible)’
-          - ‘vp9’
-          - ‘av1’
-        default: ‘any (auto)’
-
-      preferred_language:
-        description: ‘Preferred audio language (original if nothing is chosen)’
-        required: false
-        type: choice
-        options:
-          - ‘Original (default)’
-          - ‘English’
-          - ‘Persian (فارسی)’
-          - ‘Arabic (العربية)’
-          - ‘Japanese (日本語)’
-          - ‘Chinese (中文)’
-          - ‘Spanish (Español)’
-          - ‘French (Français)’
-          - ‘German (Deutsch)’
-          - ‘Russian (Русский)’
-          - ‘Korean (한국어)’
-          - ‘Hindi (हिन्दी)’
-          - ‘Portuguese (Português)’
-          - ‘Italian (Italiano)’
-        default: ‘Original (default)’
+          - 'any (auto)'
+          - 'h264 (MP4 compatible)'
+          - 'vp9'
+          - 'av1'
+        default: 'any (auto)'
 
       playlist_items:
-        description: ‘Playlist items (all, 3-7, 1,3,5, …). Leave empty for single video.’
+        description: 'Playlist items (all, 3-7, 1,3,5, …). Leave empty for single video.'
         required: false
         type: string
 
       sponsorblock:
-        description: ‘Skip sponsor/intro/outro segments via SponsorBlock’
+        description: 'Skip sponsor/intro/outro segments via SponsorBlock'
         required: false
         type: boolean
         default: false
 
       embed_chapters:
-        description: ‘Embed chapter markers in the output file’
+        description: 'Embed chapter markers in the output file'
         required: false
         type: boolean
         default: false
 
       write_description:
-        description: ‘Save video description as a .description file’
+        description: 'Save video description as a .description file'
         required: false
         type: boolean
         default: false
 
       download_subtitles:
-        description: ‘Download subtitle files’
+        description: 'Download subtitle files'
         required: false
         type: boolean
         default: false
 
       subtitle_langs:
-        description: ‘Subtitle languages (comma‑separated, e.g. en,fa)’
+        description: 'Subtitle languages (comma‑separated, e.g. en,fa)'
         required: false
         type: string
-        default: ‘en’
+        default: 'en'
 
       embed_metadata:
-        description: ‘Embed thumbnail and metadata in the output file’
+        description: 'Embed thumbnail and metadata in the output file'
         required: false
         type: boolean
         default: false
 
       trim_start:
-        description: ‘Trim start timestamp (e.g. 0:33 or 1:22:10) – leave empty to skip’
+        description: 'Trim start timestamp (e.g. 0:33 or 1:22:10) – leave empty to skip'
         required: false
         type: string
 
       trim_end:
-        description: ‘Trim end timestamp (e.g. 1:22 or 2:00:00) – leave empty to skip’
+        description: 'Trim end timestamp (e.g. 1:22 or 2:00:00) – leave empty to skip'
         required: false
         type: string
 
@@ -141,7 +120,8 @@ jobs:
         with:
           persist-credentials: true
 
-      - name: ‘🔐 Prepare cookies’
+      # ── Cookies ──
+      - name: '🔐 Prepare cookies'
         run: |
           if [ -n "$YOUTUBE_COOKIES" ]; then
             echo "$YOUTUBE_COOKIES" > youtube-cookies.txt
@@ -152,7 +132,8 @@ jobs:
         env:
           YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
 
-      - name: ‘📋 Parse all URLs and per‑URL arguments’
+      # ── Parse URLs ──
+      - name: '📋 Parse all URLs and per‑URL arguments'
         id: parse
         run: |
           INPUT="${{ github.event.inputs.url }}"
@@ -190,7 +171,8 @@ jobs:
           echo "IS_ANY_YT=$IS_ANY_YT" >> $GITHUB_OUTPUT
           echo "✅ Parsed $(echo "$ENTRIES" | jq length) entries, any YouTube? $IS_ANY_YT"
 
-      - name: ‘📁 Prepare tool paths’
+      # ── Prepare tool paths ──
+      - name: '📁 Prepare tool paths'
         if: steps.parse.outputs.IS_ANY_YT == 'true'
         run: |
           mkdir -p ~/.local/bin
@@ -198,7 +180,8 @@ jobs:
           echo "$HOME/.deno/bin" >> $GITHUB_PATH
           echo "✅ Tool paths prepared."
 
-      - name: ‘🛠️ Install download tools’
+      # ── Install tools ──
+      - name: '🛠️ Install download tools'
         if: steps.parse.outputs.IS_ANY_YT == 'true'
         run: |
           echo "🔽 Installing / updating yt-dlp..."
@@ -228,10 +211,8 @@ jobs:
           sudo chmod a+rx /usr/local/bin/youtube-dl
           echo "✅ Fallback tools installed."
 
-      # ════════════════════════════════════════════════════════
-      #  PRIMARY DOWNLOAD – with original‑language detection
-      # ════════════════════════════════════════════════════════
-      - name: ‘⬇️ Primary download (language‑aware)’
+      # ── PRIMARY DOWNLOAD (original audio only) ──
+      - name: '⬇️ Primary download (original audio, no dubs)'
         id: primary_download
         run: |
           set -e
@@ -239,37 +220,14 @@ jobs:
           OUTPUT_FOLDER="youtube"
           mkdir -p "$OUTPUT_FOLDER"
 
-          # Global defaults
           GLOBAL_FORMAT="${{ github.event.inputs.output_format }}"
           GLOBAL_VQ="${{ github.event.inputs.video_quality }}"
           GLOBAL_AQ="${{ github.event.inputs.audio_quality }}"
           CODEC="${{ github.event.inputs.codec }}"
-          USER_LANG_CHOICE="${{ github.event.inputs.preferred_language }}"
 
-          # Map human‑readable to ISO‑639-1
-          case "$USER_LANG_CHOICE" in
-            "Original (default)") USER_LANG="original" ;;
-            "English")            USER_LANG="en" ;;
-            "Persian (فارسی)")    USER_LANG="fa" ;;
-            "Arabic (العربية)")   USER_LANG="ar" ;;
-            "Japanese (日本語)")   USER_LANG="ja" ;;
-            "Chinese (中文)")     USER_LANG="zh" ;;
-            "Spanish (Español)")  USER_LANG="es" ;;
-            "French (Français)")  USER_LANG="fr" ;;
-            "German (Deutsch)")   USER_LANG="de" ;;
-            "Russian (Русский)")  USER_LANG="ru" ;;
-            "Korean (한국어)")    USER_LANG="ko" ;;
-            "Hindi (हिन्दी)")     USER_LANG="hi" ;;
-            "Portuguese (Português)") USER_LANG="pt" ;;
-            "Italian (Italiano)") USER_LANG="it" ;;
-            *)                    USER_LANG="original" ;;
-          esac
-
-          # Numeric quality values
           GLOBAL_VQ_NUM=$(echo "$GLOBAL_VQ" | grep -o '[0-9]*' | head -1)
           GLOBAL_AQ_NUM=$(echo "$GLOBAL_AQ" | grep -o '[0-9]*' | head -1)
 
-          # Default type from format selector
           if [ "$GLOBAL_FORMAT" = "mp3 (audio only)" ]; then
             GLOBAL_TYPE="a"
             GLOBAL_VAL="$GLOBAL_AQ_NUM"
@@ -281,7 +239,7 @@ jobs:
           COOKIE_ARGS=""
           [ -f youtube-cookies.txt ] && COOKIE_ARGS="--cookies youtube-cookies.txt"
 
-          echo "🔧 Global: type=$GLOBAL_TYPE, quality=$GLOBAL_VAL, lang choice=$USER_LANG_CHOICE ($USER_LANG)"
+          echo "🔧 Global: type=$GLOBAL_TYPE, quality=$GLOBAL_VAL (original audio only)"
 
           FAILED_ENTRIES='[]'
           count=$(echo "$ENTRIES_JSON" | jq length)
@@ -292,7 +250,6 @@ jobs:
             echo "========================================"
             echo "🎬 $((idx+1))/$count: $link"
 
-            # Per‑URL overrides for type/quality
             type="$GLOBAL_TYPE"
             val="$GLOBAL_VAL"
             if [ "$args_len" -ge 1 ]; then
@@ -313,7 +270,7 @@ jobs:
 
             # Non‑YouTube
             if ! echo "$link" | grep -Eq '(youtube\.com/watch\?v=|youtu\.be/)'; then
-              echo "ℹ️  Non‑YouTube – wget"
+              echo "ℹ️  Non‑YouTube – downloading with wget"
               cd "$OUTPUT_FOLDER"
               wget --progress=bar:force --content-disposition "$link" || {
                 FAILED_ENTRIES=$(echo "$FAILED_ENTRIES" | jq ". + [$entry]")
@@ -323,115 +280,93 @@ jobs:
               continue
             fi
 
-            # ─── Fetch JSON and resolve original language ───
-            echo "   🔍 Fetching info..."
+            # ─── Extract video info ───
+            echo "   🔍 Fetching video info..."
             JSON_ARGS="--cookies youtube-cookies.txt --js-runtimes deno --remote-components ejs:npm"
             video_json=$(yt-dlp $JSON_ARGS -j "$link" 2>/dev/null) || {
-              echo "❌ yt-dlp -j failed"; FAILED_ENTRIES=$(echo "$FAILED_ENTRIES" | jq ". + [$entry]"); continue
+              echo "❌ yt-dlp -j failed"
+              FAILED_ENTRIES=$(echo "$FAILED_ENTRIES" | jq ". + [$entry]")
+              continue
             }
 
-            # Video's declared original language (empty if not set)
+            # Determine original language (may be empty)
             ORIGINAL_LANG=$(echo "$video_json" | jq -r '.language // ""')
-            if [ "$ORIGINAL_LANG" = "null" ]; then ORIGINAL_LANG=""; fi
+            [ "$ORIGINAL_LANG" = "null" ] && ORIGINAL_LANG=""
 
-            # Resolve target language
-            if [ "$USER_LANG" = "original" ]; then
+            if [ -n "$ORIGINAL_LANG" ]; then
+              echo "   🔤 Original language detected: $ORIGINAL_LANG"
               TARGET_LANG="$ORIGINAL_LANG"
-              if [ -z "$TARGET_LANG" ]; then
-                # No original language declared → try audio tracks with no language tag
-                NO_LANG_AUDIO=$(echo "$video_json" | jq '[.formats[] | select(.vcodec=="none" and .acodec!="none" and (.language == null or .language == ""))] | length')
-                if [ "$NO_LANG_AUDIO" -gt 0 ]; then
-                  TARGET_LANG="__NULL__"
-                  echo "   🎧 Original language not set – using audio tracks without language tag"
-                else
-                  TARGET_LANG=""
-                  echo "   ⚠️  Could not determine original language – falling back to best audio overall"
-                fi
-              fi
+              LANG_ARG="--extractor-args youtube:lang=$TARGET_LANG"
             else
-              TARGET_LANG="$USER_LANG"
+              echo "   ⚠️  No original language tag – will prefer audio tracks without a language tag"
+              TARGET_LANG="__NULL__"   # special flag
+              LANG_ARG=""
             fi
 
-            # Build extractor argument for yt-dlp
-            LANG_EXTRACTOR=""
-            if [ -n "$TARGET_LANG" ] && [ "$TARGET_LANG" != "__NULL__" ]; then
-              LANG_EXTRACTOR="--extractor-args youtube:lang=$TARGET_LANG"
-            elif [ "$TARGET_LANG" = "__NULL__" ]; then
-              # no lang argument – just rely on format filtering
-              :
+            # ─── Build audio filter for jq ───
+            if [ "$TARGET_LANG" = "__NULL__" ]; then
+              # prefer formats where .language is null/empty
+              audio_filter='select(.vcodec=="none" and .acodec!="none" and (.language == null or .language == ""))'
+            else
+              audio_filter="select(.vcodec==\"none\" and .acodec!=\"none\" and .language == \"$TARGET_LANG\")"
             fi
-            echo "   🎤 Resolved lang: $TARGET_LANG (extractor arg: ${LANG_EXTRACTOR:-none})"
 
-            # ─── Build format selector ───
             if [ "$type" = "v" ]; then
+              # ── Video: best video within resolution + best matching audio ──
               height_val="$val"
               case "$height_val" in 2k) height_val=1440 ;; 4k) height_val=2160 ;; esac
 
-              best_video=$(echo "$video_json" | jq -r --argjson h "$height_val" '
-                [.formats[] | select(.vcodec != "none" and (.height // 0) <= $h)] |
-                sort_by(.height, .tbr) | last | .format_id // ""
-              ')
-
-              # Audio selection respecting language
-              audio_filter=""
-              if [ -n "$TARGET_LANG" ] && [ "$TARGET_LANG" != "__NULL__" ]; then
-                audio_filter="select(.vcodec==\"none\" and .acodec!=\"none\" and .language == \"$TARGET_LANG\")"
-              elif [ "$TARGET_LANG" = "__NULL__" ]; then
-                audio_filter="select(.vcodec==\"none\" and .acodec!=\"none\" and (.language == null or .language == \"\"))"
-              else
-                audio_filter="select(.vcodec==\"none\" and .acodec!=\"none\")"
-              fi
+              best_video=$(echo "$video_json" | jq -r --argjson h "$height_val" \
+                '[.formats[] | select(.vcodec != "none" and (.height // 0) <= $h)] |
+                 sort_by(.height, .tbr) | last | .format_id // ""')
 
               best_audio=$(echo "$video_json" | jq -r "[.formats[] | $audio_filter] | sort_by(.tbr) | last | .format_id // \"\"")
-              # Fallback if no audio matches the language filter
-              if [ -z "$best_audio" ] && [ -n "$TARGET_LANG" ]; then
-                echo "   ⚠️  No audio for lang=$TARGET_LANG, falling back to best overall"
+              # Fallback: if no track matches the original language, use best audio overall
+              if [ -z "$best_audio" ]; then
+                echo "   ⚠️  No audio for original language – falling back to best audio"
                 best_audio=$(echo "$video_json" | jq -r '[.formats[] | select(.vcodec=="none" and .acodec!="none")] | sort_by(.tbr) | last | .format_id // ""')
               fi
 
               if [ -z "$best_video" ] || [ -z "$best_audio" ]; then
-                echo "❌ Could not find video+audio formats"; FAILED_ENTRIES=$(echo "$FAILED_ENTRIES" | jq ". + [$entry]"); continue
+                echo "❌ Could not find video+audio formats"
+                FAILED_ENTRIES=$(echo "$FAILED_ENTRIES" | jq ". + [$entry]")
+                continue
               fi
 
               fmt="${best_video}+${best_audio}"
-              actual_height=$(echo "$video_json" | jq -r --arg fid "$best_video" '.[.formats[] | select(.format_id==$fid)][0].height // ""')
-              fps_info=$(echo "$video_json" | jq -r --arg fid "$best_video" '.[.formats[] | select(.format_id==$fid)][0].fps // ""')
+              # extract height & fps (FIXED jq syntax)
+              actual_height=$(echo "$video_json" | jq -r --arg fid "$best_video" \
+                '[.formats[] | select(.format_id == $fid)][0] | .height // ""')
+              fps_info=$(echo "$video_json" | jq -r --arg fid "$best_video" \
+                '[.formats[] | select(.format_id == $fid)][0] | .fps // ""')
               output_template="$OUTPUT_FOLDER/%(title)s-${actual_height}p${fps_info}.%(ext)s"
-              echo "   📹 Video: $fmt (${actual_height}p${fps_info})"
+              echo "   📹 Downloading: $fmt (${actual_height}p${fps_info})"
             else
-              # Audio‑only
-              audio_filter=""
-              if [ -n "$TARGET_LANG" ] && [ "$TARGET_LANG" != "__NULL__" ]; then
-                audio_filter="select(.vcodec==\"none\" and .acodec!=\"none\" and .language == \"$TARGET_LANG\")"
-              elif [ "$TARGET_LANG" = "__NULL__" ]; then
-                audio_filter="select(.vcodec==\"none\" and .acodec!=\"none\" and (.language == null or .language == \"\"))"
-              else
-                audio_filter="select(.vcodec==\"none\" and .acodec!=\"none\")"
-              fi
-
+              # ── Audio‑only: best matching original language ──
               audio_formats=$(echo "$video_json" | jq "[.formats[] | $audio_filter]")
-              if [ "$(echo "$audio_formats" | jq length)" -eq 0 ] && [ -n "$TARGET_LANG" ]; then
-                echo "   ⚠️  No audio for lang=$TARGET_LANG, falling back to best overall"
+              if [ "$(echo "$audio_formats" | jq length)" -eq 0 ]; then
+                echo "   ⚠️  No audio for original language – falling back to best audio"
                 audio_formats=$(echo "$video_json" | jq '[.formats[] | select(.vcodec=="none" and .acodec!="none")]')
               fi
               if [ "$(echo "$audio_formats" | jq length)" -eq 0 ]; then
-                echo "❌ No audio formats at all"; FAILED_ENTRIES=$(echo "$FAILED_ENTRIES" | jq ". + [$entry]"); continue
+                echo "❌ No audio formats at all"
+                FAILED_ENTRIES=$(echo "$FAILED_ENTRIES" | jq ". + [$entry]")
+                continue
               fi
 
               bitrate="$val"
-              chosen=$(echo "$audio_formats" | jq -r --argjson br "$bitrate" '
-                map({br: (.abr // .tbr), fid: .format_id}) |
-                map({br, fid, d: (.br - $br | abs)}) |
-                sort_by(.d, .br) | first | "\(.fid) \(.br)"
-              ')
+              chosen=$(echo "$audio_formats" | jq -r --argjson br "$bitrate" \
+                'map({br: (.abr // .tbr), fid: .format_id}) |
+                 map({br, fid, d: (.br - $br | abs)}) |
+                 sort_by(.d, .br) | first | "\(.fid) \(.br)"')
               fmt=$(echo "$chosen" | awk '{print $1}')
               abr_info=$(echo "$chosen" | awk '{print $2}')
               output_template="$OUTPUT_FOLDER/%(title)s-${abr_info}kbps.%(ext)s"
-              echo "   🎵 Audio: $fmt (${abr_info}kbps)"
+              echo "   🎵 Downloading: $fmt (${abr_info}kbps)"
             fi
 
-            # Download
-            YT_ARGS="$COOKIE_ARGS --js-runtimes deno --remote-components ejs:npm --no-progress $LANG_EXTRACTOR"
+            # Actual download
+            YT_ARGS="$COOKIE_ARGS --js-runtimes deno --remote-components ejs:npm --no-progress $LANG_ARG"
             if ! yt-dlp $YT_ARGS -f "$fmt" -o "$output_template" "$link"; then
               echo "❌ Primary download failed"
               FAILED_ENTRIES=$(echo "$FAILED_ENTRIES" | jq ". + [$entry]")
@@ -441,42 +376,38 @@ jobs:
           done
 
           echo "FAILED_ENTRIES_JSON=$(echo "$FAILED_ENTRIES" | jq -c .)" >> $GITHUB_OUTPUT
-          echo "USER_LANG=$USER_LANG" >> $GITHUB_OUTPUT
           echo "📊 Primary done – failures: $(echo "$FAILED_ENTRIES" | jq length)"
 
-      # ════════════════════════════════════════════════════════
-      #  FALLBACK PIPELINES (12 strategies)
-      # ════════════════════════════════════════════════════════
-      - name: ‘🔄 Fallback pipelines (language‑aware where possible)’
+      # ── FALLBACKS (12 methods, including original‑audio‑aware) ──
+      - name: '🔄 Fallback pipelines'
         if: steps.primary_download.outputs.FAILED_ENTRIES_JSON != '[]'
         run: |
           set -e
           FAILED_ENTRIES='${{ steps.primary_download.outputs.FAILED_ENTRIES_JSON }}'
-          USER_LANG='${{ steps.primary_download.outputs.USER_LANG }}'
           count=$(echo "$FAILED_ENTRIES" | jq length)
-          echo "🔄 Fallback for $count entries (user lang=$USER_LANG)"
+          echo "🔄 Attempting fallback for $count entries..."
 
           OUTPUT_FOLDER="youtube"
 
           build_suffix() { [ "$1" = "a" ] && echo "${2}kbps" || echo "${2}p"; }
 
-          # Fallback helpers (1‑11 unchanged except 12 now language‑aware)
+          # Pre‑defined fallback functions (1‑11 unchanged, 12 is original‑audio only)
           fallback_ytdlp_extractor() {
-            echo "[FB1] yt-dlp Android"
+            echo "[FB1] yt-dlp Android extractor"
             local suf=$(build_suffix "$2" "$3")
             yt-dlp --cookies youtube-cookies.txt --extractor-args "youtube:player_client=android" \
                    --js-runtimes deno --remote-components ejs:npm --no-progress \
                    -o "$OUTPUT_FOLDER/%(title)s-${suf}.%(ext)s" "$1"
           }
           fallback_ytdlp_ios() {
-            echo "[FB2] yt-dlp iOS"
+            echo "[FB2] yt-dlp iOS extractor"
             local suf=$(build_suffix "$2" "$3")
             yt-dlp --cookies youtube-cookies.txt --extractor-args "youtube:player_client=ios" \
                    --js-runtimes deno --remote-components ejs:npm --no-progress \
                    -o "$OUTPUT_FOLDER/%(title)s-${suf}.%(ext)s" "$1"
           }
           fallback_ytdlp_nocookies() {
-            echo "[FB3] yt-dlp no cookies"
+            echo "[FB3] yt-dlp without cookies"
             local suf=$(build_suffix "$2" "$3")
             yt-dlp --js-runtimes deno --remote-components ejs:npm --no-progress \
                    -o "$OUTPUT_FOLDER/%(title)s-${suf}.%(ext)s" "$1"
@@ -487,7 +418,7 @@ jobs:
             youtube-dl --no-progress -o "$OUTPUT_FOLDER/%(title)s-${suf}.%(ext)s" "$1"
           }
           fallback_pytube_max() {
-            echo "[FB5] pytube max"
+            echo "[FB5] pytube (best quality)"
             python3 -c "
           import sys, os
           from pytube import YouTube
@@ -503,7 +434,7 @@ jobs:
           " "$1" "$2" "$3"
           }
           fallback_pytube_res() {
-            echo "[FB6] pytube res"
+            echo "[FB6] pytube (resolution $3)"
             python3 -c "
           import sys, os
           from pytube import YouTube
@@ -512,7 +443,8 @@ jobs:
           suf = f'{target_res}p'
           yt = YouTube(url)
           streams = yt.streams.filter(progressive=True, res=f'{target_res}p')
-          if not streams: streams = yt.streams.filter(adaptive=True, res=f'{target_res}p')
+          if not streams:
+              streams = yt.streams.filter(adaptive=True, res=f'{target_res}p')
           stream = streams.first() if streams else yt.streams.get_highest_resolution()
           out = stream.download(output_path='$OUTPUT_FOLDER')
           base, ext = os.path.splitext(out)
@@ -520,7 +452,7 @@ jobs:
           " "$1" "$3"
           }
           fallback_thirdparty_api1() {
-            echo "[FB7] loader.to"
+            echo "[FB7] External API (loader.to)"
             local suf=$(build_suffix "$2" "$3")
             API_URL="https://loader.to/ajax/download.php?format=best&url=$(python3 -c "import urllib.parse; print(urllib.parse.quote('$1'))")"
             resp=$(curl -s "$API_URL")
@@ -528,7 +460,7 @@ jobs:
             [ -n "$dlink" ] && wget -O "$OUTPUT_FOLDER/%(title)s-${suf}.%(ext)s" "$dlink" || return 1
           }
           fallback_thirdparty_api2() {
-            echo "[FB8] api.vevioz.com"
+            echo "[FB8] External API (api.vevioz.com)"
             local suf=$(build_suffix "$2" "$3")
             API_URL="https://api.vevioz.com/apis/downloader?url=$(python3 -c "import urllib.parse; print(urllib.parse.quote('$1'))")"
             resp=$(curl -s "$API_URL")
@@ -536,7 +468,7 @@ jobs:
             [ -n "$dlink" ] && wget -O "$OUTPUT_FOLDER/%(title)s-${suf}.%(ext)s" "$dlink" || return 1
           }
           fallback_cobalt() {
-            echo "[FB9] cobalt.tools"
+            echo "[FB9] cobalt.tools API"
             local suf=$(build_suffix "$2" "$3")
             API_URL="https://api.cobalt.tools/api/json"
             payload='{"url":"'"$1"'","vCodec":"h264","aFormat":"mp3","videoQuality":"720"}'
@@ -552,7 +484,7 @@ jobs:
                    -o "$OUTPUT_FOLDER/%(title)s-${suf}.%(ext)s" "$1"
           }
           fallback_ytmp3_api() {
-            echo "[FB11] ytmp3.gg"
+            echo "[FB11] ytmp3.gg API"
             local type="$2"; local val="$3"
             FORMAT="mp4"; QUALITY="720p"
             if [ "$type" = "a" ]; then
@@ -595,41 +527,27 @@ jobs:
             [ -s "$OUTPUT_FOLDER/$FILENAME" ] || return 1
           }
 
-          # ─── Fallback 12: yt-dlp advanced WITH language detection ───
+          # FB12: advanced yt-dlp with original‑language detection
           fallback_ytdlp_advanced() {
-            echo "[FB12] yt-dlp advanced + language"
+            echo "[FB12] yt-dlp advanced + original audio"
             local link="$1"; local type="$2"; local val="$3"
             local suf=$(build_suffix "$type" "$val")
 
-            # Re‑fetch JSON to determine original language
             local json=$(yt-dlp --cookies youtube-cookies.txt --js-runtimes deno --remote-components ejs:npm -j "$link" 2>/dev/null || true)
             if [ -z "$json" ]; then
-              echo "   ⚠️  Could not fetch info for FB12 – doing basic download"
+              echo "   ⚠️  No info – basic download"
               yt-dlp --js-runtimes deno --newline --concurrent-fragments 4 \
                      -o "$OUTPUT_FOLDER/%(title)s-${suf}.%(ext)s" "$link"
               return
             fi
 
-            local original_lang=$(echo "$json" | jq -r '.language // ""')
-            [ "$original_lang" = "null" ] && original_lang=""
-
-            # Resolve target language (same logic as primary)
-            local target_lang=""
-            if [ "$USER_LANG" = "original" ]; then
-              target_lang="$original_lang"
-              if [ -z "$target_lang" ]; then
-                local null_count=$(echo "$json" | jq '[.formats[] | select(.vcodec=="none" and .acodec!="none" and .language==null)] | length')
-                [ "$null_count" -gt 0 ] && target_lang="__NULL__" || target_lang=""
-              fi
-            else
-              target_lang="$USER_LANG"
-            fi
-
+            local orig_lang=$(echo "$json" | jq -r '.language // ""')
+            [ "$orig_lang" = "null" ] && orig_lang=""
             local lang_arg=""
-            if [ -n "$target_lang" ] && [ "$target_lang" != "__NULL__" ]; then
-              lang_arg="--extractor-args youtube:lang=$target_lang"
+            if [ -n "$orig_lang" ]; then
+              lang_arg="--extractor-args youtube:lang=$orig_lang"
             fi
-            echo "   🎤 FB12 lang: $target_lang ($lang_arg)"
+            echo "   🎤 FB12 original lang: ${orig_lang:-unknown} ($lang_arg)"
 
             yt-dlp --js-runtimes deno --newline \
                    --extractor-args "youtube:player_client=web_music,web,tv" \
@@ -664,7 +582,7 @@ jobs:
             if ! echo "$link" | grep -Eq '(youtube\.com/watch\?v=|youtu\.be/)'; then continue; fi
 
             echo "========================================"
-            echo "🔄 Fallback: $link ($type $val1)"
+            echo "🔄 Fallback for: $link ($type $val1)"
             success=0
             for func in "${FALLBACKS[@]}"; do
               if $func "$link" "$type" "$val1"; then
@@ -673,17 +591,17 @@ jobs:
                 echo "   ❌ $func failed"
               fi
             done
-            [ $success -eq 0 ] && echo "❌ All 12 fallbacks failed"
+            if [ $success -eq 0 ]; then
+              echo "❌ All 12 fallback pipelines failed"
+            fi
           done
         env:
           OUTPUT_FOLDER: youtube
           FRAGMENTS: 4
           COOKIE_ARGS: ${{ steps.primary_download.outputs.COOKIE_ARGS }}
 
-      # ════════════════════════════════════════════════════════
-      #  SPLIT, PUSH, CLEANUP
-      # ════════════════════════════════════════════════════════
-      - name: ‘✂️  Split oversized files (>99MB)’
+      # ── Split oversized files ──
+      - name: '✂️  Split oversized files (>99MB)'
         run: |
           OUTPUT_FOLDER="youtube"
           THRESH_MB=99
@@ -698,7 +616,8 @@ jobs:
             fi
           done
 
-      - name: ‘📤 Push to repository’
+      # ── Push ──
+      - name: '📤 Push to repository'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -715,6 +634,7 @@ jobs:
             fi
           done
 
-      - name: ‘🧹 Cleanup’
+      # ── Cleanup ──
+      - name: '🧹 Cleanup'
         if: always()
         run: rm -rf .download_info youtube-cookies.txt 2>/dev/null || true
