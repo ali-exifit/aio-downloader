@@ -124,38 +124,85 @@ jobs:
           fi
           echo "=================================="
 
-      - name: Upload to direct folder
-        env:
-          BRANCH: ${{ github.ref_name }}
-        run: |
-          if [ -z "$(ls -A direct/)" ]; then
-            echo "📭 No files to upload (all downloads failed or produced no output)."
-            exit 0
-          fi
-
-          echo "📤 Uploading files to repository..."
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git config http.postBuffer 524288000
-
-          git add direct/
-          COMMIT_MSG="Add: $(ls -1 direct/ | tr '\n' ' ' | sed 's/ *$//') [skip ci]"
-          git commit -m "$COMMIT_MSG" || echo "Nothing to commit"
-
-          RETRIES=5
-          for i in $(seq 1 $RETRIES); do
-            echo "🔁 Push attempt $i of $RETRIES..."
-            git pull --rebase --autostash origin "$BRANCH"
-            if git push origin "$BRANCH"; then
-              echo "✅ Push succeeded!"
-              break
-            else
-              if [ $i -lt $RETRIES ]; then
-                echo "⏳ Push failed, retrying in 3 seconds..."
-                sleep 3
-              else
-                echo "❌ Push failed after $RETRIES attempts."
-                exit 1
+          - name: Upload to direct folder
+            env:
+              BRANCH: ${{ github.ref_name }}
+            run: |
+              # --- early exit if nothing to upload ---
+              if [ -z "$(ls -A direct/)" ]; then
+                echo "📭 No files to upload (all downloads failed or produced no output)."
+                exit 0
               fi
-            fi
-          done
+          
+              echo "📤 Relentless upload & verification for direct/ folder..."
+              git config user.name "GitHub Actions"
+              git config user.email "actions@github.com"
+              git config http.postBuffer 524288000
+          
+              # Build commit message
+              COMMIT_MSG="Add: $(ls -1 direct/ | tr '\n' ' ' | sed 's/ *$//') [skip ci]"
+          
+              MAX_ATTEMPTS=10
+              attempt=1
+          
+              while [ $attempt -le $MAX_ATTEMPTS ]; do
+                echo ""
+                echo "--- Attempt $attempt of $MAX_ATTEMPTS ---"
+          
+                git add direct/
+          
+                # Only commit if something is staged
+                if ! git diff --cached --quiet; then
+                  git commit -m "$COMMIT_MSG"
+                else
+                  echo "Nothing new to commit, will still ensure remote is in sync."
+                fi
+          
+                # --- 1. Sync with remote, always favouring our local files ---
+                echo "→ Syncing with remote (rebase -X ours)..."
+                if ! git pull --rebase -X ours origin "$BRANCH"; then
+                  echo "⚠ Rebase failed – unexpected, retrying..."
+                  sleep 3
+                  attempt=$((attempt + 1))
+                  continue
+                fi
+          
+                # --- 2. Push (fast-forward only) ---
+                echo "→ Pushing to origin/$BRANCH..."
+                if ! git push origin "$BRANCH"; then
+                  echo "⚠ Push failed – remote may have moved. Retrying in 5 seconds..."
+                  sleep 5
+                  attempt=$((attempt + 1))
+                  continue
+                fi
+          
+                echo "✅ Push accepted. Now verifying remote state..."
+          
+                # --- 3. Verification ---
+                # Fetch the latest branch to inspect the remote tree
+                git fetch origin "$BRANCH" --depth=1
+          
+                # List all files in the remote 'direct/' directory (recursively)
+                REMOTE_FILES=$(git ls-tree -r --name-only "origin/$BRANCH" -- direct/ | sort)
+          
+                # List all files that are locally present in 'direct/' (recursively)
+                LOCAL_FILES=$(find direct/ -type f | sort)
+          
+                if [ "$REMOTE_FILES" = "$LOCAL_FILES" ]; then
+                  echo "🎯 Verification successful – all files are present in the remote 'direct/' folder."
+                  exit 0
+                else
+                  echo "❌ Mismatch – remote content does not match local:"
+                  echo "  Remote files:"
+                  echo "$REMOTE_FILES" | sed 's/^/    /'
+                  echo "  Local files:"
+                  echo "$LOCAL_FILES" | sed 's/^/    /'
+                  echo "Retrying the whole process..."
+                fi
+          
+                attempt=$((attempt + 1))
+                sleep 3
+              done
+          
+              echo "💀 Failed to upload and verify after $MAX_ATTEMPTS attempts."
+              exit 1
