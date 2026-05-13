@@ -540,7 +540,7 @@ jobs:
           echo ""
           echo "Thank you for using aio-leecher! 💚"
           echo ""
-        env:
-          INSTAGRAM_COOKIES: ${{ secrets.INSTAGRAM_COOKIES }}
-          X_COOKIES: ${{ secrets.X_COOKIES }}
-          YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
+          env:
+            INSTAGRAM_COOKIES: ${{ secrets.INSTAGRAM_COOKIES }}
+            X_COOKIES: ${{ secrets.X_COOKIES }}
+            YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
