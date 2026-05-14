@@ -1,4 +1,4 @@
-name: "mhrv-vps-exit-node-actions"
+name: "python-mhrv-vps-exit-node"
 
 on:
   workflow_dispatch:
