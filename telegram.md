@@ -7,6 +7,75 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 06:36
+---
+
+## VahidOOnLine — post 240027
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240027_1778727979.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ در دیدار با رییس‌جمهوری چین گفت روابط او و شی جین‌پینگ طولانی‌ترین رابطه میان روسای جمهور دو کشور بوده است و این موضوع را «مایه افتخار» دانست. او تاکید کرد روابط دو کشور «بهتر از هر زمان دیگری خواهد شد.»
+ترامپ گفت هر زمان مشکلی پیش آمده، دو طرف مستقیما آن را حل کرده‌اند و آینده روابط واشینگتن و پکن «فوق‌العاده» خواهد بود.
+ترامپ با تمجید از شی جین‌پینگ او را «رهبر بزرگی» خواند و گفت برای چین و دستاوردهایش احترام زیادی قائل است.
+ترامپ این دیدار را «نشستی بزرگ» توصیف کرد و گفت در آمریکا همه درباره آن صحبت می‌کنند.
+
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240026
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️دونالد ترامپ، رئیس‌جمهوری آمریکا، در جریان سفر رسمی به پکن، مورد استقبال پرشور کودکان قرار گرفت.
+در مراسم رسمی که پنجشنبه ۲۵ اردیبهشت در تالار بزرگ خلق برگزار شد، کودکان با تکان دادن پرچم‌های دو کشور و اجرای برنامه‌های ویژه از رئیس‌جمهوری آمریکا استقبال کردند.
+این استقبال گرم در حالی صورت می‌گیرد که سران دو قدرت بزرگ اقتصادی جهان گفتگوهای فشرده‌ای را درباره مسائل راهبردی، از جمله امنیت آبراه‌های بین‌المللی و توازن تجاری، در دستور کار دارند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341696
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341696_1778727980.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NOW: President Trump says "it's an honor" after meeting Chinese President Xi Jinping.
+
+"It's an honor to be with you, it's an honor to be your friend, and the relationship between China and the USA is going to be better than ever before."
+</div>
+
+## IranIntlTV — post 337097
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337097_1778727981.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ در دیدار با رییس‌جمهوری چین گفت روابط او و شی جین‌پینگ طولانی‌ترین رابطه میان روسای جمهور دو کشور بوده است و این موضوع را «مایه افتخار» دانست. او تاکید کرد روابط دو کشور «بهتر از هر زمان دیگری خواهد شد.»
+ترامپ گفت هر زمان مشکلی پیش آمده، دو طرف مستقیما آن را حل کرده‌اند و آینده روابط واشینگتن و پکن «فوق‌العاده» خواهد بود.
+ترامپ با تمجید از شی جین‌پینگ او را «رهبر بزرگی» خواند و گفت برای چین و دستاوردهایش احترام زیادی قائل است.
+ترامپ این دیدار را «نشستی بزرگ» توصیف کرد و گفت در آمریکا همه درباره آن صحبت می‌کنند.
+
+https://iranintl.com/202605147699
+</div>
+
+## FarsiVOA — post 217691
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217691_1778727982.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️گزارش خبرنگار اعزامی صدای آمریکا از سفر رئیس جمهوری آمریکا به چین
+@FarsiVOA
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 06:25
 ---
 
