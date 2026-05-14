@@ -7,6 +7,104 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 12:46
+---
+
+## mwarmonitor — post 9065
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇬🇧وزیر دفاع بریتانیا ؛ حملات پهپادی شوکه‌کننده روسیه به اوکراین طی ۲۴ ساعت گذشته.
+
+🔸من دستور داده‌ام که تحویل سامانه‌های پدافند هوایی و مقابله با پهپاد از سوی بریتانیا با حداکثر سرعت ممکن تسریع شود.
+
+🔸ما در برابر تجاوز ولادیمیر پوتین در کنار اوکراین ایستاده‌ایم.
+افکار و همدردی ما با خانواده‌های اوکراینی است.
+
+@mwarmonitor
+</div>
+
+## pm_afshaa — post 90713
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴کاخ سفید : ترامپ و شی توافق کردن که تنگه هرمز باید باز بمونه
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 337135
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337135_1778750160.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دفتر نخست‌وزیری اسرائیل چهارشنبه گزارش داد بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در جریان عملیات «غرش شیران» به‌صورت محرمانه به امارات سفر کرده است. به گفته مقام‌های اسرائیلی، این سفر به گشایشی تاریخی در روابط دو طرف منجر شده است. وزارت خارجه امارات گزارش‌ها درباره این سفر را تکذیب کرده است.
+
+ارزیابی محمدجواد اکبرین، عضو تحریریه ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## IranIntlTV — post 337134
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337134_1778750162.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سازمان عملیات تجارت دریایی بریتانیا اعلام کرد یک کشتی که در ۷۰ کیلومتری شمال شرقی بندر فجیره لنگر انداخته بود، توقیف شده و اکنون به سمت آب‌های ایران در حرکت است.
+جزییات بیشتر با مرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## Hranews — post 112941
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دادستان مشهد دستور توقیف اموال یک شهروند خارج از کشور را صادر کرد
+
+
+❗️
+❗️
+❗️
+❗️
+❗️– دادستان مشهد از صدور دستور شناسایی و #توقیف_اموال یک شهروند ساکن خارج از کشور خبر داد. به گفته وی، این اقدام به‌دلیل فعالیت علیه نظام از سوی این فرد صورت گرفته است.
+
+ادامه مطلب
+↘️
+@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑
+</div>
+
+## alonews — post 119886
+
+<div align="center">
+  <a href="telegram/content/alonews_119886_1778750165.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈نحوه دست دادن رئیس جمهور چین و آمریکا مورد توجه رسانه ها قرار گرفته است
+
+
+🔴 شی جی پینگ در جای خود ثابت ایستاده تا ترامپ به سمت او بیاید
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119885
+
+<div align="center">
+  <a href="telegram/content/alonews_119885_1778750166.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈عراقچی: باید برای همگان روشن شده باشد که ایران شکست ناپذیر است / برای دفاع از آزادی و سرزمین خود آماده‌ایم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 12:36
 ---
 
