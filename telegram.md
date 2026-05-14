@@ -7,6 +7,52 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 05:44
+---
+
+## VahidOOnLine — post 240018
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240018_1778724895.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️شی جین‌پینگ، رئیس‌جمهوری چین، بامداد پنجشنبه ۲۵ اردیبهشت در مراسمی رسمی در تالار بزرگ خلق در پکن از دونالد ترامپ، رئیس‌جمهوری آمریکا، استقبال کرد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## FarsiVOA — post 217684
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️تحریم‌های مرتبط با جمهوری اسلامی علیه نهادهای چینی چه اثری دارد؟
+@FarsiVOA
+</div>
+
+## IranianMinds — post 20097
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 مارکو روبیو:
+
+واشنگتن به پکن روشن کرد که هرگونه حمایت از ایران به روابط دوجانبه آسیب می رساند
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20096
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_20096_1778724895.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 لحظه ی دیدار ترامپ و رئیس جمهور‌ چین
+
+@IranianMinds
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 05:35
 ---
 
