@@ -54,7 +54,7 @@ on:
         type: boolean
         default: false
       clean_music:
-        description: 'Clean Music folder (Spotify + SoundCloud)'
+        description: 'Clean Music folder (SoundCloud)'
         required: false
         type: boolean
         default: false
