@@ -7,6 +7,166 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 13:09
+---
+
+## VahidOOnLine — post 240077
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_240077_1778751583.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بر اساس گزارش‌های منتشرشده در شبکه‌های اجتماعی، خاطره خدادادی، دانشجوی رشته دندانپزشکی در بلاروس، پس از اظهار نظر درباره مسائل ایران در یک کانال تلگرامی، با دخالت سفارت جمهوری اسلامی بازداشت و به ۱۴ روز زندان محکوم شده است.
+به گفته نزدیکان او، قرار بود دهم اردیبهشت آزاد شود، اما همچنان در بازداشت به‌سر می‌برد و وضعیت تحصیل و اقامتش نامشخص است. همچنین گزارش شده که او در مدت بازداشت از دسترسی به وکیل و تماس با دوستانش محروم بوده است.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240076
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240076_1778751583.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ارتش اسرائیل روز پنجشنبه ۲۴ اردیبهشت اعلام کرد پس از سقوط یک پهپاد انفجاری حزب‌الله در نزدیکی مرز اسرائیل و لبنان، سه غیرنظامی اسرائیلی زخمی و به بیمارستان منتقل شدند.
+
+این خبر در حالی اعلام می‌شود که آتش‌بس میان اسرائیل و حزب‌الله که سه هفته گذشته اعلام شد، عملا اجرا نمی‌شود.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341702
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341702_1778751584.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: Brand new details released about President Trump’s bilateral meeting with Chinese President Xi.
+
+The White House says China is interested in buying more American oil while also agreeing with the U.S. that Iran can never have a nuclear weapon.
+
+Meanwhile, the Chinese government says Trump was told that Taiwan is the most important issue on the table for the communist country — and warns the future of U.S.-China ties depends on how it’s handled.
+
+When it comes to Iran, President Trump says he doesn’t need Xi’s help with ending the conflict.
+
+U.S. CEOs are also making pitches for expanded business ties during the ongoing meeting.
+@aishahhasnie with the latest.
+</div>
+
+## mamlekate — post 103525
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📝 آغاز دیدار شی و ترامپ در سایه جنگ ایران
+
+رهبران چین و آمریکا گفت‌وگوهای رسمی خود را آغاز کردند. مسائل تجاری، تنش چین و تایوان و همچنین جنگ ایران از موضوعات محوری دیدار شی و ترامپ خواهد بود. واشنگتن به نقش فعالانه‌تر پکن در حل بحران تنگه هرمز امیدوار است.
+
+شماری از شخصیت‌های تجاری برجسته آمریکا از جمله ایلان ماسک،‌ مدیرعامل شرکت تسلا، تیم کوک، مدیرعامل اپل و جنسن هوانگ، مدیر اجرایی انویدیا، دونالد ترامپ را در این سفر همراهی می‌کنند.
+
+@mamlekate
+</div>
+
+## IranIntlTV — post 337136
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337136_1778751585.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شهروندان با ارسال پیام‌های متعدد به ایران‌اینترنشنال از افزایش بیکاری، دشواری پیدا کردن شغل در شهرهای مختلف و مشکلات معیشتی ناشی از آن در ایران خبر دادند.
+@iranintltv
+</div>
+
+## ManotoTV — post 105435
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105435_1778751586.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بر اساس گزارش‌های منتشرشده در شبکه‌های اجتماعی، خاطره خدادادی، دانشجوی رشته دندانپزشکی در بلاروس، پس از اظهار نظر درباره مسائل ایران در یک کانال تلگرامی، با دخالت سفارت جمهوری اسلامی بازداشت و به ۱۴ روز زندان محکوم شده است.
+به گفته نزدیکان او، قرار بود دهم اردیبهشت آزاد شود، اما همچنان در بازداشت به‌سر می‌برد و وضعیت تحصیل و اقامتش نامشخص است. همچنین گزارش شده که او در مدت بازداشت از دسترسی به وکیل و تماس با دوستانش محروم بوده است.
+</div>
+
+## IranianMinds — post 20114
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_20114_1778751586.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 وزیر دارایی اسرائیل:
+
+فکر می‌کنم در همین دوره، عملا داریم ایده تشکیل کشور فلسطین را کاملا از بین میبریم.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20113
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_20113_1778751588.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 جان بولتون:
+
+مذاکره برای توافق هسته ‌ای با ایران، هدر دادن وقته.
+
+این ‌ها دهه ‌ها پیش تصمیم راهبردی ‌شان را برای رسیدن به سلاح هسته‌ای گرفته‌اند.
+
+در این ۴۷ سال اخیر حتی یک مدرک هم وجود نداشته که نشان بدهد از این هدف ساخت سلاح هسته ای عقب کشیده‌ اند.
+
+@IranianMinds
+</div>
+
+## manototv — post 105435
+
+<div align="center">
+  <a href="telegram/content/manototv_105435_1778751590.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بر اساس گزارش‌های منتشرشده در شبکه‌های اجتماعی، خاطره خدادادی، دانشجوی رشته دندانپزشکی در بلاروس، پس از اظهار نظر درباره مسائل ایران در یک کانال تلگرامی، با دخالت سفارت جمهوری اسلامی بازداشت و به ۱۴ روز زندان محکوم شده است.
+به گفته نزدیکان او، قرار بود دهم اردیبهشت آزاد شود، اما همچنان در بازداشت به‌سر می‌برد و وضعیت تحصیل و اقامتش نامشخص است. همچنین گزارش شده که او در مدت بازداشت از دسترسی به وکیل و تماس با دوستانش محروم بوده است.
+</div>
+
+## alonews — post 119894
+
+<div align="center">
+  <a href="telegram/content/alonews_119894_1778751590.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈بلومبرگ: ۴ روز است که از خارک بارگیری نفت نمی‌شود و اسکله‌های نفتی کاملاً خالی است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119893
+
+<div align="center">
+  <a href="telegram/content/alonews_119893_1778751590.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈آکسیوس به نقل از مقامات اسرائیلی: ما در انتظار تصمیم ترامپ برای از سرگیری جنگ، سطح هشدار را در آخر هفته به بالاترین حد خود افزایش خواهیم داد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119892
+
+<div align="center">
+  <a href="telegram/content/alonews_119892_1778751590.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈میگ -۲۹ اوکراین یه پهپاد روسی گرن -۲ رو زد و منهدم کرد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 12:55
 ---
 
