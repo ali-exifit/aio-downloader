@@ -170,9 +170,8 @@ jobs:
       - name: Create Split Zip Archive
         shell: bash
         run: |
-          TIMESTAMP=$(date +%Y%m%d-%H%M%S)
-          RANDOM_STR=$(tr -dc 'a-z0-9' </dev/urandom | head -c 6)
-          BASE_NAME="music-${TIMESTAMP}-${RANDOM_STR}"
+          RANDOM_STR=$(python3 -c "import random, string; print(''.join(random.choices(string.ascii_lowercase + string.digits, k=5)))")
+          BASE_NAME="music-${RANDOM_STR}"
           ZIP_NAME="${BASE_NAME}.zip"
 
           echo "Creating split zip: $ZIP_NAME (99 MB parts)"
