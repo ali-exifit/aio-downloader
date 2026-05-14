@@ -7,6 +7,182 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 15:25
+---
+
+## VahidOOnLine — post 240103
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240103_1778759753.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️المیرا عبدی فرزند اکبر عبدی، بازیگر نام‌آشنای سینما و تلویزیون ایران روز گفته است که پدرش از یک هفته پیش و در پی سکته قلبی در بخش مراقبت‌های ویژه بستری شده است.
+
+به گزارش عصر ایران، المیرا عبدی گفت که مشخص نیست او چه زمانی مرخص می‌شود.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341720
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+</div>
+
+## FoxNewsTwitter — post 341716
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+SEE IT: President Trump joins Chinese President Xi at a state banquet in Beijing, a formal moment centered on U.S.-China relations.
+
+The setting emphasizes ceremony and continuity between the two nations against a backdrop of ongoing global and economic uncertainty.
+</div>
+
+## FarsiVOA — post 217717
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺اسرائیل طرح مشترکی برای خلع سلاح تدریجی حزب‌الله ارائه می‌کند
+
+▪️سفیر اسرائیل در آمریکا اعلام کرد اورشلیم در دور تازه گفت‌وگوهای اسرائیل و لبنان در واشنگتن چارچوبی را برای خلع سلاح تدریجی حزب‌الله و گسترش روابط سیاسی به بیروت ارائه خواهد کرد.
+
+▪️لایتر درباره روند تدریجی پیشنهادی از سوی اسرائیل گفت: «ما به‌طور مشترک یک منطقه مشخص را تعریف خواهیم کرد و با آن‌ها برنامه‌ریزی می‌کنیم که چگونه آن منطقه پاک‌سازی شود و سپس به مرحله بعدی ادامه دهیم.»
+
+▪️سومین دور گفت‌وگوهای مستقیم نمایندگان اسرائیل و لبنان با میانجیگری آمریکا پنجشنبه ۲۴ اردیبهشت برگزار می‌‌شود.
+
+⬇️ بیشتر بخوانید:
+https://ir.voanews.com/a/8149934.html
+</div>
+
+## DW_Farsi — post 124684
+
+<div align="center">
+  <img src="telegram/content/DW_Farsi_124684_1778759754.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶 کاخ سفید: شی و ترامپ بر سر عدم دستیابی ایران به سلاح هسته‌ای توافق کردند
+
+کاخ سفید اعلام کرد که جنگ ایران و بحران تنگه هرمز در دیدار شی جین‌پینگ، رئیس جمهور چین و دونالد ترامپ، همتای آمریکایی او از جمله موضوعات مورد بحث بوده‌ است.
+
+کاخ سفید با انتشار بیانیه‌ای گفت رهبران چین و آمریکا طی گفت‌وگوهای خود که در روز پنجشنبه ۱۴ مه (۲۴ اردیبهشت) در پکن انجام گرفت در مورد عدم دستیابی جمهوری اسلامی به سلاح هسته‌ای اتفاق نظر داشته‌اند.
+
+در این بیانیه آمده است که ترامپ و شی توافق کردند که تنگه هرمز باید باز بماند تا جریان آزاد انرژی در منطقه حفظ شود و ایران اجازه مطالبه عوارض برای عبور کشتی‌ها از تنگه هرمز را ندارد.
+
+به گفته کاخ سفید، شی جین‌پینگ همچنین علاقه‌مندی خود را به خرید بیشتر نفت آمریکا برای کاهش وابستگی چین به تنگه هرمز در آینده ابراز کرده است. با این حال به گزارش خبرگزاری فرانسه در گزارش منتشر شده از سوی پکن به چنین موضوعی اشاره‌ای نشده است.
+
+پکن در حال حاضر بزرگ‌ترین خریدار و واردکننده نفت از ایران محسوب می‌شود.
+
+@dw_farsi
+</div>
+
+## Dirty_Kids — post 389435
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389435_1778759754.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دقیقا وقتی فکر می‌کنی جمهوری اسلامی تپه نریده باقی نذاشته، همون لحظه یه تپه جدید می‌سازه و میره سرش میرینه.
+فقط مونده بود برن از امارات کشتی بدزدن فرار کنن، که اونم گویا حاصل شد.
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389434
+
+<div align="center">
+  <a href="https://t.me/Dirty_Kids/389434" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✅ اپلیکیشن اندروید سایت جهانی دربی بت
+
+💰اولین سایت جهانی با امکان شارژ و برداشت ریالی(کارت به کارت)
+
+🔗 برای ورود فیلترشکن روی کشور مناسب قرار دهید مانند فنلاند و المان و....
+
+😀Telegram Channel
+👇
+https://t.me/+bcynkEgSW2dlYTc0
+</div>
+
+## Dirty_Kids — post 389433
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389433_1778759755.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+😤دنبال یه سایت شرط بندی بین المللی بودی که به ایرانیا خدمات بده؟!
+⛔
+
+
+👍دربی بت همون انتخاب  100%
+
+
+💎ویژگی های سایت جهانی Derby Bet:
+
+⬅️امکان شارژ امن با کارت بانکی
+
+⬅️واریز اول دوبل شارژ می شوید(بونوس۱۰۰٪)
+
+⬅️پر اپشن ترین سایت فعال در ایران
+
+⬅️تسویه حساب کمتر از 5 دقیقه
+
+⬅️برگشت بخشی از باخت به صورت هفتگی
+
+
+🚨کد هدیه ثبت نام:GG007
+
+
+⚠️برای دانلود اپلکیشن کلیک کنید
+👉
+
+
+🔔کانال دربی بت :
+
+🪙https://t.me/+bcynkEgSW2dlYTc0
+</div>
+
+## Dirty_Kids — post 389432
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سختی زبان چینی همینقدر بگم که اگه یکم تن صداتو بالا پایین کنی معنی کلمه از توت‌فرنگی به خوارتو گاییدم تغییر می‌کنه.
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389431
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389431_1778759756.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شراب چینی ایلان ماسکو کصخل کرده، هر کی میاد باهاش عکس بگیره شکلک در میاره 😂
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 119921
+
+<div align="center">
+  <a href="telegram/content/alonews_119921_1778759757.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزیر خزانه‌داری آمریکا: باز شدن تنگه هرمز به نفع چین خواهد بود و انتظار داریم قیمت نفت در شش ماه آینده کاهش یابد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 15:16
 ---
 
