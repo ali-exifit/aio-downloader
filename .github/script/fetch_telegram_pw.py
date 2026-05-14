@@ -13,9 +13,11 @@ Scrape public Telegram channels with Playwright.
 - Download links open in a new tab to preserve scroll position.
 - Ignores .webm videos (animations/stickers) to improve media detection.
 - Captions use inline Vazirmatn font (falls back to Tahoma if not installed).
+- Handles per‑channel failures gracefully; reports failed channels in the output.
 """
 
 import asyncio
+import datetime
 import json
 import os
 import re
@@ -66,6 +68,12 @@ HEADER_TEMPLATE = f"""\
 # ----------------------------------------------------------------------
 # Helpers
 # ----------------------------------------------------------------------
+def log(msg: str):
+    """Print a timestamped log message using Iran timezone."""
+    ts = datetime.datetime.now(IRAN_TZ).strftime("%Y-%m-%d %H:%M:%S")
+    print(f"[{ts}] {msg}")
+
+
 def get_github_base_url():
     """
     Return (repo_url, branch) for the current git repository, or (None, None).
@@ -275,18 +283,18 @@ def download_media(url, channel_name, post_id, media_type='photo', filename=None
             new_local_name = str(Path(local_name).stem) + correct_ext
             local_path = CONTENT_DIR / new_local_name
             local_name = new_local_name
-            print(f"    ℹ️ Corrected extension -> {local_name}")
+            log(f"    ℹ️ Corrected extension -> {local_name}")
 
         local_path.write_bytes(resp.content)
         return f"telegram/content/{local_name}"
 
     except Exception as e:
-        print(f"    ⚠️ Media download failed: {e}")
+        log(f"    ⚠️ Media download failed: {e}")
         return None
 
 
 def download_document(post_url, channel_name, post_id):
-    print(f"    📄 Fetching document page: {post_url}")
+    log(f"    📄 Fetching document page: {post_url}")
     try:
         resp = requests.get(post_url, headers=HEADERS, timeout=30)
         resp.raise_for_status()
@@ -297,7 +305,7 @@ def download_document(post_url, channel_name, post_id):
             html
         )
         if not match:
-            print("    ⚠️ No document download link found on the post page.")
+            log("    ⚠️ No document download link found on the post page.")
             return None
         doc_url = match.group(1)
         if doc_url.startswith("/"):
@@ -320,12 +328,12 @@ def download_document(post_url, channel_name, post_id):
             ext = ".dat"
             filename = f"{channel_name}_{post_id}_{int(time.time())}{ext}"
 
-        print(f"    ⬇️ Downloading document: {doc_url} -> {filename}")
+        log(f"    ⬇️ Downloading document: {doc_url} -> {filename}")
         return download_media(doc_url, channel_name, post_id,
                               media_type='document', filename=filename)
 
     except Exception as e:
-        print(f"    ⚠️ Document download failed: {e}")
+        log(f"    ⚠️ Document download failed: {e}")
         return None
 
 
@@ -384,7 +392,7 @@ def shift_archives_for_new_page1(message_block_new_page1: str,
                          base_url=archive_base)
         file_path.write_text(page, encoding="utf-8")
 
-    print(f"✅ Archives shifted: new archive_1 created, total pages = {total_archives}")
+    log(f"✅ Archives shifted: new archive_1 created, total pages = {total_archives}")
 
 
 def split_main_page(new_entries_block: str, old_messages_block: str,
@@ -404,9 +412,9 @@ def split_main_page(new_entries_block: str, old_messages_block: str,
                               prev_rel=prev_rel_main,
                               base_url=main_base)
         OUTPUT_FILE.write_text(main_page, encoding="utf-8")
-        print("✅ Main page updated, old content moved to archive_1.md")
+        log("✅ Main page updated, old content moved to archive_1.md")
     else:
-        print("⚠️ New entries alone exceed 950KB – splitting inside new entries.")
+        log("⚠️ New entries alone exceed 950KB – splitting inside new entries.")
         half = len(new_entries_block) // 2
         head_block = new_entries_block[:half]
         tail_block = new_entries_block[half:]
@@ -414,7 +422,7 @@ def split_main_page(new_entries_block: str, old_messages_block: str,
         main_page = wrap_page(head_block, next_rel=None,
                               prev_rel="telegram/content/archive_1.md")
         OUTPUT_FILE.write_text(main_page, encoding="utf-8")
-        print("⚠️ Some new messages may be lost due to size limit.")
+        log("⚠️ Some new messages may be lost due to size limit.")
 
 
 # ----------------------------------------------------------------------
@@ -422,13 +430,13 @@ def split_main_page(new_entries_block: str, old_messages_block: str,
 # ----------------------------------------------------------------------
 async def scrape_channel_all(page, channel_name, last_id, max_scrolls):
     url = f"https://t.me/s/{channel_name}"
-    print(f"  🌐 Loading {url} ...")
-    await page.goto(url, wait_until="networkidle", timeout=30000)
+    log(f"  🌐 Loading {url} ...")
+    await page.goto(url, wait_until="networkidle", timeout=60000)
 
     try:
         await page.wait_for_selector("[data-post]", timeout=15000)
     except:
-        print("    ❌ No messages found on initial page.")
+        log("    ❌ No messages found on initial page.")
         return []
 
     all_messages = []
@@ -528,16 +536,16 @@ async def scrape_channel_all(page, channel_name, last_id, max_scrolls):
                 all_messages.append(m)
                 new_added += 1
 
-        print(f"    Scroll {scroll_count}: total unique={len(all_messages)}, new this scroll={new_added}")
+        log(f"    Scroll {scroll_count}: total unique={len(all_messages)}, new this scroll={new_added}")
 
         if all_messages:
             oldest_id = min(msg["id"] for msg in all_messages)
             if oldest_id <= last_id:
-                print(f"    Reached last_id ({last_id}) – stopping scroll.")
+                log(f"    Reached last_id ({last_id}) – stopping scroll.")
                 break
 
         if new_added == 0:
-            print("    No new messages added – end of history.")
+            log("    No new messages added – end of history.")
             break
 
         await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
@@ -549,7 +557,7 @@ async def scrape_channel_all(page, channel_name, last_id, max_scrolls):
                 timeout=5000
             )
         except:
-            print("    No further messages loaded after scroll.")
+            log("    No further messages loaded after scroll.")
             break
 
     filtered = [m for m in all_messages if m["id"] > last_id]
@@ -570,20 +578,28 @@ async def main():
         page = await browser.new_page()
 
         all_messages = []
+        failed_channels = []          # NEW – collect names of channels that failed
+
         for ch_name in channels:
             clean_name = ch_name.lstrip("@")
             last_id = state.get(ch_name, 0)
 
-            msgs = await scrape_channel_all(page, clean_name, last_id, max_scrolls=scroll_limit)
+            try:
+                msgs = await scrape_channel_all(page, clean_name, last_id, max_scrolls=scroll_limit)
+            except Exception as e:
+                log(f"❌ FAILED to scrape {ch_name}: {e}")
+                failed_channels.append(ch_name)
+                continue
+
             if not msgs:
-                print(f"  ℹ️ No new messages for {ch_name}")
+                log(f"  ℹ️ No new messages for {ch_name}")
                 continue
 
             for m in msgs:
                 m["_channel"] = clean_name
 
             all_messages.extend(msgs)
-            print(f"  ✅ {ch_name}: fetched {len(msgs)} new messages (after filter)")
+            log(f"  ✅ {ch_name}: fetched {len(msgs)} new messages (after filter)")
 
         await browser.close()
 
@@ -651,6 +667,18 @@ async def main():
         caption_style = "dir='rtl' style='font-family: \"Vazirmatn\", Tahoma, sans-serif;'"
         new_entries_block += f'<div {caption_style}>\nهیچ پیام جدیدی در این بروزرسانی ارسال نشد.\n</div>\n\n'
 
+    # ---- Append failed channels notice (NEW) ----
+    if failed_channels:
+        fail_list = "\n".join(f"* {ch}" for ch in failed_channels)
+        fail_note = (
+            "\n---\n"
+            "### ⚠️ کانال‌های با خطا در این بروزرسانی\n\n"
+            f"{fail_list}\n\n"
+            "دلایل احتمالی: مسدود بودن کانال، حذف کانال، یا خطای شبکه.\n"
+            "---\n\n"
+        )
+        new_entries_block += fail_note
+
     # ---- Load and deduplicate existing messages ----
     old_messages_block = ""
     if OUTPUT_FILE.exists():
@@ -693,12 +721,12 @@ async def main():
                                   prev_rel=None,
                                   base_url=main_base)
             OUTPUT_FILE.write_text(main_page, encoding="utf-8")
-            print("✅ Main page updated (no split needed).")
+            log("✅ Main page updated (no split needed).")
     else:
         if not OUTPUT_FILE.exists():
             OUTPUT_FILE.write_text(wrap_page("", None, None,
                                              base_url=f"{repo_url}/blob/{branch}/" if repo_url and branch else None))
-            print("ℹ️ No messages yet, empty page created.")
+            log("ℹ️ No messages yet, empty page created.")
 
     # ---- Update state ----
     for ch_name in channels:
@@ -709,7 +737,7 @@ async def main():
             state[ch_name] = max(state.get(ch_name, 0), max_id)
 
     save_state(state)
-    print("✅ State saved.")
+    log("✅ State saved.")
 
 
 if __name__ == "__main__":
