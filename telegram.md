@@ -7,6 +7,155 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 06:05
+---
+
+## VahidOOnLine — post 240022
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240022_1778726146.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مارکو روبیو، وزیر خارجه آمریکا، به فاکس‌نیوز گفت تهدید جمهوری اسلامی قابل مصالحه نیست، زیرا حکومت روحانیون در پی دستیابی به سلاح هسته‌ای است. روبیو تاکید کرد جهان به رهبری ترامپ اجازه نخواهد داد جمهوری اسلامی به چنین سلاحی دست پیدا کند.
+او افزود تهران قصد داشت با انباشت گسترده پهپاد و موشک، نوعی «مصونیت» برای خود ایجاد کند تا هیچ کشوری نتواند به آن حمله کند و سپس به سمت ساخت سلاح هسته‌ای حرکت کند.
+روبیو تاکید کرد رئیس‌جمهور ترامپ اجازه نخواهد داد چنین سناریویی محقق شود.
+
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240021
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ، رئیس‌جمهوری آمریکا، پنجشنبه ۲۵ اردیبهشت در تالار بزرگ خلق در پکن، در مراسمی رسمی مورد استقبال شی جین‌پینگ، رئیس‌جمهوری چین، قرار گرفت.
+رسانه‌های دولتی چین اعلام کردند دیدار رهبران دو کشور در پکن آغاز شده است. انتظار می‌رود دو طرف درباره روابط دوجانبه، تحولات خاورمیانه، جنگ و مسائل اقتصادی گفتگو کنند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341694
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341694_1778726147.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NOW: President Trump watches a ceremony with Chinese President Xi Jinping after arriving at the Great Hall of People in Beijing.
+</div>
+
+## FoxNewsTwitter — post 341693
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341693_1778726150.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: President Trump receives a warm welcome at the Great Hall of People in Beijing for his meeting with President Xi Jinping.
+</div>
+
+## FoxNewsTwitter — post 341692
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341692_1778726154.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: Chinese President Xi Jinping shakes hands with Secretary Rubio, Secretary Bessent and more in China as he walks with President Trump.
+</div>
+
+## IranIntlTV — post 337095
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337095_1778726157.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مارکو روبیو، وزیر خارجه آمریکا، به فاکس‌نیوز گفت تهدید جمهوری اسلامی قابل مصالحه نیست، زیرا حکومت روحانیون در پی دستیابی به سلاح هسته‌ای است. روبیو تاکید کرد جهان به رهبری ترامپ اجازه نخواهد داد جمهوری اسلامی به چنین سلاحی دست پیدا کند.
+او افزود تهران قصد داشت با انباشت گسترده پهپاد و موشک، نوعی «مصونیت» برای خود ایجاد کند تا هیچ کشوری نتواند به آن حمله کند و سپس به سمت ساخت سلاح هسته‌ای حرکت کند.
+روبیو تاکید کرد رئیس‌جمهور ترامپ اجازه نخواهد داد چنین سناریویی محقق شود.
+
+https://iranintl.com/202605146709
+</div>
+
+## FarsiVOA — post 217687
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217687_1778726158.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️ادامه خاموشی اینترنت و اعدام‌ها درایران؛ واکنش کاربران
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217686
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️مراسم استقبال رسمی از دونالد ترامپ رئیس جمهوری آمریکا، در چین
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 14086
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_14086_1778726160.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+صبحتون بخیر ☕️
+
+📝 Nick
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## BBCPersian — post 280988
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💢ترامپ در پکن به دنبال چه اهدافی است؟
+🖌سورانجانا تیواری - بی‌بی‌سی آسیا - گزارشگر اقتصادی
+
+در صدر دستور کار چين، آتش‌بس تجاری ميان دو کشور قرار خواهد داشت؛ توافقی که اکتبر گذشته حاصل شد. اين توافق از تشديد بيشتر تعرفه‌ها ميان دو طرف جلوگيری کرد، اما قرار است در ماه نوامبر منقضی شود.
+
+همچنين انتظار می‌رود پکن افزايش خريد کالاهای آمريکايی را مطرح کند؛ موضوعی که برخی تحليلگران آن را «پنج ب» نامیده‌اند: هواپيماهای بوئينگ، گوشت گاو، دانه‌های سويا، و همچنين پيشنهاد تشکيل شورای تجارت و شورای سرمايه‌گذاری برای افزايش مبادلات آينده.
+
+در مقابل، پکن مذاکرات را حول «سه ت» تنظيم کرده است: تعرفه‌ها، فناوری و تايوان؛ منطقه‌ای که چين همچنان آن را بخشی از قلمرو خود می‌داند.
+
+فناوری و زنجيره‌های تامين همچنان يکی از اصلی‌ترين نقاط اختلاف باقی مانده‌اند. چين خواهان کاهش محدوديت‌های امريکا بر تراشه‌های پيشرفته و تجهيزات ساخت تراشه است، در حالی که واشنگتن به دنبال جريان باثبات مواد معدنی کمياب مورد نياز صنايع خودرو و هوافضا است.
+
+دونالد ترامپ در اين مذاکرات همراه با رهبران تجاری از جمله ايلان ماسک (تسلا)* تيم کوک (اپل) و کلی اورتبرگ (بوئینگ) حضور خواهد داشت؛ موضوعی که نشان می‌دهد زنجيره‌های تامين شرکت‌ها تا چه اندازه به روابط دو کشور وابسته‌اند.
+
+انتظار می‌رود مذاکرات همچنين جنگ ايران و امنيت دريايی، از جمله تنگه هرمز - مسيری حياتی برای انتقال نفت و گاز طبيعی مايع به آسيا - را دربر بگيرد.
+
+حتی تغييرات جزئی در لحن يا واژگان به‌کاررفته در اين گفت‌وگوها می‌تواند پيامدهای گسترده‌ای برای بازارها و امنيت منطقه‌ای داشته باشد.
+https://bbc.in/4dipXFK
+@BBCPersian
+</div>
+
+## BBCPersian — post 280978
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🖋دانیل رازنی
+
+چند لحظه پس از آن ‌که اتریش در ماه مه گذشته از اسرائیل پیشی گرفت و برنده مسابقه آواز یوروویژن شد و در نتیجه حق میزبانی مسابقه امسال را به دست آورد، بینندگان بریتانیایی شنیدند که گراهام نورتون، گزارشگر برنامه، گفت برگزارکنندگان «احتمالا بزرگ‌ترین نفس راحت عمرشان را کشیده‌اند که مجبور نیستند سال آینده با فینالی در تل‌آویو روبه‌رو شوند».
+
+پیش از برگزاری مسابقه، اعتراض‌های ضداسرائیلی شدت گرفته بود. در تجمعی با حضور چند صد نفر در شهر بازل سوئیس، جایی که فینال سال گذشته برگزار شد، معترضان پرچم فلسطین در دست داشتند و بدن خود را با خون مصنوعی پوشانده بودند تا نمادی از کشتارها در غزه باشد.
+
+در جریان فینال، اجرای یووال رافائل خواننده اسرائیلی نیز با اعتراض همراه شد و دو نفر تلاش کردند وارد صحنه شوند. این معترضان به سوی اجراکنندگان رنگ پرتاب کردند که به یکی از اعضای گروه اجرایی یوروویژن برخورد کرد.
+ادامه مطلب⬇️
+
+📸GettyImages/ Reuters/ Anadolu via Getty Images/ WireImage/ AFP via Getty Images/ Gamma-Rapho via Getty Images
+https://bbc.in/4npdrZz
+@BBCPersian
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 05:55
 ---
 
