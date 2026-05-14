@@ -8,6 +8,10 @@ on:
           Enter one or more Direct Download URLs.
           Separate by commas, spaces, or newlines.
         required: true
+      bundle_all:
+        description: 'Bundle all downloaded files into a single split ZIP archive'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -44,9 +48,21 @@ jobs:
           NUM=$(wc -l < urls.txt)
           echo "NUM_URLS=$NUM" >> $GITHUB_OUTPUT
 
-      - name: Download and zip each file
+      - name: Download and process files
         run: |
+          BUNDLE_ALL="${{ github.event.inputs.bundle_all }}"
+
           mkdir -p direct
+          # File for recording failed URLs
+          FAILED_FILE="failed_urls.txt"
+          > "$FAILED_FILE"   # create/truncate
+
+          # If bundling, prepare a shared folder
+          if [ "$BUNDLE_ALL" = "true" ]; then
+            BUNDLE_DIR="bundle_contents"
+            mkdir -p "$BUNDLE_DIR"
+          fi
+
           index=0
           while IFS= read -r url; do
             index=$((index + 1))
@@ -56,36 +72,78 @@ jobs:
             # Download into a unique temporary folder for this URL
             DL_DIR="dl_$index"
             mkdir -p "$DL_DIR"
-            aria2c -x 16 -s 16 -d "$DL_DIR" --console-log-level=warn --summary-interval=10 "$url"
+            aria2c -x 16 -s 16 -d "$DL_DIR" --console-log-level=warn --summary-interval=10 "$url" || true
 
-            # Get the downloaded filename (there will be exactly one file)
-            DL_FILE=$(ls -1 "$DL_DIR" | head -n1)
+            # Get the downloaded filename (there should be exactly one file)
+            DL_FILE=$(ls -1 "$DL_DIR" 2>/dev/null | head -n1)
             if [ -z "$DL_FILE" ]; then
               echo "Download failed or no file found for $url"
+              echo "$url" >> "$FAILED_FILE"
               rm -rf "$DL_DIR"
               continue
             fi
             echo "Downloaded: $DL_FILE"
 
-            # Generate a random 5-letter string (lowercase a-z)
-            RAND5=$(tr -dc 'a-z' </dev/urandom | head -c5)
+            if [ "$BUNDLE_ALL" = "true" ]; then
+              # Bundle mode: copy file to shared bundle folder, renaming on collision
+              TARGET="$BUNDLE_DIR/$DL_FILE"
+              if [ -e "$TARGET" ]; then
+                # Rename to avoid overwriting: add a counter
+                base="${DL_FILE%.*}"
+                ext="${DL_FILE##*.}"
+                if [ "$base" = "$ext" ]; then
+                  # No extension
+                  base="$DL_FILE"
+                  ext=""
+                else
+                  ext=".$ext"
+                fi
+                counter=1
+                while [ -e "$BUNDLE_DIR/${base}_${counter}${ext}" ]; do
+                  counter=$((counter + 1))
+                done
+                TARGET="$BUNDLE_DIR/${base}_${counter}${ext}"
+              fi
+              cp "$DL_DIR/$DL_FILE" "$TARGET"
+              echo "Added to bundle: $TARGET"
+            else
+              # Individual zip mode: create a split zip for this file
+              RAND5=$(tr -dc 'a-z' </dev/urandom | head -c5)
+              ZIP_BASE="${DL_FILE}_${RAND5}"
+              ZIP_NAME="${ZIP_BASE}.zip"
+              echo "ZIP output: $ZIP_NAME"
 
-            # Append the random string before the final .zip extension
-            ZIP_BASE="${DL_FILE}_${RAND5}"
-            ZIP_NAME="${ZIP_BASE}.zip"
-            echo "ZIP output: $ZIP_NAME"
+              TMPZIP="tmpzip_$index"
+              mkdir -p "$TMPZIP"
+              cp "$DL_DIR/$DL_FILE" "$TMPZIP/"
+              (cd "$TMPZIP" && zip -s 99m "../direct/${ZIP_NAME}" "$DL_FILE")
+              rm -rf "$TMPZIP"
+            fi
 
-            # Create temporary folder to hold only this file
-            TMPZIP="tmpzip_$index"
-            mkdir -p "$TMPZIP"
-            cp "$DL_DIR/$DL_FILE" "$TMPZIP/"
-
-            # Create split zip with the file at the archive root
-            (cd "$TMPZIP" && zip -s 99m "../direct/${ZIP_NAME}" "$DL_FILE")
-
-            # Cleanup
-            rm -rf "$DL_DIR" "$TMPZIP"
+            # Clean up download temporary directory
+            rm -rf "$DL_DIR"
           done < urls.txt
+
+          # After processing all URLs, handle failures
+          if [ -s "$FAILED_FILE" ]; then
+            RAND_FAIL=$(tr -dc 'a-z' </dev/urandom | head -c5)
+            FAIL_NAME="links-failed-${RAND_FAIL}.txt"
+            mv "$FAILED_FILE" "direct/$FAIL_NAME"
+            echo "Created failure report: direct/$FAIL_NAME"
+          else
+            rm -f "$FAILED_FILE"
+          fi
+
+          # If bundling and there are files, create the master split zip
+          if [ "$BUNDLE_ALL" = "true" ] && [ -n "$(ls -A "$BUNDLE_DIR" 2>/dev/null)" ]; then
+            RAND_BUNDLE=$(tr -dc 'a-z' </dev/urandom | head -c5)
+            BUNDLE_ZIP="bundle_${RAND_BUNDLE}.zip"
+            echo "Creating bundle: $BUNDLE_ZIP"
+            (cd "$BUNDLE_DIR" && zip -s 99m "../direct/${BUNDLE_ZIP}" *)
+            rm -rf "$BUNDLE_DIR"
+          else
+            rm -rf "$BUNDLE_DIR"
+          fi
 
       - name: Upload to direct folder
         env:
