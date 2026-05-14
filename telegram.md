@@ -7,6 +7,25 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 05:05
+---
+
+## FoxNewsTwitter — post 341686
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341686_1778722506.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+.@seanhannity: "What is your read on President Xi?"
+
+SECRETARY RUBIO: "China has a plan...they believe they will be the world's most powerful country."
+
+"We're not trying to constrain China, but their rise cannot come at our expense."
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 04:58
 ---
 
