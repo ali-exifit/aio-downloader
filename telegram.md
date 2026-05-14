@@ -7,6 +7,136 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 15:46
+---
+
+## pm_afshaa — post 90738
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90738_1778760973.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴وزیر خزانه‌داری آمریکا: باز شدن تنگه هرمز به نفع چین خواهد بود و انتظار داریم قیمت نفت در شش ماه آینده کاهش یابد
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90737
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90737_1778760974.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایلان ماسک هم خوب مست کرده
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## Shin_Persian — post 5998
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Samim ✓ @PawnToPromotion Thu, 14 May 2026 10:14:23 UTC آپدیت «خیلی مهم» برای کلاینت شیر و خورشید 2026.05.14: تنظیمات بیشتر برای CDN Domain Fronting: توجه کنید سایفون خودش دامین فرانتینگ انجام میده! ولی اون روش MitM که @patterniha پیدا کرد تنظیمات و جزییات…
+</div>
+
+## Shin_Persian — post 5997
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Samim ✓ @PawnToPromotion
+Thu, 14 May 2026 10:14:23 UTC
+
+آپدیت «خیلی مهم» برای کلاینت شیر و خورشید 2026.05.14:
+
+تنظیمات بیشتر برای CDN Domain Fronting: توجه کنید سایفون خودش دامین فرانتینگ انجام میده! ولی اون روش MitM که @patterniha پیدا کرد تنظیمات و جزییات دامین فرانتینگ متفاوتی داره. در این آپدیت٬ کلاینت شیر و خورشید کاری مشابه به چیزی که @patterniha ها معرفی کرد انجام میده با این تفاوت که این روش در هسته شیر و خورشید اضافه شده پس دیگه نیازی به xray و cert وکارای دیگه نیست.
+
+۱. آپدیت رو نصب کنید
+۲. پروتکل را روی یکی از حالت های Auto یا Direct یا CDN Fronting تنظیم کنید
+۳. کلاینت شیر و خورشید باید الان خودش به تنهایی وصل بشه براتون!
+
+قابلیت تنظیمات بیشتر برای SNI و IP هم وجود داره که فعلا بهش نیازی نیست و میتونید خالی بگذارید باشه. ولی برای آینده شاید به کار بیاد.
+
+میتونید از اینجا دانلود و نصب کنید و ممنون میشم اگه repost کنید که تعداد بیشتری ببینند:
+
+https://github.com/shirokhorshid/shirokhorshid-android/releases/tag/v2026.05.14-8a28d0c
+
+در تلگرام هم آپلود کردم اگر براتون راحت تر هست میتونید از اونجا آپدیت رو بگیرید:
+
+https://t.me/+aF04HaDSxVI4ZGEx
+
+English
+
+"Very Important" update for the Lion and Sun client 2026.05.14:
+
+More settings for CDN Domain Fronting: Note that Psiphon performs its own domain fronting! However, the MitM (Man-in-the-Middle) method discovered by @patterniha involves different domain fronting settings and details. In this update, the Lion and Sun client performs an action similar to what @patterniha introduced, with the difference that this method has been integrated into the Lion and Sun core, so there is no longer a need for Xray, certificates, or other manual tasks.
+
+1. Install the update.
+2. Set the protocol to one of the following modes: Auto, Direct, or CDN Fronting.
+3. The Lion and Sun client should now connect for you on its own!
+
+There are also additional configuration options for SNI (Server Name Indication) and IP, which are not currently needed and can be left blank. However, they may be useful in the future.
+
+You can download and install it from here, and I would appreciate it if you reposted so more people can see it:
+
+https://github.com/shirokhorshid/shirokhorshid-android/releases/tag/v2026.05.14-8a28d0c
+
+I have also uploaded it to Telegram; if it is easier for you, you can get the update from there:
+
+https://t.me/+aF04HaDSxVI4ZGEx
+
+𝕏 · @shin_persian
+</div>
+
+## DW_Farsi — post 124686
+
+<div align="center">
+  <img src="telegram/content/DW_Farsi_124686_1778760975.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶 "تصرف" یک کشتی در نزدیکی سواحل فجیره امارات
+
+مرکز عملیات تجارت دریایی بریتانیا روز پنجشنبه ۱۴ مه (۲۴ اردیبهشت) از وقوع حادثه‌ای در فاصله ۳۹ مایل دریایی شمال شرقی بندر فجیره در شرق امارات متحده عربی خبر داده است.
+
+طبق این گزارش یک کشتی که لنگر انداخته بود، توسط افرادی ناشناس مورد حمله قرار گرفت و اکنون به سمت آب‌های سرزمینی ایران در حرکت است. تا کنون جزییات بیشتری در مورد این حادثه منتشر نشده است.
+
+این رویداد همزمان با سفر دونالد ترامپ، رئیس جمهور آمریکا به پکن و دیدار او با شی جین‌پینگ، همتای چینی او اتفاق افتاده است. کاخ سفید اعلام کرده است که رهبران چین و آمریکا در ملاقات خود اتفاق نظر داشتند که تنگه هرمز باید باز بماند تا جریان آزاد انرژی در منطقه حفظ شود و ایران اجازه مطالبه عوارض برای عبور کشتی‌ها از این آبراه حیاتی را ندارد.
+
+@dw_farsi
+</div>
+
+## Persian_Trend_Official — post 14120
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴مارکو روبیو:
+
+💢طرف چینی گفت که آنها موافق نظامی کردن تنگه هرمز یا سیستم عوارضی نیستند و این موضع ما است.
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## alonews — post 119923
+
+<div align="center">
+  <a href="telegram/content/alonews_119923_1778760976.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ توی چین یه جوری رفتار میکنه انگار اون میزبانه و رئیس جمهور چین اومده آمریکا.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 15:36
 ---
 
