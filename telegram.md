@@ -7,6 +7,221 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 15:06
+---
+
+## VahidOOnLine — post 240099
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240099_1778758569.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حسینعلی حاجی‌دلیگانی، عضو هیات رییسه مجلس، گفت که ادامه مذاکره با آمریکا اشتباه است و افزود واشینگتن برای آتش‌بس اصرار داشته و به دنبال خرید زمان با اهداف داخلی و انتخاباتی بوده است.
+
+حاجی‌دلیگانی افزود: «خطوط فیبر نوری عبوری از بستر تنگه هرمز نیز باید شامل عوارض سالانه باشند.»
+
+او گفت: «کل تنگه هرمز در حوزه سرزمینی ایران قرار می‌گیرد و مدیریت آن باید در اختیار جمهوری اسلامی باشد.»
+iranintl
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 9074
+
+<div align="center">
+  <a href="telegram/content/mwarmonitor_9074_1778758569.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## mwarmonitor — post 9073
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇺🇸وزیر خزانه‌داری ایالات متحده، بَسِنت، درباره ایران گفت:
+«ما معتقدیم به نقطه‌ای رسیده‌ایم که ایران نه به سربازانش حقوق می‌دهد و نه ذخایر تسلیحاتی خود را از خارج تأمین و تجدید می‌کند.»
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 9072
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_9072_1778758571.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸عالم مبارز بحرینی: آل خلیفه اگر از خصومت با ملت بحرین دست برندارند، ساقط خواهند شد
+
+🔹«عبدالله الدقاق» به‌دنبال تشدید سرکوبگری رژیم آل‌خلیفه در قالب شکنجه، پیگرد و سلب تابعیت شهروندان بحرینی به ویژه علما و مداحان، یک نشست مطبوعاتی برگزار کرد.
+
+📝در این قاب، با موجودی روبه‌رو هستیم که با وقاحت تمام، ژستِ حق‌به‌جانب گرفته و برای دیگران حکم سقوط صادر می‌کند. این انتر که به اسم «عالم مبارز» معرفی شده، در واقع یک گوریلِ قلمروطلب است که بوی گندِ تفکراتش حتی از پشت عکس هم به مشام می‌رسد؛ موجودی که دقیقاً مثل اجداد وحشی‌اش در ۱۴۰۰ سال پیش، تنها هنرش تبدیل «علم» به ابزاری برای کشت و کشتار و سلاخیِ منتقدان است. این آخوند صادراتی، در حالی که خودش تجسمِ شکنجه و سلب آزادی است، با وقاحتی بی‌مرز از «حقوق بشر» دم می‌زند تا روی ماهیت کثیف و فرقه‌ای خود سرپوش بگذارد . فاجعه اینجاست که این جانور، هر نکبت و فلاکتی را به پروژه‌های خارجی ربط می‌دهد، در حالی که خودش و آن عمامه‌ی ننگینش، بزرگ‌ترین ویروس برای موجودیت و امنیت بشریت هستند.
+
+@mwarmonitor
+</div>
+
+## farsi_fox_news — post 89316
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+صداوسیما به‌نقل از نیروی دریایی سپاه:
+
+از شب گذشته تاکنون ۳۰ فروند کشتی از تنگۀ هرمز با مجوز ایران عبور کرده‌اند. به نظر می رسد عمده این کشتی مربوط به چین بوده‌اند
+
+🌐 @farsi_fox_news
+</div>
+
+## farsi_fox_news — post 89315
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ادعای الجزیره:
+
+🔻چین با آمریکا در مورد ایران انعطاف دارد، اما در مورد تایوان نه
+
+مسئولان چینی پیام واضحی به ایالات متحده ارسال کرده‌اند: چین در بسیاری از مسائل مانند ایران، تجارت و فناوری آماده انعطاف و پذیرش اختلاف نظر است، اما در یک موضوع حساس، انعطاف‌پذیر نیست و آن تایوان است.
+
+🌐 @farsi_fox_news
+</div>
+
+## IranIntlTV — post 337159
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337159_1778758572.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سرخط خبرهای پنجشنبه ۲۴ اردیبهشت
+@iranintltv
+</div>
+
+## IranIntlTV — post 337158
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337158_1778758573.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایران‌اینترنشنال از همه افرادی که درباره وقایع بیمارستان الغدیر تهران در ۱۸ و ۱۹ دی‌ماه شواهد، اسناد یا اطلاعاتی دارند خواسته است از طریق بات اینتل‌مدیا، اطلاعات خود را ارسال کنند.
+
+جزییات بیشتر در گفت‌وگو با فرنوش فرجی، عضو تحریریه ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## IranIntlTV — post 337157
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337157_1778758575.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فیلم «داستان‌های موازی» ساخته اصغر فرهادی، به‌طور رسمی در بخش مسابقه اصلی جشنواره کن به نمایش درمی‌آید. سینمای مستقل، مهاجرت، تبعید و حضور فیلمسازان ایرانی در بخش‌های مختلف، از محورهای مورد توجه جشنواره امسال است.
+لی‌لی نیکفر، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد
+@iranintltv
+</div>
+
+## IranIntlTV — post 337156
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337156_1778758577.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حسینعلی حاجی‌دلیگانی، عضو هیات رییسه مجلس، گفت که ادامه مذاکره با آمریکا اشتباه است و افزود واشینگتن برای آتش‌بس اصرار داشته و به دنبال خرید زمان با اهداف داخلی و انتخاباتی بوده است.
+
+حاجی‌دلیگانی افزود: «خطوط فیبر نوری عبوری از بستر تنگه هرمز نیز باید شامل عوارض سالانه باشند.»
+
+او گفت: «کل تنگه هرمز در حوزه سرزمینی ایران قرار می‌گیرد و مدیریت آن باید در اختیار جمهوری اسلامی باشد.»
+iranintl.com/202605145331
+</div>
+
+## Shin_Persian — post 5996
+
+<div align="center">
+  <img src="telegram/content/Shin_Persian_5996_1778758577.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+UKMTO Operations Centre @UK_MTO
+Thu, 14 May 2026 07:00:22 UTC
+
+UKMTO WARNING 057-26
+
+Click here to view the full warning⤵️
+http://www.ukmto.org/-/media/ukmto/products/20260514-ukmto_057_26_warning_suspicious-activity.pdf?rev=67da24ed8b4f43389506d6abbb5fb841
+
+#MaritimeSecurity #MarSec
+
+فارسی
+
+هشدار UKMTO 057-26
+
+برای مشاهده متن کامل هشدار اینجا کلیک کنید⤵️
+http://www.ukmto.org/-/media/ukmto/products/20260514-ukmto_057_26_warning_suspicious-activity.pdf?rev=67da24ed8b4f43389506d6abbb5fb841
+
+#MaritimeSecurity #MarSec_
+
+𝕏 · @shin_persian
+</div>
+
+## FarsiVOA — post 217715
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شی جین‌پینگ، رئیس جمهوری چین، روز پنج‌شنبه طی سخنانی که در مهمانی شام رسمی که به افتخار پرزیدنت ترامپ در پکن برگزار شد، این دیدار را «تاریخی» دانست و به روابط تاریخی دو کشور اشاره کرد.
+</div>
+
+## FarsiVOA — post 217714
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺۱۸۰۰ ساعت خاموشی اینترنت؛ ایران زیر سایه اینترنت طبقاتی
+
+▪️قطع گسترده اینترنت در ایران وارد روز هفتاد و ششم شده و شهروندان همچنان با محدودیت شدید ارتباطی روبه‌رو هستند؛ وضعیتی که پیامدهای اجتماعی و اقتصادی آن رو به افزایش است.
+
+▪️نت‌بلاکس در گزارش روز پنجشنبه اعلام کرد شهروندان ایرانی بیش از هزار و ۸۰۰ ساعت است که با محدودیت شدید یا قطع کامل دسترسی به اینترنت مواجه‌اند.
+
+▪️مقام‌های دولتی جمهوری اسلامی از یک طرف بر استفاده مردم از اینترنت تأکید می‌کنند، اما از دیگر سو، بیش از ۷۵ روز است که شهروندان ایرانی را در حصر دیجیتال قرار داده‌اند. وضعیتی که هیچ چشم‌اندازی برای برون‌رفت از آن نیست.
+
+⬇️ بیشتر بخوانید:
+https://ir.voanews.com/a/8149927.html
+</div>
+
+## Hranews — post 112943
+
+<div align="center">
+  <img src="telegram/content/Hranews_112943_1778758578.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فاطمه وحدت، نایب‌رئیس اتحادیه زنان کارگر سراسر کشور، با اشاره به تشدید فشارهای اقتصادی بر اقشار آسیب‌پذیر گفت نشانه‌های گسترش #فقر در جامعه کاملاً مشهود است و در برخی مناطق، مردم حتی برای خرید #نان با مشکل مواجه‌اند. او تأکید کرد این نشانه‌ها در ظاهر کوچک به نظر می‌رسند، اما در صورت بی‌توجهی می‌توانند به بحران‌های جدی اجتماعی تبدیل شوند.
+
+وحدت در ادامه با بیان اینکه زنان کارگر به‌ویژه سرپرستان خانوار در شرایط بحرانی بیش از دیگران در معرض اخراج قرار دارند، افزود این روند در بسیاری از استان‌ها مشاهده می‌شود و پیامدهای آن تنها به از دست رفتن شغل محدود نمی‌ماند، بلکه امنیت روانی و معیشت خانواده‌ها را نیز تحت تأثیر قرار می‌دهد. به گفته او، نبود سازوکار حمایتی مشخص برای زنان کارگر و ضعف نظارت بر وضعیت اشتغال، می‌تواند شکاف‌های اجتماعی را عمیق‌تر کند.
+
+↘️
+@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑
+</div>
+
+## alonews — post 119919
+
+<div align="center">
+  <a href="telegram/content/alonews_119919_1778758579.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈حرکات عجیب ایلان ماسک بعد مستی
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119918
+
+<div align="center">
+  <a href="telegram/content/alonews_119918_1778758580.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ از شی جین‌پینگ دعوت کرد تا در تاریخ ۲۴ سپتامبر از کاخ سفید بازدید کند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 14:55
 ---
 
