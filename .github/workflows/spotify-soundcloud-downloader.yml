@@ -271,26 +271,22 @@ jobs:
       # ==================================================================
       # 10. ROBUST PUSH (with retry & rebase, like your direct-downloader)
       # ==================================================================
-      - name: Upload to downloads folder
+      - name: Upload to music folder
         env:
           BRANCH: ${{ github.ref_name }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config http.postBuffer 524288000
-
-          mkdir -p downloads
-          mv *.zip downloads/ 2>/dev/null || true
-
-          if [ -z "$(ls -A downloads/)" ]; then
+          mkdir -p music
+          mv *.zip music/ 2>/dev/null || true
+          if [ -z "$(ls -A music/)" ]; then
             echo "No zip to upload."
             exit 0
           fi
-
-          git add downloads/
-          COMMIT_MSG="Add: $(ls -1 downloads/ | tr '\n' ' ' | sed 's/ *$//') [skip ci]"
+          git add music/
+          COMMIT_MSG="Add: $(ls -1 music/ | tr '\n' ' ' | sed 's/ *$//') [skip ci]"
           git commit -m "$COMMIT_MSG" || echo "Nothing to commit"
-
           RETRIES=5
           for i in $(seq 1 $RETRIES); do
             echo "Push attempt $i..."
