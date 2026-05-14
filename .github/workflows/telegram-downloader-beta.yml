@@ -1,12 +1,10 @@
 name: telegram-downloader-beta
-
 on:
   workflow_dispatch:
     inputs:
       telegram_links:
         description: >
-          Telegram post links (max 1000).
-          Separate by commas, spaces, or newlines.
+          Telegram post links (max 1000). Separate by commas, spaces, or newlines.
         required: true
 
 permissions:
@@ -47,36 +45,100 @@ jobs:
 
           # Download each file into a temporary folder
           mkdir -p downloads_tmp
+
+          # Initialize counters and failed links file
           index=0
+          success_count=0
+          failed_count=0
+          : > failed_links.txt   # create empty file for failed links
+
           while IFS= read -r link; do
             index=$((index + 1))
             echo "----------------------------------------"
             echo "Processing link $index: $link"
 
-            # Resolve direct download URL and filename via API
+            # --- Resolve direct download URL and filename via API ---
+            # Temporarily disable exit-on-error so we can handle failures gracefully
+            set +e
             RESOLVE=$(curl -s -X POST "https://telegramdownloader.net/proxy.php" \
               -d "telegram_link=$link")
-            DL_URL=$(echo "$RESOLVE" | jq -r '.data.data.link // empty')
-            FILE_NAME=$(echo "$RESOLVE" | jq -r '.data.data.file_name // empty')
+            CURL_EXIT_CODE=$?
+            set -e
 
-            if [ -z "$DL_URL" ] || [ -z "$FILE_NAME" ]; then
-              echo "Could not resolve link: $link"
+            # --- Check if curl itself failed ---
+            if [ $CURL_EXIT_CODE -ne 0 ]; then
+              echo "WARNING: curl failed for link $index: $link (exit code $CURL_EXIT_CODE)"
+              echo "$link" >> failed_links.txt
+              failed_count=$((failed_count + 1))
               continue
             fi
+
+            # --- Check if response is empty ---
+            if [ -z "$RESOLVE" ]; then
+              echo "WARNING: Empty API response for link $index: $link"
+              echo "$link" >> failed_links.txt
+              failed_count=$((failed_count + 1))
+              continue
+            fi
+
+            # --- Validate that response is valid JSON before parsing ---
+            if ! echo "$RESOLVE" | jq empty 2>/dev/null; then
+              echo "WARNING: Invalid JSON response for link $index: $link"
+              echo "Raw response (first 200 chars): $(echo "$RESOLVE" | head -c 200)"
+              echo "$link" >> failed_links.txt
+              failed_count=$((failed_count + 1))
+              continue
+            fi
+
+            # --- Extract values from JSON ---
+            set +e
+            DL_URL=$(echo "$RESOLVE" | jq -r '.data.data.link // empty')
+            FILE_NAME=$(echo "$RESOLVE" | jq -r '.data.data.file_name // empty')
+            JQ_EXIT_CODE=$?
+            set -e
+
+            # --- Check if jq succeeded and returned non-empty values ---
+            if [ $JQ_EXIT_CODE -ne 0 ] || [ -z "$DL_URL" ] || [ -z "$FILE_NAME" ]; then
+              echo "WARNING: Could not resolve link $index: $link"
+              echo "DL_URL: $DL_URL"
+              echo "FILE_NAME: $FILE_NAME"
+              echo "$link" >> failed_links.txt
+              failed_count=$((failed_count + 1))
+              continue
+            fi
+
             echo "Resolved: $FILE_NAME"
 
-            # Download with aria2 (16 connections, retry)
+            # --- Download with aria2 (16 connections, retry) ---
+            set +e
             aria2c -x 16 -s 16 \
               --console-log-level=warn \
               --summary-interval=10 \
               -d downloads_tmp \
               -o "$FILE_NAME" \
-              "$DL_URL" || {
-                echo "Download failed for $FILE_NAME"
-                continue
-              }
-            echo "Downloaded: $FILE_NAME"
+              "$DL_URL"
+            ARIA_EXIT_CODE=$?
+            set -e
+
+            if [ $ARIA_EXIT_CODE -ne 0 ]; then
+              echo "WARNING: Download failed for $FILE_NAME (link $index: $link)"
+              echo "$link" >> failed_links.txt
+              failed_count=$((failed_count + 1))
+            else
+              echo "Downloaded: $FILE_NAME"
+              success_count=$((success_count + 1))
+            fi
           done < telegram_links.txt
+
+          # --- Report final results ---
+          echo "========================================"
+          echo "SUMMARY: Processed $index links."
+          echo "  Successful downloads: $success_count"
+          echo "  Failed downloads:     $failed_count"
+          if [ $failed_count -gt 0 ]; then
+            echo "  Failed links have been logged to failed_links.txt"
+          fi
+          echo "========================================"
 
           # Check if we got any files
           if [ -z "$(ls -A downloads_tmp 2>/dev/null)" ]; then
@@ -93,18 +155,27 @@ jobs:
           mkdir -p telegram/downloader
 
           # Generate a random 5-letter string (lowercase)
-          RAND5=$(tr -dc 'a-z' </dev/urandom | head -c5)
-          ZIP_BASE="telegram_${RAND5}"
-          ZIP_NAME="${ZIP_BASE}.zip"
-          echo "ZIP output: $ZIP_NAME"
+          RAND5=$(tr -dc 'a-z' </dev/urandom | head -c 5)
+          TIMESTAMP=$(date +%Y%m%d_%H%M%S)
+          ZIP_NAME="telegram_files_${TIMESTAMP}_${RAND5}.zip"
 
-          # Move all downloaded files into a single temp folder for zipping
-          TMPZIP="tmpzip_$RAND5"
+          # Create a temporary folder to assemble the zip contents
+          TMPZIP="tmpzip_${RAND5}"
           mkdir -p "$TMPZIP"
-          cp downloads_tmp/* "$TMPZIP/" 2>/dev/null
+
+          # Move downloaded files into the temp folder
+          if [ -d "downloads_tmp" ] && [ "$(ls -A downloads_tmp 2>/dev/null)" ]; then
+            mv downloads_tmp/* "$TMPZIP/"
+          fi
+
+          # Include the failed links log if it exists and is not empty
+          if [ -f "failed_links.txt" ] && [ -s "failed_links.txt" ]; then
+            cp failed_links.txt "$TMPZIP/failed_links.txt"
+            echo "Included failed_links.txt in the archive."
+          fi
 
           # Always split at 99 MB (Telegram's practical limit)
-          (cd "$TMPZIP" && zip -s 99m "../telegram/downloader/${ZIP_NAME}" .)
+          (cd "$TMPZIP" && zip -s 99m -r "../telegram/downloader/${ZIP_NAME}" .)
 
           # Clean up temp folders
           rm -rf downloads_tmp "$TMPZIP"
@@ -126,6 +197,7 @@ jobs:
           fi
 
           git add telegram/downloader/
+
           COMMIT_MSG="Add: ${{ steps.zip.outputs.ZIP_PATH }} [skip ci]"
           git commit -m "$COMMIT_MSG" || echo "Nothing to commit"
 
