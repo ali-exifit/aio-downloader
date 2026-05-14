@@ -7,6 +7,221 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 14:25
+---
+
+## VahidOOnLine — post 240088
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240088_1778756148.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اسکات بسنت، وزیر خزانه‌داری آمریکا گفت بازگشایی تنگه هرمز به نفع چین است و پکن هر کاری بتواند برای بازگشایی این آبراه انجام خواهد داد.
+
+او در مصاحبه با سی‌ان‌بی‌سی تاکید کرد چین پشت صحنه و تا جایی که بر جمهوری اسلامی نفوذ داشته باشد، برای بازگشایی تنگه هرمز همکاری خواهد کرد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240087
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240087_1778756149.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️آکسیوس روز پنجشنبه ۲۴ اردیبهشت گزارش کرد که این احتمال وجود دارد که دونالد ترامپ، رئیس جمهوری آمریکا بلافاصله پس از بازگشت از سفر رسمی به چین، گام بعدی را در رابطه جنگ با ایران بردارد.
+
+براساس گزارش این رسانه‌ آمریکا، ترامپ گزینه‌هایی از جمله از سرگیری «پروژه آزادی» تنگه هرمز یا آغاز دور تازه بمباران ایران را در اختیار دارد.
+
+آکسیوس در همین گزارش نوشته است که دونالد ترامپ عامدانه و آگاهانه واژه‌های عبارت «من بیش از آنکه به افزایش هزینه‌ها در آمریکا فکر کنم به دست نیافتن ایران به سلاح هسته‌ای فکر می‌کنم» را انتخاب کرده است.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## farsi_fox_news — post 89311
+
+<div align="center">
+  <img src="telegram/content/farsi_fox_news_89311_1778756149.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡ دنبال سرعت واقعی و اتصال پایدار هستی؟
+
+پلن‌های 10، 15 و 20 گیگ سبز وی‌پی‌ان
+سرعت و پایداری بهتری نسبت به پلن 5 گیگ
+دارن 
+👌
+
+🚀البته ناگفته نماند که پلن پنج گیگ هم سرعت عالی هست
+
+
+🚀 سرعت بالاتر
+
+🔒 اتصال پایدارتر
+
+🎮 مناسب گیم و استفاده سنگین
+
+
+💸
+
+👇
+👇
+👇
+
+✅ @shopazma_bot
+
+
+📣 کانال تلگرام سبز وی پی ان : @vpn_sabz
+</div>
+
+## FoxNewsTwitter — post 341711
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341711_1778756150.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+RT @SpecialReport: 🚨WATCH: "Big Brother is watching."
+
+Our team with @BretBaier is on the ground in Beijing, and the level of surveillance is unlike anything we’ve seen. From 20+ cameras on a single street corner to instant fines sent straight to your phone, the CCP sees everything. They call it "safety"—but what’s the real cost of social scoring?
+</div>
+
+## FoxNewsTwitter — post 341710
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341710_1778756152.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: President Trump highlights the special relationship between the United States and China:
+
+“The American and Chinese people share much in common. We value hard work. We value courage and achievement. We love our families and we love our countries.”
+
+“Together, we have the chance to draw on these values, to create a future of greater prosperity, cooperation and happiness and peace for our children."
+</div>
+
+## FoxNewsTwitter — post 341709
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341709_1778756153.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NOW: "This is a great honor. It was a fantastic day.
+
+"I want to thank President Xi, my friend, for this magnificent welcome."
+
+"It really was a magnificent welcome like none other. And for so graciously hosting us on this very historic state visit."
+
+"This evening is another cherished opportunity to discuss among friends some of the things that we discussed today. All good for the United States and for China. And it was a great honor to be with you." – President Trump
+</div>
+
+## pm_afshaa — post 90724
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90724_1778756154.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴آکسیوس: یکی از گزینه‌های ترامپ پس از بازگشت از چین از سر گیری پروژه آزادی در تنگه هرمز است. گزینه دیگر ترامپ حمله به زیرساخت‌های ایرانه.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 337146
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337146_1778756155.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اسکات بسنت، وزیر خزانه‌داری آمریکا گفت بازگشایی تنگه هرمز به نفع چین است و پکن هر کاری بتواند برای بازگشایی این آبراه انجام خواهد داد.
+
+او در مصاحبه با سی‌ان‌بی‌سی تاکید کرد چین پشت صحنه و تا جایی که بر جمهوری اسلامی نفوذ داشته باشد، برای بازگشایی تنگه هرمز همکاری خواهد کرد.
+https://iranintl.com/202605140954
+</div>
+
+## FarsiVOA — post 217710
+
+<div align="center">
+  <img src="telegram/content/FarsiVOA_217710_1778756155.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ارتش اسرائیل اعلام کرد که روز پنجشنبه موجی از حملات هوایی را علیه سایت‌های زیرساختی حزب‌الله در چندین منطقه در جنوب لبنان آغاز کرده است.
+
+کمی قبل از بیانیه ارتش اسرائیل، هشدارهای تخلیه برای هشت روستا در جنوب لبنان صادر شده بود.
+
+همزمان، ارتش اسرائیل پنجشنبه اعلام کرد که یک پهپاد انفجاری که توسط حزب‌الله پرتاب شده بود در داخل خاک اسرائیل و در نزدیکی مرز اسرائیل-لبنان سقوط کرد.
+
+بر اساس این گزارش، چند غیرنظامی اسرائیلی زخمی شده و برای درمان به بیمارستان منتقل شدند.
+@FarsiVOA
+</div>
+
+## Hranews — post 112942
+
+<div align="center">
+  <img src="telegram/content/Hranews_112942_1778756156.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+همزمان با افزایش چشمگیر قیمت #دارو در ماه‌های اخیر، شماری از داروخانه‌ها و مراکز درمانی همکاری خود با بیمه‌های درمانی را متوقف کرده‌اند یا برخی داروهای دارای پوشش بیمه بالا را عرضه نمی‌کنند. خبرگزاری فارس با انتشار گزارشی در این رابطه نوشته است که قیمت برخی داروها طی سه تا چهار ماه گذشته تا سه برابر افزایش یافته است. در مقابل، شرکت‌های بیمه‌ای نیز مطالبات داروخانه‌ها را با تاخیر چندماهه پرداخت می‌کنند؛ موضوعی که به گفته داروخانه‌داران، فروش دارو با نرخ بیمه‌ای را از نظر اقتصادی دشوار کرده است.
+
+برخی بیماران برای تهیه داروهای حیاتی از جمله انسولین، داروهای قلب و فشار خون، ناچار به پرداخت هزینه‌های چندمیلیونی شده‌اند. بهمن صبور، عضو هیئت‌مدیره انجمن داروسازان ایران، با اشاره به پرداخت نقدی هزینه دارو توسط داروخانه‌ها و تاخیر طولانی بیمه‌ها در بازپرداخت مطالبات، این روند را برای مراکز درمانی زیان‌بار توصیف کرده است.
+
+↘️
+@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑
+</div>
+
+## alonews — post 119912
+
+<div align="center">
+  <a href="telegram/content/alonews_119912_1778756156.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈خبرنگار صداوسیما به نقل از نیروی دریایی سپاه: از شب گذشته تاکنون ۳۰ فروند کشتی از تنگه هرمز با مجوز ایران عبور کرده‌اند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119911
+
+<div align="center">
+  <a href="telegram/content/alonews_119911_1778756157.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ : گفت‌وگوهاش با شی جین‌پینگ «سازنده» بوده و برای هر دو کشور مفید بود
+
+
+🔴 ترامپ به‌طور رسمی از شی جین‌پینگ دعوت کرد که در ۲۴ سپتامبر به آمریکا و کاخ سفید سفر کنه
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119910
+
+<div align="center">
+  <a href="telegram/content/alonews_119910_1778756157.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈شی جین‌پینگ دوباره تأکید کرد که کشورهای ما باید به جای رقیب، شریک باشن
+
+
+🔴به آینده روشن روابط چین و آمریکا
+
+
+🔴به دوستی میان مردم دو کشور، و به سلامتی رئیس‌جمهور ترامپ و همه دوستان ی پیک عرق میخورم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 14:16
 ---
 
