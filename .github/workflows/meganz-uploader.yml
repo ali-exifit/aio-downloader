@@ -1,0 +1,251 @@
+name: mega-downloader
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: >
+          Enter one or more MEGA.nz links (file or folder).
+          Separate by commas, spaces, or newlines.
+        required: true
+      bundle_all:
+        description: 'Bundle all downloaded files into a single ZIP archive'
+        type: boolean
+        default: false
+      upload_method:
+        description: >
+          Upload method:
+          - "split_push": split ZIPs into 99MB parts & push to repo (default)
+          - "release": create a GitHub Release & upload ZIPs directly (no splitting).
+            **Note:** GitHub Release assets are limited to 2 GB per file.
+        required: true
+        type: choice
+        options:
+          - split_push
+          - release
+        default: split_push
+
+permissions:
+  contents: write
+
+jobs:
+  mega-download:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Install megatools
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq megatools
+
+      - name: Parse URLs
+        id: parse
+        run: |
+          URLS_INPUT="${{ github.event.inputs.url }}"
+          # Replace commas and newlines with spaces, then clean up
+          URLS=$(echo "$URLS_INPUT" | tr ',' ' ' | tr '\n' ' ' | tr -s ' ' | sed 's/^ *//;s/ *$//')
+          if [ -z "$URLS" ]; then
+            echo "No URLs provided." >&2
+            exit 1
+          fi
+          echo "$URLS" | tr ' ' '\n' > urls.txt
+          echo "URLs to download:"
+          cat urls.txt
+          NUM=$(wc -l < urls.txt)
+          echo "NUM_URLS=$NUM" >> $GITHUB_OUTPUT
+
+      - name: Download and process files
+        id: process
+        run: |
+          BUNDLE_ALL="${{ github.event.inputs.bundle_all }}"
+          UPLOAD_METHOD="${{ github.event.inputs.upload_method }}"
+
+          mkdir -p direct
+          FAILED_FILE="failed_urls.txt"
+          > "$FAILED_FILE"
+
+          if [ "$BUNDLE_ALL" = "true" ]; then
+            BUNDLE_DIR="bundle_contents"
+            mkdir -p "$BUNDLE_DIR"
+          fi
+
+          index=0
+          while IFS= read -r url; do
+            index=$((index + 1))
+            echo "----------------------------------------"
+            echo "Processing URL $index: $url"
+
+            DL_DIR="dl_$index"
+            mkdir -p "$DL_DIR"
+
+            # Download using megatools (flatten all files into DL_DIR)
+            (
+              cd "$DL_DIR" || exit 1
+              megatools dl "$url" 2>&1 || echo "MEGA_DL_FAILED"
+            ) | tee "dl_${index}.log"
+
+            # If megatools failed (detected from log or no files), record failure
+            if grep -q "MEGA_DL_FAILED" "dl_${index}.log" || [ -z "$(ls -A "$DL_DIR" 2>/dev/null)" ]; then
+              echo "Download failed for $url"
+              echo "$url" >> "$FAILED_FILE"
+              rm -rf "$DL_DIR" "dl_${index}.log"
+              continue
+            fi
+
+            # Flatten: bring all files (ignore sub‑directories) to the root of DL_DIR
+            find "$DL_DIR" -mindepth 2 -type f -exec mv {} "$DL_DIR/" \; 2>/dev/null || true
+            # Remove empty sub‑directories
+            find "$DL_DIR" -mindepth 1 -type d -empty -delete 2>/dev/null || true
+
+            # Process each file found
+            for DL_FILE in "$DL_DIR"/*; do
+              [ -f "$DL_FILE" ] || continue
+              fname=$(basename "$DL_FILE")
+
+              if [ "$BUNDLE_ALL" = "true" ]; then
+                # Bundle mode: copy to shared folder, rename on collision
+                TARGET="$BUNDLE_DIR/$fname"
+                if [ -e "$TARGET" ]; then
+                  base="${fname%.*}"
+                  ext="${fname##*.}"
+                  if [ "$base" = "$ext" ]; then
+                    base="$fname"
+                    ext=""
+                  else
+                    ext=".$ext"
+                  fi
+                  counter=1
+                  while [ -e "$BUNDLE_DIR/${base}_${counter}${ext}" ]; do
+                    counter=$((counter + 1))
+                  done
+                  TARGET="$BUNDLE_DIR/${base}_${counter}${ext}"
+                fi
+                cp "$DL_FILE" "$TARGET"
+                echo "Added to bundle: $TARGET"
+              else
+                # Individual ZIP per file
+                RAND5=$(tr -dc 'a-z' </dev/urandom | head -c5)
+                ZIP_BASE="${fname}_${RAND5}"
+                ZIP_NAME="${ZIP_BASE}.zip"
+                echo "ZIP output: $ZIP_NAME"
+
+                TMPZIP="tmpzip_${index}_$(tr -dc 'a-z0-9' </dev/urandom | head -c6)"
+                mkdir -p "$TMPZIP"
+                cp "$DL_FILE" "$TMPZIP/"
+
+                if [ "$UPLOAD_METHOD" = "release" ]; then
+                  # No splitting, just a regular zip
+                  (cd "$TMPZIP" && zip "../direct/${ZIP_NAME}" "$fname")
+                else
+                  # Split into 99 MB chunks
+                  (cd "$TMPZIP" && zip -s 99m "../direct/${ZIP_NAME}" "$fname")
+                fi
+                rm -rf "$TMPZIP"
+              fi
+            done
+
+            rm -rf "$DL_DIR" "dl_${index}.log"
+          done < urls.txt
+
+          # Handle failed URLs
+          if [ -s "$FAILED_FILE" ]; then
+            RAND_FAIL=$(tr -dc 'a-z' </dev/urandom | head -c5)
+            FAIL_NAME="links-failed-${RAND_FAIL}.txt"
+            mv "$FAILED_FILE" "direct/$FAIL_NAME"
+            echo "Created failure report: direct/$FAIL_NAME"
+          else
+            rm -f "$FAILED_FILE"
+          fi
+
+          # If bundling, create the master ZIP (split or unsplit depending on method)
+          if [ "$BUNDLE_ALL" = "true" ] && [ -n "$(ls -A "$BUNDLE_DIR" 2>/dev/null)" ]; then
+            RAND_BUNDLE=$(tr -dc 'a-z' </dev/urandom | head -c5)
+            BUNDLE_ZIP="bundle_${RAND_BUNDLE}.zip"
+            echo "Creating bundle: $BUNDLE_ZIP"
+            if [ "$UPLOAD_METHOD" = "release" ]; then
+              (cd "$BUNDLE_DIR" && zip "../direct/${BUNDLE_ZIP}" *)
+            else
+              (cd "$BUNDLE_DIR" && zip -s 99m "../direct/${BUNDLE_ZIP}" *)
+            fi
+            rm -rf "$BUNDLE_DIR"
+          else
+            rm -rf "$BUNDLE_DIR"
+          fi
+
+          # Write list of generated assets for the release step
+          ls -1 direct/ > direct_assets.txt
+          echo "Assets to upload:"
+          cat direct_assets.txt
+
+      - name: Upload to repository (split_push method)
+        if: ${{ github.event.inputs.upload_method == 'split_push' }}
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git config http.postBuffer 524288000
+
+          if [ -z "$(ls -A direct/)" ]; then
+            echo "No files to upload."
+            exit 0
+          fi
+
+          git add direct/
+          COMMIT_MSG="Add: $(ls -1 direct/ | tr '\n' ' ' | sed 's/ *$//') [skip ci]"
+          git commit -m "$COMMIT_MSG" || echo "Nothing to commit"
+
+          RETRIES=5
+          for i in $(seq 1 $RETRIES); do
+            echo "Push attempt $i..."
+            git pull --rebase --autostash origin "$BRANCH"
+            if git push origin "$BRANCH"; then
+              echo "Push succeeded."
+              break
+            else
+              [ $i -lt $RETRIES ] && sleep 3 || exit 1
+            fi
+          done
+
+      - name: Create Release and upload assets (release method)
+        if: ${{ github.event.inputs.upload_method == 'release' }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ ! -s direct_assets.txt ]; then
+            echo "No assets to release."
+            exit 0
+          fi
+
+          # Generate a unique tag name based on timestamp
+          TAG="release-$(date +'%Y%m%d-%H%M%S')"
+          echo "Creating tag: $TAG"
+
+          # Configure git for tagging
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
+          # Create an empty commit for the tag (or use the current HEAD)
+          git tag "$TAG" -m "MEGA download release"
+
+          # Push the tag
+          git push origin "$TAG"
+
+          # Create the release and attach all assets
+          ASSET_ARGS=""
+          while IFS= read -r file; do
+            ASSET_ARGS="$ASSET_ARGS direct/$file"
+          done < direct_assets.txt
+
+          gh release create "$TAG" $ASSET_ARGS \
+            --title "MEGA Downloads – $TAG" \
+            --notes "Automated release from MEGA.nz download workflow." \
+            --target "${{ github.ref_name }}"
+
+          echo "Release created: $TAG"
