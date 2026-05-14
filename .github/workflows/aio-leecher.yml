@@ -1,96 +1,86 @@
-name: aio-leecher
+name: "Universal Video/Audio Downloader (Auto Container + Raw Mode)"
 
 on:
   workflow_dispatch:
     inputs:
       url:
         description: |
-          Enter one or more URLs (newlines, commas, or spaces) with optional shortcuts or raw yt-dlp arguments.
-
-          ─── Shortcut mode (adds quality to filename) ───
-          Arguments: `v` (video) or `a` (audio) followed by quality:
-          Video: `max` | `min` | height (e.g. 480, 720, 1080, 4k) [optional fps e.g. `1080 30`]
-          Audio: `max` | `min` | bitrate in kbps (e.g. 128, 192, 320)
-
-          ─── Raw / Expert mode ───
-          Use `--` after the URL to pass raw yt-dlp arguments directly.
-          Example: `https://example.com/video -- -f bestvideo+bestaudio --merge-output-format mkv`
-          When `--` is used, all shortcut processing (v/a) is completely skipped.
-
-          ─── Cookies (for authenticated content) ───
-          # To use cookies, add these secrets in your repo Settings > Secrets > Actions:
-          #   INSTAGRAM_COOKIES  →  Netscape-format cookie file content for Instagram
-          #   X_COOKIES          →  Netscape-format cookie file content for X/Twitter
-          #   YOUTUBE_COOKIES    →  Netscape-format cookie file content for YouTube
-          # The workflow will automatically detect and use them when you run in raw mode.
-          # You can export cookies from your browser using extensions like "Get cookies.txt LOCALLY".
-          # Paste the entire file content as the secret value.
-
+          One or more URLs (newlines, commas, or spaces).
+          Each URL may be followed by:
+            - Shortcut mode:  v <quality>  or  a <quality>
+              Video: max | min | height (e.g. 480, 720, 1080, 4k)
+              Audio: max | min | bitrate in kbps (e.g. 128, 192, 320)
+            - Raw mode:  -- <raw yt-dlp arguments>
+              Example:  https://example.com/video -- -f bestvideo+bestaudio --merge-output-format mkv
         required: true
+        type: string
 
 permissions:
   contents: write
 
 jobs:
-  actions:
+  download:
     runs-on: ubuntu-latest
+    timeout-minutes: 700
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v4
         with:
           persist-credentials: true
 
-      # ── Step 1: Parse all entries into a JSON array ─────────────────
-      - name: "Step 1/6: Parse all entries"
-        id: parse_entries
+      # ── Install tools ──────────────────────────────────────
+      - name: "Install yt-dlp, jq, ffmpeg"
         run: |
-          echo "========================================="
-          echo " 🔍 STEP 1: Parsing your URLs"
-          echo "========================================="
-          echo ""
-          echo "We'll now take your input, split it into individual URLs,"
-          echo "and organize any shortcut or expert-mode arguments you provided."
-          echo ""
+          echo "→ Installing / updating yt-dlp..."
+          mkdir -p ~/.local/bin
+          echo "$HOME/.local/bin" >> $GITHUB_PATH
+          if ! command -v yt-dlp &> /dev/null; then
+            curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp \
+              -o ~/.local/bin/yt-dlp
+            chmod a+rx ~/.local/bin/yt-dlp
+          fi
+          echo "✅ yt-dlp ready."
 
+          echo "→ Installing jq & ffmpeg..."
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq jq ffmpeg
+          echo "✅ jq & ffmpeg ready."
+
+      # ── Parse input into JSON array (supports raw mode) ────
+      - name: "Parse URLs"
+        id: parse
+        run: |
           INPUT="${{ github.event.inputs.url }}"
           MODIFIED=$(echo "$INPUT" | tr ',' '\n')
           ENTRIES='[]'
 
-          # Split into lines and process each token
           while IFS= read -r line; do
             line=$(echo "$line" | xargs)
             [ -z "$line" ] && continue
-            echo "→ Looking at line: \"$line\""
             tokens=($line)
             i=0
             while [ $i -lt ${#tokens[@]} ]; do
               token="${tokens[$i]}"
               if [[ "$token" =~ ^https?:// ]]; then
                 link="$token"
-                echo " ✓ Found a URL: $link"
                 args=()
                 raw=false
                 i=$((i+1))
-                # Collect tokens until next URL or end
                 while [ $i -lt ${#tokens[@]} ]; do
                   next="${tokens[$i]}"
-                  if [[ "$next" =~ ^https?:// ]]; then break; fi
+                  [[ "$next" =~ ^https?:// ]] && break
                   args+=("$next")
                   i=$((i+1))
                 done
-                # Check if first arg is '--' -> raw mode
+
+                # Check if first arg is '--' → raw mode
                 if [ "${args[0]}" = "--" ]; then
                   raw=true
-                  args=( "${args[@]:1}" )
-                  echo " ⚡ Expert mode (raw yt-dlp) detected — skipping all shortcuts"
+                  args=( "${args[@]:1}" )   # remove the '--' itself
+                  echo " ⚡ Raw mode detected — shortcut logic will be skipped"
                 fi
-                if [ ${#args[@]} -gt 0 ]; then
-                  echo " → With arguments: ${args[*]}"
-                else
-                  echo " → No extra arguments (will use smart defaults)"
-                fi
+
                 args_json=$(printf '%s\n' "${args[@]}" | jq -R . | jq -s .)
                 entry=$(jq -n \
                   --arg link "$link" \
@@ -99,8 +89,6 @@ jobs:
                   '{link: $link, args: $args, raw: $raw}')
                 ENTRIES=$(echo "$ENTRIES" | jq ". + [$entry]")
               else
-                # Token is not a URL – skip it
-                echo " ⚠ Skipping \"$token\" (not a URL)"
                 i=$((i+1))
               fi
             done
@@ -108,439 +96,187 @@ jobs:
 
           ENTRIES_JSON=$(echo "$ENTRIES" | jq -c .)
           echo "ENTRIES_JSON=$ENTRIES_JSON" >> $GITHUB_OUTPUT
-          total_entries=$(echo "$ENTRIES" | jq length)
-          echo ""
-          echo "✓ Done! We found and parsed $total_entries valid URL(s)."
-          echo ""
+          echo "✅ Parsed $(echo "$ENTRIES" | jq length) URL(s)."
 
-      # ── Step 2: Prepare PATH (always needed) ─────────────────────
-      - name: "Step 2/6: Prepare PATH for tools"
-        run: |
-          echo "========================================="
-          echo " 🛠  STEP 2: Setting up the environment PATH"
-          echo "========================================="
-          echo "We need to make sure the system can find the tools"
-          echo "we're about to install."
-          echo ""
-          mkdir -p ~/.local/bin
-          echo "$HOME/.local/bin" >> $GITHUB_PATH
-          echo "$HOME/.deno/bin" >> $GITHUB_PATH
-          echo "✓ Added ~/.local/bin and ~/.deno/bin to PATH."
-          echo ""
-
-      # ── Step 3: Install tools ─────────────────────────────────────
-      - name: "Step 3/6: Install tools"
-        run: |
-          echo "========================================="
-          echo " 📦 STEP 3: Installing required tools"
-          echo "========================================="
-          echo "We'll check for and install: yt-dlp, jq, ffmpeg, and deno."
-          echo ""
-
-          # yt-dlp
-          echo "→ Checking for yt-dlp..."
-          if ! command -v yt-dlp &> /dev/null; then
-            echo " ⚠ yt-dlp not found. Downloading latest release..."
-            curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o ~/.local/bin/yt-dlp
-            chmod a+rx ~/.local/bin/yt-dlp
-            echo " ✓ yt-dlp installed successfully."
-          else
-            echo " ✓ yt-dlp is already installed."
-          fi
-
-          # jq and ffmpeg
-          echo "→ Checking for jq and ffmpeg..."
-          if ! command -v jq &> /dev/null || ! command -v ffmpeg &> /dev/null; then
-            echo " ⚠ Installing missing system tools (jq/ffmpeg)..."
-            sudo apt-get update -qq
-            sudo apt-get install -y -qq jq ffmpeg
-            echo " ✓ jq and ffmpeg are ready."
-          else
-            echo " ✓ jq and ffmpeg are already installed."
-          fi
-
-          # deno
-          echo "→ Checking for deno..."
-          if ! command -v deno &> /dev/null; then
-            echo " ⚠ deno not found. Installing..."
-            curl -fsSL https://deno.land/install.sh | sh -s -- -y
-            echo " ✓ deno installed successfully."
-          else
-            echo " ✓ deno is already installed."
-          fi
-
-          echo ""
-          echo "✓ All tools are ready!"
-          echo ""
-
-      # ── Step 4: Process all downloads ─────────────────────────────
-      - name: "Step 4/6: Download, remux, and ZIP all files"
+      # ── Download (raw mode or shortcut mode) ─────────────
+      - name: "Download (list formats, pick closest match or use raw args)"
         run: |
           set -e
-          echo "========================================="
-          echo " ⬇️  STEP 4: Processing downloads"
-          echo "========================================="
-          echo "We'll now go through each URL you provided and handle"
-          echo "video, audio, or generic downloads."
-          echo ""
+          ENTRIES_JSON='${{ steps.parse.outputs.ENTRIES_JSON }}'
+          OUTPUT_FOLDER="downloads"
+          mkdir -p "$OUTPUT_FOLDER"
 
-          ENTRIES_JSON='${{ steps.parse_entries.outputs.ENTRIES_JSON }}'
-          BASE_YT_DLP_ARGS="--js-runtimes deno --remote-components ejs:npm"
-          mkdir -p leecher-content leecher
-
-          # ── Helper: Progress display ──────────────────────────────
-          download_with_progress() {
-            local yt_args="$1"
-            local output_template="$2"
-            local total_size="$3"
-            local url="$4"
-            echo " → Starting download..."
-            echo " → Output pattern: $output_template"
-            if [ "$total_size" -gt 0 ]; then
-              echo " → Expected size: $total_size bytes"
-            else
-              echo " → Size unknown (will report as it downloads)"
-            fi
-            yt-dlp $BASE_YT_DLP_ARGS --no-progress $yt_args -o "$output_template" "$url" &
-            local dl_pid=$!
-            local output_dir="$(dirname "$output_template")"
-            sleep 1
-            while kill -0 $dl_pid 2>/dev/null; do
-              local part_file=$(ls "$output_dir"/*.part 2>/dev/null | head -n1)
-              if [ -n "$part_file" ]; then
-                local current=$(stat -c%s "$part_file" 2>/dev/null || echo 0)
-                if [ "$total_size" -gt 0 ]; then
-                  local percent=$(awk -v cur="$current" -v total="$total_size" 'BEGIN {printf "%.1f", (cur/total)*100}')
-                  echo " ↳ Progress: ${current} / ${total_size} bytes (${percent}%)"
-                else
-                  echo " ↳ Progress: ${current} bytes downloaded (total unknown)"
-                fi
-              else
-                echo " ↳ Waiting for download to start..."
-              fi
-              sleep 1
-            done
-            wait $dl_pid
-            local final_file=$(ls "$output_dir"/*.part 2>/dev/null | head -n1)
-            if [ -n "$final_file" ]; then
-              local final_size=$(stat -c%s "$final_file")
-              echo " ✓ Download completed: ${final_size} bytes"
-            fi
-          }
-
-          # ── Helper: Cookie setup ──────────────────────────────────
-          # If secrets are present, write them to temp files and return the --cookies flags
-          setup_cookies() {
-            local cookie_args=""
-            # Instagram cookies
-            if [ -n "$INSTAGRAM_COOKIES" ]; then
-              echo "$INSTAGRAM_COOKIES" > /tmp/instagram_cookies.txt
-              cookie_args="$cookie_args --cookies /tmp/instagram_cookies.txt"
-              echo " 🍪 Instagram cookies loaded from secret"
-            fi
-            # X / Twitter cookies
-            if [ -n "$X_COOKIES" ]; then
-              echo "$X_COOKIES" > /tmp/x_cookies.txt
-              cookie_args="$cookie_args --cookies /tmp/x_cookies.txt"
-              echo " 🍪 X/Twitter cookies loaded from secret"
-            fi
-            # YouTube cookies
-            if [ -n "$YOUTUBE_COOKIES" ]; then
-              echo "$YOUTUBE_COOKIES" > /tmp/youtube_cookies.txt
-              cookie_args="$cookie_args --cookies /tmp/youtube_cookies.txt"
-              echo " 🍪 YouTube cookies loaded from secret"
-            fi
-            echo "$cookie_args"
-          }
-
-          # ── Helper: Audio download ────────────────────────────────
-          download_audio() {
-            local link="$1"
-            local video_json="$2"
-            local val1="$3"   # "max", "min", or bitrate (kbps)
-
-            echo " → Checking available audio formats..."
-            local audio_formats=$(echo "$video_json" | jq '[.formats[] | select(.vcodec == "none" and .acodec != "none")]')
-            if [ "$(echo "$audio_formats" | jq length)" -eq 0 ]; then
-              echo " ⚠ ERROR: No audio-only formats available for this video."
-              return 1
-            fi
-            echo " → Found $(echo "$audio_formats" | jq length) audio-only format(s)."
-            echo " → Choosing best match for quality: $val1"
-
-            case "$val1" in
-              max)
-                local format_id=$(echo "$audio_formats" | jq -r 'max_by(.abr // .tbr) | .format_id')
-                echo " → Selected maximum quality audio (ID: $format_id)"
-                ;;
-              min)
-                local format_id=$(echo "$audio_formats" | jq -r 'min_by(.abr // .tbr) | .format_id')
-                echo " → Selected minimum quality audio (ID: $format_id)"
-                ;;
-              *)
-                local bitrate="$val1"
-                local bitrates=$(echo "$audio_formats" | jq '[.[].abr // .tbr] | unique | sort')
-                local chosen_bitrate=$(echo "$bitrates" | jq --argjson b "$bitrate" 'map({br:., d:(. - $b | abs)}) | sort_by(.d, .br) | first.br')
-                local format_id=$(echo "$audio_formats" | jq -r --argjson br "$chosen_bitrate" 'map(select((.abr // .tbr) == $br)) | first.format_id')
-                echo " → Requested bitrate: ${bitrate} kbps → Closest match: ${chosen_bitrate} kbps (ID: $format_id)"
-                ;;
-            esac
-
-            local total_size=$(echo "$video_json" | jq -r ".formats[] | select(.format_id == \"$format_id\") | .filesize // .filesize_approx // 0")
-            local abr_info=$(echo "$video_json" | jq -r ".formats[] | select(.format_id == \"$format_id\") | .abr // .tbr // 0")
-            local output_template="leecher-content/%(title)s-${abr_info}kbps.%(ext)s"
-
-            echo " → Downloading audio format $format_id → $output_template"
-            download_with_progress "-f $format_id" "$output_template" "$total_size" "$link"
-          }
-
-          # ── Helper: Generic download ──────────────────────────────
-          generic_download() {
-            local link="$1"
-            local extra_args="$2"   # optional raw args (already shifted past --)
-            local output_template="leecher-content/%(title)s.%(ext)s"
-            echo " → Attempting generic download..."
-            echo " → Output template: $output_template"
-            yt-dlp $BASE_YT_DLP_ARGS --no-progress $extra_args -o "$output_template" "$link"
-          }
-
-          # ── Helper: ZIP a single entry ────────────────────────────
-          # Each URL's files go into their own split ZIP inside leecher/
-          zip_entry() {
-            local entry_label="$1"   # e.g. "entry-0"
-            echo ""
-            echo " 📦 Packaging files for $entry_label..."
-            if ls leecher-content/* 1>/dev/null 2>&1; then
-              local file_count=$(ls leecher-content/* | wc -l)
-              echo " → Found $file_count file(s) to zip."
-              # Generate a random 5‑letter string to avoid conflicts
-              local RNDSTR=$(cat /dev/urandom | tr -dc 'a-z' | head -c 5)
-              local ZIPNAME="leecher-${RNDSTR}.zip"
-              cd leecher-content
-              zip -j -s 99m -r "../leecher/${ZIPNAME}" *
-              local zip_rc=$?
-              cd ..
-              if [ $zip_rc -eq 0 ]; then
-                echo " ✓ Archive created: leecher/${ZIPNAME}"
-                # Return the zip base name so we can log it later
-                echo "$ZIPNAME"
-              else
-                echo " ⚠ Zip command finished with warnings (rc=$zip_rc) — continuing anyway"
-                echo "$ZIPNAME"
-              fi
-            else
-              echo " ⚠ No files were downloaded for $entry_label — nothing to zip."
-              echo ""
-            fi
-          }
-
-          # ── Cookie setup (once before the loop) ───────────────────
-          COOKIE_ARGS=$(setup_cookies)
-          if [ -n "$COOKIE_ARGS" ]; then
-            echo " → Cookies will be used for all downloads in this run."
-          else
-            echo " → No cookie secrets found — proceeding without authentication."
+          # Cookie helpers
+          COOKIE_ARGS=""
+          if [ -n "$INSTAGRAM_COOKIES" ]; then
+            echo "$INSTAGRAM_COOKIES" > /tmp/instagram_cookies.txt
+            COOKIE_ARGS="$COOKIE_ARGS --cookies /tmp/instagram_cookies.txt"
           fi
-          echo ""
+          if [ -n "$X_COOKIES" ]; then
+            echo "$X_COOKIES" > /tmp/x_cookies.txt
+            COOKIE_ARGS="$COOKIE_ARGS --cookies /tmp/x_cookies.txt"
+          fi
+          if [ -n "$YOUTUBE_COOKIES" ]; then
+            echo "$YOUTUBE_COOKIES" > /tmp/youtube_cookies.txt
+            COOKIE_ARGS="$COOKIE_ARGS --cookies /tmp/youtube_cookies.txt"
+          fi
 
-          # ── Main loop ─────────────────────────────────────────────
           count=$(echo "$ENTRIES_JSON" | jq length)
-          echo "We have $count entry(ies) to process."
-          echo ""
-
-          for ((idx=0; idx<$count; idx++)); do
-            echo "──────────────────────────────────────────────"
-            echo " 📌 Entry $((idx+1)) of $count"
-            echo "──────────────────────────────────────────────"
-
+          for ((idx=0; idx<count; idx++)); do
             entry=$(echo "$ENTRIES_JSON" | jq -c ".[$idx]")
             link=$(echo "$entry" | jq -r '.link')
             raw=$(echo "$entry" | jq -r '.raw')
             args_json=$(echo "$entry" | jq -c '.args')
 
-            echo " → URL     : $link"
-            echo " → Raw mode: $raw"
-            echo " → Args    : $(echo "$args_json" | jq -r '.[]')"
-            echo ""
+            echo "========================================"
+            echo " Processing $((idx+1))/$count: $link"
+            echo " Raw mode: $raw"
+            echo " Args: $(echo "$args_json" | jq -r '.[]')"
+            echo "========================================"
 
-            # ── RAW MODE: skip all shortcut logic ──────────────────
+            # ── RAW MODE: skip all shortcut logic ──────────
             if [ "$raw" = "true" ]; then
-              echo " ⚡ RAW MODE — skipping all v/a shortcuts, running yt-dlp directly."
-              echo " → Raw arguments: $(echo "$args_json" | jq -r '. | join(" ")')"
-
-              # Build the command: raw args are everything the user typed after --
+              echo "⚡ RAW MODE — passing arguments directly to yt-dlp"
               RAW_ARGS=$(echo "$args_json" | jq -r '. | join(" ")')
-              echo " → Executing: yt-dlp $BASE_YT_DLP_ARGS $COOKIE_ARGS $RAW_ARGS \"$link\""
-              yt-dlp $BASE_YT_DLP_ARGS $COOKIE_ARGS $RAW_ARGS -o "leecher-content/%(title)s.%(ext)s" "$link"
-              RC=$?
-              if [ $RC -eq 0 ]; then
-                echo " ✓ Raw download succeeded."
-              else
-                echo " ✗ Raw download failed (exit code $RC) — skipping this entry."
-              fi
-
-            else
-              # ── SHORTCUT MODE (v/a) ──────────────────────────────
-              # Determine shortcut type (v/a) and value from args
-              args_array=()
-              while IFS= read -r arg; do
-                args_array+=("$arg")
-              done < <(echo "$args_json" | jq -r '.[]')
-
-              type=""
-              val1=""
-              val2=""
-              if [ ${#args_array[@]} -ge 1 ]; then
-                type="${args_array[0]}"
-              fi
-              if [ ${#args_array[@]} -ge 2 ]; then
-                val1="${args_array[1]}"
-              fi
-              if [ ${#args_array[@]} -ge 3 ]; then
-                val2="${args_array[2]}"
-              fi
-
-              # Fetch video metadata (needed for audio selection)
-              echo " → Fetching video metadata..."
-              video_json=$(yt-dlp $BASE_YT_DLP_ARGS --dump-json "$link" 2>/dev/null || echo "{}")
-              if [ "$video_json" = "{}" ]; then
-                echo " ⚠ Could not get video info. Falling back to generic download."
-                if generic_download "$link" ""; then
-                  echo " ✓ Generic download succeeded."
-                else
-                  echo " ✗ Generic download failed — skipping this entry."
-                fi
-                echo ""
-                # ZIP and clean up for this entry
-                zip_entry "entry-$idx"
-                rm -rf leecher-content/*
+              echo "→ Executing: yt-dlp $COOKIE_ARGS $RAW_ARGS -o \"$OUTPUT_FOLDER/%(title)s.%(ext)s\" \"$link\""
+              yt-dlp $COOKIE_ARGS $RAW_ARGS -o "$OUTPUT_FOLDER/%(title)s.%(ext)s" "$link" || {
+                echo "❌ Raw download failed — skipping."
                 continue
-              fi
-              echo " ✓ Metadata retrieved successfully."
-
-              if [ "$type" = "v" ]; then
-                echo " → Processing as VIDEO (shortcut mode)..."
-                # (the original video-download logic would go here — see note*)
-                echo " ✓ Video processing finished."
-              elif [ "$type" = "a" ]; then
-                echo " → Processing as AUDIO (shortcut mode)..."
-                if download_audio "$link" "$video_json" "$val1"; then
-                  echo " ✓ Audio download succeeded."
-                else
-                  echo " ⚠ Audio download failed, attempting generic download..."
-                  if generic_download "$link" ""; then
-                    echo " ✓ Generic download succeeded."
-                  else
-                    echo " ✗ All download methods failed — skipping this entry."
-                  fi
-                fi
-              else
-                echo " → No valid shortcut found. Using generic download."
-                if generic_download "$link" ""; then
-                  echo " ✓ Generic download succeeded."
-                else
-                  echo " ✗ Generic download failed — skipping this entry."
-                fi
-              fi
+              }
+              echo "✅ Raw download complete."
+              echo ""
+              continue
             fi
 
+            # ── SHORTCUT MODE (v/a) ────────────────────────
+            # Determine type and value from args
+            args_array=()
+            while IFS= read -r arg; do
+              args_array+=("$arg")
+            done < <(echo "$args_json" | jq -r '.[]')
+
+            type=""
+            val=""
+            if [ ${#args_array[@]} -ge 1 ]; then
+              type="${args_array[0]}"
+            fi
+            if [ ${#args_array[@]} -ge 2 ]; then
+              val="${args_array[1]}"
+            fi
+            [ -z "$type" ] && type="v"
+            [ -z "$val" ]  && val="max"
+
+            # List all available formats
+            echo ""
+            echo "→ Available formats (yt-dlp -F):"
+            yt-dlp $COOKIE_ARGS --no-progress -F "$link" 2>&1 || true
             echo ""
 
-            # ── ZIP this entry's files ──────────────────────────────
-            zip_entry "entry-$idx"
+            echo "→ Fetching metadata (JSON)..."
+            VIDEO_JSON=$(yt-dlp $COOKIE_ARGS --no-progress -j "$link" 2>/dev/null) || {
+              echo "❌ Failed to fetch metadata – skipping."
+              continue
+            }
 
-            # ── Clean up leecher-content for the next entry ─────────
-            rm -rf leecher-content/*
+            if [ "$type" = "a" ]; then
+              AUDIO_FORMATS=$(echo "$VIDEO_JSON" | jq '[.formats[] | select(.vcodec == "none" and .acodec != "none")]')
+              if [ "$(echo "$AUDIO_FORMATS" | jq length)" -eq 0 ]; then
+                echo "❌ No audio-only formats – skipping."
+                continue
+              fi
+              echo "→ Found $(echo "$AUDIO_FORMATS" | jq length) audio-only formats."
+
+              case "$val" in
+                max)
+                  FORMAT_ID=$(echo "$AUDIO_FORMATS" | jq -r 'max_by(.abr // .tbr) | .format_id')
+                  CHOSEN=$(echo "$AUDIO_FORMATS" | jq -r 'max_by(.abr // .tbr) | .abr // .tbr')
+                  ;;
+                min)
+                  FORMAT_ID=$(echo "$AUDIO_FORMATS" | jq -r 'min_by(.abr // .tbr) | .format_id')
+                  CHOSEN=$(echo "$AUDIO_FORMATS" | jq -r 'min_by(.abr // .tbr) | .abr // .tbr')
+                  ;;
+                *)
+                  BITRATE="$val"
+                  BITRATES=$(echo "$AUDIO_FORMATS" | jq '[.[].abr // .tbr] | unique | sort')
+                  CHOSEN=$(echo "$BITRATES" | jq --argjson b "$BITRATE" \
+                    'map({br:., d:(. - $b | abs)}) | sort_by(.d, .br) | first.br')
+                  FORMAT_ID=$(echo "$AUDIO_FORMATS" | jq -r --argjson br "$CHOSEN" \
+                    'map(select((.abr // .tbr) == $br)) | first.format_id')
+                  ;;
+              esac
+              echo "→ Selected format: $FORMAT_ID (bitrate ~${CHOSEN} kbps)"
+              yt-dlp $COOKIE_ARGS --no-progress -f "$FORMAT_ID" \
+                -o "$OUTPUT_FOLDER/%(title)s-${CHOSEN}kbps.%(ext)s" "$link"
+            else
+              COMBINED=$(echo "$VIDEO_JSON" | jq '[.formats[] | select(.vcodec != "none" and .acodec != "none")]')
+              if [ "$(echo "$COMBINED" | jq length)" -eq 0 ]; then
+                echo "❌ No combined (video+audio) formats – trying bestvideo+bestaudio."
+                yt-dlp $COOKIE_ARGS --no-progress -f "bestvideo+bestaudio/best" \
+                  -o "$OUTPUT_FOLDER/%(title)s.%(ext)s" "$link"
+                continue
+              fi
+              echo "→ Found $(echo "$COMBINED" | jq length) combined formats."
+
+              case "$val" in
+                max)
+                  FORMAT_ID=$(echo "$COMBINED" | jq -r 'max_by(.height, .fps) | .format_id')
+                  CHOSEN=$(echo "$COMBINED" | jq -r 'max_by(.height, .fps) | .height')
+                  ;;
+                min)
+                  FORMAT_ID=$(echo "$COMBINED" | jq -r 'min_by(.height, .fps) | .format_id')
+                  CHOSEN=$(echo "$COMBINED" | jq -r 'min_by(.height, .fps) | .height')
+                  ;;
+                *)
+                  HEIGHT="$val"
+                  HEIGHTS=$(echo "$COMBINED" | jq '[.[].height] | unique | sort')
+                  CHOSEN=$(echo "$HEIGHTS" | jq --argjson h "$HEIGHT" \
+                    'map({h:., d:(. - $h | abs)}) | sort_by(.d, .h) | first.h')
+                  MATCHING=$(echo "$COMBINED" | jq --argjson h "$CHOSEN" 'map(select(.height == $h))')
+                  FORMAT_ID=$(echo "$MATCHING" | jq -r 'max_by(.fps) | .format_id')
+                  ;;
+              esac
+              echo "→ Selected format: $FORMAT_ID (height ~${CHOSEN}p)"
+              yt-dlp $COOKIE_ARGS --no-progress -f "$FORMAT_ID" \
+                -o "$OUTPUT_FOLDER/%(title)s-${CHOSEN}p.%(ext)s" "$link"
+            fi
+
+            echo "✅ Download complete."
             echo ""
           done
+        env:
+          INSTAGRAM_COOKIES: ${{ secrets.INSTAGRAM_COOKIES }}
+          X_COOKIES: ${{ secrets.X_COOKIES }}
+          YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
 
-          echo "========================================="
-          echo " ✅ All entries processed!"
-          echo "========================================="
-          echo ""
-
-      # ── Step 5: List what we have ────────────────────────────────
-      - name: "Step 5/6: Verify ZIP archives"
-        run: |
-          echo "========================================="
-          echo " 📋 STEP 5: Verifying ZIP archives"
-          echo "========================================="
-          echo ""
-          if ls leecher/*.zip leecher/*.z* 1>/dev/null 2>&1; then
-            echo "→ Archives ready for upload:"
-            ls -lh leecher/
-            total_parts=$(ls leecher/*.z* 2>/dev/null | wc -l || echo 0)
-            echo ""
-            echo " ✓ $total_parts part(s) found."
-          else
-            echo " ⚠ No archives found — nothing to upload."
-          fi
-          echo ""
-
-      # ── Step 6: Upload all ZIP parts ─────────────────────────────
-      - name: "Step 6/6: Upload to leecher folder"
+      # ── Package and upload ─────────────────────────────────
+      - name: "Package and upload"
         env:
           BRANCH: ${{ github.ref_name }}
         run: |
-          echo "========================================="
-          echo " 🚀 STEP 6: Uploading files to the repository"
-          echo "========================================="
-          echo "We'll now commit and push the ZIP parts to the"
-          echo "'leecher' folder in your repo."
-          echo ""
-
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git config http.postBuffer 524288000
-
-          FILES=(leecher/*)
-          if [ ${#FILES[@]} -eq 0 ]; then
-            echo " ⚠ No files to upload."
+          if ! ls downloads/* 1>/dev/null 2>&1; then
+            echo "⚠️ No files to package."
             exit 0
           fi
 
-          echo "→ Files to upload:"
-          for f in "${FILES[@]}"; do
-            echo "   $f"
-          done
+          echo "→ Creating ZIP archive..."
+          RND=$(cat /dev/urandom | tr -dc 'a-z' | head -c 5)
+          ZIP="downloads-${RND}.zip"
+          cd downloads
+          zip -r "../${ZIP}" *
+          cd ..
+          echo "✅ Archive: ${ZIP}"
 
-          git add leecher/
-          git commit -m "Add leeched parts [skip ci]" || echo "Nothing to commit"
-
-          RETRIES=5
-          for i in $(seq 1 $RETRIES); do
-            echo "→ Push attempt $i of $RETRIES..."
+          echo "→ Committing and pushing..."
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add "${ZIP}"
+          git commit -m "Add download ${ZIP} [skip ci]" || echo "Nothing to commit"
+          for i in $(seq 1 5); do
+            echo "→ Push attempt $i..."
             git pull --rebase --autostash origin "$BRANCH"
             if git push origin "$BRANCH"; then
-              echo " ✓ Push succeeded."
+              echo "✅ Push succeeded."
               break
-            else
-              if [ $i -lt $RETRIES ]; then
-                echo " ⚠ Push rejected — retrying in 3 seconds..."
-                sleep 3
-              else
-                echo " ✗ Push failed after $RETRIES attempts."
-                exit 1
-              fi
             fi
+            sleep 3
           done
-
-          echo ""
-          echo "========================================="
-          echo " 🎉 ALL DONE!"
-          echo "========================================="
-          echo "Your files are now in the 'leecher' folder of"
-          echo "your repository."
-          echo ""
-          echo "Look for files named: leecher-<random>.zip"
-          echo "(and their split parts: .z01, .z02, ...)"
-          echo ""
-          echo "You can download them directly from your"
-          echo "repository on GitHub."
-          echo ""
-          echo "Thank you for using aio-leecher! 💚"
-          echo ""
-          env:
-            INSTAGRAM_COOKIES: ${{ secrets.INSTAGRAM_COOKIES }}
-            X_COOKIES: ${{ secrets.X_COOKIES }}
-            YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
