@@ -32,25 +32,31 @@ jobs:
       - name: Create downloader script
         run: |
           cat > telegram_downloader.py << 'EOF'
-          import os, sys, time, json, re, shutil
+          import os
+          import sys
+          import time
+          import json
+          import re
+          import uuid
           from pathlib import Path
           from concurrent.futures import ThreadPoolExecutor, as_completed
           import requests
-
-          # ─── Configuration ─────────────────────────
-          API_URL = "https://telegramdownloader.net/proxy.php"
-          # Simulate a real browser to avoid Cloudflare blocks
+          
+          # ─── Configuration ─────────────────────────────
+          API_URL = "https://telegramdownloader.net/api.php"
+          # Use the exact headers from the working script to avoid 403 errors
           HEADERS = {
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
               "Accept": "application/json, text/plain, */*",
               "Accept-Language": "en-US,en;q=0.9",
               "Referer": "https://telegramdownloader.net/",
-              "Origin": "https://telegramdownloader.net"
+              "Origin": "https://telegramdownloader.net",
+              "Content-Type": "application/x-www-form-urlencoded",
           }
-          MAX_RETRIES = 3
-          RETRY_DELAY = 5  # seconds
-
-          # ─── Helper Functions ──────────────────────
+          MAX_RETRIES = 5
+          RETRY_DELAY = 10  # seconds
+          
+          # ─── Helper Functions ──────────────────────────
           def parse_links(raw_text):
               """Parse input string into a list of unique Telegram links."""
               text = raw_text.replace(',', '\n').replace(' ', '\n')
@@ -79,12 +85,18 @@ jobs:
               
               print(f"✅ Parsed {len(unique_links)} unique link(s) to process.")
               return unique_links
-
+          
           def resolve_telegram_link(link, session):
-              """Resolve a Telegram link via the API to get the direct download URL."""
+              """Resolve a Telegram link via the API with robust retry logic."""
               for attempt in range(MAX_RETRIES):
                   try:
                       resp = session.post(API_URL, data={"telegram_link": link}, timeout=30)
+                      
+                      # Handle 403 Forbidden specifically
+                      if resp.status_code == 403:
+                          print(f"  ⚠️  Attempt {attempt+1}/{MAX_RETRIES}: Received 403 Forbidden. The API might be blocking this IP. Retrying in {RETRY_DELAY}s...")
+                          time.sleep(RETRY_DELAY)
+                          continue
                       
                       # Check for Cloudflare or other non-JSON responses
                       if resp.status_code != 200 or 'text/html' in resp.headers.get('content-type', ''):
@@ -113,7 +125,7 @@ jobs:
               
               print(f"  ❌ Failed to resolve link after {MAX_RETRIES} attempts.")
               return None, None
-
+          
           def download_file(url, dest_path, session):
               """Download a file from the resolved URL."""
               try:
@@ -143,12 +155,11 @@ jobs:
               except Exception as e:
                   print(f"\n  ❌ Download error: {type(e).__name__} - {str(e)[:100]}")
                   return False, 0
-
+          
           def sanitize_filename(name):
               """Ensure the filename is safe for all filesystems."""
               # If non-ASCII, generate a random ASCII name preserving extension
               if not name.isascii():
-                  import uuid
                   ext = Path(name).suffix
                   if not ext:
                       ext = ".bin"
@@ -158,8 +169,8 @@ jobs:
               clean = re.sub(r'[^a-zA-Z0-9._-]', '_', name)
               clean = re.sub(r'__+', '_', clean)
               return clean
-
-          # ─── Main Processing ───────────────────────
+          
+          # ─── Main Processing ────────────────────────────
           def main():
               # Get input from environment
               input_links = os.environ.get("TEL_LINKS", "").strip()
@@ -241,7 +252,7 @@ jobs:
                               f.write(f"{link}\n")
                           failed_count += 1
               
-              # ─── Final Summary ──────────────────────
+              # ─── Final Summary ──────────────────────────
               print(f"\n{'='*50}")
               print(f"📊 PROCESSING COMPLETE")
               print(f"   Total links processed: {len(links)}")
@@ -256,7 +267,7 @@ jobs:
                   sys.exit(1)
               
               print("✅ Download step completed successfully.")
-
+          
           if __name__ == "__main__":
               main()
           EOF
