@@ -116,6 +116,7 @@ jobs:
           echo "Format : $FORMAT"
           echo "Quality: $QUALITY"
           echo "Folder : music/"
+          echo "Options: embed thumbnail + ID3 tags"
           echo "::endgroup::"
 
           while IFS= read -r url; do
@@ -125,6 +126,8 @@ jobs:
               -x \
               --audio-format "$FORMAT" \
               --audio-quality "$QUALITY" \
+              --embed-thumbnail \
+              --embed-metadata \
               -o "music/%(artist)s - %(title)s.%(ext)s" \
               "$url"; then
               echo "✓ Success"
