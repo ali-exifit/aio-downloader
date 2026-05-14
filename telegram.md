@@ -7,6 +7,42 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 03:54
+---
+
+## FarsiVOA — post 217678
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️تازه‌ترین مواضع قانون‌گذاران آمریکایی در کنگره
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217677
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️آنچه دولت علی الزیدی برای عراق به ارمغان نمی‌آورد؟
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 14082
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_14082_1778718282.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴دیوار نوشته‌ای در تهران؛
+
+💢ورود سگ‌ها و آمریکایی‌ها به تنگهٔ هرمز ممنوع🚫
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 03:45
 ---
 
