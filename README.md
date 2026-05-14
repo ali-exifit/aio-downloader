@@ -313,14 +313,14 @@ https://soundcloud.com/artist/track -- --format bestaudio
 
 ---
 
-### ۹. دانلودر اسپاتیفای و ساندکلود
+### ۹. دانلودر  ساندکلود
 تبدیل و دانلود لیست‌های پخش و آهنگ‌ها.
 
-1. **Actions** → **spotify-soundcloud-downloader** → **Run workflow**
+1. **Actions** → **soundcloud-downloader** → **Run workflow**
 2. لینک‌ها را وارد کنید.
 
 ```
-https://open.spotify.com/track/ID,
+https://soundcloud.com/artist/track,
 https://soundcloud.com/artist/track
 ```
 
@@ -376,7 +376,7 @@ merge_splits: true
 ---
 
 ### ۱۲. MHRV خروجی VPS (Exit Node)
-اجرای یک Exit Node کامل برای **MasterHttpRelayVPN** روی GitHub Actions.  
+اجرای یک Exit Node کامل برای **MasterHttpRelayVPN - Python Version** روی GitHub Actions.  
 یک تونل امن با Cloudflare ایجاد می‌کند و URL موقت تحویل می‌دهد.
 
 #### نیازمندی‌ها:
@@ -384,7 +384,7 @@ merge_splits: true
 - این رمز باید دقیقاً با `psk` در `config.json` پروژه VPN شما یکی باشد.
 
 #### نحوه استفاده:
-1. **Actions** → **mhrv-vps-exit-node-actions** → **Run workflow**
+1. **Actions** → **python-mhrv-vps-exit-node** → **Run workflow**
 2. پس از ۲۰-۳۰ ثانیه در لاگ، خطی شبیه زیر می‌بینید:
 ```
 https://random-name.trycloudflare.com
