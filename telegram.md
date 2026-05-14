@@ -7,6 +7,44 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 04:26
+---
+
+## VahidOOnLine — post 240013
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240013_1778720162.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️معین، خواننده سرشناس ایرانی، با انتشار پیامی در صفحه رسمی اینستاگرام خود، اخبار مربوط به همکاری با تیم ملی را تکذیب کرد.
+او در این پیام نوشت: «در این روزها متأسفانه شایعات زیادی درباره من و همکارانم در فضای مجازی منتشر می‌شود که هیچ ارتباطی با واقعیت ندارند. اخیراً نیز خبرهایی درباره اجرای من برای تیم ملی فوتبال در جام جهانی منتشر شده که صحت ندارد.»
+این هنرمند در پایان با تأکید بر لزوم آرامش جامعه خاطرنشان کرد: «عشق من به مردم و سرزمینم همیشه واقعی بوده، اما صدای من زمانی معنا دارد که دل مردم آرام باشد و حال ایران خوب. به امید روزهای روشن‌تر برای همه مردم سرزمینم.»
+پیش از این، مهدی تاج، رئیس فدراسیون فوتبال، در حاشیه مراسم رونمایی از پیراهن تیم ملی برای جام جهانی ۲۰۲۶ گفته بود این فدراسیون در جریان ترانه‌ای قرار دارد که معین برای تیم ملی ایران خواهد خواند. او گفته بود: «هر کسی برای ایران بخواند، روی چشم ما جا دارد.»
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341685
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341685_1778720163.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+SENATOR MURRAY: "Do you seriously believe there's abortion in the water, like some of the far-right activists are suggesting?"
+
+EPA ADMIN ZELDIN: "You just said abortion in the water?"
+
+MURRAY: "That's what some far-right activists are saying. That they have an audience, in the EPA, on that absurd issue."
+
+ZELDIN: "I have not had a conversation with anyone at the agency as far as abortions in water."
+
+"I don't even know what you're talking about."
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 04:15
 ---
 
