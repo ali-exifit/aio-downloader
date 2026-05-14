@@ -7,6 +7,84 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 05:35
+---
+
+## VahidOOnLine — post 240017
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240017_1778724305.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️همزمان با ادامه محاصره بنادر ایران از سوی آمریکا، خبرگزاری بلومبرگ با استناد به تصاویر ماهواره‌ای گزارش داد مخازن نفت در جزیره خارگ به حداکثر ظرفیت ذخیره‌سازی نزدیک شده است.
+
+بر اساس این تصاویر، طی روزهای ۱۸، ۱۹ و ۲۱ اردیبهشت‌ماه هیچ نفتکش فعالی در نزدیکی جزیره خارگ برای صادرات نفت شناسایی نشده و تمام اسکله‌های این جزیره خالی از کشتی بوده است.
+ایران پیش از این برای دور زدن محدودیت‌های ایجادشده از سوی نیروی دریایی آمریکا، بارگیری نفتکش‌ها در خارگ را ادامه داده و از آنها به‌عنوان مخازن شناور استفاده می‌کرد.
+
+تصاویر ماهواره‌ای همچنین نشان می‌دهد سطح نفت در مخازن ذخیره‌سازی جزیره به‌شدت افزایش یافته و ظرفیت باقی‌مانده ذخیره‌سازی تقریبا به صفر نزدیک شده است. به گزارش بلومبرگ، در صورت پر شدن کامل مخازن، ایران ممکن است ناچار شود تولید نفت در برخی میدان‌ها را کاهش دهد.
+
+همزمان شمار نفتکش‌های مستقر در شرق جزیره خارگ نیز افزایش یافته و تعداد آنها از سه نفتکش در شنبه ۲۲ فروردین‌ماه، به دست‌کم ۱۸ نفتکش با اندازه‌های مختلف تا دوشنبه ۲۱ اردیبهشت‌ماه رسیده است.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341689
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341689_1778724305.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+"There is no economy in Cuba."
+
+Secretary Rubio says he doesn't believe the economic trajectory of Cuba can change under the current government.
+</div>
+
+## FoxNewsTwitter — post 341688
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341688_1778724307.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: Secretary Rubio says stepping behind the White House press secretary podium wasn't "too bad," but he's not sure if he'd have fun if he had to do it every week.
+
+"Karoline is irreplaceable....We can't wait until Karoline gets back." |@seanhannity
+</div>
+
+## FoxNewsTwitter — post 341687
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341687_1778724308.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH LIVE: President Trump and President Xi Jinping meet for bilateral talks https://twitter.com/i/broadcasts/1nJOLEBAamlxR
+</div>
+
+## FarsiVOA — post 217683
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️نویسندگان زندانی، تصویر ترسناک جهان امروز
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217682
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217682_1778724309.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️ايران، كشورى كه آفلاين است
+@FarsiVOA
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 05:25
 ---
 
