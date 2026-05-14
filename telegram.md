@@ -7,6 +7,102 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 09:35
+---
+
+## FoxNewsTwitter — post 341701
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341701_1778738755.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: President Trump and President Xi Jinping tour the Temple of Heaven after their meeting at the Great Hall of the People in Beijing.
+</div>
+
+## IranIntlTV — post 337111
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337111_1778738756.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شهرام خلدی، پژوهش‌گر تاریخ خاورمیانه و روابط بین‌الملل، گفت سفر ترامپ به پکن فرصت مناسبی است تا رییس‌جمهوری چین از بحران ایران به‌عنوان یک کارت برنده برای دستیابی به اهداف اقتصادی بزرگ‌تر و اعمال فشار بر ایالات متحده استفاده کند.
+@iranintltv
+</div>
+
+## IranIntlTV — post 337110
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337110_1778738759.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+میزان، رسانه قوه قضاییه جمهوری اسلامی، گزارش داد حکم اعدام محمد عباسی، شهروند ۵۵ ساله و از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴، چهارشنبه به اتهام «محاربه» اجرا شد. بر اساس گزارش نهادهای حقوق بشری، اعترافات مربوط به اتهام «قتل یکی از سرهنگ‌های نیروی انتظامی» در اعتراضات ملارد، تحت شکنجه و با تهدید به تعرض به دختر او گرفته شده بود.
+
+گفت‌وگو با پگاه بنی‌هاشمی، پژوهش‌گر ارشد حقوق
+@iranintltv
+</div>
+
+## Dirty_Kids — post 389416
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389416_1778738761.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+#تکمیلی
+یه پسره حدود 2 میلیون دلار هزینه کرده تا آلیس رزنبلوم | Alice Rosenblum دختر 19 ساله آمریکایی که مدل اونلی‌فنزه رو از نزدیک ببینه؛
+
+پسره تا رسید بهش گفت چاق‌تر از عکساتی و من روزی 3 بار باهات خودارضایی می‌کنم...
+
+تهشم فقط به دختره دست داد که آلیس چندشش شد و گفت اگه میشه بندازینش بیرون چون داره من رو می‌ترسونه!
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 119847
+
+<div align="center">
+  <a href="telegram/content/alonews_119847_1778738762.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ به سوال خبرنگار درباره تایوان پاسخ نداد
+
+
+🔴خبرنگار از ترامپ می‌پرسد: مذاکرات چطور پیش رفت؟
+
+
+🔴ترامپ: عالی، چین زیباست.
+
+
+🔴خبرنگار: درباره تایوان صحبت کردی؟
+
+
+🔴ترامپ جواب نمی‌دهد.
+
+
+🔴خبرنگار تکرار می‌کند: درباره تایوان صحبت کردی؟
+
+
+🔴ترامپ جواب نمی‌دهد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119846
+
+<div align="center">
+  <a href="telegram/content/alonews_119846_1778738765.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈نخست‌وزیر ژاپن از عبور یک کشتی ژاپنی دیگر از تنگه هرمز خبر داد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 09:25
 ---
 
